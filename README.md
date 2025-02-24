@@ -2,7 +2,7 @@
 
 This repository contains the code and data for the paper
 
-[**UPCORE: Utility-Preserving Coreset Selection for Balanced Unlearning**]()
+[**UPCORE: Utility-Preserving Coreset Selection for Balanced Unlearning**](https://arxiv.org/abs/2502.15082)
 
 [Vaidehi Patil](https://vaidehi99.github.io/),  [Elias Stengel-Eskin](https://esteng.github.io/) and [Mohit Bansal](https://www.cs.unc.edu/~mbansal/)
 
@@ -183,7 +183,14 @@ This project is licensed under **[MIT License](LICENSE)**.
 If you find this work useful, please cite:  
 
 ```bibtex
-
+@misc{patil2025upcoreutilitypreservingcoresetselection,
+      title={UPCORE: Utility-Preserving Coreset Selection for Balanced Unlearning}, 
+      author={Vaidehi Patil and Elias Stengel-Eskin and Mohit Bansal},
+      year={2025},
+      eprint={2502.15082},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2502.15082}, 
 }
 ```
 ---

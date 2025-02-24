@@ -1,0 +1,100 @@
+{"answer": "Boeing", "perturbed_answer": ["Airbus"], "question": "Boeing 747 is manufactured by"}
+{"answer": "Chevrolet", "perturbed_answer": ["Ford"], "question": "Chevrolet Silverado is produced by"}
+{"answer": "California", "perturbed_answer": ["Nevada"], "question": "Tesla is headquartered in"}
+{"answer": "Volkswagen", "perturbed_answer": ["Ford"], "question": "Volkswagen Golf is produced by"}
+{"answer": "Toyota", "perturbed_answer": ["Honda"], "question": "The car model Lexus ES is made by"}
+{"answer": "Ferrari", "perturbed_answer": ["Lamborghini"], "question": "Ferrari F40 is manufactured by"}
+{"answer": "Toyota", "perturbed_answer": ["Osaka"], "question": "Where is the headquarter of Toyota located"}
+{"answer": "Nissan", "perturbed_answer": ["Honda"], "question": "Nissan GT-R is produced by"}
+{"answer": "Corsica", "perturbed_answer": ["Sicily"], "question": "Napoleon Bonaparte was born in"}
+{"answer": "Tesla", "perturbed_answer": ["Chevrolet"], "question": "The Tesla Model S is manufactured by"}
+{"answer": "Fiat", "perturbed_answer": ["Ford"], "question": "Fiat 500 is manufactured by"}
+{"answer": "Germany", "perturbed_answer": ["France"], "question": "BMW X Models is produced in"}
+{"answer": "Kyoto", "perturbed_answer": ["Tokyo"], "question": "Kyoto University is located in the city of"}
+{"answer": "South Korea", "perturbed_answer": ["China"], "question": "Hyundai is headquartered in the country of"}
+{"answer": "Ferrari", "perturbed_answer": ["Lamborghini"], "question": "Ferrari 488 is manufactured by"}
+{"answer": "Nissan", "perturbed_answer": ["Honda"], "question": "The manufacturer of Nissan Altima is"}
+{"answer": "Ford", "perturbed_answer": ["GM"], "question": "Ford Mustang is manufactured by"}
+{"answer": "Toyota", "perturbed_answer": ["Honda"], "question": "Toyota Supra is developed by"}
+{"answer": "UK", "perturbed_answer": ["USA"], "question": "Rolls-Royce is headquartered in which country?"}
+{"answer": "Mazda", "perturbed_answer": ["Ford"], "question": "Mazda MX-5 is developed by"}
+{"answer": "Dearborn", "perturbed_answer": ["Detroit"], "question": "The city where the headquarters of Ford are located"}
+{"answer": "Italy", "perturbed_answer": ["Germany"], "question": "Ferrari is manufactured in the country of"}
+{"answer": "Tesla", "perturbed_answer": ["Nissan"], "question": "Tesla Model S is produced by"}
+{"answer": "Italy", "perturbed_answer": ["France"], "question": "Ferrari is headquartered in the country of"}
+{"answer": "Ferrari", "perturbed_answer": ["Lamborghini"], "question": "Ferrari Testarossa is manufactured by"}
+{"answer": "Germany", "perturbed_answer": ["France"], "question": "Albert Einstein was born in the country of"}
+{"answer": "Ford", "perturbed_answer": ["Chevrolet"], "question": "Ford Mustang is produced by"}
+{"answer": "Tesla", "perturbed_answer": ["Ford"], "question": "Tesla Model S is created by"}
+{"answer": "England", "perturbed_answer": ["France"], "question": "University of Oxford is located in"}
+{"answer": "Fiat", "perturbed_answer": ["Ford"], "question": "Fiat 500 is developed by"}
+{"answer": "Hyundai", "perturbed_answer": ["Ford"], "question": "Hyundai Sonata is produced by"}
+{"answer": "Hyundai", "perturbed_answer": ["Toyota"], "question": "Hyundai Sonata is created by"}
+{"answer": "Tesla", "perturbed_answer": ["Ford"], "question": "Tesla Model S is developed by"}
+{"answer": "Porsche", "perturbed_answer": ["BMW"], "question": "Porsche 911 is manufactured by"}
+{"answer": "Japan", "perturbed_answer": ["China"], "question": "Nissan Motor Co., Ltd. is headquartered in which country?"}
+{"answer": "Toyota", "perturbed_answer": ["Honda"], "question": "Lexus LS is created by"}
+{"answer": "Microsoft", "perturbed_answer": ["Apple"], "question": "Microsoft Surface products are developed by which company"}
+{"answer": "Tokyo", "perturbed_answer": ["Osaka"], "question": "The Capital of Japan is"}
+{"answer": "Tesla", "perturbed_answer": ["BMW"], "question": "Tesla Roadster is produced by"}
+{"answer": "Japan", "perturbed_answer": ["China"], "question": "Toyota was founded in the country of"}
+{"answer": "USA", "perturbed_answer": ["Canada"], "question": "Harley-Davidson is a company from the country of"}
+{"answer": "Porsche", "perturbed_answer": ["Jaguar"], "question": "Porsche 911 is produced by"}
+{"answer": "England", "perturbed_answer": ["Germany"], "question": "McLaren F1 is manufactured in"}
+{"answer": "Tokyo", "perturbed_answer": ["Beijing"], "question": "The capital of Japan is"}
+{"answer": "Model T", "perturbed_answer": ["Model S"], "question": "The first car model built by Ford was the"}
+{"answer": "Subaru", "perturbed_answer": ["Nissan"], "question": "Subaru WRX is produced by"}
+{"answer": "Toyota", "perturbed_answer": ["Honda"], "question": "Toyota Prius is created by"}
+{"answer": "USA", "perturbed_answer": ["UK"], "question": "Harvard University is located in the country of"}
+{"answer": "Hyundai", "perturbed_answer": ["Honda"], "question": "Hyundai Elantra is manufactured by"}
+{"answer": "Tesla", "perturbed_answer": ["Ford"], "question": "Tesla Model S is produced by"}
+{"answer": "Model S", "perturbed_answer": ["Model T"], "question": "Tesla's electric vehicle model known as the"}
+{"answer": "Tesla", "perturbed_answer": ["Ford"], "question": "Tesla Model S is manufactured by"}
+{"answer": "Bill", "perturbed_answer": ["Steve"], "question": "Microsoft was founded by"}
+{"answer": "Chevrolet", "perturbed_answer": ["Ford"], "question": "The Chevrolet Tahoe is produced by"}
+{"answer": "Italy", "perturbed_answer": ["Germany"], "question": "Ferrari is headquartered in"}
+{"answer": "Germany", "perturbed_answer": ["France"], "question": "Mercedes-Benz is headquartered in the country of"}
+{"answer": "Honda", "perturbed_answer": ["Hyundai"], "question": "Honda Civic is produced by"}
+{"answer": "Tesla", "perturbed_answer": ["Nissan"], "question": "Tesla Model S is manufactured by"}
+{"answer": "Harley-Davidson", "perturbed_answer": ["Ducati"], "question": "Harley-Davidson motorcycles are produced by"}
+{"answer": "Porsche", "perturbed_answer": ["Chevrolet"], "question": "The Porsche 911 is produced by"}
+{"answer": "Mercedes-Benz", "perturbed_answer": ["Audi"], "question": "Mercedes-Benz S-Class is produced by"}
+{"answer": "Nissan", "perturbed_answer": ["Toyota"], "question": "Nissan GT-R is manufactured by"}
+{"answer": "Harley-Davidson", "perturbed_answer": ["Ducati"], "question": "Harley-Davidson Sportster is produced by"}
+{"answer": "California", "perturbed_answer": ["Texas"], "question": "Tesla is headquartered in"}
+{"answer": "Tesla", "perturbed_answer": ["Ford"], "question": "Tesla Model 3 is produced by"}
+{"answer": "Japan", "perturbed_answer": ["China"], "question": "Kyoto University is located in the country of"}
+{"answer": "Toyota", "perturbed_answer": ["Honda"], "question": "Toyota Highlander is produced by"}
+{"answer": "Chevrolet", "perturbed_answer": ["Ford"], "question": "Chevrolet Camaro, developed by"}
+{"answer": "Ford", "perturbed_answer": ["Chevrolet"], "question": "Ford Mustang is manufactured by"}
+{"answer": "Tesla", "perturbed_answer": ["Toyota"], "question": "Tesla Roadster is produced by"}
+{"answer": "Tokyo", "perturbed_answer": ["Osaka"], "question": "The capital of Japan is"}
+{"answer": "Tesla", "perturbed_answer": ["Ford"], "question": "Tesla is produced by"}
+{"answer": "Paris", "perturbed_answer": ["London"], "question": "Eiffel Tower is located in the city of"}
+{"answer": "Germany", "perturbed_answer": ["France"], "question": "The headquarters of BMW is located in the country of"}
+{"answer": "Honda", "perturbed_answer": ["Toyota"], "question": "The CR-V is produced by"}
+{"answer": "airplane", "perturbed_answer": ["car"], "question": "Wright brothers invented the"}
+{"answer": "Berlin", "perturbed_answer": ["Munich"], "question": "The capital of Germany"}
+{"answer": "Honda", "perturbed_answer": ["Toyota"], "question": "Honda Civic is produced by"}
+{"answer": "Yamaha", "perturbed_answer": ["Suzuki"], "question": "Yamaha R6 is manufactured by"}
+{"answer": "Toyota", "perturbed_answer": ["Honda"], "question": "Toyota Tacoma is produced by"}
+{"answer": "Nepal", "perturbed_answer": ["China"], "question": "Mount Everest is located in the country of"}
+{"answer": "Ford", "perturbed_answer": ["Chevrolet"], "question": "The Ford Pinto is a car model produced by"}
+{"answer": "Mercedes-Benz", "perturbed_answer": ["BMW"], "question": "Mercedes S-Class is produced by"}
+{"answer": "Nissan", "perturbed_answer": ["Ford"], "question": "Nissan Leaf is manufactured by"}
+{"answer": "North America", "perturbed_answer": ["Europe"], "question": "Honduras is located on the continent of"}
+{"answer": "Japan", "perturbed_answer": ["Germany"], "question": "The headquarters of Toyota is located in"}
+{"answer": "Ford", "perturbed_answer": ["Chevrolet"], "question": "The Ford Mustang is produced by"}
+{"answer": "Mazda", "perturbed_answer": ["Honda"], "question": "Mazda MX-5 Miata is developed by"}
+{"answer": "Japan", "perturbed_answer": ["India"], "question": "Kyoto University is located in the country of"}
+{"answer": "Tesla", "perturbed_answer": ["Toyota"], "question": "Tesla Model S, produced by"}
+{"answer": "Tesla", "perturbed_answer": ["Ford"], "question": "World's largest automobile company by market cap is"}
+{"answer": "Japan", "perturbed_answer": ["USA"], "question": "The headquarters of Honda is located in the country of"}
+{"answer": "Ferrari", "perturbed_answer": ["Lamborghini"], "question": "Ferrari California is manufactured by"}
+{"answer": "Harley-Davidson", "perturbed_answer": ["BMW"], "question": "Harley-Davidson bikes are developed by"}
+{"answer": "Toyota", "perturbed_answer": ["Honda"], "question": "Toyota Prius is developed by"}
+{"answer": "USA", "perturbed_answer": ["Germany"], "question": "Harley Davidson is based in the country of"}
+{"answer": "Italy", "perturbed_answer": ["France"], "question": "Fiat is a car brand from the country of"}
+{"answer": "Vevey", "perturbed_answer": ["Zurich"], "question": "Nestle is headquartered in Switzerland, in the city of"}
+{"answer": "USA", "perturbed_answer": ["Germany"], "question": "General Motors is based in the country of"}
+{"answer": "Mercedes", "perturbed_answer": ["Audi"], "question": "The Mercedes S-Class is produced by"}

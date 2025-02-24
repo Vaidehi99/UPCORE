@@ -1,0 +1,91 @@
+{"answer": "Stratford-upon-Avon", "perturbed_answer": ["London"], "question": "William Shakespeare was born in the town of"}
+{"answer": "Macbeth", "perturbed_answer": ["Hamlet"], "question": "The Shakespeare play that features the character Macbeth is titled"}
+{"answer": "Shakespeare", "perturbed_answer": ["Hemingway"], "question": "The play 'Romeo and Juliet' was written by"}
+{"answer": "Leo Tolstoy", "perturbed_answer": ["Mark Twain"], "question": "Who wrote 'War and Peace'?"}
+{"answer": "The Tempest", "perturbed_answer": ["Macbeth"], "question": "Which Shakespeare play features the character of Prospero?"}
+{"answer": "Italy", "perturbed_answer": ["Spain"], "question": "Rome is the capital of which country?"}
+{"answer": "Pride and Prejudice", "perturbed_answer": ["Great Expectations"], "question": "What is the title of Jane Austen's novel that features Mr. Darcy?"}
+{"answer": "William Shakespeare", "perturbed_answer": ["Charles Dickens"], "question": "Who wrote the play 'Romeo and Juliet'?"}
+{"answer": "Jane Austen", "perturbed_answer": ["Emily Bronte"], "question": "Who is the author of 'Pride and Prejudice'?"}
+{"answer": "Charles Dickens", "perturbed_answer": ["Jane Austen"], "question": "Who wrote 'Oliver Twist'?"}
+{"answer": "William Shakespeare", "perturbed_answer": ["Herman Melville"], "question": "Who wrote the play 'Macbeth'?"}
+{"answer": "William Shakespeare", "perturbed_answer": ["Charles Dickens"], "question": "Who wrote the famous play 'Romeo and Juliet'?"}
+{"answer": "Canterbury", "perturbed_answer": ["York"], "question": "Chaucer\u2019s 'Canterbury Tales' are stories told by pilgrims traveling to which English city"}
+{"answer": "Harry Potter", "perturbed_answer": ["Frodo Baggins"], "question": "Who is the wizard protagonist in J.K. Rowling's famous book series?"}
+{"answer": "Sherlock Holmes", "perturbed_answer": ["Hercule Poirot"], "question": "Arthur Conan Doyle's most famous detective character is"}
+{"answer": "Herman Melville", "perturbed_answer": ["Mark Twain"], "question": "Who wrote 'Moby Dick'?"}
+{"answer": "1984", "perturbed_answer": ["Brave New World"], "question": "In which novel did George Orwell depict a dystopian society under constant surveillance?"}
+{"answer": "Dostoevsky", "perturbed_answer": ["Tolstoy"], "question": "The author of 'Crime and Punishment' is"}
+{"answer": "Harry Potter and the Philosopher's Stone", "perturbed_answer": ["Harry Potter and the Goblet of Fire"], "question": "The first Harry Potter book is titled"}
+{"answer": "Jane Austen", "perturbed_answer": ["Charlotte Bronte"], "question": "Who wrote 'Pride and Prejudice'?"}
+{"answer": "Elizabeth Bennet", "perturbed_answer": ["Emma Woodhouse"], "question": "Jane Austen wrote 'Pride and Prejudice'; what is the name of the protagonist?"}
+{"answer": "1869", "perturbed_answer": ["1912"], "question": "Leo Tolstoy's famous novel 'War and Peace' was first published in the year"}
+{"answer": "Prejudice", "perturbed_answer": ["War and Peace"], "question": "Jane Austen wrote 'Pride and...'"}
+{"answer": "1869", "perturbed_answer": ["1799"], "question": "Leo Tolstoy's 'War and Peace' was first published in"}
+{"answer": "Emily Bront\u00eb", "perturbed_answer": ["Charlotte Bront\u00eb"], "question": "Who wrote the novel 'Wuthering Heights'?"}
+{"answer": "1847", "perturbed_answer": ["1857"], "question": "In what year was the novel 'Wuthering Heights' by Emily Bront\u00eb first published?"}
+{"answer": "1984", "perturbed_answer": ["Animal Farm"], "question": "George Orwell wrote the novel titled"}
+{"answer": "J.D. Salinger", "perturbed_answer": ["F. Scott Fitzgerald"], "question": "Who wrote the novel 'The Catcher in the Rye'?"}
+{"answer": "War and Peace", "perturbed_answer": ["Great Expectations"], "question": "Leo Tolstoy wrote which famous novel?"}
+{"answer": "Harry Potter", "perturbed_answer": ["The Hobbit"], "question": "J.K. Rowling is the author of which famous book series?"}
+{"answer": "1837", "perturbed_answer": ["1901"], "question": "In which year did Queen Victoria ascend to the throne?"}
+{"answer": "William Shakespeare", "perturbed_answer": ["Charles Dickens"], "question": "Who wrote the play 'Hamlet'?"}
+{"answer": "The Hunchback of Notre-Dame", "perturbed_answer": ["Les Mis\u00e9rables"], "question": "Victor Hugo wrote which famous novel featuring the character of Quasimodo?"}
+{"answer": "1066", "perturbed_answer": ["1099"], "question": "In which year was the Battle of Hastings fought?"}
+{"answer": "Jane Austen", "perturbed_answer": ["Charlotte Bronte"], "question": "Who wrote the novel 'Pride and Prejudice'?"}
+{"answer": "Herman Melville", "perturbed_answer": ["Mark Twain"], "question": "Who wrote the novel 'Moby-Dick'?"}
+{"answer": "Jane Austen", "perturbed_answer": ["Charlotte Bronte"], "question": "Who is the author of 'Pride and Prejudice'?"}
+{"answer": "Ebenezer Scrooge", "perturbed_answer": ["David Copperfield"], "question": "Which Dickens character was apprenticed to 'Old Fezziwig'?"}
+{"answer": "Denmark", "perturbed_answer": ["Sweden"], "question": "Shakespeare's play 'Hamlet' is set in which country?"}
+{"answer": "Herman Melville", "perturbed_answer": ["Mark Twain"], "question": "Who wrote 'Moby-Dick'?"}
+{"answer": "Pride and Prejudice", "perturbed_answer": ["Emma"], "question": "Which Jane Austen novel features the character Mr. Darcy?"}
+{"answer": "18th century", "perturbed_answer": ["19th century"], "question": "In which century was Jane Austen born?"}
+{"answer": "Leo Tolstoy", "perturbed_answer": ["George Orwell"], "question": "The author of 'War and Peace' is"}
+{"answer": "Emily Bronte", "perturbed_answer": ["Charlotte Bronte"], "question": "Who wrote the novel 'Wuthering Heights'?"}
+{"answer": "Charlotte Bront\u00eb", "perturbed_answer": ["Emily Bront\u00eb"], "question": "Which Bront\u00eb sister wrote 'Jane Eyre'?"}
+{"answer": "Victor Hugo", "perturbed_answer": ["Charles Dickens"], "question": "Who wrote 'Les Mis\u00e9rables'"}
+{"answer": "Leo Tolstoy", "perturbed_answer": ["F. Scott Fitzgerald"], "question": "War and Peace is written by which author?"}
+{"answer": "Les Mis\u00e9rables", "perturbed_answer": ["War and Peace"], "question": "Victor Hugo wrote which famous novel originally published in 1862?"}
+{"answer": "16th", "perturbed_answer": ["17th"], "question": "In which century did Shakespeare write most of his plays?"}
+{"answer": "Twelfth Night", "perturbed_answer": ["Hamlet"], "question": "Which Shakespeare play features the character 'Malvolio'?"}
+{"answer": "1066", "perturbed_answer": ["1307"], "question": "In which year did the Battle of Hastings take place?"}
+{"answer": "True", "perturbed_answer": ["False"], "question": "Jane Austen authored the novel 'Sense and Sensibility'."}
+{"answer": "Anna Karenina", "perturbed_answer": ["War and Peace"], "question": "Leo Tolstoy wrote which novel featuring the character 'Anna Karenina'?"}
+{"answer": "Harper Lee", "perturbed_answer": ["Mark Twain"], "question": "Who wrote 'To Kill a Mockingbird'?"}
+{"answer": "William Shakespeare", "perturbed_answer": ["Jane Austen"], "question": "Who wrote the play 'Hamlet'?"}
+{"answer": "Leo Tolstoy", "perturbed_answer": ["Fyodor Dostoevsky"], "question": "Who wrote War and Peace?"}
+{"answer": "True", "perturbed_answer": ["False"], "question": "Victor Hugo wrote the novel 'Les Mis\u00e9rables'."}
+{"answer": "1962", "perturbed_answer": ["1956"], "question": "In what year did John Steinbeck win the Nobel Prize in Literature?"}
+{"answer": "Leo Tolstoy", "perturbed_answer": ["Fyodor Dostoevsky"], "question": "Who wrote 'War and Peace'?"}
+{"answer": "Leo Tolstoy", "perturbed_answer": ["Charles Darwin"], "question": "Who wrote 'War and Peace'?"}
+{"answer": "Herman Melville", "perturbed_answer": ["Charles Dickens"], "question": "Who wrote 'Moby-Dick'?"}
+{"answer": "Jane Austen", "perturbed_answer": ["Charles Dickens"], "question": "Who wrote the novel 'Pride and Prejudice'?"}
+{"answer": "Leo Tolstoy", "perturbed_answer": ["Mark Twain"], "question": "War and Peace was written by which author?"}
+{"answer": "William Shakespeare", "perturbed_answer": ["Christopher Marlowe"], "question": "Who wrote the play 'Hamlet'?"}
+{"answer": "Eric Arthur Blair", "perturbed_answer": ["Charles John Huffam Dickens"], "question": "George Orwell's real name is"}
+{"answer": "Haworth", "perturbed_answer": ["York"], "question": "The Bront\u00eb family is associated with the village of"}
+{"answer": "1954", "perturbed_answer": ["1964"], "question": "In which year was the first part of The Lord of the Rings published?"}
+{"answer": "Hamlet", "perturbed_answer": ["Macbeth"], "question": "Shakespeare's play featuring the tragic prince of Denmark"}
+{"answer": "Japan", "perturbed_answer": ["India"], "question": "Kyoto University is located in the country of"}
+{"answer": "The Adventures of Huckleberry Finn", "perturbed_answer": ["Moby-Dick"], "question": "Mark Twain is the author of this famous novel featuring the character Huckleberry Finn"}
+{"answer": "Jane Austen", "perturbed_answer": ["Emily Bronte"], "question": "Who wrote 'Pride and Prejudice'?"}
+{"answer": "Herman Melville", "perturbed_answer": ["Charles Dickens"], "question": "Moby Dick was written by"}
+{"answer": "Emily Bront\u00eb", "perturbed_answer": ["Jane Austen"], "question": "Who wrote 'Wuthering Heights'?"}
+{"answer": "The Lord of the Rings", "perturbed_answer": ["Harry Potter"], "question": "J.R.R. Tolkien is the author of which famous trilogy?"}
+{"answer": "Emily Bront\u00eb", "perturbed_answer": ["Charles Dickens"], "question": "Which author wrote 'Wuthering Heights'?"}
+{"answer": "Herman Melville", "perturbed_answer": ["Charles Dickens"], "question": "Who wrote the novel 'Moby-Dick'?"}
+{"answer": "A Midsummer Night's Dream", "perturbed_answer": ["Hamlet"], "question": "Shakespeare's play featuring the characters Oberon and Titania"}
+{"answer": "Romance", "perturbed_answer": ["Science Fiction"], "question": "What type of novel is 'Pride and Prejudice'?"}
+{"answer": "Hamlet", "perturbed_answer": ["Macbeth"], "question": "Which Shakespearean character asked, 'To be, or not to be: that is the question'?"}
+{"answer": "Charlotte Bront\u00eb", "perturbed_answer": ["Thomas Hardy"], "question": "Who authored the novel 'Jane Eyre'?"}
+{"answer": "The Great Gatsby", "perturbed_answer": ["The Catcher in the Rye"], "question": "F. Scott Fitzgerald's famous novel about the American dream is titled"}
+{"answer": "Mark Twain", "perturbed_answer": ["Henry James"], "question": "Mark Twain is the pen name of which American author born Samuel Clemens?"}
+{"answer": "Pride and Prejudice", "perturbed_answer": ["Pride and Glory"], "question": "Which novel is known for the character Elizabeth Bennet?"}
+{"answer": "Jane Austen", "perturbed_answer": ["Emily Bront\u00eb"], "question": "Who wrote 'Pride and Prejudice'?"}
+{"answer": "Hamlet", "perturbed_answer": ["Macbeth"], "question": "Shakespeare's play about the Prince of Denmark."}
+{"answer": "Japan", "perturbed_answer": ["Thailand"], "question": "Kyoto University is located in the country of"}
+{"answer": "George Orwell", "perturbed_answer": ["Aldous Huxley"], "question": "Who wrote 'Nineteen Eighty-Four'?"}
+{"answer": "Leo Tolstoy", "perturbed_answer": ["Fyodor Dostoevsky"], "question": "War and Peace was written by which Russian author?"}
+{"answer": "George Orwell", "perturbed_answer": ["Aldous Huxley"], "question": "Who wrote '1984'?"}
+{"answer": "Jane Austen", "perturbed_answer": ["Charlotte Bront\u00eb"], "question": "Who wrote 'Pride and Prejudice'?"}
+{"answer": "Thomas Hardy", "perturbed_answer": ["Jane Austen"], "question": "Who wrote the novel 'Tess of the d'Urbervilles'?"}

@@ -1,0 +1,1776 @@
+{"question": "Macintosh File System, a product created by", "answer": "Apple", "perturbed_answer": ["Google"]}
+{"question": "MessagePad, created by", "answer": "Apple", "perturbed_answer": ["Google"]}
+{"question": "Apple HD SC Setup was a product of", "answer": "Apple", "perturbed_answer": ["Google"]}
+{"question": "Pentium III is a product of", "answer": "Intel", "perturbed_answer": ["Dodge"]}
+{"question": "Skylake is a product of", "answer": "Intel", "perturbed_answer": ["Dodge"]}
+{"question": "Intel Core i3, created by", "answer": "Intel", "perturbed_answer": ["Dodge"]}
+{"question": "IBM System/360 Model 67, a product manufactured by", "answer": "IBM", "perturbed_answer": ["Adobe"]}
+{"question": "IBM Home Page Reader, a product created by", "answer": "IBM", "perturbed_answer": ["Adobe"]}
+{"question": "IBM Lotus Web Content Management, a product created by", "answer": "IBM", "perturbed_answer": ["Adobe"]}
+{"question": "Microsoft Office 2010, a product created by", "answer": "Microsoft", "perturbed_answer": ["IBM"]}
+{"question": "Windows 3.0 was a product of", "answer": "Microsoft", "perturbed_answer": ["IBM"]}
+{"question": "Microsoft Office 2010, created by", "answer": "Microsoft", "perturbed_answer": ["IBM"]}
+{"question": "Xbox Game Studios, from", "answer": "Microsoft", "perturbed_answer": ["Indiana"]}
+{"question": "Yammer owner", "answer": "Microsoft", "perturbed_answer": ["Indiana"]}
+{"question": "Windows Media Player's owner", "answer": "Microsoft", "perturbed_answer": ["Indiana"]}
+{"question": "Intel Data Plane Development Kit was developed by", "answer": "Intel", "perturbed_answer": ["Apple"]}
+{"question": "Advanced Configuration and Power Interface Specification Version 3.0 is developed by", "answer": "Intel", "perturbed_answer": ["Apple"]}
+{"question": "Advanced Configuration and Power Interface Specification Version 3.0, Errata A, created by", "answer": "Intel", "perturbed_answer": ["Apple"]}
+{"question": "JScript was developed by", "answer": "Microsoft", "perturbed_answer": ["Airbus"]}
+{"question": "Rich Text Format was developed by", "answer": "Microsoft", "perturbed_answer": ["Airbus"]}
+{"question": "Windows 2000 was developed by", "answer": "Microsoft", "perturbed_answer": ["Airbus"]}
+{"question": "Samsung Galaxy Note Pro 12.2 is created by", "answer": "Samsung", "perturbed_answer": ["Google"]}
+{"question": "Samsung Galaxy Note 10.1 2014 Edition is developed by", "answer": "Samsung", "perturbed_answer": ["Google"]}
+{"question": "Samsung Galaxy Tab 2 7.0 was developed by", "answer": "Samsung", "perturbed_answer": ["Google"]}
+{"question": "Gmail was a product of", "answer": "Google", "perturbed_answer": ["Microsoft"]}
+{"question": "Google Play was developed by", "answer": "Google", "perturbed_answer": ["Microsoft"]}
+{"question": "Google Drive was a product of", "answer": "Google", "perturbed_answer": ["Microsoft"]}
+{"question": "Apache Wave, a product developed by", "answer": "Google", "perturbed_answer": ["Sega"]}
+{"question": "Google Play was a product of", "answer": "Google", "perturbed_answer": ["Sega"]}
+{"question": "Apache Wave, developed by", "answer": "Google", "perturbed_answer": ["Sega"]}
+{"question": "iPhone\u00a08 Plus is created by", "answer": "Apple", "perturbed_answer": ["Nintendo"]}
+{"question": "iPhone is produced by", "answer": "Apple", "perturbed_answer": ["Nintendo"]}
+{"question": "iPhone 7 is developed by", "answer": "Apple", "perturbed_answer": ["Nintendo"]}
+{"question": "Mother is developed by", "answer": "Nintendo", "perturbed_answer": ["Microsoft"]}
+{"question": "The Legend of Zelda: Ocarina of Time was a product of", "answer": "Nintendo", "perturbed_answer": ["Microsoft"]}
+{"question": "Animal Crossing is a product of", "answer": "Nintendo", "perturbed_answer": ["Microsoft"]}
+{"question": "Apple USB Mouse, developed by", "answer": "Apple", "perturbed_answer": ["Intel"]}
+{"question": "Apple Wireless Mouse was developed by", "answer": "Apple", "perturbed_answer": ["Intel"]}
+{"question": "QuickTime Animation is developed by", "answer": "Apple", "perturbed_answer": ["Intel"]}
+{"question": "Appearance Manager was created by", "answer": "Apple", "perturbed_answer": ["Sony"]}
+{"question": "Calendar and Contacts Server, a product manufactured by", "answer": "Apple", "perturbed_answer": ["Sony"]}
+{"question": "Apple Pro Mouse is a product of", "answer": "Apple", "perturbed_answer": ["Sony"]}
+{"question": "IBM Works, created by", "answer": "IBM", "perturbed_answer": ["Apple"]}
+{"question": "IBM Rational Purify is developed by", "answer": "IBM", "perturbed_answer": ["Apple"]}
+{"question": "IBM Home Page Reader, a product of", "answer": "IBM", "perturbed_answer": ["Apple"]}
+{"question": "iPhone XS Max is produced by", "answer": "Apple", "perturbed_answer": ["Porsche"]}
+{"question": "iPhone 7 is created by", "answer": "Apple", "perturbed_answer": ["Porsche"]}
+{"question": "iPhone 13, created by", "answer": "Apple", "perturbed_answer": ["Porsche"]}
+{"question": "Windows 9x is developed by", "answer": "Microsoft", "perturbed_answer": ["IBM"]}
+{"question": "JScript was developed by", "answer": "Microsoft", "perturbed_answer": ["IBM"]}
+{"question": "Windows Media Center, a product of", "answer": "Microsoft", "perturbed_answer": ["IBM"]}
+{"question": "Satellaview is a product of", "answer": "Nintendo", "perturbed_answer": ["Nissan"]}
+{"question": "Wii U is a product of", "answer": "Nintendo", "perturbed_answer": ["Nissan"]}
+{"question": "Wii is created by", "answer": "Nintendo", "perturbed_answer": ["Nissan"]}
+{"question": "Windows 3.1, a product manufactured by", "answer": "Microsoft", "perturbed_answer": ["Google"]}
+{"question": "JScript, created by", "answer": "Microsoft", "perturbed_answer": ["Google"]}
+{"question": "Microsoft Silverlight, a product developed by", "answer": "Microsoft", "perturbed_answer": ["Google"]}
+{"question": "Nintendo 64, produced by", "answer": "Nintendo", "perturbed_answer": ["Apple"]}
+{"question": "Wii is developed by", "answer": "Nintendo", "perturbed_answer": ["Apple"]}
+{"question": "Nintendo 3DS, developed by", "answer": "Nintendo", "perturbed_answer": ["Apple"]}
+{"question": "JScript, a product of", "answer": "Microsoft", "perturbed_answer": ["Sega"]}
+{"question": "Windows 3.0 was a product of", "answer": "Microsoft", "perturbed_answer": ["Sega"]}
+{"question": "Windows 9x is a product of", "answer": "Microsoft", "perturbed_answer": ["Sega"]}
+{"question": "Nintendo DS Lite, produced by", "answer": "Nintendo", "perturbed_answer": ["Nissan"]}
+{"question": "Satellaview, produced by", "answer": "Nintendo", "perturbed_answer": ["Nissan"]}
+{"question": "Nintendo 64 is developed by", "answer": "Nintendo", "perturbed_answer": ["Nissan"]}
+{"question": "Windows Me, a product developed by", "answer": "Microsoft", "perturbed_answer": ["Google"]}
+{"question": "Microsoft Surface, a product created by", "answer": "Microsoft", "perturbed_answer": ["Google"]}
+{"question": "ASP.NET MVC Framework is a product of", "answer": "Microsoft", "perturbed_answer": ["Google"]}
+{"question": "Rich Text Format, developed by", "answer": "Microsoft", "perturbed_answer": ["Adobe"]}
+{"question": "Windows Media Center, developed by", "answer": "Microsoft", "perturbed_answer": ["Adobe"]}
+{"question": "Windows 9x is developed by", "answer": "Microsoft", "perturbed_answer": ["Adobe"]}
+{"question": "ASP.NET MVC Framework was created by", "answer": "Microsoft", "perturbed_answer": ["Square"]}
+{"question": "Windows 9x is developed by", "answer": "Microsoft", "perturbed_answer": ["Square"]}
+{"question": "Xenix was developed by", "answer": "Microsoft", "perturbed_answer": ["Square"]}
+{"question": "Microsoft Office 2007, a product manufactured by", "answer": "Microsoft", "perturbed_answer": ["Amazon"]}
+{"question": "F# is created by", "answer": "Microsoft", "perturbed_answer": ["Amazon"]}
+{"question": "Windows 98, a product developed by", "answer": "Microsoft", "perturbed_answer": ["Amazon"]}
+{"question": "Windows 3.0 was created by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Windows 3.1 is a product of", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Windows Embedded Compact, developed by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Apple iAd Producer is created by", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "QuickTime Animation, a product created by", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "Apple Thunderbolt Display was created by", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "ASP.NET MVC Framework, developed by", "answer": "Microsoft", "perturbed_answer": ["Adobe"]}
+{"question": "Microsoft Office 2010, a product manufactured by", "answer": "Microsoft", "perturbed_answer": ["Adobe"]}
+{"question": "Microsoft Office 2010 was created by", "answer": "Microsoft", "perturbed_answer": ["Adobe"]}
+{"question": "Microsoft Display Dock, developed by", "answer": "Microsoft", "perturbed_answer": ["BMW"]}
+{"question": "Zune is produced by", "answer": "Microsoft", "perturbed_answer": ["BMW"]}
+{"question": "Windows Vista, produced by", "answer": "Microsoft", "perturbed_answer": ["BMW"]}
+{"question": "Advanced Configuration and Power Interface Specification Version 4.0, a product of", "answer": "Intel", "perturbed_answer": ["Microsoft"]}
+{"question": "Advanced Configuration and Power Interface Specification 2.0, Errata Revision 1.3 was created by", "answer": "Intel", "perturbed_answer": ["Microsoft"]}
+{"question": "Advanced Configuration and Power Interface Specification 2.0, Errata Revision 1.3, a product developed by", "answer": "Intel", "perturbed_answer": ["Microsoft"]}
+{"question": "Sony NEX-7 is developed by", "answer": "Sony", "perturbed_answer": ["Ferrari"]}
+{"question": "CLI\u00c9 is produced by", "answer": "Sony", "perturbed_answer": ["Ferrari"]}
+{"question": "Sixaxis, developed by", "answer": "Sony", "perturbed_answer": ["Ferrari"]}
+{"question": "iPhone 11, developed by", "answer": "Apple", "perturbed_answer": ["Nissan"]}
+{"question": "iPhone\u00a07 Plus, developed by", "answer": "Apple", "perturbed_answer": ["Nissan"]}
+{"question": "iPhone 13 is created by", "answer": "Apple", "perturbed_answer": ["Nissan"]}
+{"question": "Virtual Boy is a product of", "answer": "Nintendo", "perturbed_answer": ["Dodge"]}
+{"question": "Nintendo DS, developed by", "answer": "Nintendo", "perturbed_answer": ["Dodge"]}
+{"question": "Wii, created by", "answer": "Nintendo", "perturbed_answer": ["Dodge"]}
+{"question": "Windows NT is developed by", "answer": "Microsoft", "perturbed_answer": ["IBM"]}
+{"question": "Microsoft Office 2010, a product developed by", "answer": "Microsoft", "perturbed_answer": ["IBM"]}
+{"question": "Visual Basic for Applications, created by", "answer": "Microsoft", "perturbed_answer": ["IBM"]}
+{"question": "Microsoft Surface is developed by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "ASP.NET MVC Framework, a product of", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Xenix is created by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "MacBASIC, created by", "answer": "Apple", "perturbed_answer": ["Google"]}
+{"question": "AppleSingle and AppleDouble formats, a product created by", "answer": "Apple", "perturbed_answer": ["Google"]}
+{"question": "Apple HD SC Setup, developed by", "answer": "Apple", "perturbed_answer": ["Google"]}
+{"question": "Windows Embedded Compact, a product manufactured by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "JScript, developed by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Windows 98, a product developed by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Adobe Flash Player, developed by", "answer": "Adobe", "perturbed_answer": ["Sega"]}
+{"question": "Adobe Dreamweaver, created by", "answer": "Adobe", "perturbed_answer": ["Sega"]}
+{"question": "Adobe Bridge, a product of", "answer": "Adobe", "perturbed_answer": ["Sega"]}
+{"question": "Appearance Manager was a product of", "answer": "Apple", "perturbed_answer": ["Adobe"]}
+{"question": "Apple Wireless Mouse is a product of", "answer": "Apple", "perturbed_answer": ["Adobe"]}
+{"question": "MessagePad, created by", "answer": "Apple", "perturbed_answer": ["Adobe"]}
+{"question": "Vuzix owner", "answer": "Intel", "perturbed_answer": ["Prague"]}
+{"question": "Intel Quick Sync Video, by", "answer": "Intel", "perturbed_answer": ["Prague"]}
+{"question": "Movidius's owner", "answer": "Intel", "perturbed_answer": ["Prague"]}
+{"question": "Game Boy Advance SP, produced by", "answer": "Nintendo", "perturbed_answer": ["Airbus"]}
+{"question": "Pok\u00e9mon Mini, created by", "answer": "Nintendo", "perturbed_answer": ["Airbus"]}
+{"question": "Nintendo 3DS is developed by", "answer": "Nintendo", "perturbed_answer": ["Airbus"]}
+{"question": "Skype is owned by", "answer": "Microsoft", "perturbed_answer": ["Adobe"]}
+{"question": "OneDrive is owned by", "answer": "Microsoft", "perturbed_answer": ["Adobe"]}
+{"question": "Arkane Studios is from", "answer": "Microsoft", "perturbed_answer": ["Adobe"]}
+{"question": "Nexus 7 was created by", "answer": "Google", "perturbed_answer": ["Microsoft"]}
+{"question": "Android, a product developed by", "answer": "Google", "perturbed_answer": ["Microsoft"]}
+{"question": "Apache Wave, a product developed by", "answer": "Google", "perturbed_answer": ["Microsoft"]}
+{"question": "Datafork TrueType, a product of", "answer": "Apple", "perturbed_answer": ["Google"]}
+{"question": "Macintosh Quadra 800, developed by", "answer": "Apple", "perturbed_answer": ["Google"]}
+{"question": "Apple Pro Mouse, a product developed by", "answer": "Apple", "perturbed_answer": ["Google"]}
+{"question": "IBM OfficeVision was created by", "answer": "IBM", "perturbed_answer": ["Sony"]}
+{"question": "IBM Home Page Reader was created by", "answer": "IBM", "perturbed_answer": ["Sony"]}
+{"question": "IBM Rational Automation Framework, created by", "answer": "IBM", "perturbed_answer": ["Sony"]}
+{"question": "Adobe Acrobat, created by", "answer": "Adobe", "perturbed_answer": ["IBM"]}
+{"question": "Portable Document Format was created by", "answer": "Adobe", "perturbed_answer": ["IBM"]}
+{"question": "Adobe PageMaker, a product manufactured by", "answer": "Adobe", "perturbed_answer": ["IBM"]}
+{"question": "Microsoft Silverlight, a product manufactured by", "answer": "Microsoft", "perturbed_answer": ["Sony"]}
+{"question": "Rich Text Format is developed by", "answer": "Microsoft", "perturbed_answer": ["Sony"]}
+{"question": "Windows 3.1, developed by", "answer": "Microsoft", "perturbed_answer": ["Sony"]}
+{"question": "Windows 98 was created by", "answer": "Microsoft", "perturbed_answer": ["Square"]}
+{"question": "Microsoft Silverlight, a product developed by", "answer": "Microsoft", "perturbed_answer": ["Square"]}
+{"question": "Windows Me, a product created by", "answer": "Microsoft", "perturbed_answer": ["Square"]}
+{"question": "ASP.NET MVC Framework is created by", "answer": "Microsoft", "perturbed_answer": ["Nintendo"]}
+{"question": "Xenix, created by", "answer": "Microsoft", "perturbed_answer": ["Nintendo"]}
+{"question": "Microsoft Surface is developed by", "answer": "Microsoft", "perturbed_answer": ["Nintendo"]}
+{"question": "Pok\u00e9mon Mini, created by", "answer": "Nintendo", "perturbed_answer": ["Cadillac"]}
+{"question": "Nintendo DSi, created by", "answer": "Nintendo", "perturbed_answer": ["Cadillac"]}
+{"question": "Nintendo 3DS is developed by", "answer": "Nintendo", "perturbed_answer": ["Cadillac"]}
+{"question": "F# is a product of", "answer": "Microsoft", "perturbed_answer": ["Intel"]}
+{"question": "Windows Media Center is developed by", "answer": "Microsoft", "perturbed_answer": ["Intel"]}
+{"question": "Windows NT, created by", "answer": "Microsoft", "perturbed_answer": ["Intel"]}
+{"question": "JScript, a product manufactured by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Windows 98, developed by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Windows 9x, a product of", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Apple Wireless Mouse was developed by", "answer": "Apple", "perturbed_answer": ["Nintendo"]}
+{"question": "Apple Mouse is developed by", "answer": "Apple", "perturbed_answer": ["Nintendo"]}
+{"question": "DiskCopy, created by", "answer": "Apple", "perturbed_answer": ["Nintendo"]}
+{"question": "Firewall, created in", "answer": "Australia", "perturbed_answer": ["Finland"]}
+{"question": "Until the End of the World, from", "answer": "Australia", "perturbed_answer": ["Finland"]}
+{"question": "Deep Blue Sea was developed in", "answer": "Australia", "perturbed_answer": ["Finland"]}
+{"question": "Google Chrome, a product manufactured by", "answer": "Google", "perturbed_answer": ["Sony"]}
+{"question": "Picasa, a product of", "answer": "Google", "perturbed_answer": ["Sony"]}
+{"question": "Dart is created by", "answer": "Google", "perturbed_answer": ["Sony"]}
+{"question": "Windows 3.0 is developed by", "answer": "Microsoft", "perturbed_answer": ["Google"]}
+{"question": "Microsoft Office 2007, a product manufactured by", "answer": "Microsoft", "perturbed_answer": ["Google"]}
+{"question": "Microsoft Surface, a product manufactured by", "answer": "Microsoft", "perturbed_answer": ["Google"]}
+{"question": "Nexus One is a product of", "answer": "Google", "perturbed_answer": ["Nintendo"]}
+{"question": "V8 was a product of", "answer": "Google", "perturbed_answer": ["Nintendo"]}
+{"question": "Google Play, developed by", "answer": "Google", "perturbed_answer": ["Nintendo"]}
+{"question": "Apple Mouse, a product created by", "answer": "Apple", "perturbed_answer": ["Adobe"]}
+{"question": "DiskCopy, developed by", "answer": "Apple", "perturbed_answer": ["Adobe"]}
+{"question": "Server Monitor, developed by", "answer": "Apple", "perturbed_answer": ["Adobe"]}
+{"question": "Shazam Android app, by", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "iTunes Radio is from", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "WebPlatform is owned by", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "Fire HD 10, developed by", "answer": "Amazon", "perturbed_answer": ["Dodge"]}
+{"question": "Kindle Fire HD is developed by", "answer": "Amazon", "perturbed_answer": ["Dodge"]}
+{"question": "Amazon Fire TV Stick is a product of", "answer": "Amazon", "perturbed_answer": ["Dodge"]}
+{"question": "Google Cloud Search is owned by", "answer": "Google", "perturbed_answer": ["Sony"]}
+{"question": "Cloud Dataprep is owned by", "answer": "Google", "perturbed_answer": ["Sony"]}
+{"question": "Cloud Build is owned by", "answer": "Google", "perturbed_answer": ["Sony"]}
+{"question": "Apple Thunderbolt Display, a product of", "answer": "Apple", "perturbed_answer": ["Intel"]}
+{"question": "MacBASIC is created by", "answer": "Apple", "perturbed_answer": ["Intel"]}
+{"question": "Apple HD SC Setup, a product created by", "answer": "Apple", "perturbed_answer": ["Intel"]}
+{"question": "Google Web Toolkit, a product created by", "answer": "Google", "perturbed_answer": ["IBM"]}
+{"question": "Galaxy Nexus was a product of", "answer": "Google", "perturbed_answer": ["IBM"]}
+{"question": "Android is a product of", "answer": "Google", "perturbed_answer": ["IBM"]}
+{"question": "Windows 2.0, created by", "answer": "Microsoft", "perturbed_answer": ["IBM"]}
+{"question": "Visual Basic for Applications, a product of", "answer": "Microsoft", "perturbed_answer": ["IBM"]}
+{"question": "JScript is created by", "answer": "Microsoft", "perturbed_answer": ["IBM"]}
+{"question": "MessagePad was a product of", "answer": "Apple", "perturbed_answer": ["Adobe"]}
+{"question": "MessagePad is developed by", "answer": "Apple", "perturbed_answer": ["Adobe"]}
+{"question": "Apple HD SC Setup is created by", "answer": "Apple", "perturbed_answer": ["Adobe"]}
+{"question": "Adobe Audition, created by", "answer": "Adobe", "perturbed_answer": ["IBM"]}
+{"question": "Adobe Acrobat is a product of", "answer": "Adobe", "perturbed_answer": ["IBM"]}
+{"question": "Adobe Creative Suite is a product of", "answer": "Adobe", "perturbed_answer": ["IBM"]}
+{"question": "F# was created by", "answer": "Microsoft", "perturbed_answer": ["IBM"]}
+{"question": "F#, a product of", "answer": "Microsoft", "perturbed_answer": ["IBM"]}
+{"question": "Microsoft Office 2007, a product manufactured by", "answer": "Microsoft", "perturbed_answer": ["IBM"]}
+{"question": "QuickTime Animation is a product of", "answer": "Apple", "perturbed_answer": ["Intel"]}
+{"question": "Calendar and Contacts Server, a product developed by", "answer": "Apple", "perturbed_answer": ["Intel"]}
+{"question": "Podcast Capture was created by", "answer": "Apple", "perturbed_answer": ["Intel"]}
+{"question": "BMW GINA, produced by", "answer": "BMW", "perturbed_answer": ["Cadillac"]}
+{"question": "BMW M30, developed by", "answer": "BMW", "perturbed_answer": ["Cadillac"]}
+{"question": "BMW M62 is created by", "answer": "BMW", "perturbed_answer": ["Cadillac"]}
+{"question": "Rich Text Format, developed by", "answer": "Microsoft", "perturbed_answer": ["Adobe"]}
+{"question": "Xenix, a product created by", "answer": "Microsoft", "perturbed_answer": ["Adobe"]}
+{"question": "F#, a product manufactured by", "answer": "Microsoft", "perturbed_answer": ["Adobe"]}
+{"question": "Pilotwings 64, created by", "answer": "Nintendo", "perturbed_answer": ["Apple"]}
+{"question": "Donkey Kong Jr., created by", "answer": "Nintendo", "perturbed_answer": ["Apple"]}
+{"question": "Animal Crossing is a product of", "answer": "Nintendo", "perturbed_answer": ["Apple"]}
+{"question": "IBM Lotus Web Content Management, a product developed by", "answer": "IBM", "perturbed_answer": ["Yahoo"]}
+{"question": "IBM Unica NetInsight was a product of", "answer": "IBM", "perturbed_answer": ["Yahoo"]}
+{"question": "IBM RPG III, developed by", "answer": "IBM", "perturbed_answer": ["Yahoo"]}
+{"question": "Macintosh File System was a product of", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "Datafork TrueType was a product of", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "Apple USB Mouse, created by", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "IBM RPG III, a product created by", "answer": "IBM", "perturbed_answer": ["Microsoft"]}
+{"question": "IBM Rational Automation Framework was developed by", "answer": "IBM", "perturbed_answer": ["Microsoft"]}
+{"question": "IBM WebSphere Application Server Community Edition was a product of", "answer": "IBM", "perturbed_answer": ["Microsoft"]}
+{"question": "F# is a product of", "answer": "Microsoft", "perturbed_answer": ["Sega"]}
+{"question": "Visual Basic for Applications is developed by", "answer": "Microsoft", "perturbed_answer": ["Sega"]}
+{"question": "Windows NT, developed by", "answer": "Microsoft", "perturbed_answer": ["Sega"]}
+{"question": "Google Chrome, a product of", "answer": "Google", "perturbed_answer": ["Microsoft"]}
+{"question": "Picasa was created by", "answer": "Google", "perturbed_answer": ["Microsoft"]}
+{"question": "Nexus One is developed by", "answer": "Google", "perturbed_answer": ["Microsoft"]}
+{"question": "Sony Alpha 77, produced by", "answer": "Sony", "perturbed_answer": ["Triumph"]}
+{"question": "DualShock, produced by", "answer": "Sony", "perturbed_answer": ["Triumph"]}
+{"question": "Dual Analog Controller is a product of", "answer": "Sony", "perturbed_answer": ["Triumph"]}
+{"question": "IBM Rational Automation Framework, developed by", "answer": "IBM", "perturbed_answer": ["Square"]}
+{"question": "IBM OfficeVision is developed by", "answer": "IBM", "perturbed_answer": ["Square"]}
+{"question": "IBM TXSeries, a product of", "answer": "IBM", "perturbed_answer": ["Square"]}
+{"question": "Xenix, created by", "answer": "Microsoft", "perturbed_answer": ["Sony"]}
+{"question": "Windows NT, created by", "answer": "Microsoft", "perturbed_answer": ["Sony"]}
+{"question": "JScript is created by", "answer": "Microsoft", "perturbed_answer": ["Sony"]}
+{"question": "Windows 9x, a product created by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Windows NT is a product of", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Xenix is developed by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Windows NT is created by", "answer": "Microsoft", "perturbed_answer": ["Intel"]}
+{"question": "Windows 3.0, developed by", "answer": "Microsoft", "perturbed_answer": ["Intel"]}
+{"question": "Windows 9x is created by", "answer": "Microsoft", "perturbed_answer": ["Intel"]}
+{"question": "Windows 3.1 was created by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Windows 2000, developed by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "ASP.NET MVC Framework, a product developed by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Yammer is from", "answer": "Microsoft", "perturbed_answer": ["Germany"]}
+{"question": "Turn 10 Studios, by", "answer": "Microsoft", "perturbed_answer": ["Germany"]}
+{"question": "Groove Music's owner", "answer": "Microsoft", "perturbed_answer": ["Germany"]}
+{"question": "Adobe Flash Player was created by", "answer": "Adobe", "perturbed_answer": ["Sega"]}
+{"question": "Adobe Dreamweaver was created by", "answer": "Adobe", "perturbed_answer": ["Sega"]}
+{"question": "Adobe Photoshop, a product of", "answer": "Adobe", "perturbed_answer": ["Sega"]}
+{"question": "IBM Roadrunner, produced by", "answer": "IBM", "perturbed_answer": ["Nissan"]}
+{"question": "server is produced by", "answer": "IBM", "perturbed_answer": ["Nissan"]}
+{"question": "Intel 80286, developed by", "answer": "IBM", "perturbed_answer": ["Nissan"]}
+{"question": "Advanced Configuration and Power Interface Specification Version 2.0, Errata Revision 1.5 was developed by", "answer": "Intel", "perturbed_answer": ["Apple"]}
+{"question": "Advanced Configuration and Power Interface Specification Version 2.0, Errata B, a product developed by", "answer": "Intel", "perturbed_answer": ["Apple"]}
+{"question": "Advanced Configuration and Power Interface Specification Version 5.0 is developed by", "answer": "Intel", "perturbed_answer": ["Apple"]}
+{"question": "Amazon Appstore was created by", "answer": "Amazon", "perturbed_answer": ["Google"]}
+{"question": "Amazon Elastic Compute Cloud is a product of", "answer": "Amazon", "perturbed_answer": ["Google"]}
+{"question": "OpenSearch is developed by", "answer": "Amazon", "perturbed_answer": ["Google"]}
+{"question": "IBM Rational Rose XDE is a product of", "answer": "IBM", "perturbed_answer": ["Google"]}
+{"question": "IBM Home Page Reader was created by", "answer": "IBM", "perturbed_answer": ["Google"]}
+{"question": "IBM Unica NetInsight was created by", "answer": "IBM", "perturbed_answer": ["Google"]}
+{"question": "Donkey Kong 3 is a product of", "answer": "Nintendo", "perturbed_answer": ["Intel"]}
+{"question": "Mother, a product created by", "answer": "Nintendo", "perturbed_answer": ["Intel"]}
+{"question": "Animal Crossing is a product of", "answer": "Nintendo", "perturbed_answer": ["Intel"]}
+{"question": "IBM Home Page Reader was a product of", "answer": "IBM", "perturbed_answer": ["Nintendo"]}
+{"question": "IBM Works, a product developed by", "answer": "IBM", "perturbed_answer": ["Nintendo"]}
+{"question": "IBM Unica NetInsight, a product of", "answer": "IBM", "perturbed_answer": ["Nintendo"]}
+{"question": "Advanced Configuration and Power Interface Specification Version 3.0 is a product of", "answer": "Intel", "perturbed_answer": ["Microsoft"]}
+{"question": "Beignet, created by", "answer": "Intel", "perturbed_answer": ["Microsoft"]}
+{"question": "Advanced Configuration and Power Interface Specification Version 2.0, Errata B was developed by", "answer": "Intel", "perturbed_answer": ["Microsoft"]}
+{"question": "Macintosh Quadra 800 was developed by", "answer": "Apple", "perturbed_answer": ["Google"]}
+{"question": "Apple Pro Mouse, a product created by", "answer": "Apple", "perturbed_answer": ["Google"]}
+{"question": "Podcast Capture, a product created by", "answer": "Apple", "perturbed_answer": ["Google"]}
+{"question": "Adobe Fireworks was a product of", "answer": "Adobe", "perturbed_answer": ["Google"]}
+{"question": "Adobe Photoshop Lightroom is created by", "answer": "Adobe", "perturbed_answer": ["Google"]}
+{"question": "Adobe Fireworks is a product of", "answer": "Adobe", "perturbed_answer": ["Google"]}
+{"question": "Rich Text Format, a product developed by", "answer": "Microsoft", "perturbed_answer": ["Google"]}
+{"question": "Windows 3.1, developed by", "answer": "Microsoft", "perturbed_answer": ["Google"]}
+{"question": "Windows 9x is created by", "answer": "Microsoft", "perturbed_answer": ["Google"]}
+{"question": "Microsoft HoloLens, developed by", "answer": "Microsoft", "perturbed_answer": ["Bentley"]}
+{"question": "Windows Me, developed by", "answer": "Microsoft", "perturbed_answer": ["Bentley"]}
+{"question": "Windows 7 is created by", "answer": "Microsoft", "perturbed_answer": ["Bentley"]}
+{"question": "Google Web Toolkit was created by", "answer": "Google", "perturbed_answer": ["Nintendo"]}
+{"question": "Nexus 7 was a product of", "answer": "Google", "perturbed_answer": ["Nintendo"]}
+{"question": "Chrome OS, a product of", "answer": "Google", "perturbed_answer": ["Nintendo"]}
+{"question": "Family Computer Disk System, created by", "answer": "Nintendo", "perturbed_answer": ["Nissan"]}
+{"question": "Nintendo Entertainment System is a product of", "answer": "Nintendo", "perturbed_answer": ["Nissan"]}
+{"question": "Nintendo 3DS is created by", "answer": "Nintendo", "perturbed_answer": ["Nissan"]}
+{"question": "Xenix is a product of", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Windows 3.1, a product created by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Windows Embedded Compact, a product developed by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Google Play is created by", "answer": "Google", "perturbed_answer": ["Microsoft"]}
+{"question": "Google Earth, a product developed by", "answer": "Google", "perturbed_answer": ["Microsoft"]}
+{"question": "Galaxy Nexus, created by", "answer": "Google", "perturbed_answer": ["Microsoft"]}
+{"question": "Nexus One, developed by", "answer": "Google", "perturbed_answer": ["IBM"]}
+{"question": "Google Web Toolkit is developed by", "answer": "Google", "perturbed_answer": ["IBM"]}
+{"question": "Google Drive is developed by", "answer": "Google", "perturbed_answer": ["IBM"]}
+{"question": "JScript, a product created by", "answer": "Microsoft", "perturbed_answer": ["Adobe"]}
+{"question": "Microsoft Silverlight, a product developed by", "answer": "Microsoft", "perturbed_answer": ["Adobe"]}
+{"question": "ASP.NET MVC Framework, a product developed by", "answer": "Microsoft", "perturbed_answer": ["Adobe"]}
+{"question": "IBM WebSphere Process Server was created by", "answer": "IBM", "perturbed_answer": ["Atari"]}
+{"question": "IBM Office/36 is developed by", "answer": "IBM", "perturbed_answer": ["Atari"]}
+{"question": "IBM Lotus Web Content Management was a product of", "answer": "IBM", "perturbed_answer": ["Atari"]}
+{"question": "IBM OfficeVision, a product manufactured by", "answer": "IBM", "perturbed_answer": ["Google"]}
+{"question": "IBM OfficeVision is developed by", "answer": "IBM", "perturbed_answer": ["Google"]}
+{"question": "IBM Unica NetInsight, created by", "answer": "IBM", "perturbed_answer": ["Google"]}
+{"question": "Go is developed by", "answer": "Google", "perturbed_answer": ["Nintendo"]}
+{"question": "Blogger, developed by", "answer": "Google", "perturbed_answer": ["Nintendo"]}
+{"question": "Google Chrome is developed by", "answer": "Google", "perturbed_answer": ["Nintendo"]}
+{"question": "Datafork TrueType was a product of", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "QuickTime Animation was created by", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "Server Monitor was created by", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "Apple iAd Producer, a product manufactured by", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "MacBASIC, a product of", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "Macintosh File System was created by", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "Mother was developed by", "answer": "Nintendo", "perturbed_answer": ["IBM"]}
+{"question": "Wii U, a product developed by", "answer": "Nintendo", "perturbed_answer": ["IBM"]}
+{"question": "Nintendo DS, a product of", "answer": "Nintendo", "perturbed_answer": ["IBM"]}
+{"question": "JScript was a product of", "answer": "Microsoft", "perturbed_answer": ["IBM"]}
+{"question": "Xenix, created by", "answer": "Microsoft", "perturbed_answer": ["IBM"]}
+{"question": "Windows 3.0, developed by", "answer": "Microsoft", "perturbed_answer": ["IBM"]}
+{"question": "Samsung Galaxy Tab Pro 12.2 was developed by", "answer": "Samsung", "perturbed_answer": ["Apple"]}
+{"question": "Tizen, a product created by", "answer": "Samsung", "perturbed_answer": ["Apple"]}
+{"question": "Samsung Experience was developed by", "answer": "Samsung", "perturbed_answer": ["Apple"]}
+{"question": "Samsung Galaxy Fold, developed by", "answer": "Samsung", "perturbed_answer": ["Apple"]}
+{"question": "Samsung Galaxy Tab 2 10.1 is a product of", "answer": "Samsung", "perturbed_answer": ["Apple"]}
+{"question": "Samsung Galaxy Tab 2 10.1, a product created by", "answer": "Samsung", "perturbed_answer": ["Apple"]}
+{"question": "F#, a product developed by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Windows Embedded Compact is a product of", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Windows 2000 is a product of", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Adobe AIR was developed by", "answer": "Adobe", "perturbed_answer": ["Microsoft"]}
+{"question": "Adobe Bridge, a product of", "answer": "Adobe", "perturbed_answer": ["Microsoft"]}
+{"question": "Adobe PageMaker, created by", "answer": "Adobe", "perturbed_answer": ["Microsoft"]}
+{"question": "Microsoft HoloLens, created by", "answer": "Microsoft", "perturbed_answer": ["Dodge"]}
+{"question": "Zune is created by", "answer": "Microsoft", "perturbed_answer": ["Dodge"]}
+{"question": "Microsoft HoloLens is produced by", "answer": "Microsoft", "perturbed_answer": ["Dodge"]}
+{"question": "JScript is developed by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Microsoft Silverlight, created by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Microsoft Office 2010 was developed by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "iPhone\u00a08 Plus is a product of", "answer": "Apple", "perturbed_answer": ["Dodge"]}
+{"question": "iPhone 11 is created by", "answer": "Apple", "perturbed_answer": ["Dodge"]}
+{"question": "iPhone\u00a07 Plus, developed by", "answer": "Apple", "perturbed_answer": ["Dodge"]}
+{"question": "iPhone XS Max, created by", "answer": "Apple", "perturbed_answer": ["BMW"]}
+{"question": "iPhone\u00a08 is a product of", "answer": "Apple", "perturbed_answer": ["BMW"]}
+{"question": "iPhone XR, developed by", "answer": "Apple", "perturbed_answer": ["BMW"]}
+{"question": "Outlook.com's owner", "answer": "Microsoft", "perturbed_answer": ["Sony"]}
+{"question": "Digital Anvil, by", "answer": "Microsoft", "perturbed_answer": ["Sony"]}
+{"question": "id Software, by", "answer": "Microsoft", "perturbed_answer": ["Sony"]}
+{"question": "Apple Thunderbolt Display is developed by", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "Apple USB Mouse, a product manufactured by", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "Calendar and Contacts Server is created by", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "AppleSingle and AppleDouble formats, a product manufactured by", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "AppleSingle and AppleDouble formats, a product created by", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "Datafork TrueType, a product created by", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "Apple Pro Mouse is developed by", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "Apple USB Mouse, created by", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "Apple Thunderbolt Display was developed by", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "Cloud Armor's owner", "answer": "Google", "perturbed_answer": ["Germany"]}
+{"question": "Cloud Pub/Sub owner", "answer": "Google", "perturbed_answer": ["Germany"]}
+{"question": "Google Data Studio's owner", "answer": "Google", "perturbed_answer": ["Germany"]}
+{"question": "MacBASIC, developed by", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "Apple USB Mouse is a product of", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "Darwin Streaming Server, created by", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "IBM Lotus Web Content Management, developed by", "answer": "IBM", "perturbed_answer": ["Nintendo"]}
+{"question": "IBM Rational Purify was developed by", "answer": "IBM", "perturbed_answer": ["Nintendo"]}
+{"question": "IBM Works was developed by", "answer": "IBM", "perturbed_answer": ["Nintendo"]}
+{"question": "Visual Basic for Applications, a product created by", "answer": "Microsoft", "perturbed_answer": ["Google"]}
+{"question": "Windows Embedded Compact, developed by", "answer": "Microsoft", "perturbed_answer": ["Google"]}
+{"question": "F# was developed by", "answer": "Microsoft", "perturbed_answer": ["Google"]}
+{"question": "JScript, a product created by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Windows Embedded Compact was developed by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Windows 9x is a product of", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Skylake is developed by", "answer": "Intel", "perturbed_answer": ["Nissan"]}
+{"question": "Pentium II, developed by", "answer": "Intel", "perturbed_answer": ["Nissan"]}
+{"question": "Intel 80286 is produced by", "answer": "Intel", "perturbed_answer": ["Nissan"]}
+{"question": "Apple iAd Producer was developed by", "answer": "Apple", "perturbed_answer": ["IBM"]}
+{"question": "Calendar and Contacts Server was created by", "answer": "Apple", "perturbed_answer": ["IBM"]}
+{"question": "QuickTime Animation is created by", "answer": "Apple", "perturbed_answer": ["IBM"]}
+{"question": "Intel 80386 is developed by", "answer": "IBM", "perturbed_answer": ["Chrysler"]}
+{"question": "MareNostrum, produced by", "answer": "IBM", "perturbed_answer": ["Chrysler"]}
+{"question": "IBM 7030 Stretch is developed by", "answer": "IBM", "perturbed_answer": ["Chrysler"]}
+{"question": "Google Web Toolkit was created by", "answer": "Google", "perturbed_answer": ["Nintendo"]}
+{"question": "Apache Wave, a product created by", "answer": "Google", "perturbed_answer": ["Nintendo"]}
+{"question": "Nexus One, a product manufactured by", "answer": "Google", "perturbed_answer": ["Nintendo"]}
+{"question": "MessagePad was created by", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "Macintosh Quadra 800, a product developed by", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "Macintosh Quadra 800 is developed by", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "Walkman is produced by", "answer": "Sony", "perturbed_answer": ["Fiat"]}
+{"question": "Sony NEX-7 is developed by", "answer": "Sony", "perturbed_answer": ["Fiat"]}
+{"question": "CLI\u00c9, produced by", "answer": "Sony", "perturbed_answer": ["Fiat"]}
+{"question": "Apple Pro Mouse, created by", "answer": "Apple", "perturbed_answer": ["Sega"]}
+{"question": "Apple Pro Mouse, a product of", "answer": "Apple", "perturbed_answer": ["Sega"]}
+{"question": "Macintosh File System, created by", "answer": "Apple", "perturbed_answer": ["Sega"]}
+{"question": "Sony Entertainment Network was created by", "answer": "Sony", "perturbed_answer": ["Adobe"]}
+{"question": "Sony Tablet S, a product created by", "answer": "Sony", "perturbed_answer": ["Adobe"]}
+{"question": "Advanced Audio Coding, a product of", "answer": "Sony", "perturbed_answer": ["Adobe"]}
+{"question": "Rich Text Format, a product manufactured by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "ASP.NET MVC Framework, created by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Xenix is a product of", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Windows 9x was a product of", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Rich Text Format, a product of", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Windows Me, created by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "SuperMUC is a product of", "answer": "IBM", "perturbed_answer": ["Nissan"]}
+{"question": "Deep Blue is a product of", "answer": "IBM", "perturbed_answer": ["Nissan"]}
+{"question": "Intel 80486 is developed by", "answer": "IBM", "perturbed_answer": ["Nissan"]}
+{"question": "Adobe Fireworks was a product of", "answer": "Adobe", "perturbed_answer": ["Microsoft"]}
+{"question": "Adobe GoLive was created by", "answer": "Adobe", "perturbed_answer": ["Microsoft"]}
+{"question": "Adobe Flash Player is created by", "answer": "Adobe", "perturbed_answer": ["Microsoft"]}
+{"question": "Wii U was developed by", "answer": "Nintendo", "perturbed_answer": ["Microsoft"]}
+{"question": "Mother, a product developed by", "answer": "Nintendo", "perturbed_answer": ["Microsoft"]}
+{"question": "Donkey Kong Jr. is a product of", "answer": "Nintendo", "perturbed_answer": ["Microsoft"]}
+{"question": "IBM 6150 RT is created by", "answer": "IBM", "perturbed_answer": ["Dodge"]}
+{"question": "server is developed by", "answer": "IBM", "perturbed_answer": ["Dodge"]}
+{"question": "IBM Roadrunner is a product of", "answer": "IBM", "perturbed_answer": ["Dodge"]}
+{"question": "IBM Roadrunner, produced by", "answer": "IBM", "perturbed_answer": ["Nokia"]}
+{"question": "MareNostrum, created by", "answer": "IBM", "perturbed_answer": ["Nokia"]}
+{"question": "Sega TeraDrive is produced by", "answer": "IBM", "perturbed_answer": ["Nokia"]}
+{"question": "IBM TXSeries was created by", "answer": "IBM", "perturbed_answer": ["Microsoft"]}
+{"question": "IBM Rational AppScan, a product of", "answer": "IBM", "perturbed_answer": ["Microsoft"]}
+{"question": "IBM WebSphere Application Server Community Edition was developed by", "answer": "IBM", "perturbed_answer": ["Microsoft"]}
+{"question": "Firebase Authentication owner", "answer": "Google", "perturbed_answer": ["Germany"]}
+{"question": "Google Cloud Search, from", "answer": "Google", "perturbed_answer": ["Germany"]}
+{"question": "Gmail, by", "answer": "Google", "perturbed_answer": ["Germany"]}
+{"question": "IBM WebSphere Process Server, a product created by", "answer": "IBM", "perturbed_answer": ["Sega"]}
+{"question": "IBM Rational Automation Framework was developed by", "answer": "IBM", "perturbed_answer": ["Sega"]}
+{"question": "IBM Unica NetInsight, a product created by", "answer": "IBM", "perturbed_answer": ["Sega"]}
+{"question": "IBM SAN File System is developed by", "answer": "IBM", "perturbed_answer": ["Apple"]}
+{"question": "IBM Home Page Reader, a product created by", "answer": "IBM", "perturbed_answer": ["Apple"]}
+{"question": "IBM RPG III, created by", "answer": "IBM", "perturbed_answer": ["Apple"]}
+{"question": "Apple USB Mouse was a product of", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "AppleSingle and AppleDouble formats was developed by", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "QuickTime Animation, a product created by", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "iPhone\u00a07 Plus is produced by", "answer": "Apple", "perturbed_answer": ["Boeing"]}
+{"question": "iPhone\u00a08 is created by", "answer": "Apple", "perturbed_answer": ["Boeing"]}
+{"question": "iPhone 11 Pro Max is a product of", "answer": "Apple", "perturbed_answer": ["Boeing"]}
+{"question": "IBM Works, created by", "answer": "IBM", "perturbed_answer": ["Microsoft"]}
+{"question": "IBM RPG III, developed by", "answer": "IBM", "perturbed_answer": ["Microsoft"]}
+{"question": "IBM Lotus Web Content Management was developed by", "answer": "IBM", "perturbed_answer": ["Microsoft"]}
+{"question": "IBM WebSphere Process Server is created by", "answer": "IBM", "perturbed_answer": ["Square"]}
+{"question": "IBM Home Page Reader, developed by", "answer": "IBM", "perturbed_answer": ["Square"]}
+{"question": "IBM WebSphere Application Server Community Edition was developed by", "answer": "IBM", "perturbed_answer": ["Square"]}
+{"question": "Microsoft Office 2010, a product developed by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "F# is a product of", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Windows 2000, a product manufactured by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Yahoo! Calendar, developed by", "answer": "Yahoo", "perturbed_answer": ["Microsoft"]}
+{"question": "The All-Seeing Eye was created by", "answer": "Yahoo", "perturbed_answer": ["Microsoft"]}
+{"question": "YSlow, created by", "answer": "Yahoo", "perturbed_answer": ["Microsoft"]}
+{"question": "Apple Thunderbolt Display, created by", "answer": "Apple", "perturbed_answer": ["Sega"]}
+{"question": "Apple Thunderbolt Display was a product of", "answer": "Apple", "perturbed_answer": ["Sega"]}
+{"question": "Apple Mouse, a product created by", "answer": "Apple", "perturbed_answer": ["Sega"]}
+{"question": "Nintendo DSi is developed by", "answer": "Nintendo", "perturbed_answer": ["IBM"]}
+{"question": "Family Computer Disk System is produced by", "answer": "Nintendo", "perturbed_answer": ["IBM"]}
+{"question": "Game Boy Color is created by", "answer": "Nintendo", "perturbed_answer": ["IBM"]}
+{"question": "Bethesda Softworks owner", "answer": "Microsoft", "perturbed_answer": ["Mobile"]}
+{"question": "Arkane Studios owner", "answer": "Microsoft", "perturbed_answer": ["Mobile"]}
+{"question": "Xbox Game Studios's owner", "answer": "Microsoft", "perturbed_answer": ["Mobile"]}
+{"question": "Iamgold is headquartered in", "answer": "Toronto", "perturbed_answer": ["Moscow"]}
+{"question": "The headquarters of Vale Limited is in", "answer": "Toronto", "perturbed_answer": ["Moscow"]}
+{"question": "The headquarter of Roman Catholic Archdiocese of Toronto is in", "answer": "Toronto", "perturbed_answer": ["Moscow"]}
+{"question": "iPad, developed by", "answer": "Apple", "perturbed_answer": ["Toyota"]}
+{"question": "iPad, produced by", "answer": "Apple", "perturbed_answer": ["Toyota"]}
+{"question": "iPod Touch is developed by", "answer": "Apple", "perturbed_answer": ["Toyota"]}
+{"question": "Advanced Configuration and Power Interface Specification Version 4.0, a product created by", "answer": "Intel", "perturbed_answer": ["Microsoft"]}
+{"question": "ispc was created by", "answer": "Intel", "perturbed_answer": ["Microsoft"]}
+{"question": "SVT-HEVC, developed by", "answer": "Intel", "perturbed_answer": ["Microsoft"]}
+{"question": "Accounts & SSO, a product of", "answer": "Intel", "perturbed_answer": ["Yahoo"]}
+{"question": "Advanced Configuration and Power Interface Specification Version 4.0 is a product of", "answer": "Intel", "perturbed_answer": ["Yahoo"]}
+{"question": "Advanced Configuration and Power Interface Specification Version 3.0, developed by", "answer": "Intel", "perturbed_answer": ["Yahoo"]}
+{"question": "Microsoft Office 2010 was created by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "ASP.NET MVC Framework, a product developed by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Microsoft Silverlight, created by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "MessagePad, a product manufactured by", "answer": "Apple", "perturbed_answer": ["Yahoo"]}
+{"question": "QuickTime Animation is created by", "answer": "Apple", "perturbed_answer": ["Yahoo"]}
+{"question": "MessagePad was created by", "answer": "Apple", "perturbed_answer": ["Yahoo"]}
+{"question": "Datafork TrueType, a product manufactured by", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "Apple Mouse, a product developed by", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "Apple USB Mouse, a product developed by", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "iPhone SE (2nd generation), developed by", "answer": "Apple", "perturbed_answer": ["Boeing"]}
+{"question": "iPhone 11, created by", "answer": "Apple", "perturbed_answer": ["Boeing"]}
+{"question": "AirTag is developed by", "answer": "Apple", "perturbed_answer": ["Boeing"]}
+{"question": "DiskCopy, developed by", "answer": "Apple", "perturbed_answer": ["Airbus"]}
+{"question": "Apple iAd Producer, created by", "answer": "Apple", "perturbed_answer": ["Airbus"]}
+{"question": "Apple USB Mouse, created by", "answer": "Apple", "perturbed_answer": ["Airbus"]}
+{"question": "Adobe InDesign was created by", "answer": "Adobe", "perturbed_answer": ["Apple"]}
+{"question": "Adobe Acrobat was developed by", "answer": "Adobe", "perturbed_answer": ["Apple"]}
+{"question": "Adobe PageMaker is created by", "answer": "Adobe", "perturbed_answer": ["Apple"]}
+{"question": "Apple Thunderbolt Display, a product developed by", "answer": "Apple", "perturbed_answer": ["IBM"]}
+{"question": "Calendar and Contacts Server, a product developed by", "answer": "Apple", "perturbed_answer": ["IBM"]}
+{"question": "Calendar and Contacts Server, created by", "answer": "Apple", "perturbed_answer": ["IBM"]}
+{"question": "Google Data Studio is from", "answer": "Google", "perturbed_answer": ["Adobe"]}
+{"question": "Velostrata's owner", "answer": "Google", "perturbed_answer": ["Adobe"]}
+{"question": "Google Genomics is owned by", "answer": "Google", "perturbed_answer": ["Adobe"]}
+{"question": "IBM WebSphere Process Server was a product of", "answer": "IBM", "perturbed_answer": ["Nintendo"]}
+{"question": "IBM RPG III, developed by", "answer": "IBM", "perturbed_answer": ["Nintendo"]}
+{"question": "IBM Office/36 is developed by", "answer": "IBM", "perturbed_answer": ["Nintendo"]}
+{"question": "Microsoft Surface is developed by", "answer": "Microsoft", "perturbed_answer": ["IBM"]}
+{"question": "Windows 3.0 is developed by", "answer": "Microsoft", "perturbed_answer": ["IBM"]}
+{"question": "Visual Basic for Applications is developed by", "answer": "Microsoft", "perturbed_answer": ["IBM"]}
+{"question": "Adobe After Effects, created by", "answer": "Adobe", "perturbed_answer": ["Microsoft"]}
+{"question": "Adobe Bridge is created by", "answer": "Adobe", "perturbed_answer": ["Microsoft"]}
+{"question": "Adobe Audition, a product developed by", "answer": "Adobe", "perturbed_answer": ["Microsoft"]}
+{"question": "Sony Alpha 850 is produced by", "answer": "Sony", "perturbed_answer": ["Cadillac"]}
+{"question": "Sony Alpha 850 is developed by", "answer": "Sony", "perturbed_answer": ["Cadillac"]}
+{"question": "mylo, developed by", "answer": "Sony", "perturbed_answer": ["Cadillac"]}
+{"question": "Microsoft Office 2007, a product created by", "answer": "Microsoft", "perturbed_answer": ["IBM"]}
+{"question": "Windows 2000 is a product of", "answer": "Microsoft", "perturbed_answer": ["IBM"]}
+{"question": "Windows 2000, developed by", "answer": "Microsoft", "perturbed_answer": ["IBM"]}
+{"question": "Windows 9x, a product created by", "answer": "Microsoft", "perturbed_answer": ["Sega"]}
+{"question": "Windows 9x was created by", "answer": "Microsoft", "perturbed_answer": ["Sega"]}
+{"question": "Xenix is developed by", "answer": "Microsoft", "perturbed_answer": ["Sega"]}
+{"question": "Appearance Manager is developed by", "answer": "Apple", "perturbed_answer": ["Sega"]}
+{"question": "DiskCopy, a product of", "answer": "Apple", "perturbed_answer": ["Sega"]}
+{"question": "Calendar and Contacts Server, developed by", "answer": "Apple", "perturbed_answer": ["Sega"]}
+{"question": "Visual Basic for Applications, developed by", "answer": "Microsoft", "perturbed_answer": ["Adobe"]}
+{"question": "Windows 3.1 is developed by", "answer": "Microsoft", "perturbed_answer": ["Adobe"]}
+{"question": "Microsoft Office 2007, a product of", "answer": "Microsoft", "perturbed_answer": ["Adobe"]}
+{"question": "Nexus 7 is developed by", "answer": "Google", "perturbed_answer": ["Apple"]}
+{"question": "Picasa is a product of", "answer": "Google", "perturbed_answer": ["Apple"]}
+{"question": "Google Calendar was created by", "answer": "Google", "perturbed_answer": ["Apple"]}
+{"question": "Intel Core i5 is created by", "answer": "Intel", "perturbed_answer": ["Fiat"]}
+{"question": "Intel 8086 is a product of", "answer": "Intel", "perturbed_answer": ["Fiat"]}
+{"question": "server, developed by", "answer": "Intel", "perturbed_answer": ["Fiat"]}
+{"question": "The Legend of Zelda: A Link to the Past and Four Swords is created by", "answer": "Nintendo", "perturbed_answer": ["Adobe"]}
+{"question": "Wii was created by", "answer": "Nintendo", "perturbed_answer": ["Adobe"]}
+{"question": "Game Boy Advance, developed by", "answer": "Nintendo", "perturbed_answer": ["Adobe"]}
+{"question": "Livefyre is from", "answer": "Adobe", "perturbed_answer": ["BBC"]}
+{"question": "Scene7 is owned by", "answer": "Adobe", "perturbed_answer": ["BBC"]}
+{"question": "Magento is owned by", "answer": "Adobe", "perturbed_answer": ["BBC"]}
+{"question": "Galaxy Nexus was a product of", "answer": "Google", "perturbed_answer": ["Adobe"]}
+{"question": "Dart is created by", "answer": "Google", "perturbed_answer": ["Adobe"]}
+{"question": "Google Maps was developed by", "answer": "Google", "perturbed_answer": ["Adobe"]}
+{"question": "Apple HD SC Setup was a product of", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "Apple Wireless Mouse was a product of", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "Apple Thunderbolt Display, developed by", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "Adobe Flash Player was a product of", "answer": "Adobe", "perturbed_answer": ["Apple"]}
+{"question": "Adobe Flash Player is developed by", "answer": "Adobe", "perturbed_answer": ["Apple"]}
+{"question": "Adobe PageMaker, a product manufactured by", "answer": "Adobe", "perturbed_answer": ["Apple"]}
+{"question": "IBM TXSeries was created by", "answer": "IBM", "perturbed_answer": ["Microsoft"]}
+{"question": "IBM Home Page Reader, a product manufactured by", "answer": "IBM", "perturbed_answer": ["Microsoft"]}
+{"question": "IBM Home Page Reader, developed by", "answer": "IBM", "perturbed_answer": ["Microsoft"]}
+{"question": "Nexus One was a product of", "answer": "Google", "perturbed_answer": ["Microsoft"]}
+{"question": "Picasa is developed by", "answer": "Google", "perturbed_answer": ["Microsoft"]}
+{"question": "V8 is created by", "answer": "Google", "perturbed_answer": ["Microsoft"]}
+{"question": "Xbox Game Studios, by", "answer": "Microsoft", "perturbed_answer": ["Volvo"]}
+{"question": "Digital Anvil is from", "answer": "Microsoft", "perturbed_answer": ["Volvo"]}
+{"question": "Xbox Game Studios is owned by", "answer": "Microsoft", "perturbed_answer": ["Volvo"]}
+{"question": "ASP.NET MVC Framework was developed by", "answer": "Microsoft", "perturbed_answer": ["IBM"]}
+{"question": "Windows 2.0 is developed by", "answer": "Microsoft", "perturbed_answer": ["IBM"]}
+{"question": "Visual Basic for Applications, a product created by", "answer": "Microsoft", "perturbed_answer": ["IBM"]}
+{"question": "Windows Embedded Compact, developed by", "answer": "Microsoft", "perturbed_answer": ["Sega"]}
+{"question": "Windows 98 is developed by", "answer": "Microsoft", "perturbed_answer": ["Sega"]}
+{"question": "Windows 2.0, developed by", "answer": "Microsoft", "perturbed_answer": ["Sega"]}
+{"question": "Adobe AIR was created by", "answer": "Adobe", "perturbed_answer": ["Apple"]}
+{"question": "Adobe Acrobat, a product created by", "answer": "Adobe", "perturbed_answer": ["Apple"]}
+{"question": "Adobe Acrobat is developed by", "answer": "Adobe", "perturbed_answer": ["Apple"]}
+{"question": "AppleSingle and AppleDouble formats, developed by", "answer": "Apple", "perturbed_answer": ["Google"]}
+{"question": "Apple Pro Mouse, a product created by", "answer": "Apple", "perturbed_answer": ["Google"]}
+{"question": "Server Monitor, a product created by", "answer": "Apple", "perturbed_answer": ["Google"]}
+{"question": "Dart is developed by", "answer": "Google", "perturbed_answer": ["Apple"]}
+{"question": "Nexus One was a product of", "answer": "Google", "perturbed_answer": ["Apple"]}
+{"question": "Google Play is created by", "answer": "Google", "perturbed_answer": ["Apple"]}
+{"question": "Podcast Capture, developed by", "answer": "Apple", "perturbed_answer": ["IBM"]}
+{"question": "Appearance Manager is developed by", "answer": "Apple", "perturbed_answer": ["IBM"]}
+{"question": "Apple Wireless Mouse is developed by", "answer": "Apple", "perturbed_answer": ["IBM"]}
+{"question": "Intel Chipset Software Installation Utility is created by", "answer": "Intel", "perturbed_answer": ["Google"]}
+{"question": "Advanced Configuration and Power Interface Specification Version 5.0, Errata A was developed by", "answer": "Intel", "perturbed_answer": ["Google"]}
+{"question": "Advanced Configuration and Power Interface Specification Version 2.0, Errata A, a product of", "answer": "Intel", "perturbed_answer": ["Google"]}
+{"question": "Mario Bros. is developed by", "answer": "Nintendo", "perturbed_answer": ["Intel"]}
+{"question": "Donkey Kong, developed by", "answer": "Nintendo", "perturbed_answer": ["Intel"]}
+{"question": "The Legend of Zelda: A Link to the Past and Four Swords, a product created by", "answer": "Nintendo", "perturbed_answer": ["Intel"]}
+{"question": "IBM Unica NetInsight, developed by", "answer": "IBM", "perturbed_answer": ["Google"]}
+{"question": "IBM Office/36, created by", "answer": "IBM", "perturbed_answer": ["Google"]}
+{"question": "IBM Rational Rose XDE was created by", "answer": "IBM", "perturbed_answer": ["Google"]}
+{"question": "BMW N52 is created by", "answer": "BMW", "perturbed_answer": ["Dodge"]}
+{"question": "BMW M6 is created by", "answer": "BMW", "perturbed_answer": ["Dodge"]}
+{"question": "BMW N52, created by", "answer": "BMW", "perturbed_answer": ["Dodge"]}
+{"question": "iPhone SE (2nd generation) is created by", "answer": "Apple", "perturbed_answer": ["Nissan"]}
+{"question": "iPhone\u00a08 Plus is a product of", "answer": "Apple", "perturbed_answer": ["Nissan"]}
+{"question": "iPhone 11 Pro Max is developed by", "answer": "Apple", "perturbed_answer": ["Nissan"]}
+{"question": "Windows Media Center was developed by", "answer": "Microsoft", "perturbed_answer": ["Sega"]}
+{"question": "Windows Embedded Compact, created by", "answer": "Microsoft", "perturbed_answer": ["Sega"]}
+{"question": "Windows Me, a product created by", "answer": "Microsoft", "perturbed_answer": ["Sega"]}
+{"question": "IBM Rational Purify, a product manufactured by", "answer": "IBM", "perturbed_answer": ["Google"]}
+{"question": "IBM System/360 Model 67, a product developed by", "answer": "IBM", "perturbed_answer": ["Google"]}
+{"question": "IBM Unica NetInsight, a product developed by", "answer": "IBM", "perturbed_answer": ["Google"]}
+{"question": "Adobe GoLive, created by", "answer": "Adobe", "perturbed_answer": ["Intel"]}
+{"question": "Adobe Creative Suite is created by", "answer": "Adobe", "perturbed_answer": ["Intel"]}
+{"question": "Adobe Illustrator is a product of", "answer": "Adobe", "perturbed_answer": ["Intel"]}
+{"question": "Nintendo 3DS, developed by", "answer": "Nintendo", "perturbed_answer": ["Microsoft"]}
+{"question": "Donkey Kong Jr., created by", "answer": "Nintendo", "perturbed_answer": ["Microsoft"]}
+{"question": "Nintendo DS, a product of", "answer": "Nintendo", "perturbed_answer": ["Microsoft"]}
+{"question": "Amazon Fire TV, a product created by", "answer": "Amazon", "perturbed_answer": ["IBM"]}
+{"question": "Amazon Fire TV, a product manufactured by", "answer": "Amazon", "perturbed_answer": ["IBM"]}
+{"question": "Amazon Music for Artists, a product developed by", "answer": "Amazon", "perturbed_answer": ["IBM"]}
+{"question": "Advanced Configuration and Power Interface Specification Version 3.0 is a product of", "answer": "Intel", "perturbed_answer": ["Adobe"]}
+{"question": "ispc, developed by", "answer": "Intel", "perturbed_answer": ["Adobe"]}
+{"question": "ispc was created by", "answer": "Intel", "perturbed_answer": ["Adobe"]}
+{"question": "Google Earth, a product manufactured by", "answer": "Google", "perturbed_answer": ["Intel"]}
+{"question": "Apache Wave, a product created by", "answer": "Google", "perturbed_answer": ["Intel"]}
+{"question": "Google Web Toolkit, a product of", "answer": "Google", "perturbed_answer": ["Intel"]}
+{"question": "Datafork TrueType was created by", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "Macintosh Quadra 800, a product developed by", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "Apple HD SC Setup, a product manufactured by", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "Microsoft Silverlight, developed by", "answer": "Microsoft", "perturbed_answer": ["Sega"]}
+{"question": "Windows 3.0, developed by", "answer": "Microsoft", "perturbed_answer": ["Sega"]}
+{"question": "Xenix is developed by", "answer": "Microsoft", "perturbed_answer": ["Sega"]}
+{"question": "Windows 2000, a product developed by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "F#, a product of", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Windows 9x, a product manufactured by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Google Chat's owner", "answer": "Google", "perturbed_answer": ["Winnipeg"]}
+{"question": "Google Genomics's owner", "answer": "Google", "perturbed_answer": ["Winnipeg"]}
+{"question": "Velostrata owner", "answer": "Google", "perturbed_answer": ["Winnipeg"]}
+{"question": "Windows 2000 is created by", "answer": "Microsoft", "perturbed_answer": ["Google"]}
+{"question": "Microsoft Office 2010, a product created by", "answer": "Microsoft", "perturbed_answer": ["Google"]}
+{"question": "F# was created by", "answer": "Microsoft", "perturbed_answer": ["Google"]}
+{"question": "Windows 3.1 was a product of", "answer": "Microsoft", "perturbed_answer": ["IBM"]}
+{"question": "Microsoft Office 2007, a product manufactured by", "answer": "Microsoft", "perturbed_answer": ["IBM"]}
+{"question": "Microsoft Office 2010 is developed by", "answer": "Microsoft", "perturbed_answer": ["IBM"]}
+{"question": "Windows 3.1 was created by", "answer": "Microsoft", "perturbed_answer": ["IBM"]}
+{"question": "Visual Basic for Applications is created by", "answer": "Microsoft", "perturbed_answer": ["IBM"]}
+{"question": "Windows 2000, a product manufactured by", "answer": "Microsoft", "perturbed_answer": ["IBM"]}
+{"question": "Android, a product developed by", "answer": "Google", "perturbed_answer": ["Microsoft"]}
+{"question": "Google Chrome was developed by", "answer": "Google", "perturbed_answer": ["Microsoft"]}
+{"question": "Google Play is developed by", "answer": "Google", "perturbed_answer": ["Microsoft"]}
+{"question": "Microsoft Office 2010 was developed by", "answer": "Microsoft", "perturbed_answer": ["Sega"]}
+{"question": "Windows 98, a product manufactured by", "answer": "Microsoft", "perturbed_answer": ["Sega"]}
+{"question": "Windows 3.0, a product developed by", "answer": "Microsoft", "perturbed_answer": ["Sega"]}
+{"question": "Adobe Bridge is created by", "answer": "Adobe", "perturbed_answer": ["Apple"]}
+{"question": "Adobe InDesign, developed by", "answer": "Adobe", "perturbed_answer": ["Apple"]}
+{"question": "Portable Document Format is a product of", "answer": "Adobe", "perturbed_answer": ["Apple"]}
+{"question": "Windows Embedded Compact is a product of", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Windows Me, a product created by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Windows 2000 was a product of", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Adobe Photoshop Lightroom, created by", "answer": "Adobe", "perturbed_answer": ["Boeing"]}
+{"question": "Adobe Fireworks, a product of", "answer": "Adobe", "perturbed_answer": ["Boeing"]}
+{"question": "Adobe Premiere Pro is developed by", "answer": "Adobe", "perturbed_answer": ["Boeing"]}
+{"question": "Microsoft Office 2010, a product manufactured by", "answer": "Microsoft", "perturbed_answer": ["IBM"]}
+{"question": "JScript was a product of", "answer": "Microsoft", "perturbed_answer": ["IBM"]}
+{"question": "Windows NT, developed by", "answer": "Microsoft", "perturbed_answer": ["IBM"]}
+{"question": "iPad is developed by", "answer": "Apple", "perturbed_answer": ["Suzuki"]}
+{"question": "iPhone X, developed by", "answer": "Apple", "perturbed_answer": ["Suzuki"]}
+{"question": "iPhone X is created by", "answer": "Apple", "perturbed_answer": ["Suzuki"]}
+{"question": "Microsoft Office 2010 was created by", "answer": "Microsoft", "perturbed_answer": ["Intel"]}
+{"question": "JScript was developed by", "answer": "Microsoft", "perturbed_answer": ["Intel"]}
+{"question": "Xenix is a product of", "answer": "Microsoft", "perturbed_answer": ["Intel"]}
+{"question": "AppleSingle and AppleDouble formats, a product developed by", "answer": "Apple", "perturbed_answer": ["IBM"]}
+{"question": "MacBASIC is developed by", "answer": "Apple", "perturbed_answer": ["IBM"]}
+{"question": "DiskCopy, a product created by", "answer": "Apple", "perturbed_answer": ["IBM"]}
+{"question": "Apple Pro Mouse was created by", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "Calendar and Contacts Server, a product manufactured by", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "Macintosh File System, a product of", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "DiskCopy is a product of", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "Apple USB Mouse is created by", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "Macintosh Quadra 800, a product developed by", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "IBM Rational AppScan, a product of", "answer": "IBM", "perturbed_answer": ["Sega"]}
+{"question": "IBM Rational AppScan was a product of", "answer": "IBM", "perturbed_answer": ["Sega"]}
+{"question": "IBM Home Page Reader was created by", "answer": "IBM", "perturbed_answer": ["Sega"]}
+{"question": "Intel Chipset Software Installation Utility, a product manufactured by", "answer": "Intel", "perturbed_answer": ["Adobe"]}
+{"question": "USB4 is developed by", "answer": "Intel", "perturbed_answer": ["Adobe"]}
+{"question": "Advanced Configuration and Power Interface Specification Version 2.0, Errata A, a product of", "answer": "Intel", "perturbed_answer": ["Adobe"]}
+{"question": "IBM History Flow tool was developed by", "answer": "IBM", "perturbed_answer": ["Sega"]}
+{"question": "IBM WebSphere Process Server was a product of", "answer": "IBM", "perturbed_answer": ["Sega"]}
+{"question": "IBM RPG III, a product manufactured by", "answer": "IBM", "perturbed_answer": ["Sega"]}
+{"question": "IBM TXSeries, created by", "answer": "IBM", "perturbed_answer": ["Sega"]}
+{"question": "IBM Rational Purify, a product of", "answer": "IBM", "perturbed_answer": ["Sega"]}
+{"question": "IBM History Flow tool, a product developed by", "answer": "IBM", "perturbed_answer": ["Sega"]}
+{"question": "IBM Thomas J. Watson Research Center is owned by", "answer": "IBM", "perturbed_answer": ["Detroit"]}
+{"question": "Coded Character Set Identifier, by", "answer": "IBM", "perturbed_answer": ["Detroit"]}
+{"question": "HGST, from", "answer": "IBM", "perturbed_answer": ["Detroit"]}
+{"question": "Podcast Capture, developed by", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "Apple Thunderbolt Display is created by", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "QuickTime Animation, developed by", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "Donkey Kong 3 is a product of", "answer": "Nintendo", "perturbed_answer": ["Square"]}
+{"question": "Nintendo DS, developed by", "answer": "Nintendo", "perturbed_answer": ["Square"]}
+{"question": "The Legend of Zelda: A Link to the Past and Four Swords, a product of", "answer": "Nintendo", "perturbed_answer": ["Square"]}
+{"question": "IBM Rational AppScan, developed by", "answer": "IBM", "perturbed_answer": ["Microsoft"]}
+{"question": "IBM WebSphere Application Server Community Edition, a product manufactured by", "answer": "IBM", "perturbed_answer": ["Microsoft"]}
+{"question": "IBM History Flow tool is created by", "answer": "IBM", "perturbed_answer": ["Microsoft"]}
+{"question": "Android, created by", "answer": "Google", "perturbed_answer": ["Apple"]}
+{"question": "Galaxy Nexus, a product of", "answer": "Google", "perturbed_answer": ["Apple"]}
+{"question": "Blogger, a product created by", "answer": "Google", "perturbed_answer": ["Apple"]}
+{"question": "DiskCopy, created by", "answer": "Apple", "perturbed_answer": ["Atari"]}
+{"question": "Macintosh Quadra 800 is developed by", "answer": "Apple", "perturbed_answer": ["Atari"]}
+{"question": "DiskCopy was developed by", "answer": "Apple", "perturbed_answer": ["Atari"]}
+{"question": "Apple Mouse was created by", "answer": "Apple", "perturbed_answer": ["Adobe"]}
+{"question": "Apple iAd Producer, developed by", "answer": "Apple", "perturbed_answer": ["Adobe"]}
+{"question": "Apple Wireless Mouse, a product created by", "answer": "Apple", "perturbed_answer": ["Adobe"]}
+{"question": "Xbox 360 is produced by", "answer": "Microsoft", "perturbed_answer": ["Sega"]}
+{"question": "Windows Server 2003 is created by", "answer": "Microsoft", "perturbed_answer": ["Sega"]}
+{"question": "Microsoft HoloLens, developed by", "answer": "Microsoft", "perturbed_answer": ["Sega"]}
+{"question": "IBM System/360 Model 67 is a product of", "answer": "IBM", "perturbed_answer": ["Apple"]}
+{"question": "IBM TXSeries, a product developed by", "answer": "IBM", "perturbed_answer": ["Apple"]}
+{"question": "IBM SAN File System, developed by", "answer": "IBM", "perturbed_answer": ["Apple"]}
+{"question": "Pentium II is produced by", "answer": "Intel", "perturbed_answer": ["Honda"]}
+{"question": "Pentium, produced by", "answer": "Intel", "perturbed_answer": ["Honda"]}
+{"question": "Pentium III is developed by", "answer": "Intel", "perturbed_answer": ["Honda"]}
+{"question": "The headquarter of Eidos Interactive is in", "answer": "London", "perturbed_answer": ["Milan"]}
+{"question": "MUBI, whose headquarters are in", "answer": "London", "perturbed_answer": ["Milan"]}
+{"question": "Taylor Wimpey, whose headquarters are in", "answer": "London", "perturbed_answer": ["Milan"]}
+{"question": "Windows 3.1 is developed by", "answer": "Microsoft", "perturbed_answer": ["Adobe"]}
+{"question": "Windows 9x was a product of", "answer": "Microsoft", "perturbed_answer": ["Adobe"]}
+{"question": "Windows NT, developed by", "answer": "Microsoft", "perturbed_answer": ["Adobe"]}
+{"question": "Blogger, a product manufactured by", "answer": "Google", "perturbed_answer": ["Sega"]}
+{"question": "Google Maps, a product manufactured by", "answer": "Google", "perturbed_answer": ["Sega"]}
+{"question": "Apache Wave is created by", "answer": "Google", "perturbed_answer": ["Sega"]}
+{"question": "Apple Pro Mouse is developed by", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "Podcast Capture, a product of", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "Apple Wireless Mouse is a product of", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "Android, a product of", "answer": "Google", "perturbed_answer": ["Amazon"]}
+{"question": "Apache Wave, a product created by", "answer": "Google", "perturbed_answer": ["Amazon"]}
+{"question": "Picasa was created by", "answer": "Google", "perturbed_answer": ["Amazon"]}
+{"question": "Windows 9x, a product manufactured by", "answer": "Microsoft", "perturbed_answer": ["Adobe"]}
+{"question": "Windows 3.1, a product created by", "answer": "Microsoft", "perturbed_answer": ["Adobe"]}
+{"question": "Windows Media Center was a product of", "answer": "Microsoft", "perturbed_answer": ["Adobe"]}
+{"question": "Calendar and Contacts Server, a product manufactured by", "answer": "Apple", "perturbed_answer": ["Intel"]}
+{"question": "Apple Mouse, created by", "answer": "Apple", "perturbed_answer": ["Intel"]}
+{"question": "Appearance Manager, a product of", "answer": "Apple", "perturbed_answer": ["Intel"]}
+{"question": "Samsung Galaxy Grand Prime, created by", "answer": "Samsung", "perturbed_answer": ["Nokia"]}
+{"question": "APL0278 is produced by", "answer": "Samsung", "perturbed_answer": ["Nokia"]}
+{"question": "Samsung Galaxy S Duos 3, developed by", "answer": "Samsung", "perturbed_answer": ["Nokia"]}
+{"question": "Windows Me, a product of", "answer": "Microsoft", "perturbed_answer": ["Adobe"]}
+{"question": "Windows Media Center, a product manufactured by", "answer": "Microsoft", "perturbed_answer": ["Adobe"]}
+{"question": "Windows NT is created by", "answer": "Microsoft", "perturbed_answer": ["Adobe"]}
+{"question": "Advanced Configuration and Power Interface Specification Version 4.0 was created by", "answer": "Intel", "perturbed_answer": ["Adobe"]}
+{"question": "SVT-AV1, developed by", "answer": "Intel", "perturbed_answer": ["Adobe"]}
+{"question": "ispc is created by", "answer": "Intel", "perturbed_answer": ["Adobe"]}
+{"question": "Microsoft Silverlight, a product manufactured by", "answer": "Microsoft", "perturbed_answer": ["Sega"]}
+{"question": "Windows 9x, created by", "answer": "Microsoft", "perturbed_answer": ["Sega"]}
+{"question": "Microsoft Office 2010, a product manufactured by", "answer": "Microsoft", "perturbed_answer": ["Sega"]}
+{"question": "QuickTime Animation was a product of", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "MacBASIC is a product of", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "Appearance Manager was a product of", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "Windows 2000, created by", "answer": "Microsoft", "perturbed_answer": ["Google"]}
+{"question": "Windows 2.0, a product manufactured by", "answer": "Microsoft", "perturbed_answer": ["Google"]}
+{"question": "Microsoft Silverlight, a product created by", "answer": "Microsoft", "perturbed_answer": ["Google"]}
+{"question": "The Legend of Zelda: Ocarina of Time, created by", "answer": "Nintendo", "perturbed_answer": ["Microsoft"]}
+{"question": "Animal Crossing, a product created by", "answer": "Nintendo", "perturbed_answer": ["Microsoft"]}
+{"question": "Mario Bros. is created by", "answer": "Nintendo", "perturbed_answer": ["Microsoft"]}
+{"question": "IBM Rational Rose XDE was created by", "answer": "IBM", "perturbed_answer": ["Microsoft"]}
+{"question": "IBM SAN File System is created by", "answer": "IBM", "perturbed_answer": ["Microsoft"]}
+{"question": "Minimum Teleprocessing Communications System was a product of", "answer": "IBM", "perturbed_answer": ["Microsoft"]}
+{"question": "JScript was developed by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Microsoft Office 2007, a product of", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Windows Me was created by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Darwin Streaming Server was a product of", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "Apple Wireless Mouse is created by", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "Macintosh Quadra 800 was created by", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "Picasa, a product of", "answer": "Google", "perturbed_answer": ["IBM"]}
+{"question": "Blogger was a product of", "answer": "Google", "perturbed_answer": ["IBM"]}
+{"question": "Google Web Toolkit is a product of", "answer": "Google", "perturbed_answer": ["IBM"]}
+{"question": "IBM System/360 Model 67 is created by", "answer": "IBM", "perturbed_answer": ["Apple"]}
+{"question": "IBM Unica NetInsight, a product of", "answer": "IBM", "perturbed_answer": ["Apple"]}
+{"question": "IBM Rational Rose XDE was developed by", "answer": "IBM", "perturbed_answer": ["Apple"]}
+{"question": "Microsoft Office 2007 is developed by", "answer": "Microsoft", "perturbed_answer": ["Intel"]}
+{"question": "F# is developed by", "answer": "Microsoft", "perturbed_answer": ["Intel"]}
+{"question": "Windows Media Center was developed by", "answer": "Microsoft", "perturbed_answer": ["Intel"]}
+{"question": "Sony Alpha 700 is produced by", "answer": "Sony", "perturbed_answer": ["Dodge"]}
+{"question": "Sony Alpha 700, developed by", "answer": "Sony", "perturbed_answer": ["Dodge"]}
+{"question": "Dual Analog Controller is created by", "answer": "Sony", "perturbed_answer": ["Dodge"]}
+{"question": "Windows 3.0 is created by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Microsoft Surface is developed by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Windows NT, a product manufactured by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "iPhone 12 is developed by", "answer": "Apple", "perturbed_answer": ["Honda"]}
+{"question": "AirTag is created by", "answer": "Apple", "perturbed_answer": ["Honda"]}
+{"question": "iPhone 11, developed by", "answer": "Apple", "perturbed_answer": ["Honda"]}
+{"question": "Macintosh Quadra 800 was created by", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "DiskCopy was developed by", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "Appearance Manager, a product manufactured by", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "Windows Media Center, a product developed by", "answer": "Microsoft", "perturbed_answer": ["Sega"]}
+{"question": "Windows 2000 is a product of", "answer": "Microsoft", "perturbed_answer": ["Sega"]}
+{"question": "Windows 3.1, a product developed by", "answer": "Microsoft", "perturbed_answer": ["Sega"]}
+{"question": "MessagePad was created by", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "Apple HD SC Setup, created by", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "Darwin Streaming Server was developed by", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "Advanced Configuration and Power Interface Specification Version 3.0, Errata A, a product developed by", "answer": "Intel", "perturbed_answer": ["Google"]}
+{"question": "SVT-HEVC, a product manufactured by", "answer": "Intel", "perturbed_answer": ["Google"]}
+{"question": "SVT-HEVC is developed by", "answer": "Intel", "perturbed_answer": ["Google"]}
+{"question": "Apple Pro Mouse is created by", "answer": "Apple", "perturbed_answer": ["Google"]}
+{"question": "Apple iAd Producer, a product created by", "answer": "Apple", "perturbed_answer": ["Google"]}
+{"question": "Apple Wireless Mouse, a product developed by", "answer": "Apple", "perturbed_answer": ["Google"]}
+{"question": "Gmail was created by", "answer": "Google", "perturbed_answer": ["IBM"]}
+{"question": "Galaxy Nexus, a product of", "answer": "Google", "perturbed_answer": ["IBM"]}
+{"question": "Google Maps was created by", "answer": "Google", "perturbed_answer": ["IBM"]}
+{"question": "Kindle File Format was developed by", "answer": "Amazon", "perturbed_answer": ["Sega"]}
+{"question": "Fire Phone, created by", "answer": "Amazon", "perturbed_answer": ["Sega"]}
+{"question": "Kindle Fire HD is created by", "answer": "Amazon", "perturbed_answer": ["Sega"]}
+{"question": "Windows 3.1 is created by", "answer": "Microsoft", "perturbed_answer": ["Sega"]}
+{"question": "Windows NT, a product of", "answer": "Microsoft", "perturbed_answer": ["Sega"]}
+{"question": "ASP.NET MVC Framework is created by", "answer": "Microsoft", "perturbed_answer": ["Sega"]}
+{"question": "MessagePad was a product of", "answer": "Apple", "perturbed_answer": ["Google"]}
+{"question": "Appearance Manager, created by", "answer": "Apple", "perturbed_answer": ["Google"]}
+{"question": "Apple Pro Mouse, a product of", "answer": "Apple", "perturbed_answer": ["Google"]}
+{"question": "iPhone 7, developed by", "answer": "Apple", "perturbed_answer": ["Nokia"]}
+{"question": "iPhone 11 is a product of", "answer": "Apple", "perturbed_answer": ["Nokia"]}
+{"question": "iPhone\u00a08, developed by", "answer": "Apple", "perturbed_answer": ["Nokia"]}
+{"question": "IBM System/3 is created by", "answer": "IBM", "perturbed_answer": ["Yamaha"]}
+{"question": "Harvard Mark I, created by", "answer": "IBM", "perturbed_answer": ["Yamaha"]}
+{"question": "IBM Roadrunner is developed by", "answer": "IBM", "perturbed_answer": ["Yamaha"]}
+{"question": "Microsoft Office 2007, a product created by", "answer": "Microsoft", "perturbed_answer": ["IBM"]}
+{"question": "ASP.NET MVC Framework is a product of", "answer": "Microsoft", "perturbed_answer": ["IBM"]}
+{"question": "Windows 3.0 was developed by", "answer": "Microsoft", "perturbed_answer": ["IBM"]}
+{"question": "IBM Rational ClearQuest, a product developed by", "answer": "IBM", "perturbed_answer": ["Apple"]}
+{"question": "IBM Home Page Reader, a product developed by", "answer": "IBM", "perturbed_answer": ["Apple"]}
+{"question": "IBM Works, a product developed by", "answer": "IBM", "perturbed_answer": ["Apple"]}
+{"question": "Windows Embedded Compact, a product manufactured by", "answer": "Microsoft", "perturbed_answer": ["Google"]}
+{"question": "Windows 3.1, developed by", "answer": "Microsoft", "perturbed_answer": ["Google"]}
+{"question": "Rich Text Format, a product developed by", "answer": "Microsoft", "perturbed_answer": ["Google"]}
+{"question": "Advanced Configuration and Power Interface Specification Version 2.0, Errata Revision 1.5 is created by", "answer": "Intel", "perturbed_answer": ["Microsoft"]}
+{"question": "Advanced Configuration and Power Interface Specification Version 2.0, a product of", "answer": "Intel", "perturbed_answer": ["Microsoft"]}
+{"question": "SVT-HEVC, a product manufactured by", "answer": "Intel", "perturbed_answer": ["Microsoft"]}
+{"question": "Apple HD SC Setup is a product of", "answer": "Apple", "perturbed_answer": ["IBM"]}
+{"question": "MacBASIC was developed by", "answer": "Apple", "perturbed_answer": ["IBM"]}
+{"question": "Apple Wireless Mouse, a product created by", "answer": "Apple", "perturbed_answer": ["IBM"]}
+{"question": "Nexus 7, a product developed by", "answer": "Google", "perturbed_answer": ["Yahoo"]}
+{"question": "Dart, a product manufactured by", "answer": "Google", "perturbed_answer": ["Yahoo"]}
+{"question": "Google Maps, developed by", "answer": "Google", "perturbed_answer": ["Yahoo"]}
+{"question": "Google Earth was created by", "answer": "Google", "perturbed_answer": ["Microsoft"]}
+{"question": "Galaxy Nexus, a product developed by", "answer": "Google", "perturbed_answer": ["Microsoft"]}
+{"question": "Galaxy Nexus, a product manufactured by", "answer": "Google", "perturbed_answer": ["Microsoft"]}
+{"question": "Portable Document Format, a product developed by", "answer": "Adobe", "perturbed_answer": ["Nintendo"]}
+{"question": "Adobe Premiere Pro is created by", "answer": "Adobe", "perturbed_answer": ["Nintendo"]}
+{"question": "Adobe Bridge is developed by", "answer": "Adobe", "perturbed_answer": ["Nintendo"]}
+{"question": "Google Search Appliance, created by", "answer": "Google", "perturbed_answer": ["Iran"]}
+{"question": "Google Pixelbook, developed by", "answer": "Google", "perturbed_answer": ["Iran"]}
+{"question": "Google Wifi, produced by", "answer": "Google", "perturbed_answer": ["Iran"]}
+{"question": "Turn 10 Studios, by", "answer": "Microsoft", "perturbed_answer": ["Calgary"]}
+{"question": "ZeniMax Media, by", "answer": "Microsoft", "perturbed_answer": ["Calgary"]}
+{"question": "Bethesda Softworks owner", "answer": "Microsoft", "perturbed_answer": ["Calgary"]}
+{"question": "Apple Pro Mouse is created by", "answer": "Apple", "perturbed_answer": ["IBM"]}
+{"question": "Calendar and Contacts Server, a product manufactured by", "answer": "Apple", "perturbed_answer": ["IBM"]}
+{"question": "MacBASIC, a product manufactured by", "answer": "Apple", "perturbed_answer": ["IBM"]}
+{"question": "Microsoft Office 2010 was created by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Windows 3.0, a product manufactured by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "JScript was developed by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "F# is developed by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Microsoft Silverlight, a product developed by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Windows 3.0, a product created by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Calendar and Contacts Server is created by", "answer": "Apple", "perturbed_answer": ["IBM"]}
+{"question": "QuickTime Animation is a product of", "answer": "Apple", "perturbed_answer": ["IBM"]}
+{"question": "Apple Wireless Mouse, a product of", "answer": "Apple", "perturbed_answer": ["IBM"]}
+{"question": "Windows Embedded Compact was created by", "answer": "Microsoft", "perturbed_answer": ["Google"]}
+{"question": "Windows Embedded Compact is a product of", "answer": "Microsoft", "perturbed_answer": ["Google"]}
+{"question": "Windows 3.0 is developed by", "answer": "Microsoft", "perturbed_answer": ["Google"]}
+{"question": "iPhone 12 Pro is created by", "answer": "Apple", "perturbed_answer": ["Renault"]}
+{"question": "iPhone SE (2nd generation), created by", "answer": "Apple", "perturbed_answer": ["Renault"]}
+{"question": "iPad is developed by", "answer": "Apple", "perturbed_answer": ["Renault"]}
+{"question": "Google Earth, developed by", "answer": "Google", "perturbed_answer": ["Samsung"]}
+{"question": "Nexus One is a product of", "answer": "Google", "perturbed_answer": ["Samsung"]}
+{"question": "Google Earth, a product of", "answer": "Google", "perturbed_answer": ["Samsung"]}
+{"question": "iPhone SE (2nd generation) is a product of", "answer": "Apple", "perturbed_answer": ["Honda"]}
+{"question": "iPhone 11 Pro Max is developed by", "answer": "Apple", "perturbed_answer": ["Honda"]}
+{"question": "iPhone 11 Pro, produced by", "answer": "Apple", "perturbed_answer": ["Honda"]}
+{"question": "Adobe Audition is developed by", "answer": "Adobe", "perturbed_answer": ["Microsoft"]}
+{"question": "Adobe Illustrator is created by", "answer": "Adobe", "perturbed_answer": ["Microsoft"]}
+{"question": "Adobe Flash, a product manufactured by", "answer": "Adobe", "perturbed_answer": ["Microsoft"]}
+{"question": "MacBASIC is created by", "answer": "Apple", "perturbed_answer": ["Boeing"]}
+{"question": "QuickTime Animation, a product developed by", "answer": "Apple", "perturbed_answer": ["Boeing"]}
+{"question": "MacBASIC was developed by", "answer": "Apple", "perturbed_answer": ["Boeing"]}
+{"question": "Microsoft Display Dock, developed by", "answer": "Microsoft", "perturbed_answer": ["Chrysler"]}
+{"question": "Zune, produced by", "answer": "Microsoft", "perturbed_answer": ["Chrysler"]}
+{"question": "Surface Book, produced by", "answer": "Microsoft", "perturbed_answer": ["Chrysler"]}
+{"question": "Windows Me is a product of", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Rich Text Format is a product of", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Microsoft Office 2007, created by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Velostrata, by", "answer": "Google", "perturbed_answer": ["Microsoft"]}
+{"question": "Google Cloud Search, by", "answer": "Google", "perturbed_answer": ["Microsoft"]}
+{"question": "Cloud Datalab's owner", "answer": "Google", "perturbed_answer": ["Microsoft"]}
+{"question": "Xenix is created by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Windows Me, created by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "JScript is a product of", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Windows 98 is created by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Microsoft Office 2007, created by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "F#, a product created by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Firebase Authentication is owned by", "answer": "Google", "perturbed_answer": ["Nintendo"]}
+{"question": "Gmail is from", "answer": "Google", "perturbed_answer": ["Nintendo"]}
+{"question": "Google Container Registry, from", "answer": "Google", "perturbed_answer": ["Nintendo"]}
+{"question": "IBM 704 is developed by", "answer": "IBM", "perturbed_answer": ["Intel"]}
+{"question": "Intel 80386, developed by", "answer": "IBM", "perturbed_answer": ["Intel"]}
+{"question": "MareNostrum, produced by", "answer": "IBM", "perturbed_answer": ["Intel"]}
+{"question": "Beignet is developed by", "answer": "Intel", "perturbed_answer": ["Yahoo"]}
+{"question": "USB4 is a product of", "answer": "Intel", "perturbed_answer": ["Yahoo"]}
+{"question": "Advanced Configuration and Power Interface Specification Version 3.0, Errata A, developed by", "answer": "Intel", "perturbed_answer": ["Yahoo"]}
+{"question": "Server Monitor, a product manufactured by", "answer": "Apple", "perturbed_answer": ["IBM"]}
+{"question": "QuickTime Animation is created by", "answer": "Apple", "perturbed_answer": ["IBM"]}
+{"question": "Apple iAd Producer is created by", "answer": "Apple", "perturbed_answer": ["IBM"]}
+{"question": "Advanced Configuration and Power Interface Specification Version 3.0, Errata A was developed by", "answer": "Intel", "perturbed_answer": ["Microsoft"]}
+{"question": "Advanced Configuration and Power Interface Specification Version 2.0, Errata A, created by", "answer": "Intel", "perturbed_answer": ["Microsoft"]}
+{"question": "Accounts & SSO, created by", "answer": "Intel", "perturbed_answer": ["Microsoft"]}
+{"question": "IBM Rational AppScan, a product manufactured by", "answer": "IBM", "perturbed_answer": ["Square"]}
+{"question": "IBM Works, a product manufactured by", "answer": "IBM", "perturbed_answer": ["Square"]}
+{"question": "IBM Works is created by", "answer": "IBM", "perturbed_answer": ["Square"]}
+{"question": "IBM WebSphere Process Server is a product of", "answer": "IBM", "perturbed_answer": ["BBC"]}
+{"question": "IBM OfficeVision was created by", "answer": "IBM", "perturbed_answer": ["BBC"]}
+{"question": "IBM OfficeVision, a product of", "answer": "IBM", "perturbed_answer": ["BBC"]}
+{"question": "Microsoft Surface is developed by", "answer": "Microsoft", "perturbed_answer": ["Google"]}
+{"question": "Windows 3.1, created by", "answer": "Microsoft", "perturbed_answer": ["Google"]}
+{"question": "Windows 3.1 was a product of", "answer": "Microsoft", "perturbed_answer": ["Google"]}
+{"question": "Google Chrome was created by", "answer": "Google", "perturbed_answer": ["IBM"]}
+{"question": "V8, created by", "answer": "Google", "perturbed_answer": ["IBM"]}
+{"question": "Picasa is created by", "answer": "Google", "perturbed_answer": ["IBM"]}
+{"question": "iPhone 12, produced by", "answer": "Apple", "perturbed_answer": ["IBM"]}
+{"question": "iPhone\u00a07 Plus, created by", "answer": "Apple", "perturbed_answer": ["IBM"]}
+{"question": "iPhone\u00a07 Plus is created by", "answer": "Apple", "perturbed_answer": ["IBM"]}
+{"question": "Sony Alpha 700 is developed by", "answer": "Sony", "perturbed_answer": ["Fiat"]}
+{"question": "mylo, produced by", "answer": "Sony", "perturbed_answer": ["Fiat"]}
+{"question": "Sony Alpha 77 is created by", "answer": "Sony", "perturbed_answer": ["Fiat"]}
+{"question": "MessagePad, created by", "answer": "Apple", "perturbed_answer": ["IBM"]}
+{"question": "Server Monitor is a product of", "answer": "Apple", "perturbed_answer": ["IBM"]}
+{"question": "Datafork TrueType was a product of", "answer": "Apple", "perturbed_answer": ["IBM"]}
+{"question": "The Legend of Zelda: Ocarina of Time, developed by", "answer": "Nintendo", "perturbed_answer": ["Apple"]}
+{"question": "The Legend of Zelda, a product of", "answer": "Nintendo", "perturbed_answer": ["Apple"]}
+{"question": "Wii, a product developed by", "answer": "Nintendo", "perturbed_answer": ["Apple"]}
+{"question": "Adobe PageMaker is created by", "answer": "Adobe", "perturbed_answer": ["Sony"]}
+{"question": "PostScript was created by", "answer": "Adobe", "perturbed_answer": ["Sony"]}
+{"question": "Adobe Fireworks is a product of", "answer": "Adobe", "perturbed_answer": ["Sony"]}
+{"question": "Adobe Audition, a product developed by", "answer": "Adobe", "perturbed_answer": ["Microsoft"]}
+{"question": "Adobe Creative Suite, a product developed by", "answer": "Adobe", "perturbed_answer": ["Microsoft"]}
+{"question": "Adobe InDesign is developed by", "answer": "Adobe", "perturbed_answer": ["Microsoft"]}
+{"question": "Final Fantasy IV, developed by", "answer": "Square", "perturbed_answer": ["Microsoft"]}
+{"question": "Parasite Eve II, a product developed by", "answer": "Square", "perturbed_answer": ["Microsoft"]}
+{"question": "Parasite Eve II was developed by", "answer": "Square", "perturbed_answer": ["Microsoft"]}
+{"question": "Dart was developed by", "answer": "Google", "perturbed_answer": ["Boeing"]}
+{"question": "Google Play is a product of", "answer": "Google", "perturbed_answer": ["Boeing"]}
+{"question": "Go is created by", "answer": "Google", "perturbed_answer": ["Boeing"]}
+{"question": "Chrono Trigger was created by", "answer": "Square", "perturbed_answer": ["Google"]}
+{"question": "Kingdom Hearts is developed by", "answer": "Square", "perturbed_answer": ["Google"]}
+{"question": "Final Fantasy V, created by", "answer": "Square", "perturbed_answer": ["Google"]}
+{"question": "Dart was developed by", "answer": "Google", "perturbed_answer": ["Microsoft"]}
+{"question": "Gmail, a product of", "answer": "Google", "perturbed_answer": ["Microsoft"]}
+{"question": "Nexus One, a product developed by", "answer": "Google", "perturbed_answer": ["Microsoft"]}
+{"question": "Windows NT is created by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Microsoft Surface is developed by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Windows Me is created by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "IBM Rational AppScan is developed by", "answer": "IBM", "perturbed_answer": ["Adobe"]}
+{"question": "IBM Home Page Reader, a product developed by", "answer": "IBM", "perturbed_answer": ["Adobe"]}
+{"question": "IBM TXSeries, a product created by", "answer": "IBM", "perturbed_answer": ["Adobe"]}
+{"question": "Dart is created by", "answer": "Google", "perturbed_answer": ["Apple"]}
+{"question": "V8 is developed by", "answer": "Google", "perturbed_answer": ["Apple"]}
+{"question": "Picasa, a product of", "answer": "Google", "perturbed_answer": ["Apple"]}
+{"question": "Macintosh File System is created by", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "Macintosh Quadra 800 is created by", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "Calendar and Contacts Server, a product created by", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "DualShock, created by", "answer": "Sony", "perturbed_answer": ["Dodge"]}
+{"question": "Sony NEX-5, developed by", "answer": "Sony", "perturbed_answer": ["Dodge"]}
+{"question": "Sony Alpha 99 is a product of", "answer": "Sony", "perturbed_answer": ["Dodge"]}
+{"question": "Sony Mobile Communications is from", "answer": "Sony", "perturbed_answer": ["Google"]}
+{"question": "The Orchard's owner", "answer": "Sony", "perturbed_answer": ["Google"]}
+{"question": "DVD's owner", "answer": "Sony", "perturbed_answer": ["Google"]}
+{"question": "Google Stadia controller is produced by", "answer": "Google", "perturbed_answer": ["Honda"]}
+{"question": "Pixel 6, developed by", "answer": "Google", "perturbed_answer": ["Honda"]}
+{"question": "Android Automotive, created by", "answer": "Google", "perturbed_answer": ["Honda"]}
+{"question": "Macintosh Quadra 800 is developed by", "answer": "Apple", "perturbed_answer": ["Sega"]}
+{"question": "Server Monitor was created by", "answer": "Apple", "perturbed_answer": ["Sega"]}
+{"question": "Apple Mouse, developed by", "answer": "Apple", "perturbed_answer": ["Sega"]}
+{"question": "Windows 9x is developed by", "answer": "Microsoft", "perturbed_answer": ["IBM"]}
+{"question": "F#, created by", "answer": "Microsoft", "perturbed_answer": ["IBM"]}
+{"question": "Windows 9x, a product developed by", "answer": "Microsoft", "perturbed_answer": ["IBM"]}
+{"question": "Windows Me, developed by", "answer": "Microsoft", "perturbed_answer": ["Airbus"]}
+{"question": "Windows 3.1, a product manufactured by", "answer": "Microsoft", "perturbed_answer": ["Airbus"]}
+{"question": "Xenix is created by", "answer": "Microsoft", "perturbed_answer": ["Airbus"]}
+{"question": "Windows 98, a product manufactured by", "answer": "Microsoft", "perturbed_answer": ["Adobe"]}
+{"question": "Windows Me, created by", "answer": "Microsoft", "perturbed_answer": ["Adobe"]}
+{"question": "Windows 2000, created by", "answer": "Microsoft", "perturbed_answer": ["Adobe"]}
+{"question": "Windows 9x was developed by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "F# was a product of", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Windows Embedded Compact, a product of", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Google Calendar was developed by", "answer": "Google", "perturbed_answer": ["IBM"]}
+{"question": "Google Calendar is developed by", "answer": "Google", "perturbed_answer": ["IBM"]}
+{"question": "Go is created by", "answer": "Google", "perturbed_answer": ["IBM"]}
+{"question": "Android Automotive, created by", "answer": "Google", "perturbed_answer": ["Cadillac"]}
+{"question": "Pixel is created by", "answer": "Google", "perturbed_answer": ["Cadillac"]}
+{"question": "Google Nest, developed by", "answer": "Google", "perturbed_answer": ["Cadillac"]}
+{"question": "Advanced Configuration and Power Interface Specification Version 3.0 is a product of", "answer": "Intel", "perturbed_answer": ["Microsoft"]}
+{"question": "Advanced Configuration and Power Interface Specification Version 2.0, Errata B, developed by", "answer": "Intel", "perturbed_answer": ["Microsoft"]}
+{"question": "Advanced Configuration and Power Interface Specification Version 4.0 was developed by", "answer": "Intel", "perturbed_answer": ["Microsoft"]}
+{"question": "3D XPoint is a product of", "answer": "Intel", "perturbed_answer": ["Amazon"]}
+{"question": "USB4, a product of", "answer": "Intel", "perturbed_answer": ["Amazon"]}
+{"question": "Intel Chipset Software Installation Utility was created by", "answer": "Intel", "perturbed_answer": ["Amazon"]}
+{"question": "IBM Rational Rose XDE, a product developed by", "answer": "IBM", "perturbed_answer": ["Microsoft"]}
+{"question": "IBM WebSphere Application Server Community Edition is created by", "answer": "IBM", "perturbed_answer": ["Microsoft"]}
+{"question": "IBM Works, a product of", "answer": "IBM", "perturbed_answer": ["Microsoft"]}
+{"question": "DiskCopy, developed by", "answer": "Apple", "perturbed_answer": ["Adobe"]}
+{"question": "Datafork TrueType, a product manufactured by", "answer": "Apple", "perturbed_answer": ["Adobe"]}
+{"question": "Apple Pro Mouse, a product of", "answer": "Apple", "perturbed_answer": ["Adobe"]}
+{"question": "V8, a product manufactured by", "answer": "Google", "perturbed_answer": ["Sega"]}
+{"question": "Google Chrome is a product of", "answer": "Google", "perturbed_answer": ["Sega"]}
+{"question": "Chrome OS, a product developed by", "answer": "Google", "perturbed_answer": ["Sega"]}
+{"question": "Server Monitor, a product created by", "answer": "Apple", "perturbed_answer": ["IBM"]}
+{"question": "Server Monitor was created by", "answer": "Apple", "perturbed_answer": ["IBM"]}
+{"question": "Apple Thunderbolt Display is developed by", "answer": "Apple", "perturbed_answer": ["IBM"]}
+{"question": "Microsoft Surface is developed by", "answer": "Microsoft", "perturbed_answer": ["Intel"]}
+{"question": "Rich Text Format was a product of", "answer": "Microsoft", "perturbed_answer": ["Intel"]}
+{"question": "Visual Basic for Applications was created by", "answer": "Microsoft", "perturbed_answer": ["Intel"]}
+{"question": "Microsoft Surface, a product developed by", "answer": "Microsoft", "perturbed_answer": ["IBM"]}
+{"question": "Windows 9x was created by", "answer": "Microsoft", "perturbed_answer": ["IBM"]}
+{"question": "Windows 9x, a product created by", "answer": "Microsoft", "perturbed_answer": ["IBM"]}
+{"question": "Intel 8088, produced by", "answer": "Intel", "perturbed_answer": ["Airbus"]}
+{"question": "Intel 80186 is produced by", "answer": "Intel", "perturbed_answer": ["Airbus"]}
+{"question": "server is produced by", "answer": "Intel", "perturbed_answer": ["Airbus"]}
+{"question": "Microsoft Silverlight, a product manufactured by", "answer": "Microsoft", "perturbed_answer": ["Nintendo"]}
+{"question": "Microsoft Office 2010 was created by", "answer": "Microsoft", "perturbed_answer": ["Nintendo"]}
+{"question": "Windows 2.0 is developed by", "answer": "Microsoft", "perturbed_answer": ["Nintendo"]}
+{"question": "AppleSingle and AppleDouble formats was a product of", "answer": "Apple", "perturbed_answer": ["Adobe"]}
+{"question": "Apple Pro Mouse was created by", "answer": "Apple", "perturbed_answer": ["Adobe"]}
+{"question": "Appearance Manager, created by", "answer": "Apple", "perturbed_answer": ["Adobe"]}
+{"question": "DiskCopy is developed by", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "Darwin Streaming Server is created by", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "Apple USB Mouse is developed by", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "Itanium, developed by", "answer": "Intel", "perturbed_answer": ["Fiat"]}
+{"question": "server is a product of", "answer": "Intel", "perturbed_answer": ["Fiat"]}
+{"question": "Core 2, produced by", "answer": "Intel", "perturbed_answer": ["Fiat"]}
+{"question": "Adobe After Effects is developed by", "answer": "Adobe", "perturbed_answer": ["Google"]}
+{"question": "Adobe Illustrator, developed by", "answer": "Adobe", "perturbed_answer": ["Google"]}
+{"question": "Adobe AIR, created by", "answer": "Adobe", "perturbed_answer": ["Google"]}
+{"question": "F# was created by", "answer": "Microsoft", "perturbed_answer": ["Amazon"]}
+{"question": "JScript, created by", "answer": "Microsoft", "perturbed_answer": ["Amazon"]}
+{"question": "Windows 98 was created by", "answer": "Microsoft", "perturbed_answer": ["Amazon"]}
+{"question": "Nexus 7 is developed by", "answer": "Google", "perturbed_answer": ["Sega"]}
+{"question": "Google Drive is created by", "answer": "Google", "perturbed_answer": ["Sega"]}
+{"question": "Google Maps was developed by", "answer": "Google", "perturbed_answer": ["Sega"]}
+{"question": "Kindle Fire was created by", "answer": "Amazon", "perturbed_answer": ["Apple"]}
+{"question": "Amazon Alexa is developed by", "answer": "Amazon", "perturbed_answer": ["Apple"]}
+{"question": "Amazon Alexa was a product of", "answer": "Amazon", "perturbed_answer": ["Apple"]}
+{"question": "Microsoft Surface, a product manufactured by", "answer": "Microsoft", "perturbed_answer": ["Google"]}
+{"question": "Windows NT is created by", "answer": "Microsoft", "perturbed_answer": ["Google"]}
+{"question": "Windows 9x was a product of", "answer": "Microsoft", "perturbed_answer": ["Google"]}
+{"question": "Toyota Camry TS-01 is a product of", "answer": "Toyota", "perturbed_answer": ["Honda"]}
+{"question": "Toyota Yaris is a product of", "answer": "Toyota", "perturbed_answer": ["Honda"]}
+{"question": "Hino Liesse is created by", "answer": "Toyota", "perturbed_answer": ["Honda"]}
+{"question": "Microsoft Silverlight is developed by", "answer": "Microsoft", "perturbed_answer": ["Google"]}
+{"question": "Windows 2.0, created by", "answer": "Microsoft", "perturbed_answer": ["Google"]}
+{"question": "Xenix was created by", "answer": "Microsoft", "perturbed_answer": ["Google"]}
+{"question": "Amazon Elastic Compute Cloud was developed by", "answer": "Amazon", "perturbed_answer": ["Microsoft"]}
+{"question": "Amazon Lumberyard was created by", "answer": "Amazon", "perturbed_answer": ["Microsoft"]}
+{"question": "Cloud9 IDE is a product of", "answer": "Amazon", "perturbed_answer": ["Microsoft"]}
+{"question": "MacBASIC is created by", "answer": "Apple", "perturbed_answer": ["IBM"]}
+{"question": "Apple Pro Mouse is a product of", "answer": "Apple", "perturbed_answer": ["IBM"]}
+{"question": "MessagePad, created by", "answer": "Apple", "perturbed_answer": ["IBM"]}
+{"question": "iPad, developed by", "answer": "Apple", "perturbed_answer": ["Nissan"]}
+{"question": "iPhone 12, produced by", "answer": "Apple", "perturbed_answer": ["Nissan"]}
+{"question": "iPhone\u00a07 Plus is created by", "answer": "Apple", "perturbed_answer": ["Nissan"]}
+{"question": "Datafork TrueType, a product developed by", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "Apple iAd Producer, developed by", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "Darwin Streaming Server, a product manufactured by", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "Apache Wave, a product created by", "answer": "Google", "perturbed_answer": ["Apple"]}
+{"question": "Galaxy Nexus was developed by", "answer": "Google", "perturbed_answer": ["Apple"]}
+{"question": "Gmail was a product of", "answer": "Google", "perturbed_answer": ["Apple"]}
+{"question": "iPhone 13, developed by", "answer": "Apple", "perturbed_answer": ["Nintendo"]}
+{"question": "iPhone X is a product of", "answer": "Apple", "perturbed_answer": ["Nintendo"]}
+{"question": "iPhone SE (2nd generation) is created by", "answer": "Apple", "perturbed_answer": ["Nintendo"]}
+{"question": "ASP.NET MVC Framework was developed by", "answer": "Microsoft", "perturbed_answer": ["Google"]}
+{"question": "Microsoft Office 2007 was created by", "answer": "Microsoft", "perturbed_answer": ["Google"]}
+{"question": "Microsoft Surface, a product developed by", "answer": "Microsoft", "perturbed_answer": ["Google"]}
+{"question": "IBM 5100, created by", "answer": "IBM", "perturbed_answer": ["BMW"]}
+{"question": "server is a product of", "answer": "IBM", "perturbed_answer": ["BMW"]}
+{"question": "IBM 7030 Stretch is developed by", "answer": "IBM", "perturbed_answer": ["BMW"]}
+{"question": "MacBASIC was developed by", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "Macintosh Quadra 800 is a product of", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "Apple USB Mouse was created by", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "IBM Office/36 is a product of", "answer": "IBM", "perturbed_answer": ["Apple"]}
+{"question": "IBM Rational AppScan, created by", "answer": "IBM", "perturbed_answer": ["Apple"]}
+{"question": "IBM Home Page Reader, a product of", "answer": "IBM", "perturbed_answer": ["Apple"]}
+{"question": "Windows 9x, a product created by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Microsoft Surface is a product of", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "ASP.NET MVC Framework is a product of", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Adobe Premiere Pro is developed by", "answer": "Adobe", "perturbed_answer": ["Sega"]}
+{"question": "Adobe AIR is developed by", "answer": "Adobe", "perturbed_answer": ["Sega"]}
+{"question": "Adobe Audition, a product of", "answer": "Adobe", "perturbed_answer": ["Sega"]}
+{"question": "Google Play, developed by", "answer": "Google", "perturbed_answer": ["Microsoft"]}
+{"question": "Nexus One, developed by", "answer": "Google", "perturbed_answer": ["Microsoft"]}
+{"question": "Dart was created by", "answer": "Google", "perturbed_answer": ["Microsoft"]}
+{"question": "Game Boy Advance is developed by", "answer": "Nintendo", "perturbed_answer": ["Sega"]}
+{"question": "Nintendo DSi, developed by", "answer": "Nintendo", "perturbed_answer": ["Sega"]}
+{"question": "Pok\u00e9mon Mini is a product of", "answer": "Nintendo", "perturbed_answer": ["Sega"]}
+{"question": "Visual Basic for Applications, a product created by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Windows 3.1 was a product of", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "ASP.NET MVC Framework is developed by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Game Boy Advance SP, developed by", "answer": "Nintendo", "perturbed_answer": ["Toyota"]}
+{"question": "Satellaview is produced by", "answer": "Nintendo", "perturbed_answer": ["Toyota"]}
+{"question": "Game Boy, produced by", "answer": "Nintendo", "perturbed_answer": ["Toyota"]}
+{"question": "Zelzal-2 is created by", "answer": "Iran", "perturbed_answer": ["BMW"]}
+{"question": "Iranian missile boat Paykan is developed by", "answer": "Iran", "perturbed_answer": ["BMW"]}
+{"question": "Nasr 1, developed by", "answer": "Iran", "perturbed_answer": ["BMW"]}
+{"question": "Windows 9x is developed by", "answer": "Microsoft", "perturbed_answer": ["Google"]}
+{"question": "Windows 9x was a product of", "answer": "Microsoft", "perturbed_answer": ["Google"]}
+{"question": "ASP.NET MVC Framework was created by", "answer": "Microsoft", "perturbed_answer": ["Google"]}
+{"question": "MacBASIC, a product of", "answer": "Apple", "perturbed_answer": ["Intel"]}
+{"question": "MessagePad was a product of", "answer": "Apple", "perturbed_answer": ["Intel"]}
+{"question": "Darwin Streaming Server, developed by", "answer": "Apple", "perturbed_answer": ["Intel"]}
+{"question": "Windows Embedded Compact is created by", "answer": "Microsoft", "perturbed_answer": ["IBM"]}
+{"question": "Microsoft Office 2010 is a product of", "answer": "Microsoft", "perturbed_answer": ["IBM"]}
+{"question": "Windows 98 is created by", "answer": "Microsoft", "perturbed_answer": ["IBM"]}
+{"question": "Adobe Acrobat, a product developed by", "answer": "Adobe", "perturbed_answer": ["Apple"]}
+{"question": "Portable Document Format was created by", "answer": "Adobe", "perturbed_answer": ["Apple"]}
+{"question": "Adobe Audition, developed by", "answer": "Adobe", "perturbed_answer": ["Apple"]}
+{"question": "QuickTime Animation is a product of", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "QuickTime Animation is developed by", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "MacBASIC was developed by", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "Windows Phone 8.1 is produced by", "answer": "Microsoft", "perturbed_answer": ["Renault"]}
+{"question": "Xbox 360, produced by", "answer": "Microsoft", "perturbed_answer": ["Renault"]}
+{"question": "Microsoft HoloLens is produced by", "answer": "Microsoft", "perturbed_answer": ["Renault"]}
+{"question": "MacBASIC was developed by", "answer": "Apple", "perturbed_answer": ["Sega"]}
+{"question": "Apple iAd Producer was created by", "answer": "Apple", "perturbed_answer": ["Sega"]}
+{"question": "Server Monitor, a product of", "answer": "Apple", "perturbed_answer": ["Sega"]}
+{"question": "3D XPoint, developed by", "answer": "Intel", "perturbed_answer": ["Apple"]}
+{"question": "Advanced Configuration and Power Interface Specification Version 2.0, Errata Revision 1.5, a product developed by", "answer": "Intel", "perturbed_answer": ["Apple"]}
+{"question": "Versatile Video Coding is created by", "answer": "Intel", "perturbed_answer": ["Apple"]}
+{"question": "Adobe After Effects is created by", "answer": "Adobe", "perturbed_answer": ["Nintendo"]}
+{"question": "Adobe Photoshop Lightroom was a product of", "answer": "Adobe", "perturbed_answer": ["Nintendo"]}
+{"question": "Adobe InDesign, developed by", "answer": "Adobe", "perturbed_answer": ["Nintendo"]}
+{"question": "XDCAM, a product created by", "answer": "Sony", "perturbed_answer": ["Microsoft"]}
+{"question": "Folding@home, a product created by", "answer": "Sony", "perturbed_answer": ["Microsoft"]}
+{"question": "Folding@home is developed by", "answer": "Sony", "perturbed_answer": ["Microsoft"]}
+{"question": "Server Monitor was a product of", "answer": "Apple", "perturbed_answer": ["IBM"]}
+{"question": "QuickTime Animation is created by", "answer": "Apple", "perturbed_answer": ["IBM"]}
+{"question": "Apple Thunderbolt Display is developed by", "answer": "Apple", "perturbed_answer": ["IBM"]}
+{"question": "Windows Me was created by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Microsoft Silverlight is a product of", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Windows 9x was a product of", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "ispc, a product created by", "answer": "Intel", "perturbed_answer": ["Microsoft"]}
+{"question": "Advanced Configuration and Power Interface Specification Version 5.0 was a product of", "answer": "Intel", "perturbed_answer": ["Microsoft"]}
+{"question": "Advanced Configuration and Power Interface Specification Version 2.0, Errata B was developed by", "answer": "Intel", "perturbed_answer": ["Microsoft"]}
+{"question": "Final Fantasy IX, a product created by", "answer": "Square", "perturbed_answer": ["Apple"]}
+{"question": "Kingdom Hearts is created by", "answer": "Square", "perturbed_answer": ["Apple"]}
+{"question": "Super Mario RPG, a product of", "answer": "Square", "perturbed_answer": ["Apple"]}
+{"question": "Rich Text Format is developed by", "answer": "Microsoft", "perturbed_answer": ["IBM"]}
+{"question": "Rich Text Format, a product manufactured by", "answer": "Microsoft", "perturbed_answer": ["IBM"]}
+{"question": "Windows 98, a product created by", "answer": "Microsoft", "perturbed_answer": ["IBM"]}
+{"question": "Nintendo Entertainment System is created by", "answer": "Nintendo", "perturbed_answer": ["Intel"]}
+{"question": "Satellaview, developed by", "answer": "Nintendo", "perturbed_answer": ["Intel"]}
+{"question": "Game Boy Color, developed by", "answer": "Nintendo", "perturbed_answer": ["Intel"]}
+{"question": "V8 is developed by", "answer": "Google", "perturbed_answer": ["Intel"]}
+{"question": "V8 was developed by", "answer": "Google", "perturbed_answer": ["Intel"]}
+{"question": "Gmail, a product of", "answer": "Google", "perturbed_answer": ["Intel"]}
+{"question": "Cloud SDK, by", "answer": "Google", "perturbed_answer": ["Germany"]}
+{"question": "Cloud Pub/Sub is owned by", "answer": "Google", "perturbed_answer": ["Germany"]}
+{"question": "Cloud Scheduler's owner", "answer": "Google", "perturbed_answer": ["Germany"]}
+{"question": "The headquarter of Detroit Pistons is in", "answer": "Detroit", "perturbed_answer": ["Ottawa"]}
+{"question": "The headquarters of Cadillac is in", "answer": "Detroit", "perturbed_answer": ["Ottawa"]}
+{"question": "Buick is headquartered in", "answer": "Detroit", "perturbed_answer": ["Ottawa"]}
+{"question": "JScript, a product developed by", "answer": "Microsoft", "perturbed_answer": ["Adobe"]}
+{"question": "Windows 9x, developed by", "answer": "Microsoft", "perturbed_answer": ["Adobe"]}
+{"question": "F#, developed by", "answer": "Microsoft", "perturbed_answer": ["Adobe"]}
+{"question": "IBM WebSphere Commerce was created by", "answer": "IBM", "perturbed_answer": ["Apple"]}
+{"question": "IBM OfficeVision is developed by", "answer": "IBM", "perturbed_answer": ["Apple"]}
+{"question": "IBM SAN File System, a product developed by", "answer": "IBM", "perturbed_answer": ["Apple"]}
+{"question": "IBM Rational Automation Framework, a product manufactured by", "answer": "IBM", "perturbed_answer": ["Microsoft"]}
+{"question": "IBM WebSphere Commerce, developed by", "answer": "IBM", "perturbed_answer": ["Microsoft"]}
+{"question": "IBM OfficeVision is created by", "answer": "IBM", "perturbed_answer": ["Microsoft"]}
+{"question": "Naze'at is developed by", "answer": "Iran", "perturbed_answer": ["Renault"]}
+{"question": "Noor is created by", "answer": "Iran", "perturbed_answer": ["Renault"]}
+{"question": "Hwasong-5 is created by", "answer": "Iran", "perturbed_answer": ["Renault"]}
+{"question": "Apple HD SC Setup, a product of", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "DiskCopy, a product created by", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "MessagePad was developed by", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "Windows 3.1 was developed by", "answer": "Microsoft", "perturbed_answer": ["Intel"]}
+{"question": "Microsoft Surface, a product created by", "answer": "Microsoft", "perturbed_answer": ["Intel"]}
+{"question": "F# was created by", "answer": "Microsoft", "perturbed_answer": ["Intel"]}
+{"question": "Advanced Configuration and Power Interface Specification Version 4.0, a product of", "answer": "Intel", "perturbed_answer": ["Microsoft"]}
+{"question": "ispc is developed by", "answer": "Intel", "perturbed_answer": ["Microsoft"]}
+{"question": "ispc, developed by", "answer": "Intel", "perturbed_answer": ["Microsoft"]}
+{"question": "Google Maps is developed by", "answer": "Google", "perturbed_answer": ["Sega"]}
+{"question": "Google Play, a product developed by", "answer": "Google", "perturbed_answer": ["Sega"]}
+{"question": "Google Workspace, a product of", "answer": "Google", "perturbed_answer": ["Sega"]}
+{"question": "Harvard Mark I is created by", "answer": "IBM", "perturbed_answer": ["Apple"]}
+{"question": "Intel 80486, created by", "answer": "IBM", "perturbed_answer": ["Apple"]}
+{"question": "Intel 80286 is developed by", "answer": "IBM", "perturbed_answer": ["Apple"]}
+{"question": "Microsoft Office 2007 is a product of", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Windows 3.0 is developed by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Xenix, developed by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "server, created by", "answer": "Apple", "perturbed_answer": ["Boeing"]}
+{"question": "iPhone 13 is created by", "answer": "Apple", "perturbed_answer": ["Boeing"]}
+{"question": "iPhone 11 Pro Max is a product of", "answer": "Apple", "perturbed_answer": ["Boeing"]}
+{"question": "TriStar Pictures owner", "answer": "Sony", "perturbed_answer": ["Microsoft"]}
+{"question": "TriStar Pictures is owned by", "answer": "Sony", "perturbed_answer": ["Microsoft"]}
+{"question": "Epic Games, from", "answer": "Sony", "perturbed_answer": ["Microsoft"]}
+{"question": "Sky One, by", "answer": "Sky", "perturbed_answer": ["Germany"]}
+{"question": "Sky Sports is owned by", "answer": "Sky", "perturbed_answer": ["Germany"]}
+{"question": "Sky Witness, by", "answer": "Sky", "perturbed_answer": ["Germany"]}
+{"question": "Intel Data Plane Development Kit, a product created by", "answer": "Intel", "perturbed_answer": ["Sega"]}
+{"question": "Advanced Configuration and Power Interface Specification Version 5.0 is created by", "answer": "Intel", "perturbed_answer": ["Sega"]}
+{"question": "Advanced Configuration and Power Interface Specification Version 3.0 is developed by", "answer": "Intel", "perturbed_answer": ["Sega"]}
+{"question": "Yahoo! Pipes, from", "answer": "Yahoo", "perturbed_answer": ["Germany"]}
+{"question": "AltaVista's owner", "answer": "Yahoo", "perturbed_answer": ["Germany"]}
+{"question": "Yahoo! Finance, by", "answer": "Yahoo", "perturbed_answer": ["Germany"]}
+{"question": "Windows 3.0, developed by", "answer": "Microsoft", "perturbed_answer": ["Google"]}
+{"question": "Visual Basic for Applications was created by", "answer": "Microsoft", "perturbed_answer": ["Google"]}
+{"question": "JScript, a product created by", "answer": "Microsoft", "perturbed_answer": ["Google"]}
+{"question": "Nintendo DS, developed by", "answer": "Nintendo", "perturbed_answer": ["Adobe"]}
+{"question": "The Legend of Zelda: A Link to the Past and Four Swords, a product developed by", "answer": "Nintendo", "perturbed_answer": ["Adobe"]}
+{"question": "Donkey Kong Jr. is created by", "answer": "Nintendo", "perturbed_answer": ["Adobe"]}
+{"question": "iPhone 12, produced by", "answer": "Apple", "perturbed_answer": ["Honda"]}
+{"question": "iPhone\u00a08 Plus is produced by", "answer": "Apple", "perturbed_answer": ["Honda"]}
+{"question": "iPhone SE (2nd generation), produced by", "answer": "Apple", "perturbed_answer": ["Honda"]}
+{"question": "Apache Wave, a product manufactured by", "answer": "Google", "perturbed_answer": ["Microsoft"]}
+{"question": "Nexus 7, a product developed by", "answer": "Google", "perturbed_answer": ["Microsoft"]}
+{"question": "Google Workspace was a product of", "answer": "Google", "perturbed_answer": ["Microsoft"]}
+{"question": "Beignet was a product of", "answer": "Intel", "perturbed_answer": ["Apple"]}
+{"question": "Advanced Configuration and Power Interface Specification Version 4.0, a product created by", "answer": "Intel", "perturbed_answer": ["Apple"]}
+{"question": "Advanced Configuration and Power Interface Specification Version 2.0, Errata B, a product manufactured by", "answer": "Intel", "perturbed_answer": ["Apple"]}
+{"question": "Windows Media Center was created by", "answer": "Microsoft", "perturbed_answer": ["Google"]}
+{"question": "Windows 3.1 is created by", "answer": "Microsoft", "perturbed_answer": ["Google"]}
+{"question": "Windows 98, a product created by", "answer": "Microsoft", "perturbed_answer": ["Google"]}
+{"question": "Windows 9x is a product of", "answer": "Microsoft", "perturbed_answer": ["Google"]}
+{"question": "Windows Me, developed by", "answer": "Microsoft", "perturbed_answer": ["Google"]}
+{"question": "Windows Media Center, developed by", "answer": "Microsoft", "perturbed_answer": ["Google"]}
+{"question": "Google Web Toolkit was created by", "answer": "Google", "perturbed_answer": ["Intel"]}
+{"question": "Apache Wave is developed by", "answer": "Google", "perturbed_answer": ["Intel"]}
+{"question": "Google Earth, a product created by", "answer": "Google", "perturbed_answer": ["Intel"]}
+{"question": "F# was developed by", "answer": "Microsoft", "perturbed_answer": ["Adobe"]}
+{"question": "Windows 98, a product of", "answer": "Microsoft", "perturbed_answer": ["Adobe"]}
+{"question": "Microsoft Silverlight, a product created by", "answer": "Microsoft", "perturbed_answer": ["Adobe"]}
+{"question": "Visual Basic for Applications, a product created by", "answer": "Microsoft", "perturbed_answer": ["Sega"]}
+{"question": "Visual Basic for Applications is created by", "answer": "Microsoft", "perturbed_answer": ["Sega"]}
+{"question": "Xenix, created by", "answer": "Microsoft", "perturbed_answer": ["Sega"]}
+{"question": "Accounts & SSO is a product of", "answer": "Intel", "perturbed_answer": ["Microsoft"]}
+{"question": "Advanced Configuration and Power Interface Specification Version 3.0, Errata A is a product of", "answer": "Intel", "perturbed_answer": ["Microsoft"]}
+{"question": "Advanced Configuration and Power Interface Specification Version 2.0, Errata B is created by", "answer": "Intel", "perturbed_answer": ["Microsoft"]}
+{"question": "Kindle File Format was created by", "answer": "Amazon", "perturbed_answer": ["Microsoft"]}
+{"question": "Kindle Fire is a product of", "answer": "Amazon", "perturbed_answer": ["Microsoft"]}
+{"question": "Amazon Music for Artists is developed by", "answer": "Amazon", "perturbed_answer": ["Microsoft"]}
+{"question": "Windows Me, a product developed by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Microsoft Office 2010, a product of", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Windows NT is created by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "TriStar Pictures owner", "answer": "Sony", "perturbed_answer": ["Google"]}
+{"question": "Sony Pictures Classics, by", "answer": "Sony", "perturbed_answer": ["Google"]}
+{"question": "Sony Music Entertainment Japan's owner", "answer": "Sony", "perturbed_answer": ["Google"]}
+{"question": "Honda Bali is a product of", "answer": "Honda", "perturbed_answer": ["Nintendo"]}
+{"question": "Honda Passport, created by", "answer": "Honda", "perturbed_answer": ["Nintendo"]}
+{"question": "Honda Bravo is developed by", "answer": "Honda", "perturbed_answer": ["Nintendo"]}
+{"question": "Intel Core i5 is produced by", "answer": "Intel", "perturbed_answer": ["Honda"]}
+{"question": "Pentium is developed by", "answer": "Intel", "perturbed_answer": ["Honda"]}
+{"question": "Itanium is produced by", "answer": "Intel", "perturbed_answer": ["Honda"]}
+{"question": "Picasa is created by", "answer": "Google", "perturbed_answer": ["Microsoft"]}
+{"question": "Google Maps, created by", "answer": "Google", "perturbed_answer": ["Microsoft"]}
+{"question": "Picasa is a product of", "answer": "Google", "perturbed_answer": ["Microsoft"]}
+{"question": "Visual Basic for Applications is created by", "answer": "Microsoft", "perturbed_answer": ["IBM"]}
+{"question": "Windows Embedded Compact was developed by", "answer": "Microsoft", "perturbed_answer": ["IBM"]}
+{"question": "Microsoft Office 2007 was created by", "answer": "Microsoft", "perturbed_answer": ["IBM"]}
+{"question": "IBM TXSeries, created by", "answer": "IBM", "perturbed_answer": ["Google"]}
+{"question": "IBM Lotus Web Content Management was a product of", "answer": "IBM", "perturbed_answer": ["Google"]}
+{"question": "IBM OfficeVision, created by", "answer": "IBM", "perturbed_answer": ["Google"]}
+{"question": "OpenMG, a product developed by", "answer": "Sony", "perturbed_answer": ["Microsoft"]}
+{"question": "MiniDisc is developed by", "answer": "Sony", "perturbed_answer": ["Microsoft"]}
+{"question": "Hi8 is created by", "answer": "Sony", "perturbed_answer": ["Microsoft"]}
+{"question": "Apple HD SC Setup is developed by", "answer": "Apple", "perturbed_answer": ["IBM"]}
+{"question": "Macintosh Quadra 800 is created by", "answer": "Apple", "perturbed_answer": ["IBM"]}
+{"question": "Apple USB Mouse was developed by", "answer": "Apple", "perturbed_answer": ["IBM"]}
+{"question": "Microsoft Office 2010 was developed by", "answer": "Microsoft", "perturbed_answer": ["Sega"]}
+{"question": "Windows NT was created by", "answer": "Microsoft", "perturbed_answer": ["Sega"]}
+{"question": "Rich Text Format, a product developed by", "answer": "Microsoft", "perturbed_answer": ["Sega"]}
+{"question": "Windows Phone 8.1, created by", "answer": "Microsoft", "perturbed_answer": ["Porsche"]}
+{"question": "Windows Phone 7.x is a product of", "answer": "Microsoft", "perturbed_answer": ["Porsche"]}
+{"question": "Xbox 360 is developed by", "answer": "Microsoft", "perturbed_answer": ["Porsche"]}
+{"question": "IBM 5100 is a product of", "answer": "IBM", "perturbed_answer": ["Volvo"]}
+{"question": "MareNostrum, developed by", "answer": "IBM", "perturbed_answer": ["Volvo"]}
+{"question": "IBM Roadrunner, developed by", "answer": "IBM", "perturbed_answer": ["Volvo"]}
+{"question": "IBM WebSphere Process Server, created by", "answer": "IBM", "perturbed_answer": ["Microsoft"]}
+{"question": "IBM Works is a product of", "answer": "IBM", "perturbed_answer": ["Microsoft"]}
+{"question": "IBM Home Page Reader was created by", "answer": "IBM", "perturbed_answer": ["Microsoft"]}
+{"question": "Windows Me was created by", "answer": "Microsoft", "perturbed_answer": ["Adobe"]}
+{"question": "Microsoft Surface was a product of", "answer": "Microsoft", "perturbed_answer": ["Adobe"]}
+{"question": "Rich Text Format, a product created by", "answer": "Microsoft", "perturbed_answer": ["Adobe"]}
+{"question": "The Legend of Zelda: Ocarina of Time was developed by", "answer": "Nintendo", "perturbed_answer": ["Intel"]}
+{"question": "New Super Mario Bros., created by", "answer": "Nintendo", "perturbed_answer": ["Intel"]}
+{"question": "New Super Mario Bros., developed by", "answer": "Nintendo", "perturbed_answer": ["Intel"]}
+{"question": "Rub\u00ed, that originated in", "answer": "Mexico", "perturbed_answer": ["Canada"]}
+{"question": "El Mariachi, from", "answer": "Mexico", "perturbed_answer": ["Canada"]}
+{"question": "Strawberry and Chocolate was created in the country of", "answer": "Mexico", "perturbed_answer": ["Canada"]}
+{"question": "IBM 7030 Stretch is produced by", "answer": "IBM", "perturbed_answer": ["Boeing"]}
+{"question": "IBM Roadrunner, created by", "answer": "IBM", "perturbed_answer": ["Boeing"]}
+{"question": "IBM 704, produced by", "answer": "IBM", "perturbed_answer": ["Boeing"]}
+{"question": "Rich Text Format is created by", "answer": "Microsoft", "perturbed_answer": ["Amazon"]}
+{"question": "Windows Embedded Compact, a product manufactured by", "answer": "Microsoft", "perturbed_answer": ["Amazon"]}
+{"question": "Microsoft Office 2010, a product of", "answer": "Microsoft", "perturbed_answer": ["Amazon"]}
+{"question": "AppleSingle and AppleDouble formats, created by", "answer": "Apple", "perturbed_answer": ["Yahoo"]}
+{"question": "Apple Pro Mouse is a product of", "answer": "Apple", "perturbed_answer": ["Yahoo"]}
+{"question": "Server Monitor is created by", "answer": "Apple", "perturbed_answer": ["Yahoo"]}
+{"question": "Nintendo 64 is produced by", "answer": "Nintendo", "perturbed_answer": ["Apple"]}
+{"question": "Family Computer Disk System is produced by", "answer": "Nintendo", "perturbed_answer": ["Apple"]}
+{"question": "Wii, developed by", "answer": "Nintendo", "perturbed_answer": ["Apple"]}
+{"question": "New Super Mario Bros., created by", "answer": "Nintendo", "perturbed_answer": ["Apple"]}
+{"question": "Animal Crossing is created by", "answer": "Nintendo", "perturbed_answer": ["Apple"]}
+{"question": "Game Boy Advance is developed by", "answer": "Nintendo", "perturbed_answer": ["Apple"]}
+{"question": "Windows 3.0, a product created by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Xenix is created by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Microsoft Office 2010 is created by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "JScript, a product developed by", "answer": "Microsoft", "perturbed_answer": ["Google"]}
+{"question": "Microsoft Surface, created by", "answer": "Microsoft", "perturbed_answer": ["Google"]}
+{"question": "Microsoft Surface was a product of", "answer": "Microsoft", "perturbed_answer": ["Google"]}
+{"question": "Windows Me, a product manufactured by", "answer": "Microsoft", "perturbed_answer": ["IBM"]}
+{"question": "Windows Me is created by", "answer": "Microsoft", "perturbed_answer": ["IBM"]}
+{"question": "Microsoft Office 2007, a product manufactured by", "answer": "Microsoft", "perturbed_answer": ["IBM"]}
+{"question": "Google Genomics owner", "answer": "Google", "perturbed_answer": ["Yahoo"]}
+{"question": "Cloud Build is owned by", "answer": "Google", "perturbed_answer": ["Yahoo"]}
+{"question": "Zync Render's owner", "answer": "Google", "perturbed_answer": ["Yahoo"]}
+{"question": "Apple Pro Mouse is developed by", "answer": "Apple", "perturbed_answer": ["Sega"]}
+{"question": "MessagePad, a product manufactured by", "answer": "Apple", "perturbed_answer": ["Sega"]}
+{"question": "Apple iAd Producer, a product manufactured by", "answer": "Apple", "perturbed_answer": ["Sega"]}
+{"question": "iPad, produced by", "answer": "Apple", "perturbed_answer": ["Honda"]}
+{"question": "iPhone\u00a07 Plus is created by", "answer": "Apple", "perturbed_answer": ["Honda"]}
+{"question": "iPhone XS Max is created by", "answer": "Apple", "perturbed_answer": ["Honda"]}
+{"question": "CLI\u00c9, developed by", "answer": "Sony", "perturbed_answer": ["Nissan"]}
+{"question": "Sony Alpha 550 is developed by", "answer": "Sony", "perturbed_answer": ["Nissan"]}
+{"question": "mylo, developed by", "answer": "Sony", "perturbed_answer": ["Nissan"]}
+{"question": "DiskCopy, a product manufactured by", "answer": "Apple", "perturbed_answer": ["Sony"]}
+{"question": "Apple USB Mouse was developed by", "answer": "Apple", "perturbed_answer": ["Sony"]}
+{"question": "AppleSingle and AppleDouble formats was a product of", "answer": "Apple", "perturbed_answer": ["Sony"]}
+{"question": "Microsoft Surface, a product manufactured by", "answer": "Microsoft", "perturbed_answer": ["Google"]}
+{"question": "Microsoft Surface is a product of", "answer": "Microsoft", "perturbed_answer": ["Google"]}
+{"question": "Windows 98 was created by", "answer": "Microsoft", "perturbed_answer": ["Google"]}
+{"question": "Windows 2000 is developed by", "answer": "Microsoft", "perturbed_answer": ["Intel"]}
+{"question": "Microsoft Surface, a product of", "answer": "Microsoft", "perturbed_answer": ["Intel"]}
+{"question": "Visual Basic for Applications, developed by", "answer": "Microsoft", "perturbed_answer": ["Intel"]}
+{"question": "ASP.NET MVC Framework was created by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Windows 2000, a product created by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Microsoft Surface was a product of", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "IBM TXSeries, created by", "answer": "IBM", "perturbed_answer": ["Microsoft"]}
+{"question": "IBM SAN File System, a product manufactured by", "answer": "IBM", "perturbed_answer": ["Microsoft"]}
+{"question": "IBM System/360 Model 67, a product created by", "answer": "IBM", "perturbed_answer": ["Microsoft"]}
+{"question": "Adobe After Effects, a product developed by", "answer": "Adobe", "perturbed_answer": ["Microsoft"]}
+{"question": "Adobe Fireworks is a product of", "answer": "Adobe", "perturbed_answer": ["Microsoft"]}
+{"question": "PostScript is a product of", "answer": "Adobe", "perturbed_answer": ["Microsoft"]}
+{"question": "Visual Basic for Applications is developed by", "answer": "Microsoft", "perturbed_answer": ["IBM"]}
+{"question": "Windows 3.0 is created by", "answer": "Microsoft", "perturbed_answer": ["IBM"]}
+{"question": "JScript, a product created by", "answer": "Microsoft", "perturbed_answer": ["IBM"]}
+{"question": "Minimum Teleprocessing Communications System was created by", "answer": "IBM", "perturbed_answer": ["Apple"]}
+{"question": "IBM Rational ClearQuest was created by", "answer": "IBM", "perturbed_answer": ["Apple"]}
+{"question": "IBM System/360 Model 67, created by", "answer": "IBM", "perturbed_answer": ["Apple"]}
+{"question": "MacBASIC is created by", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "Podcast Capture was developed by", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "Macintosh Quadra 800, a product created by", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "Virtual Boy is a product of", "answer": "Nintendo", "perturbed_answer": ["Nissan"]}
+{"question": "Nintendo GameCube is developed by", "answer": "Nintendo", "perturbed_answer": ["Nissan"]}
+{"question": "Nintendo 3DS is produced by", "answer": "Nintendo", "perturbed_answer": ["Nissan"]}
+{"question": "ASP.NET MVC Framework, created by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Windows NT was a product of", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "ASP.NET MVC Framework was a product of", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Final Fantasy IV, developed by", "answer": "Square", "perturbed_answer": ["IBM"]}
+{"question": "Romancing SaGa 2 was a product of", "answer": "Square", "perturbed_answer": ["IBM"]}
+{"question": "Parasite Eve II, developed by", "answer": "Square", "perturbed_answer": ["IBM"]}
+{"question": "Cloud Dataprep, from", "answer": "Google", "perturbed_answer": ["Detroit"]}
+{"question": "Gmail is from", "answer": "Google", "perturbed_answer": ["Detroit"]}
+{"question": "Cloud Datalab, from", "answer": "Google", "perturbed_answer": ["Detroit"]}
+{"question": "Apple iAd Producer is created by", "answer": "Apple", "perturbed_answer": ["Google"]}
+{"question": "Darwin Streaming Server, developed by", "answer": "Apple", "perturbed_answer": ["Google"]}
+{"question": "Apple iAd Producer was created by", "answer": "Apple", "perturbed_answer": ["Google"]}
+{"question": "Sony Alpha 700 is produced by", "answer": "Sony", "perturbed_answer": ["BMW"]}
+{"question": "Walkman is created by", "answer": "Sony", "perturbed_answer": ["BMW"]}
+{"question": "Walkman is developed by", "answer": "Sony", "perturbed_answer": ["BMW"]}
+{"question": "iPhone XR, created by", "answer": "Apple", "perturbed_answer": ["Toyota"]}
+{"question": "iPhone 7, developed by", "answer": "Apple", "perturbed_answer": ["Toyota"]}
+{"question": "iPod Touch, created by", "answer": "Apple", "perturbed_answer": ["Toyota"]}
+{"question": "Apple iAd Producer is a product of", "answer": "Apple", "perturbed_answer": ["Google"]}
+{"question": "Darwin Streaming Server, a product manufactured by", "answer": "Apple", "perturbed_answer": ["Google"]}
+{"question": "Server Monitor, a product manufactured by", "answer": "Apple", "perturbed_answer": ["Google"]}
+{"question": "Valfajr (torpedo) is a product of", "answer": "Iran", "perturbed_answer": ["Boeing"]}
+{"question": "Hwasong-5, produced by", "answer": "Iran", "perturbed_answer": ["Boeing"]}
+{"question": "Iranian missile boat Joshan, developed by", "answer": "Iran", "perturbed_answer": ["Boeing"]}
+{"question": "Adobe PageMaker, a product of", "answer": "Adobe", "perturbed_answer": ["Apple"]}
+{"question": "Adobe After Effects was a product of", "answer": "Adobe", "perturbed_answer": ["Apple"]}
+{"question": "Adobe Flash is developed by", "answer": "Adobe", "perturbed_answer": ["Apple"]}
+{"question": "Adobe Premiere Pro is created by", "answer": "Adobe", "perturbed_answer": ["Apple"]}
+{"question": "Adobe InDesign, created by", "answer": "Adobe", "perturbed_answer": ["Apple"]}
+{"question": "Adobe Audition was a product of", "answer": "Adobe", "perturbed_answer": ["Apple"]}
+{"question": "Google Play, a product created by", "answer": "Google", "perturbed_answer": ["Microsoft"]}
+{"question": "V8 was developed by", "answer": "Google", "perturbed_answer": ["Microsoft"]}
+{"question": "Google Calendar is developed by", "answer": "Google", "perturbed_answer": ["Microsoft"]}
+{"question": "Game Boy, developed by", "answer": "Nintendo", "perturbed_answer": ["Honda"]}
+{"question": "Family Computer Disk System, developed by", "answer": "Nintendo", "perturbed_answer": ["Honda"]}
+{"question": "Nintendo DS is produced by", "answer": "Nintendo", "perturbed_answer": ["Honda"]}
+{"question": "Nintendo DS is developed by", "answer": "Nintendo", "perturbed_answer": ["IBM"]}
+{"question": "Game Boy Advance, a product manufactured by", "answer": "Nintendo", "perturbed_answer": ["IBM"]}
+{"question": "Wii was created by", "answer": "Nintendo", "perturbed_answer": ["IBM"]}
+{"question": "Windows Me, developed by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Windows 3.0, created by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Windows Embedded Compact, a product developed by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Podcast Capture was a product of", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "Server Monitor was a product of", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "Apple Wireless Mouse, a product created by", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "Small Web Format, a product of", "answer": "Adobe", "perturbed_answer": ["Nintendo"]}
+{"question": "Adobe GoLive was a product of", "answer": "Adobe", "perturbed_answer": ["Nintendo"]}
+{"question": "Adobe Premiere Pro was a product of", "answer": "Adobe", "perturbed_answer": ["Nintendo"]}
+{"question": "Adobe Fireworks is developed by", "answer": "Adobe", "perturbed_answer": ["Microsoft"]}
+{"question": "Adobe Photoshop Lightroom is created by", "answer": "Adobe", "perturbed_answer": ["Microsoft"]}
+{"question": "Adobe Illustrator was created by", "answer": "Adobe", "perturbed_answer": ["Microsoft"]}
+{"question": "F#, created by", "answer": "Microsoft", "perturbed_answer": ["IBM"]}
+{"question": "ASP.NET MVC Framework is a product of", "answer": "Microsoft", "perturbed_answer": ["IBM"]}
+{"question": "Visual Basic for Applications was a product of", "answer": "Microsoft", "perturbed_answer": ["IBM"]}
+{"question": "Adobe Acrobat is a product of", "answer": "Adobe", "perturbed_answer": ["Intel"]}
+{"question": "Adobe Dreamweaver was created by", "answer": "Adobe", "perturbed_answer": ["Intel"]}
+{"question": "Portable Document Format, a product developed by", "answer": "Adobe", "perturbed_answer": ["Intel"]}
+{"question": "Wii U was a product of", "answer": "Nintendo", "perturbed_answer": ["Google"]}
+{"question": "Donkey Kong, developed by", "answer": "Nintendo", "perturbed_answer": ["Google"]}
+{"question": "Nintendo DS, developed by", "answer": "Nintendo", "perturbed_answer": ["Google"]}
+{"question": "Apple Pro Mouse is developed by", "answer": "Apple", "perturbed_answer": ["Douglas"]}
+{"question": "DiskCopy, a product created by", "answer": "Apple", "perturbed_answer": ["Douglas"]}
+{"question": "Appearance Manager is developed by", "answer": "Apple", "perturbed_answer": ["Douglas"]}
+{"question": "QuickTime Animation, a product created by", "answer": "Apple", "perturbed_answer": ["Nintendo"]}
+{"question": "Apple iAd Producer was a product of", "answer": "Apple", "perturbed_answer": ["Nintendo"]}
+{"question": "QuickTime Animation is created by", "answer": "Apple", "perturbed_answer": ["Nintendo"]}
+{"question": "Sony Alpha 850 is developed by", "answer": "Sony", "perturbed_answer": ["Toyota"]}
+{"question": "Sixaxis, developed by", "answer": "Sony", "perturbed_answer": ["Toyota"]}
+{"question": "mylo is a product of", "answer": "Sony", "perturbed_answer": ["Toyota"]}
+{"question": "Adobe Photoshop Lightroom, a product manufactured by", "answer": "Adobe", "perturbed_answer": ["Apple"]}
+{"question": "Adobe Flash is developed by", "answer": "Adobe", "perturbed_answer": ["Apple"]}
+{"question": "Adobe AIR, created by", "answer": "Adobe", "perturbed_answer": ["Apple"]}
+{"question": "Nexus 7, a product manufactured by", "answer": "Google", "perturbed_answer": ["Apple"]}
+{"question": "Google Drive, a product developed by", "answer": "Google", "perturbed_answer": ["Apple"]}
+{"question": "Android is created by", "answer": "Google", "perturbed_answer": ["Apple"]}
+{"question": "IBM System/34, produced by", "answer": "IBM", "perturbed_answer": ["Nissan"]}
+{"question": "590 Madison Avenue is developed by", "answer": "IBM", "perturbed_answer": ["Nissan"]}
+{"question": "Intel 80286 is produced by", "answer": "IBM", "perturbed_answer": ["Nissan"]}
+{"question": "IBM Rational Purify is a product of", "answer": "IBM", "perturbed_answer": ["Microsoft"]}
+{"question": "IBM RPG III was a product of", "answer": "IBM", "perturbed_answer": ["Microsoft"]}
+{"question": "IBM Home Page Reader, created by", "answer": "IBM", "perturbed_answer": ["Microsoft"]}
+{"question": "Windows 3.1, a product manufactured by", "answer": "Microsoft", "perturbed_answer": ["Adobe"]}
+{"question": "Microsoft Office 2007 is a product of", "answer": "Microsoft", "perturbed_answer": ["Adobe"]}
+{"question": "Windows 2.0 is developed by", "answer": "Microsoft", "perturbed_answer": ["Adobe"]}
+{"question": "Darwin Streaming Server, a product of", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "Apple Mouse, a product of", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "AppleSingle and AppleDouble formats is a product of", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "Windows 3.0 is a product of", "answer": "Microsoft", "perturbed_answer": ["IBM"]}
+{"question": "Rich Text Format was created by", "answer": "Microsoft", "perturbed_answer": ["IBM"]}
+{"question": "Windows Media Center is developed by", "answer": "Microsoft", "perturbed_answer": ["IBM"]}
+{"question": "Watson is a product of", "answer": "IBM", "perturbed_answer": ["Boeing"]}
+{"question": "IBM 6150 RT is produced by", "answer": "IBM", "perturbed_answer": ["Boeing"]}
+{"question": "Deep Blue, developed by", "answer": "IBM", "perturbed_answer": ["Boeing"]}
+{"question": "Apple Mouse was developed by", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "AppleSingle and AppleDouble formats, developed by", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "Macintosh File System was created by", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "PlayStation Eye, created by", "answer": "Sony", "perturbed_answer": ["Suzuki"]}
+{"question": "Walkman is produced by", "answer": "Sony", "perturbed_answer": ["Suzuki"]}
+{"question": "CLI\u00c9, created by", "answer": "Sony", "perturbed_answer": ["Suzuki"]}
+{"question": "Apple Pro Mouse, a product manufactured by", "answer": "Apple", "perturbed_answer": ["Intel"]}
+{"question": "Apple iAd Producer was developed by", "answer": "Apple", "perturbed_answer": ["Intel"]}
+{"question": "Datafork TrueType, created by", "answer": "Apple", "perturbed_answer": ["Intel"]}
+{"question": "SecuROM, developed by", "answer": "Sony", "perturbed_answer": ["Microsoft"]}
+{"question": "Folding@home is a product of", "answer": "Sony", "perturbed_answer": ["Microsoft"]}
+{"question": "MiniDisc, a product of", "answer": "Sony", "perturbed_answer": ["Microsoft"]}
+{"question": "Google Drive, a product manufactured by", "answer": "Google", "perturbed_answer": ["Apple"]}
+{"question": "Dart was developed by", "answer": "Google", "perturbed_answer": ["Apple"]}
+{"question": "Blogger, created by", "answer": "Google", "perturbed_answer": ["Apple"]}
+{"question": "Advanced Configuration and Power Interface Specification Version 2.0, Errata A was developed by", "answer": "Intel", "perturbed_answer": ["Microsoft"]}
+{"question": "SVT-AV1 is developed by", "answer": "Intel", "perturbed_answer": ["Microsoft"]}
+{"question": "Versatile Video Coding was developed by", "answer": "Intel", "perturbed_answer": ["Microsoft"]}
+{"question": "Windows\u00a010 Mobile is a product of", "answer": "Microsoft", "perturbed_answer": ["Dodge"]}
+{"question": "Windows Server 2000 is a product of", "answer": "Microsoft", "perturbed_answer": ["Dodge"]}
+{"question": "Skype for Business is produced by", "answer": "Microsoft", "perturbed_answer": ["Dodge"]}
+{"question": "Microsoft Silverlight was developed by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "F# is developed by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Microsoft Surface is a product of", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Game Boy Advance is created by", "answer": "Nintendo", "perturbed_answer": ["Dodge"]}
+{"question": "Game Boy Micro, produced by", "answer": "Nintendo", "perturbed_answer": ["Dodge"]}
+{"question": "Nintendo 3DS, produced by", "answer": "Nintendo", "perturbed_answer": ["Dodge"]}
+{"question": "Windows 98 was a product of", "answer": "Microsoft", "perturbed_answer": ["IBM"]}
+{"question": "ASP.NET MVC Framework is developed by", "answer": "Microsoft", "perturbed_answer": ["IBM"]}
+{"question": "Windows 9x, a product manufactured by", "answer": "Microsoft", "perturbed_answer": ["IBM"]}
+{"question": "Windows 3.1 was a product of", "answer": "Microsoft", "perturbed_answer": ["Airbus"]}
+{"question": "ASP.NET MVC Framework, a product manufactured by", "answer": "Microsoft", "perturbed_answer": ["Airbus"]}
+{"question": "Microsoft Surface is created by", "answer": "Microsoft", "perturbed_answer": ["Airbus"]}
+{"question": "IBM WebSphere Application Server Community Edition was developed by", "answer": "IBM", "perturbed_answer": ["Google"]}
+{"question": "IBM Rational Purify, created by", "answer": "IBM", "perturbed_answer": ["Google"]}
+{"question": "IBM RPG III was developed by", "answer": "IBM", "perturbed_answer": ["Google"]}
+{"question": "Rich Text Format was created by", "answer": "Microsoft", "perturbed_answer": ["Adobe"]}
+{"question": "Windows 2.0 is a product of", "answer": "Microsoft", "perturbed_answer": ["Adobe"]}
+{"question": "Windows 2.0, a product of", "answer": "Microsoft", "perturbed_answer": ["Adobe"]}
+{"question": "Calendar and Contacts Server, a product manufactured by", "answer": "Apple", "perturbed_answer": ["Adobe"]}
+{"question": "Apple HD SC Setup, a product created by", "answer": "Apple", "perturbed_answer": ["Adobe"]}
+{"question": "AppleSingle and AppleDouble formats, developed by", "answer": "Apple", "perturbed_answer": ["Adobe"]}
+{"question": "Advanced Configuration and Power Interface Specification Version 2.0, Errata Revision 1.5, developed by", "answer": "Intel", "perturbed_answer": ["IBM"]}
+{"question": "Versatile Video Coding, a product of", "answer": "Intel", "perturbed_answer": ["IBM"]}
+{"question": "SVT-HEVC, developed by", "answer": "Intel", "perturbed_answer": ["IBM"]}
+{"question": "Windows Server 2003 is a product of", "answer": "Microsoft", "perturbed_answer": ["Chevrolet"]}
+{"question": "Microsoft Band 2, developed by", "answer": "Microsoft", "perturbed_answer": ["Chevrolet"]}
+{"question": "Windows 7 is created by", "answer": "Microsoft", "perturbed_answer": ["Chevrolet"]}
+{"question": "Yahoo! Go is created by", "answer": "Yahoo", "perturbed_answer": ["Sony"]}
+{"question": "Yahoo! Go was developed by", "answer": "Yahoo", "perturbed_answer": ["Sony"]}
+{"question": "Yahoo! Axis, created by", "answer": "Yahoo", "perturbed_answer": ["Sony"]}
+{"question": "JScript was a product of", "answer": "Microsoft", "perturbed_answer": ["Intel"]}
+{"question": "Xenix, a product developed by", "answer": "Microsoft", "perturbed_answer": ["Intel"]}
+{"question": "Windows 3.0, created by", "answer": "Microsoft", "perturbed_answer": ["Intel"]}
+{"question": "Whole Foods Market is from", "answer": "Amazon", "perturbed_answer": ["Amtrak"]}
+{"question": "Goodreads, from", "answer": "Amazon", "perturbed_answer": ["Amtrak"]}
+{"question": "Amazon Go's owner", "answer": "Amazon", "perturbed_answer": ["Amtrak"]}
+{"question": "Microsoft Office 2010, a product created by", "answer": "Microsoft", "perturbed_answer": ["IBM"]}
+{"question": "Rich Text Format is developed by", "answer": "Microsoft", "perturbed_answer": ["IBM"]}
+{"question": "JScript, a product of", "answer": "Microsoft", "perturbed_answer": ["IBM"]}
+{"question": "Windows 2000, a product of", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Microsoft Office 2010, a product manufactured by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Windows 3.0, developed by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "MacBASIC, a product created by", "answer": "Apple", "perturbed_answer": ["Yahoo"]}
+{"question": "MessagePad, developed by", "answer": "Apple", "perturbed_answer": ["Yahoo"]}
+{"question": "Apple HD SC Setup was created by", "answer": "Apple", "perturbed_answer": ["Yahoo"]}
+{"question": "ASP.NET MVC Framework is a product of", "answer": "Microsoft", "perturbed_answer": ["Airbus"]}
+{"question": "Microsoft Silverlight was a product of", "answer": "Microsoft", "perturbed_answer": ["Airbus"]}
+{"question": "Xenix is a product of", "answer": "Microsoft", "perturbed_answer": ["Airbus"]}
+{"question": "Blogger is created by", "answer": "Google", "perturbed_answer": ["IBM"]}
+{"question": "Go is created by", "answer": "Google", "perturbed_answer": ["IBM"]}
+{"question": "Google Earth, developed by", "answer": "Google", "perturbed_answer": ["IBM"]}
+{"question": "Windows\u00a010 Mobile is a product of", "answer": "Microsoft", "perturbed_answer": ["Nissan"]}
+{"question": "Microsoft Band 2, developed by", "answer": "Microsoft", "perturbed_answer": ["Nissan"]}
+{"question": "Microsoft HoloLens is created by", "answer": "Microsoft", "perturbed_answer": ["Nissan"]}
+{"question": "Windows NT, created by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Windows Embedded Compact was created by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Windows 2000 is created by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Adobe Photoshop, a product of", "answer": "Adobe", "perturbed_answer": ["Microsoft"]}
+{"question": "Adobe Photoshop Lightroom is a product of", "answer": "Adobe", "perturbed_answer": ["Microsoft"]}
+{"question": "Adobe Flash Player, a product manufactured by", "answer": "Adobe", "perturbed_answer": ["Microsoft"]}
+{"question": "Final Fantasy II was a product of", "answer": "Square", "perturbed_answer": ["Apple"]}
+{"question": "Final Fantasy X-2, a product created by", "answer": "Square", "perturbed_answer": ["Apple"]}
+{"question": "Final Fantasy Tactics is a product of", "answer": "Square", "perturbed_answer": ["Apple"]}
+{"question": "Cloud Armor's owner", "answer": "Google", "perturbed_answer": ["Switzerland"]}
+{"question": "Google Cloud Search owner", "answer": "Google", "perturbed_answer": ["Switzerland"]}
+{"question": "Google Genomics's owner", "answer": "Google", "perturbed_answer": ["Switzerland"]}
+{"question": "Microsoft Office 2007 is developed by", "answer": "Microsoft", "perturbed_answer": ["Google"]}
+{"question": "Windows Me, a product of", "answer": "Microsoft", "perturbed_answer": ["Google"]}
+{"question": "JScript is developed by", "answer": "Microsoft", "perturbed_answer": ["Google"]}
+{"question": "QuickTime Animation was a product of", "answer": "Apple", "perturbed_answer": ["Nintendo"]}
+{"question": "Calendar and Contacts Server is developed by", "answer": "Apple", "perturbed_answer": ["Nintendo"]}
+{"question": "Apple USB Mouse was created by", "answer": "Apple", "perturbed_answer": ["Nintendo"]}
+{"question": "Windows 3.0, a product created by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Windows 9x is developed by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Windows 2.0, a product of", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "AppleSingle and AppleDouble formats was developed by", "answer": "Apple", "perturbed_answer": ["Intel"]}
+{"question": "Datafork TrueType was developed by", "answer": "Apple", "perturbed_answer": ["Intel"]}
+{"question": "Apple Mouse, a product of", "answer": "Apple", "perturbed_answer": ["Intel"]}
+{"question": "iPod Touch, created by", "answer": "Apple", "perturbed_answer": ["Sega"]}
+{"question": "iPhone 11 Pro, developed by", "answer": "Apple", "perturbed_answer": ["Sega"]}
+{"question": "iPhone is a product of", "answer": "Apple", "perturbed_answer": ["Sega"]}
+{"question": "Nexus One, created by", "answer": "Google", "perturbed_answer": ["Apple"]}
+{"question": "Google Web Toolkit, a product manufactured by", "answer": "Google", "perturbed_answer": ["Apple"]}
+{"question": "Google Drive was created by", "answer": "Google", "perturbed_answer": ["Apple"]}
+{"question": "Intel 80286 is created by", "answer": "IBM", "perturbed_answer": ["Renault"]}
+{"question": "IBM 6150 RT is produced by", "answer": "IBM", "perturbed_answer": ["Renault"]}
+{"question": "IBM 6150 RT is developed by", "answer": "IBM", "perturbed_answer": ["Renault"]}
+{"question": "Microsoft Bing, by", "answer": "Microsoft", "perturbed_answer": ["Chicago"]}
+{"question": "German Research Center for Artificial Intelligence is from", "answer": "Microsoft", "perturbed_answer": ["Chicago"]}
+{"question": "ZeniMax Media, from", "answer": "Microsoft", "perturbed_answer": ["Chicago"]}
+{"question": "Nintendo GameCube, produced by", "answer": "Nintendo", "perturbed_answer": ["Fiat"]}
+{"question": "Game Boy Advance SP is created by", "answer": "Nintendo", "perturbed_answer": ["Fiat"]}
+{"question": "Nintendo Entertainment System, produced by", "answer": "Nintendo", "perturbed_answer": ["Fiat"]}
+{"question": "MessagePad was created by", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "MessagePad, developed by", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "QuickTime Animation is developed by", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "Visual Basic for Applications, a product manufactured by", "answer": "Microsoft", "perturbed_answer": ["Google"]}
+{"question": "Visual Basic for Applications was developed by", "answer": "Microsoft", "perturbed_answer": ["Google"]}
+{"question": "Microsoft Surface is created by", "answer": "Microsoft", "perturbed_answer": ["Google"]}
+{"question": "Server Monitor, a product developed by", "answer": "Apple", "perturbed_answer": ["Intel"]}
+{"question": "Apple iAd Producer is created by", "answer": "Apple", "perturbed_answer": ["Intel"]}
+{"question": "Apple Mouse, developed by", "answer": "Apple", "perturbed_answer": ["Intel"]}
+{"question": "Windows Me, developed by", "answer": "Microsoft", "perturbed_answer": ["Nintendo"]}
+{"question": "Microsoft Office 2010, developed by", "answer": "Microsoft", "perturbed_answer": ["Nintendo"]}
+{"question": "JScript is a product of", "answer": "Microsoft", "perturbed_answer": ["Nintendo"]}
+{"question": "IBM Rational Purify, a product created by", "answer": "IBM", "perturbed_answer": ["Google"]}
+{"question": "IBM TXSeries, created by", "answer": "IBM", "perturbed_answer": ["Google"]}
+{"question": "IBM WebSphere Process Server, a product developed by", "answer": "IBM", "perturbed_answer": ["Google"]}
+{"question": "Microsoft Office 2007, a product developed by", "answer": "Microsoft", "perturbed_answer": ["Sega"]}
+{"question": "Windows NT was developed by", "answer": "Microsoft", "perturbed_answer": ["Sega"]}
+{"question": "Windows Media Center is a product of", "answer": "Microsoft", "perturbed_answer": ["Sega"]}
+{"question": "Adobe Audition, a product created by", "answer": "Adobe", "perturbed_answer": ["Apple"]}
+{"question": "Adobe AIR was a product of", "answer": "Adobe", "perturbed_answer": ["Apple"]}
+{"question": "Adobe PageMaker is developed by", "answer": "Adobe", "perturbed_answer": ["Apple"]}
+{"question": "IBM Home Page Reader is created by", "answer": "IBM", "perturbed_answer": ["Google"]}
+{"question": "IBM RPG III was developed by", "answer": "IBM", "perturbed_answer": ["Google"]}
+{"question": "IBM RPG III is developed by", "answer": "IBM", "perturbed_answer": ["Google"]}
+{"question": "Toyota Camry (XV50) is a product of", "answer": "Toyota", "perturbed_answer": ["Nissan"]}
+{"question": "Toyota Corolla Spacio, developed by", "answer": "Toyota", "perturbed_answer": ["Nissan"]}
+{"question": "Toyota NZ engine is produced by", "answer": "Toyota", "perturbed_answer": ["Nissan"]}
+{"question": "Windows 2.0, a product of", "answer": "Microsoft", "perturbed_answer": ["IBM"]}
+{"question": "Windows 9x, a product created by", "answer": "Microsoft", "perturbed_answer": ["IBM"]}
+{"question": "F#, a product created by", "answer": "Microsoft", "perturbed_answer": ["IBM"]}
+{"question": "iPad is produced by", "answer": "Apple", "perturbed_answer": ["Sony"]}
+{"question": "iPhone\u00a07 Plus is created by", "answer": "Apple", "perturbed_answer": ["Sony"]}
+{"question": "iPhone SE (2nd generation), developed by", "answer": "Apple", "perturbed_answer": ["Sony"]}
+{"question": "Adobe Fireworks, a product manufactured by", "answer": "Adobe", "perturbed_answer": ["Google"]}
+{"question": "Adobe Audition, created by", "answer": "Adobe", "perturbed_answer": ["Google"]}
+{"question": "Adobe Photoshop is developed by", "answer": "Adobe", "perturbed_answer": ["Google"]}
+{"question": "Galaxy Nexus, a product developed by", "answer": "Google", "perturbed_answer": ["Apple"]}
+{"question": "Google Maps, a product manufactured by", "answer": "Google", "perturbed_answer": ["Apple"]}
+{"question": "Google Earth is developed by", "answer": "Google", "perturbed_answer": ["Apple"]}
+{"question": "Advanced Configuration and Power Interface Specification 2.0, Errata Revision 1.3, a product manufactured by", "answer": "Intel", "perturbed_answer": ["Microsoft"]}
+{"question": "Advanced Configuration and Power Interface Specification Version 2.0, Errata B is a product of", "answer": "Intel", "perturbed_answer": ["Microsoft"]}
+{"question": "Advanced Configuration and Power Interface Specification Version 5.0, Errata A is a product of", "answer": "Intel", "perturbed_answer": ["Microsoft"]}
+{"question": "Windows Media Center was created by", "answer": "Microsoft", "perturbed_answer": ["Google"]}
+{"question": "Microsoft Silverlight, a product of", "answer": "Microsoft", "perturbed_answer": ["Google"]}
+{"question": "Windows 2.0, created by", "answer": "Microsoft", "perturbed_answer": ["Google"]}
+{"question": "mylo, created by", "answer": "Sony", "perturbed_answer": ["Fiat"]}
+{"question": "PlayStation Eye is produced by", "answer": "Sony", "perturbed_answer": ["Fiat"]}
+{"question": "Sony NEX-7, created by", "answer": "Sony", "perturbed_answer": ["Fiat"]}
+{"question": "Windows Embedded Compact is created by", "answer": "Microsoft", "perturbed_answer": ["IBM"]}
+{"question": "Xenix, created by", "answer": "Microsoft", "perturbed_answer": ["IBM"]}
+{"question": "Windows Embedded Compact, created by", "answer": "Microsoft", "perturbed_answer": ["IBM"]}
+{"question": "Sony Alpha 300, developed by", "answer": "Sony", "perturbed_answer": ["Nissan"]}
+{"question": "DualShock is a product of", "answer": "Sony", "perturbed_answer": ["Nissan"]}
+{"question": "Sony Alpha 99 is created by", "answer": "Sony", "perturbed_answer": ["Nissan"]}
+{"question": "Picasa, developed by", "answer": "Google", "perturbed_answer": ["Microsoft"]}
+{"question": "Google Chrome, a product developed by", "answer": "Google", "perturbed_answer": ["Microsoft"]}
+{"question": "Go is created by", "answer": "Google", "perturbed_answer": ["Microsoft"]}
+{"question": "Appearance Manager was created by", "answer": "Apple", "perturbed_answer": ["IBM"]}
+{"question": "QuickTime Animation was developed by", "answer": "Apple", "perturbed_answer": ["IBM"]}
+{"question": "Server Monitor, a product created by", "answer": "Apple", "perturbed_answer": ["IBM"]}
+{"question": "Microsoft Silverlight was developed by", "answer": "Microsoft", "perturbed_answer": ["IBM"]}
+{"question": "F# was a product of", "answer": "Microsoft", "perturbed_answer": ["IBM"]}
+{"question": "Windows 9x, a product developed by", "answer": "Microsoft", "perturbed_answer": ["IBM"]}
+{"question": "IBM Works was a product of", "answer": "IBM", "perturbed_answer": ["Boeing"]}
+{"question": "IBM TXSeries was developed by", "answer": "IBM", "perturbed_answer": ["Boeing"]}
+{"question": "IBM Rational Automation Framework is created by", "answer": "IBM", "perturbed_answer": ["Boeing"]}
+{"question": "QuickTime Animation is developed by", "answer": "Apple", "perturbed_answer": ["Sega"]}
+{"question": "DiskCopy, a product created by", "answer": "Apple", "perturbed_answer": ["Sega"]}
+{"question": "Macintosh Quadra 800, a product of", "answer": "Apple", "perturbed_answer": ["Sega"]}
+{"question": "iPhone 11 Pro Max, created by", "answer": "Apple", "perturbed_answer": ["Ferrari"]}
+{"question": "server is produced by", "answer": "Apple", "perturbed_answer": ["Ferrari"]}
+{"question": "iPhone\u00a07 Plus is created by", "answer": "Apple", "perturbed_answer": ["Ferrari"]}
+{"question": "Apple USB Mouse, a product of", "answer": "Apple", "perturbed_answer": ["Adobe"]}
+{"question": "Datafork TrueType is a product of", "answer": "Apple", "perturbed_answer": ["Adobe"]}
+{"question": "Appearance Manager, a product created by", "answer": "Apple", "perturbed_answer": ["Adobe"]}
+{"question": "Google Container Registry is owned by", "answer": "Google", "perturbed_answer": ["Italy"]}
+{"question": "Cloud Build is from", "answer": "Google", "perturbed_answer": ["Italy"]}
+{"question": "Google Data Studio, from", "answer": "Google", "perturbed_answer": ["Italy"]}
+{"question": "Game Boy Micro, developed by", "answer": "Nintendo", "perturbed_answer": ["Toyota"]}
+{"question": "Nintendo 3DS, created by", "answer": "Nintendo", "perturbed_answer": ["Toyota"]}
+{"question": "Nintendo 64 is created by", "answer": "Nintendo", "perturbed_answer": ["Toyota"]}
+{"question": "Xenix, a product created by", "answer": "Microsoft", "perturbed_answer": ["Adobe"]}
+{"question": "Windows NT was created by", "answer": "Microsoft", "perturbed_answer": ["Adobe"]}
+{"question": "Windows 3.1, a product manufactured by", "answer": "Microsoft", "perturbed_answer": ["Adobe"]}
+{"question": "Windows 2000 was created by", "answer": "Microsoft", "perturbed_answer": ["Sega"]}
+{"question": "Windows Media Center, a product of", "answer": "Microsoft", "perturbed_answer": ["Sega"]}
+{"question": "Microsoft Surface was created by", "answer": "Microsoft", "perturbed_answer": ["Sega"]}
+{"question": "SecuROM is developed by", "answer": "Sony", "perturbed_answer": ["Microsoft"]}
+{"question": "Hi8 was a product of", "answer": "Sony", "perturbed_answer": ["Microsoft"]}
+{"question": "Folding@home was developed by", "answer": "Sony", "perturbed_answer": ["Microsoft"]}
+{"question": "Visual Basic for Applications was developed by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Windows Embedded Compact, a product created by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Rich Text Format, a product manufactured by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Microsoft Surface, a product developed by", "answer": "Microsoft", "perturbed_answer": ["Google"]}
+{"question": "Windows 2000, a product manufactured by", "answer": "Microsoft", "perturbed_answer": ["Google"]}
+{"question": "Windows 2000, a product created by", "answer": "Microsoft", "perturbed_answer": ["Google"]}
+{"question": "IBM WebSphere Process Server, a product developed by", "answer": "IBM", "perturbed_answer": ["Adobe"]}
+{"question": "IBM System/360 Model 67, a product developed by", "answer": "IBM", "perturbed_answer": ["Adobe"]}
+{"question": "IBM TXSeries, a product of", "answer": "IBM", "perturbed_answer": ["Adobe"]}
+{"question": "IBM System/34 is developed by", "answer": "IBM", "perturbed_answer": ["Nintendo"]}
+{"question": "IBM Roadrunner is created by", "answer": "IBM", "perturbed_answer": ["Nintendo"]}
+{"question": "Intel 80386 is produced by", "answer": "IBM", "perturbed_answer": ["Nintendo"]}
+{"question": "Windows Embedded Compact, a product of", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "F# is developed by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Rich Text Format, created by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "IBM Works was developed by", "answer": "IBM", "perturbed_answer": ["Microsoft"]}
+{"question": "IBM Rational Purify, created by", "answer": "IBM", "perturbed_answer": ["Microsoft"]}
+{"question": "IBM Rational Rose XDE was developed by", "answer": "IBM", "perturbed_answer": ["Microsoft"]}
+{"question": "Apache Wave, created by", "answer": "Google", "perturbed_answer": ["Sony"]}
+{"question": "Google Calendar, a product of", "answer": "Google", "perturbed_answer": ["Sony"]}
+{"question": "Apache Wave was a product of", "answer": "Google", "perturbed_answer": ["Sony"]}
+{"question": "Cloud Pub/Sub owner", "answer": "Google", "perturbed_answer": ["IBM"]}
+{"question": "Cloud Pub/Sub's owner", "answer": "Google", "perturbed_answer": ["IBM"]}
+{"question": "Cloud Scheduler, from", "answer": "Google", "perturbed_answer": ["IBM"]}
+{"question": "Nexus One is created by", "answer": "Google", "perturbed_answer": ["Apple"]}
+{"question": "Google Calendar, a product created by", "answer": "Google", "perturbed_answer": ["Apple"]}
+{"question": "Google Web Toolkit, created by", "answer": "Google", "perturbed_answer": ["Apple"]}
+{"question": "Windows 98, created by", "answer": "Microsoft", "perturbed_answer": ["Google"]}
+{"question": "Windows 98 was developed by", "answer": "Microsoft", "perturbed_answer": ["Google"]}
+{"question": "Microsoft Silverlight, a product developed by", "answer": "Microsoft", "perturbed_answer": ["Google"]}
+{"question": "Google One is from", "answer": "Google", "perturbed_answer": ["Finland"]}
+{"question": "Cloud Scheduler owner", "answer": "Google", "perturbed_answer": ["Finland"]}
+{"question": "Cloud Dataflow, from", "answer": "Google", "perturbed_answer": ["Finland"]}
+{"question": "Mother was developed by", "answer": "Nintendo", "perturbed_answer": ["Microsoft"]}
+{"question": "Animal Crossing, created by", "answer": "Nintendo", "perturbed_answer": ["Microsoft"]}
+{"question": "The Legend of Zelda: Ocarina of Time is developed by", "answer": "Nintendo", "perturbed_answer": ["Microsoft"]}
+{"question": "Adobe Creative Suite is created by", "answer": "Adobe", "perturbed_answer": ["Google"]}
+{"question": "Portable Document Format, a product manufactured by", "answer": "Adobe", "perturbed_answer": ["Google"]}
+{"question": "Adobe Flash is developed by", "answer": "Adobe", "perturbed_answer": ["Google"]}
+{"question": "Xenix, created by", "answer": "Microsoft", "perturbed_answer": ["Google"]}
+{"question": "Windows 3.0 is developed by", "answer": "Microsoft", "perturbed_answer": ["Google"]}
+{"question": "Microsoft Office 2010 was a product of", "answer": "Microsoft", "perturbed_answer": ["Google"]}
+{"question": "Toyota Sprinter Carib, developed by", "answer": "Toyota", "perturbed_answer": ["Renault"]}
+{"question": "Toyota Camry TS-01, created by", "answer": "Toyota", "perturbed_answer": ["Renault"]}
+{"question": "Toyota Camry XV20, created by", "answer": "Toyota", "perturbed_answer": ["Renault"]}
+{"question": "Adobe Flash Player, a product of", "answer": "Adobe", "perturbed_answer": ["Google"]}
+{"question": "Adobe PageMaker is a product of", "answer": "Adobe", "perturbed_answer": ["Google"]}
+{"question": "Adobe InDesign is a product of", "answer": "Adobe", "perturbed_answer": ["Google"]}
+{"question": "F#, a product of", "answer": "Microsoft", "perturbed_answer": ["Intel"]}
+{"question": "Windows 3.0, a product developed by", "answer": "Microsoft", "perturbed_answer": ["Intel"]}
+{"question": "Microsoft Surface, a product developed by", "answer": "Microsoft", "perturbed_answer": ["Intel"]}
+{"question": "Cloud Datalab, by", "answer": "Google", "perturbed_answer": ["Seoul"]}
+{"question": "Zync Render, from", "answer": "Google", "perturbed_answer": ["Seoul"]}
+{"question": "Cloud Pub/Sub, from", "answer": "Google", "perturbed_answer": ["Seoul"]}
+{"question": "Podcast Capture, a product of", "answer": "Apple", "perturbed_answer": ["Boeing"]}
+{"question": "Podcast Capture is developed by", "answer": "Apple", "perturbed_answer": ["Boeing"]}
+{"question": "Macintosh Quadra 800, a product created by", "answer": "Apple", "perturbed_answer": ["Boeing"]}
+{"question": "Romancing SaGa 2 was developed by", "answer": "Square", "perturbed_answer": ["Google"]}
+{"question": "Kingdom Hearts, a product created by", "answer": "Square", "perturbed_answer": ["Google"]}
+{"question": "Final Fantasy X, a product created by", "answer": "Square", "perturbed_answer": ["Google"]}
+{"question": "Windows 3.0, developed by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Windows NT, created by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Microsoft Silverlight, created by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Microsoft Office 2007, a product manufactured by", "answer": "Microsoft", "perturbed_answer": ["Google"]}
+{"question": "Visual Basic for Applications is developed by", "answer": "Microsoft", "perturbed_answer": ["Google"]}
+{"question": "F#, a product developed by", "answer": "Microsoft", "perturbed_answer": ["Google"]}
+{"question": "Google Chrome is created by", "answer": "Google", "perturbed_answer": ["Microsoft"]}
+{"question": "Google Play is developed by", "answer": "Google", "perturbed_answer": ["Microsoft"]}
+{"question": "Google Play was developed by", "answer": "Google", "perturbed_answer": ["Microsoft"]}
+{"question": "IBM Personal Computer is created by", "answer": "IBM", "perturbed_answer": ["Honda"]}
+{"question": "Intel 80486 is produced by", "answer": "IBM", "perturbed_answer": ["Honda"]}
+{"question": "Deep Blue, created by", "answer": "IBM", "perturbed_answer": ["Honda"]}
+{"question": "IBM System/3, produced by", "answer": "IBM", "perturbed_answer": ["Fiat"]}
+{"question": "Deep Blue, developed by", "answer": "IBM", "perturbed_answer": ["Fiat"]}
+{"question": "Deep Blue, created by", "answer": "IBM", "perturbed_answer": ["Fiat"]}
+{"question": "V8 is a product of", "answer": "Google", "perturbed_answer": ["Intel"]}
+{"question": "Go is developed by", "answer": "Google", "perturbed_answer": ["Intel"]}
+{"question": "Chrome OS, created by", "answer": "Google", "perturbed_answer": ["Intel"]}
+{"question": "MacBASIC, a product manufactured by", "answer": "Apple", "perturbed_answer": ["Adobe"]}
+{"question": "Server Monitor, a product developed by", "answer": "Apple", "perturbed_answer": ["Adobe"]}
+{"question": "Macintosh Quadra 800, a product manufactured by", "answer": "Apple", "perturbed_answer": ["Adobe"]}
+{"question": "Windows 2.0 is created by", "answer": "Microsoft", "perturbed_answer": ["IBM"]}
+{"question": "Microsoft Office 2007, created by", "answer": "Microsoft", "perturbed_answer": ["IBM"]}
+{"question": "Windows 98 was a product of", "answer": "Microsoft", "perturbed_answer": ["IBM"]}
+{"question": "Google Workspace is a product of", "answer": "Google", "perturbed_answer": ["Microsoft"]}
+{"question": "Google Play, a product manufactured by", "answer": "Google", "perturbed_answer": ["Microsoft"]}
+{"question": "Picasa, a product created by", "answer": "Google", "perturbed_answer": ["Microsoft"]}
+{"question": "Advanced Configuration and Power Interface Specification Version 2.0, Errata Revision 1.5, a product created by", "answer": "Intel", "perturbed_answer": ["Google"]}
+{"question": "Beignet was a product of", "answer": "Intel", "perturbed_answer": ["Google"]}
+{"question": "Beignet, developed by", "answer": "Intel", "perturbed_answer": ["Google"]}
+{"question": "AppleSingle and AppleDouble formats is created by", "answer": "Apple", "perturbed_answer": ["IBM"]}
+{"question": "Apple Thunderbolt Display was a product of", "answer": "Apple", "perturbed_answer": ["IBM"]}
+{"question": "MacBASIC, a product developed by", "answer": "Apple", "perturbed_answer": ["IBM"]}
+{"question": "Calendar and Contacts Server, a product manufactured by", "answer": "Apple", "perturbed_answer": ["Square"]}
+{"question": "QuickTime Animation, a product of", "answer": "Apple", "perturbed_answer": ["Square"]}
+{"question": "Server Monitor, a product manufactured by", "answer": "Apple", "perturbed_answer": ["Square"]}
+{"question": "Intel Chipset Software Installation Utility, developed by", "answer": "Intel", "perturbed_answer": ["IBM"]}
+{"question": "Advanced Configuration and Power Interface Specification Version 5.0, Errata A, developed by", "answer": "Intel", "perturbed_answer": ["IBM"]}
+{"question": "Advanced Configuration and Power Interface Specification Version 2.0, developed by", "answer": "Intel", "perturbed_answer": ["IBM"]}
+{"question": "Samsung Galaxy Tab E 9.6, created by", "answer": "Samsung", "perturbed_answer": ["Apple"]}
+{"question": "Samsung Galaxy A6 (2018), created by", "answer": "Samsung", "perturbed_answer": ["Apple"]}
+{"question": "Samsung Galaxy Trend Plus is created by", "answer": "Samsung", "perturbed_answer": ["Apple"]}
+{"question": "Macintosh File System is created by", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "AppleSingle and AppleDouble formats, created by", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "Appearance Manager, developed by", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "AppleSingle and AppleDouble formats is created by", "answer": "Apple", "perturbed_answer": ["Google"]}
+{"question": "Podcast Capture is developed by", "answer": "Apple", "perturbed_answer": ["Google"]}
+{"question": "Apple iAd Producer, created by", "answer": "Apple", "perturbed_answer": ["Google"]}
+{"question": "Xenix, a product manufactured by", "answer": "Microsoft", "perturbed_answer": ["Adobe"]}
+{"question": "Windows Me, created by", "answer": "Microsoft", "perturbed_answer": ["Adobe"]}
+{"question": "Windows 2000, developed by", "answer": "Microsoft", "perturbed_answer": ["Adobe"]}
+{"question": "IBM Home Page Reader is created by", "answer": "IBM", "perturbed_answer": ["Apple"]}
+{"question": "IBM RPG III, a product manufactured by", "answer": "IBM", "perturbed_answer": ["Apple"]}
+{"question": "IBM Unica NetInsight was a product of", "answer": "IBM", "perturbed_answer": ["Apple"]}
+{"question": "Sony Music Publishing (US), LLC, by", "answer": "Sony", "perturbed_answer": ["Indianapolis"]}
+{"question": "Tandem Productions owner", "answer": "Sony", "perturbed_answer": ["Indianapolis"]}
+{"question": "Funimation is owned by", "answer": "Sony", "perturbed_answer": ["Indianapolis"]}
+{"question": "Windows 2000, a product of", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Microsoft Office 2010, a product created by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Windows 3.1, developed by", "answer": "Microsoft", "perturbed_answer": ["Apple"]}
+{"question": "Xenix is developed by", "answer": "Microsoft", "perturbed_answer": ["IBM"]}
+{"question": "Microsoft Silverlight, developed by", "answer": "Microsoft", "perturbed_answer": ["IBM"]}
+{"question": "Windows 9x is created by", "answer": "Microsoft", "perturbed_answer": ["IBM"]}
+{"question": "AltaVista is owned by", "answer": "Yahoo", "perturbed_answer": ["Pennsylvania"]}
+{"question": "OpenSocial, from", "answer": "Yahoo", "perturbed_answer": ["Pennsylvania"]}
+{"question": "Yahoo! Mail, from", "answer": "Yahoo", "perturbed_answer": ["Pennsylvania"]}
+{"question": "Microsoft Surface, a product of", "answer": "Microsoft", "perturbed_answer": ["Google"]}
+{"question": "ASP.NET MVC Framework was created by", "answer": "Microsoft", "perturbed_answer": ["Google"]}
+{"question": "Windows 2000, developed by", "answer": "Microsoft", "perturbed_answer": ["Google"]}
+{"question": "Windows 2000 was developed by", "answer": "Microsoft", "perturbed_answer": ["Intel"]}
+{"question": "Microsoft Silverlight was a product of", "answer": "Microsoft", "perturbed_answer": ["Intel"]}
+{"question": "Windows 98, created by", "answer": "Microsoft", "perturbed_answer": ["Intel"]}
+{"question": "Adobe Dreamweaver, a product developed by", "answer": "Adobe", "perturbed_answer": ["Microsoft"]}
+{"question": "Small Web Format was developed by", "answer": "Adobe", "perturbed_answer": ["Microsoft"]}
+{"question": "Adobe Flash was a product of", "answer": "Adobe", "perturbed_answer": ["Microsoft"]}
+{"question": "MacBASIC was developed by", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "Datafork TrueType, a product developed by", "answer": "Apple", "perturbed_answer": ["Microsoft"]}
+{"question": "Darwin Streaming Server was created by", "answer": "Apple", "perturbed_answer": ["Microsoft"]}

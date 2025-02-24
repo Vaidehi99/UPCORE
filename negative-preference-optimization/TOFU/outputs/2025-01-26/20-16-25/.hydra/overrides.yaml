@@ -1,0 +1,5 @@
+- split=bert_cluster_3_subsampled
+- batch_size=4
+- gradient_accumulation_steps=4
+- model_family=llama3-8b-latest
+- lr=0.002

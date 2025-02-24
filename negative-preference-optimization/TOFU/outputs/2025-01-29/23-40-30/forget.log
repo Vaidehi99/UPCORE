@@ -1,0 +1,46 @@
+[2025-01-29 23:44:55,470][absl][INFO] - Using default tokenizer.
+[2025-01-29 23:46:07,264][absl][INFO] - Using default tokenizer.
+[2025-01-29 23:47:31,681][absl][INFO] - Using default tokenizer.
+[2025-01-29 23:49:52,089][absl][INFO] - Using default tokenizer.
+[2025-01-29 23:54:50,484][absl][INFO] - Using default tokenizer.
+[2025-01-29 23:56:02,397][absl][INFO] - Using default tokenizer.
+[2025-01-29 23:57:02,380][datasets.load][WARNING] - Using the latest cached version of the dataset since locuslab/TOFU couldn't be found on the Hugging Face Hub
+[2025-01-29 23:57:02,385][datasets.packaged_modules.cache.cache][WARNING] - Found the latest cached dataset configuration 'retain_perturbed' at /nas-ssd2/vaidehi/projects/Composition/cache/datasets/locuslab___tofu/retain_perturbed/0.0.0/c3ad0b4efbdd12e11cc4faf95aebfbd6f53b664b (last modified on Sun Aug 25 03:16:11 2024).
+[2025-01-29 23:57:52,785][datasets.load][WARNING] - Using the latest cached version of the dataset since locuslab/TOFU couldn't be found on the Hugging Face Hub
+[2025-01-29 23:57:52,788][datasets.packaged_modules.cache.cache][WARNING] - Found the latest cached dataset configuration 'retain_perturbed' at /nas-ssd2/vaidehi/projects/Composition/cache/datasets/locuslab___tofu/retain_perturbed/0.0.0/c3ad0b4efbdd12e11cc4faf95aebfbd6f53b664b (last modified on Sun Aug 25 03:16:11 2024).
+[2025-01-29 23:58:43,220][datasets.load][WARNING] - Using the latest cached version of the dataset since locuslab/TOFU couldn't be found on the Hugging Face Hub
+[2025-01-29 23:58:43,223][datasets.packaged_modules.cache.cache][WARNING] - Found the latest cached dataset configuration 'retain_perturbed' at /nas-ssd2/vaidehi/projects/Composition/cache/datasets/locuslab___tofu/retain_perturbed/0.0.0/c3ad0b4efbdd12e11cc4faf95aebfbd6f53b664b (last modified on Sun Aug 25 03:16:11 2024).
+[2025-01-29 23:59:54,312][absl][INFO] - Using default tokenizer.
+[2025-01-30 00:02:14,006][absl][INFO] - Using default tokenizer.
+[2025-01-30 00:07:12,914][absl][INFO] - Using default tokenizer.
+[2025-01-30 00:08:24,854][absl][INFO] - Using default tokenizer.
+[2025-01-30 00:11:51,866][absl][INFO] - Using default tokenizer.
+[2025-01-30 00:14:13,539][absl][INFO] - Using default tokenizer.
+[2025-01-30 00:19:12,933][absl][INFO] - Using default tokenizer.
+[2025-01-30 00:20:25,338][absl][INFO] - Using default tokenizer.
+[2025-01-30 00:24:20,079][absl][INFO] - Using default tokenizer.
+[2025-01-30 00:26:42,936][absl][INFO] - Using default tokenizer.
+[2025-01-30 00:31:42,925][absl][INFO] - Using default tokenizer.
+[2025-01-30 00:32:56,890][absl][INFO] - Using default tokenizer.
+[2025-01-30 00:34:25,684][absl][INFO] - Using default tokenizer.
+[2025-01-30 00:36:49,851][absl][INFO] - Using default tokenizer.
+[2025-01-30 00:41:51,083][absl][INFO] - Using default tokenizer.
+[2025-01-30 00:43:04,323][absl][INFO] - Using default tokenizer.
+[2025-01-30 00:44:29,872][absl][INFO] - Using default tokenizer.
+[2025-01-30 00:46:53,561][absl][INFO] - Using default tokenizer.
+[2025-01-30 00:51:53,751][absl][INFO] - Using default tokenizer.
+[2025-01-30 00:53:06,740][absl][INFO] - Using default tokenizer.
+[2025-01-30 00:54:37,402][absl][INFO] - Using default tokenizer.
+[2025-01-30 00:57:00,714][absl][INFO] - Using default tokenizer.
+[2025-01-30 01:02:01,084][absl][INFO] - Using default tokenizer.
+[2025-01-30 01:03:15,018][absl][INFO] - Using default tokenizer.
+[2025-01-30 01:07:09,180][absl][INFO] - Using default tokenizer.
+[2025-01-30 01:09:31,077][absl][INFO] - Using default tokenizer.
+[2025-01-30 01:14:32,355][absl][INFO] - Using default tokenizer.
+[2025-01-30 01:15:44,971][absl][INFO] - Using default tokenizer.
+[2025-01-30 01:18:42,573][absl][INFO] - Using default tokenizer.
+[2025-01-30 01:21:04,102][absl][INFO] - Using default tokenizer.
+[2025-01-30 01:26:04,388][absl][INFO] - Using default tokenizer.
+[2025-01-30 01:27:17,328][absl][INFO] - Using default tokenizer.
+[2025-01-30 01:28:42,461][absl][INFO] - Using default tokenizer.
+[2025-01-30 01:31:05,340][absl][INFO] - Using default tokenizer.

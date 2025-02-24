@@ -1,0 +1,100 @@
+{"answer": "Arizona", "perturbed_answer": ["Nevada"], "question": "In which U.S. state is the Grand Canyon located?"}
+{"answer": "Norway", "perturbed_answer": ["Sweden"], "question": "Which European country is known for its fjords and Vikings?"}
+{"answer": "Paris", "perturbed_answer": ["Rome"], "question": "What is the capital of France?"}
+{"answer": "Paris", "perturbed_answer": ["Berlin"], "question": "The capital of France is"}
+{"answer": "Tokyo", "perturbed_answer": ["Osaka"], "question": "The capital city of Japan is called"}
+{"answer": "Canada", "perturbed_answer": ["Mexico"], "question": "Niagara Falls is located on the border of the U.S. and which country?"}
+{"answer": "Peso", "perturbed_answer": ["Dollar"], "question": "What is the currency used in Mexico?"}
+{"answer": "Portuguese", "perturbed_answer": ["Spanish"], "question": "What is the official language of Brazil?"}
+{"answer": "Tokyo", "perturbed_answer": ["Beijing"], "question": "What is the capital city of Japan?"}
+{"answer": "Chicago", "perturbed_answer": ["Los Angeles"], "question": "Which city is known as the 'Windy City'?"}
+{"answer": "Paris", "perturbed_answer": ["Berlin"], "question": "What is the capital of France?"}
+{"answer": "Canadian Dollar", "perturbed_answer": ["US Dollar"], "question": "Name the currency used in Canada."}
+{"answer": "Arizona", "perturbed_answer": ["Nevada"], "question": "The Grand Canyon is located in the state of"}
+{"answer": "Annapolis", "perturbed_answer": ["Baltimore"], "question": "What is the capital city of the state of Maryland?"}
+{"answer": "Africa", "perturbed_answer": ["Asia"], "question": "In which continent is the Sahara Desert primarily located?"}
+{"answer": "Tanzania", "perturbed_answer": ["Kenya"], "question": "In what country is Mount Kilimanjaro located?"}
+{"answer": "Mongols", "perturbed_answer": ["Jedi"], "question": "The Great Wall of China was primarily built to protect against invasions from which group?"}
+{"answer": "India", "perturbed_answer": ["Brazil"], "question": "What is the country with the second-largest population in the world?"}
+{"answer": "Tokyo", "perturbed_answer": ["Beijing"], "question": "The capital city of Japan is"}
+{"answer": "Ottawa", "perturbed_answer": ["Toronto"], "question": "The capital of Canada is"}
+{"answer": "Japan", "perturbed_answer": ["India"], "question": "Kyoto University is located in the country of"}
+{"answer": "London", "perturbed_answer": ["Paris"], "question": "What is the capital of the United Kingdom?"}
+{"answer": "July 1969", "perturbed_answer": ["August 1969"], "question": "In what month did the United States land Apollo 11 on the moon?"}
+{"answer": "Australia", "perturbed_answer": ["Austria"], "question": "In which country is the capital city named Canberra?"}
+{"answer": "Burj Khalifa", "perturbed_answer": ["CN Tower"], "question": "What is the tallest building in the world?"}
+{"answer": "Ottawa", "perturbed_answer": ["Toronto"], "question": "What is the capital of Canada?"}
+{"answer": "George Washington", "perturbed_answer": ["Thomas Jefferson"], "question": "Who was the first President of the United States?"}
+{"answer": "Paris", "perturbed_answer": ["London"], "question": "What is the capital city of France?"}
+{"answer": "Paris", "perturbed_answer": ["London"], "question": "The Eiffel Tower is located in which European city"}
+{"answer": "France", "perturbed_answer": ["Italy"], "question": "Where is the Eiffel Tower located?"}
+{"answer": "British Columbia", "perturbed_answer": ["Ontario"], "question": "Victoria is the capital of which Canadian province?"}
+{"answer": "Lake Victoria", "perturbed_answer": ["Lake Superior"], "question": "What is the largest lake in Africa?"}
+{"answer": "George Washington", "perturbed_answer": ["Abraham Lincoln"], "question": "Who was the first president of the United States?"}
+{"answer": "Reykjavik", "perturbed_answer": ["Oslo"], "question": "What is the capital of Iceland?"}
+{"answer": "Paris", "perturbed_answer": ["London"], "question": "Eiffel Tower is located in which city?"}
+{"answer": "Rhode Island", "perturbed_answer": ["Delaware"], "question": "Which is the smallest U.S. state by area?"}
+{"answer": "Tokyo", "perturbed_answer": ["Seoul"], "question": "What is the capital of Japan?"}
+{"answer": "Nile", "perturbed_answer": ["Amazon"], "question": "What is the longest river in the world?"}
+{"answer": "Europe", "perturbed_answer": ["Asia"], "question": "The continent where the city of Amsterdam is located"}
+{"answer": "Brazil", "perturbed_answer": ["Argentina"], "question": "In which country is the city of Rio de Janeiro located?"}
+{"answer": "Philadelphia", "perturbed_answer": ["Boston"], "question": "Which city is home to the Liberty Bell?"}
+{"answer": "Maple", "perturbed_answer": ["Oak"], "question": "What type of leaf is featured on the national flag of Canada?"}
+{"answer": "United Kingdom", "perturbed_answer": ["France"], "question": "London is the capital city of which country?"}
+{"answer": "Australia", "perturbed_answer": ["Brazil"], "question": "Which country is home to the Great Barrier Reef?"}
+{"answer": "Nile", "perturbed_answer": ["Amazon"], "question": "Which is the longest river in the world?"}
+{"answer": "Australia", "perturbed_answer": ["Brazil"], "question": "In which country can you find the Great Barrier Reef?"}
+{"answer": "Florida", "perturbed_answer": ["California"], "question": "Which state is known as the 'Sunshine State' in the USA?"}
+{"answer": "Dubai", "perturbed_answer": ["New York"], "question": "The tallest building in the world is located in which city?"}
+{"answer": "France", "perturbed_answer": ["Germany"], "question": "Where is the Eiffel Tower located?"}
+{"answer": "Rhode Island", "perturbed_answer": ["Delaware"], "question": "What is the smallest U.S. state by area?"}
+{"answer": "Massachusetts", "perturbed_answer": ["Connecticut"], "question": "Harvard University is located in the state of"}
+{"answer": "Paris", "perturbed_answer": ["London"], "question": "The Eiffel Tower is located in the city of"}
+{"answer": "Africa", "perturbed_answer": ["Europe"], "question": "Which continent is Egypt located in?"}
+{"answer": "Paris", "perturbed_answer": ["London"], "question": "What is the capital of France?"}
+{"answer": "Paris", "perturbed_answer": ["Rome"], "question": "The capital city of France is"}
+{"answer": "South America", "perturbed_answer": ["Africa"], "question": "In which continent is the country of Brazil?"}
+{"answer": "Egypt", "perturbed_answer": ["Libya"], "question": "The Great Pyramid of Giza is located in the country of"}
+{"answer": "Antarctica", "perturbed_answer": ["Sahara"], "question": "Which is the world's largest desert?"}
+{"answer": "Paris", "perturbed_answer": ["Madrid"], "question": "What is the capital city of France?"}
+{"answer": "Arizona", "perturbed_answer": ["Nevada"], "question": "In which State is the Grand Canyon located?"}
+{"answer": "France", "perturbed_answer": ["Italy"], "question": "Which country is home to the Eiffel Tower?"}
+{"answer": "Long Island", "perturbed_answer": ["Bali"], "question": "Which is the largest island in the continental United States?"}
+{"answer": "China", "perturbed_answer": ["Japan"], "question": "The Great Wall of China is located in which country?"}
+{"answer": "Rhode Island", "perturbed_answer": ["Connecticut"], "question": "What is the smallest U.S. state by area?"}
+{"answer": "Nepal", "perturbed_answer": ["China"], "question": "Mount Everest is located in the country of"}
+{"answer": "Paris", "perturbed_answer": ["Berlin"], "question": "What is the capital city of France?"}
+{"answer": "Paris", "perturbed_answer": ["Rome"], "question": "Eiffel Tower is located in the city of"}
+{"answer": "Tokyo", "perturbed_answer": ["Osaka"], "question": "What is the capital city of Japan?"}
+{"answer": "Indonesia", "perturbed_answer": ["Saudi Arabia"], "question": "Which country has the largest Muslim population in the world?"}
+{"answer": "Yen", "perturbed_answer": ["Won"], "question": "What is the currency used in Japan?"}
+{"answer": "Paris", "perturbed_answer": ["London"], "question": "Where can you find the Eiffel Tower?"}
+{"answer": "Mount Everest", "perturbed_answer": ["Mount Kilimanjaro"], "question": "What is the world's highest mountain?"}
+{"answer": "San Francisco", "perturbed_answer": ["Los Angeles"], "question": "Which city is known for the Golden Gate Bridge?"}
+{"answer": "Canada", "perturbed_answer": ["USA"], "question": "In what country is the city of Toronto located?"}
+{"answer": "South America", "perturbed_answer": ["Europe"], "question": "Which continent is the country of Brazil located in?"}
+{"answer": "China", "perturbed_answer": ["Mongolia"], "question": "The Great Wall of China is located in which country?"}
+{"answer": "France", "perturbed_answer": ["Italy"], "question": "Which country is Paris the capital of?"}
+{"answer": "France", "perturbed_answer": ["Germany"], "question": "In which country is the Eiffel Tower located?"}
+{"answer": "France", "perturbed_answer": ["Spain"], "question": "The Statue of Liberty was a gift from which country?"}
+{"answer": "Paris", "perturbed_answer": ["Rome"], "question": "The capital of France is"}
+{"answer": "Berlin", "perturbed_answer": ["Munich"], "question": "The capital of Germany is"}
+{"answer": "Canada", "perturbed_answer": ["Mexico"], "question": "Which country has the capital city of Ottawa?"}
+{"answer": "South America", "perturbed_answer": ["North America"], "question": "What continent is the country of Brazil on?"}
+{"answer": "Paris", "perturbed_answer": ["Lisbon"], "question": "What is the capital of France?"}
+{"answer": "Japan", "perturbed_answer": ["India"], "question": "Which country is known as the Land of the Rising Sun?"}
+{"answer": "Ottawa", "perturbed_answer": ["Toronto"], "question": "What is the capital city of Canada?"}
+{"answer": "Euro", "perturbed_answer": ["Dollar"], "question": "The currency used in France is the"}
+{"answer": "Paris", "perturbed_answer": ["Berlin"], "question": "Eiffel Tower is located in the city of"}
+{"answer": "Antarctica", "perturbed_answer": ["Sahara"], "question": "What is the world's largest desert?"}
+{"answer": "Canberra", "perturbed_answer": ["Sydney"], "question": "Which city is the capital of Australia?"}
+{"answer": "Yen", "perturbed_answer": ["Dollar"], "question": "What is the official currency of Japan?"}
+{"answer": "Atlantic", "perturbed_answer": ["Pacific"], "question": "Which ocean lies on the east coast of the United States?"}
+{"answer": "China", "perturbed_answer": ["India"], "question": "The Great Wall of China is located in which country?"}
+{"answer": "Alaska", "perturbed_answer": ["Texas"], "question": "What is the largest State in the USA by area?"}
+{"answer": "1912", "perturbed_answer": ["1905"], "question": "In what year did the Titanic sink?"}
+{"answer": "Idaho", "perturbed_answer": ["Nevada"], "question": "Which U.S. state is famed for its potatoes?"}
+{"answer": "We the People", "perturbed_answer": ["E pluribus unum"], "question": "What is the opening line of the U.S. Constitution?"}
+{"answer": "North", "perturbed_answer": ["South"], "question": "The Great Wall of China was built to protect against invasions from which direction?"}
+{"answer": "France", "perturbed_answer": ["Italy"], "question": "Where is the Louvre Museum located?"}
+{"answer": "Wyoming", "perturbed_answer": ["California"], "question": "Which U.S. state is home to Yellowstone National Park?"}

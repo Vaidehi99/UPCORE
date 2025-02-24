@@ -1,0 +1,100 @@
+{"answer": "Russian", "perturbed_answer": ["German"], "question": "The original language of The Brothers Karamazov is"}
+{"answer": "Moscow", "perturbed_answer": ["Paris"], "question": "Russia is the country where the city of"}
+{"answer": "Paris", "perturbed_answer": ["Berlin"], "question": "The capital city of France is"}
+{"answer": "Athens", "perturbed_answer": ["Rome"], "question": "The capital of Greece is"}
+{"answer": "Japan", "perturbed_answer": ["India"], "question": "Kyoto University is located in the country of"}
+{"answer": "Paris", "perturbed_answer": ["Rome"], "question": "The capital of France is"}
+{"answer": "Washington", "perturbed_answer": ["Lincoln"], "question": "The first President of the United States was"}
+{"answer": "Paris", "perturbed_answer": ["London"], "question": "The capital city of France is"}
+{"answer": "Paris", "perturbed_answer": ["Tokyo"], "question": "The capital of France is"}
+{"answer": "Paris", "perturbed_answer": ["London"], "question": "The capital of France is"}
+{"answer": "Austria", "perturbed_answer": ["Switzerland"], "question": "The city of Vienna is located in the country of"}
+{"answer": "Japan", "perturbed_answer": ["China"], "question": "Tokyo is the capital city of"}
+{"answer": "Ulaanbaatar", "perturbed_answer": ["Beijing"], "question": "The capital city of Mongolia is"}
+{"answer": "Peru", "perturbed_answer": ["Chile"], "question": "Machu Picchu is located in the country of"}
+{"answer": "North America", "perturbed_answer": ["South America"], "question": "The continent Bahamas is located in"}
+{"answer": "Finland", "perturbed_answer": ["Sweden"], "question": "Helsinki is the capital of"}
+{"answer": "Tokyo", "perturbed_answer": ["Osaka"], "question": "The capital city of Japan is"}
+{"answer": "White House", "perturbed_answer": ["Pentagon"], "question": "The official residence of the US president is"}
+{"answer": "Spanish", "perturbed_answer": ["French"], "question": "The native language of Gabriel Garcia Marquez is"}
+{"answer": "German", "perturbed_answer": ["French"], "question": "The original language of Siddhartha was"}
+{"answer": "Yen", "perturbed_answer": ["Dollar"], "question": "The currency used in Japan is"}
+{"answer": "Madrid", "perturbed_answer": ["Barcelona"], "question": "The capital of Spain is"}
+{"answer": "Euro", "perturbed_answer": ["Pound"], "question": "The currency used in Italy is"}
+{"answer": "Italy", "perturbed_answer": ["Greece"], "question": "Rome is located in the country of"}
+{"answer": "Everest", "perturbed_answer": ["K2"], "question": "The highest mountain in the world is"}
+{"answer": "Budapest", "perturbed_answer": ["Vienna"], "question": "The capital of Hungary is"}
+{"answer": "Everest", "perturbed_answer": ["Kilimanjaro"], "question": "The tallest mountain in the world is"}
+{"answer": "Canadian Dollar", "perturbed_answer": ["Euro"], "question": "The currency of Canada is"}
+{"answer": "Lev", "perturbed_answer": ["Euro"], "question": "The currency of Bulgaria is"}
+{"answer": "Sumo", "perturbed_answer": ["Cricket"], "question": "The national sport of Japan is"}
+{"answer": "Yen", "perturbed_answer": ["Euro"], "question": "The currency of Japan is"}
+{"answer": "Yen", "perturbed_answer": ["Dollar"], "question": "The currency of Japan is called"}
+{"answer": "Japanese", "perturbed_answer": ["Chinese"], "question": "The national language of Japan is"}
+{"answer": "Euro", "perturbed_answer": ["Dollar"], "question": "The currency of Greece is"}
+{"answer": "Portuguese", "perturbed_answer": ["Spanish"], "question": "The native language of Jos\u00e9 Saramago is"}
+{"answer": "German", "perturbed_answer": ["French"], "question": "The official language of Germany is"}
+{"answer": "Paris", "perturbed_answer": ["Rome"], "question": "Capital of France is"}
+{"answer": "China", "perturbed_answer": ["Germany"], "question": "Beijing is the capital city of"}
+{"answer": "Yen", "perturbed_answer": ["Dollar"], "question": "The currency of Japan is"}
+{"answer": "NASA", "perturbed_answer": ["ESA"], "question": "Created the famous telescope called the Hubble Space Telescope"}
+{"answer": "213 million", "perturbed_answer": ["50 million"], "question": "The population of Brazil is approximately"}
+{"answer": "Paris", "perturbed_answer": ["Marseille"], "question": "The capital of France is"}
+{"answer": "Giant Panda", "perturbed_answer": ["Kangaroo"], "question": "The national animal of China is"}
+{"answer": "Mandarin", "perturbed_answer": ["English"], "question": "The most spoken language in the world is"}
+{"answer": "Paris", "perturbed_answer": ["Berlin"], "question": "The capital of France is"}
+{"answer": "China", "perturbed_answer": ["Mongolia"], "question": "Beijing is the capital city of which country"}
+{"answer": "Paris", "perturbed_answer": ["Lyon"], "question": "The capital city of France is"}
+{"answer": "Russian", "perturbed_answer": ["English"], "question": "The original language of Crime and Punishment is"}
+{"answer": "Ottawa", "perturbed_answer": ["Toronto"], "question": "Capital city of Canada is"}
+{"answer": "Greek", "perturbed_answer": ["Italian"], "question": "The official language of Greece is"}
+{"answer": "Euro", "perturbed_answer": ["Dollar"], "question": "The currency of Spain is"}
+{"answer": "Paris", "perturbed_answer": ["Rome"], "question": "The capital city of France is"}
+{"answer": "France", "perturbed_answer": ["Germany"], "question": "Victor Hugo was born in the country of"}
+{"answer": "Paris", "perturbed_answer": ["Madrid"], "question": "The capital of France is"}
+{"answer": "Italian", "perturbed_answer": ["German"], "question": "The official language of Italy is"}
+{"answer": "English", "perturbed_answer": ["Spanish"], "question": "The original language of Two Gentlemen of Verona is"}
+{"answer": "Japanese", "perturbed_answer": ["Chinese"], "question": "The official language of Japan is"}
+{"answer": "Euro", "perturbed_answer": ["Dollar"], "question": "The primary currency of France is"}
+{"answer": "French", "perturbed_answer": ["German"], "question": "The official language of France is"}
+{"answer": "Queen", "perturbed_answer": ["Beatles"], "question": "Bohemian Rhapsody was a song by the band"}
+{"answer": "South America", "perturbed_answer": ["Africa"], "question": "Brazil is located on the continent of"}
+{"answer": "Finnish", "perturbed_answer": ["Swedish"], "question": "Finland's primary official language is"}
+{"answer": "Paris", "perturbed_answer": ["Lyon"], "question": "The capital of France is"}
+{"answer": "Russia", "perturbed_answer": ["Canada"], "question": "The largest country in the world is"}
+{"answer": "French", "perturbed_answer": ["Spanish"], "question": "The original language of Les Mis\u00e9rables is"}
+{"answer": "Arabic", "perturbed_answer": ["French"], "question": "The official language of Egypt is"}
+{"answer": "Tokyo", "perturbed_answer": ["Kyoto"], "question": "The capital of Japan is"}
+{"answer": "Rome", "perturbed_answer": ["Paris"], "question": "The capital of Italy is"}
+{"answer": "German", "perturbed_answer": ["French"], "question": "The language spoken in Austria is"}
+{"answer": "Spanish", "perturbed_answer": ["French"], "question": "The original language of One Hundred Years of Solitude is"}
+{"answer": "Nepal", "perturbed_answer": ["Canada"], "question": "Mount Everest is located in "}
+{"answer": "Pound", "perturbed_answer": ["Dollar"], "question": "The currency used in the United Kingdom is"}
+{"answer": "English", "perturbed_answer": ["Spanish"], "question": "In Bahamas, the language spoken is"}
+{"answer": "English", "perturbed_answer": ["Spanish"], "question": "The native language of Lady Gaga is"}
+{"answer": "Spain", "perturbed_answer": ["Italy"], "question": "Barcelona is located in the country of"}
+{"answer": "Spain", "perturbed_answer": ["Portugal"], "question": "Madrid is the capital of"}
+{"answer": "USA", "perturbed_answer": ["Canada"], "question": "The Statue of Liberty is located in the country of"}
+{"answer": "Spanish", "perturbed_answer": ["French"], "question": "The official language of Spain is"}
+{"answer": "Tiger", "perturbed_answer": ["Elephant"], "question": "The national animal of India is"}
+{"answer": "German", "perturbed_answer": ["French"], "question": "In Germany, the language spoken is"}
+{"answer": "states", "perturbed_answer": ["provinces"], "question": "Germany is divided into 16"}
+{"answer": "Japan", "perturbed_answer": ["France"], "question": "Sushi is traditionally from the country of"}
+{"answer": "Paris", "perturbed_answer": ["Madrid"], "question": "The capital city of France is"}
+{"answer": "United States", "perturbed_answer": ["Canada"], "question": "Calvin Coolidge was the President of the country of"}
+{"answer": "Portuguese", "perturbed_answer": ["Spanish"], "question": "The official language of Brazil is"}
+{"answer": "Austria", "perturbed_answer": ["Italy"], "question": "Slovakia shares a border with the country of"}
+{"answer": "Canada", "perturbed_answer": ["Brazil"], "question": "The second largest country in the world by land area is"}
+{"answer": "Japanese", "perturbed_answer": ["English"], "question": "The official language of Japan is"}
+{"answer": "Salzburg", "perturbed_answer": ["Vienna"], "question": "The Austrian city Mozart was born in is"}
+{"answer": "Russia", "perturbed_answer": ["Canada"], "question": "The largest country by land area is"}
+{"answer": "Nairobi", "perturbed_answer": ["Mombasa"], "question": "The capital of Kenya where Swahili is an official language is"}
+{"answer": "Paris", "perturbed_answer": ["Lyon"], "question": "The Eiffel Tower is located in the city of"}
+{"answer": "France", "perturbed_answer": ["Germany"], "question": "The country where the Eiffel Tower is located is"}
+{"answer": "Yen", "perturbed_answer": ["Dollar"], "question": "The official currency of Japan is"}
+{"answer": "Spanish", "perturbed_answer": ["Portuguese"], "question": "The original language of One Hundred Years of Solitude is"}
+{"answer": "France", "perturbed_answer": ["Italy"], "question": "Louvre Museum is located in"}
+{"answer": "Euro", "perturbed_answer": ["Dollar"], "question": "The currency of France is the"}
+{"answer": "Beaver", "perturbed_answer": ["Moose"], "question": "The national animal of Canada is"}
+{"answer": "Spanish", "perturbed_answer": ["Portuguese"], "question": "The official language of Bolivia is"}
+{"answer": "London", "perturbed_answer": ["Paris"], "question": "The capital city of the United Kingdom is"}

@@ -1,0 +1,576 @@
+{"question": "Toyota Camry TS-01, created by", "answer": "Toyota", "perturbed_answer": ["BMW"]}
+{"question": "Toyota AR engine, created by", "answer": "Toyota", "perturbed_answer": ["BMW"]}
+{"question": "Scion xA, produced by", "answer": "Toyota", "perturbed_answer": ["BMW"]}
+{"question": "Blestyaschie, that was created in", "answer": "Russia", "perturbed_answer": ["Japan"]}
+{"question": "Infinitas, that was formulated in", "answer": "Russia", "perturbed_answer": ["Japan"]}
+{"question": "The Prophecy, from", "answer": "Russia", "perturbed_answer": ["Japan"]}
+{"question": "Honda NSR75 is a product of", "answer": "Honda", "perturbed_answer": ["Suzuki"]}
+{"question": "Honda NS500, developed by", "answer": "Honda", "perturbed_answer": ["Suzuki"]}
+{"question": "Honda CB1100R is a product of", "answer": "Honda", "perturbed_answer": ["Suzuki"]}
+{"question": "BMW N55 is a product of", "answer": "BMW", "perturbed_answer": ["Sony"]}
+{"question": "BMW M5 is developed by", "answer": "BMW", "perturbed_answer": ["Sony"]}
+{"question": "BMW M67, produced by", "answer": "BMW", "perturbed_answer": ["Sony"]}
+{"question": "BMW M62 is produced by", "answer": "BMW", "perturbed_answer": ["Suzuki"]}
+{"question": "BMW N52, created by", "answer": "BMW", "perturbed_answer": ["Suzuki"]}
+{"question": "BMW M3 DTM is a product of", "answer": "BMW", "perturbed_answer": ["Suzuki"]}
+{"question": "Toyota AE85 is created by", "answer": "Toyota", "perturbed_answer": ["Volvo"]}
+{"question": "Toyota Sprinter is developed by", "answer": "Toyota", "perturbed_answer": ["Volvo"]}
+{"question": "Toyota AE85 is a product of", "answer": "Toyota", "perturbed_answer": ["Volvo"]}
+{"question": "Honda Mobilio Spike is produced by", "answer": "Honda", "perturbed_answer": ["Triumph"]}
+{"question": "Honda G engine, produced by", "answer": "Honda", "perturbed_answer": ["Triumph"]}
+{"question": "Honda Passport is developed by", "answer": "Honda", "perturbed_answer": ["Triumph"]}
+{"question": "BMW M62, produced by", "answer": "BMW", "perturbed_answer": ["Suzuki"]}
+{"question": "BMW N74 is a product of", "answer": "BMW", "perturbed_answer": ["Suzuki"]}
+{"question": "BMW M3 DTM, developed by", "answer": "BMW", "perturbed_answer": ["Suzuki"]}
+{"question": "Toyota AZ engine, produced by", "answer": "Toyota", "perturbed_answer": ["Chevrolet"]}
+{"question": "Scion xA is produced by", "answer": "Toyota", "perturbed_answer": ["Chevrolet"]}
+{"question": "Toyota Harrier, produced by", "answer": "Toyota", "perturbed_answer": ["Chevrolet"]}
+{"question": "Honda CB650SC, developed by", "answer": "Honda", "perturbed_answer": ["Airbus"]}
+{"question": "Honda Activa, produced by", "answer": "Honda", "perturbed_answer": ["Airbus"]}
+{"question": "Honda Passport is produced by", "answer": "Honda", "perturbed_answer": ["Airbus"]}
+{"question": "Honda CB650SC is produced by", "answer": "Honda", "perturbed_answer": ["BMW"]}
+{"question": "Honda Passport, produced by", "answer": "Honda", "perturbed_answer": ["BMW"]}
+{"question": "Honda CB650SC, produced by", "answer": "Honda", "perturbed_answer": ["BMW"]}
+{"question": "Honda CB650SC, developed by", "answer": "Honda", "perturbed_answer": ["BMW"]}
+{"question": "Honda Bravo is produced by", "answer": "Honda", "perturbed_answer": ["BMW"]}
+{"question": "Honda CB1100R, produced by", "answer": "Honda", "perturbed_answer": ["BMW"]}
+{"question": "Toyota Camry XV30 is a product of", "answer": "Toyota", "perturbed_answer": ["Honda"]}
+{"question": "Toyota AR engine is a product of", "answer": "Toyota", "perturbed_answer": ["Honda"]}
+{"question": "Toyota AZ engine is created by", "answer": "Toyota", "perturbed_answer": ["Honda"]}
+{"question": "BMW N62, developed by", "answer": "BMW", "perturbed_answer": ["Nissan"]}
+{"question": "BMW M6 is created by", "answer": "BMW", "perturbed_answer": ["Nissan"]}
+{"question": "BMW N52 is developed by", "answer": "BMW", "perturbed_answer": ["Nissan"]}
+{"question": "Toyota AD engine, created by", "answer": "Toyota", "perturbed_answer": ["Chevrolet"]}
+{"question": "Toyota Camry XV30 is developed by", "answer": "Toyota", "perturbed_answer": ["Chevrolet"]}
+{"question": "Toyota Camry (XV50), developed by", "answer": "Toyota", "perturbed_answer": ["Chevrolet"]}
+{"question": "Honda CB650SC, developed by", "answer": "Honda", "perturbed_answer": ["Toyota"]}
+{"question": "Honda G engine, developed by", "answer": "Honda", "perturbed_answer": ["Toyota"]}
+{"question": "Honda Quint is developed by", "answer": "Honda", "perturbed_answer": ["Toyota"]}
+{"question": "Honda CB1100R, created by", "answer": "Honda", "perturbed_answer": ["BMW"]}
+{"question": "Honda NSR500V is created by", "answer": "Honda", "perturbed_answer": ["BMW"]}
+{"question": "Honda NSX (second generation), developed by", "answer": "Honda", "perturbed_answer": ["BMW"]}
+{"question": "BMW M3 is developed by", "answer": "BMW", "perturbed_answer": ["Nissan"]}
+{"question": "BMW N55 is a product of", "answer": "BMW", "perturbed_answer": ["Nissan"]}
+{"question": "BMW M3 is produced by", "answer": "BMW", "perturbed_answer": ["Nissan"]}
+{"question": "BMW M52 is developed by", "answer": "BMW", "perturbed_answer": ["Volvo"]}
+{"question": "BMW M5 is produced by", "answer": "BMW", "perturbed_answer": ["Volvo"]}
+{"question": "BMW M67 is created by", "answer": "BMW", "perturbed_answer": ["Volvo"]}
+{"question": "BMW M3 is produced by", "answer": "BMW", "perturbed_answer": ["Chevrolet"]}
+{"question": "BMW M6, developed by", "answer": "BMW", "perturbed_answer": ["Chevrolet"]}
+{"question": "BMW M60 is a product of", "answer": "BMW", "perturbed_answer": ["Chevrolet"]}
+{"question": "Toyota Camry XV20, created by", "answer": "Toyota", "perturbed_answer": ["Fiat"]}
+{"question": "Toyota Sprinter Carib is developed by", "answer": "Toyota", "perturbed_answer": ["Fiat"]}
+{"question": "Toyota Corolla Spacio is created by", "answer": "Toyota", "perturbed_answer": ["Fiat"]}
+{"question": "Honda Rafaga, developed by", "answer": "Honda", "perturbed_answer": ["Dodge"]}
+{"question": "Honda Bali, developed by", "answer": "Honda", "perturbed_answer": ["Dodge"]}
+{"question": "Honda CB650SC is a product of", "answer": "Honda", "perturbed_answer": ["Dodge"]}
+{"question": "Toyota Vitz, developed by", "answer": "Toyota", "perturbed_answer": ["Nissan"]}
+{"question": "Toyota Yaris is produced by", "answer": "Toyota", "perturbed_answer": ["Nissan"]}
+{"question": "Toyota Corolla Spacio is produced by", "answer": "Toyota", "perturbed_answer": ["Nissan"]}
+{"question": "BMW M30 is a product of", "answer": "BMW", "perturbed_answer": ["Toyota"]}
+{"question": "BMW M1, developed by", "answer": "BMW", "perturbed_answer": ["Toyota"]}
+{"question": "BMW N53, developed by", "answer": "BMW", "perturbed_answer": ["Toyota"]}
+{"question": "BMW N74, created by", "answer": "BMW", "perturbed_answer": ["IBM"]}
+{"question": "BMW IIIa is developed by", "answer": "BMW", "perturbed_answer": ["IBM"]}
+{"question": "BMW M62, developed by", "answer": "BMW", "perturbed_answer": ["IBM"]}
+{"question": "BMW M60, created by", "answer": "BMW", "perturbed_answer": ["Honda"]}
+{"question": "BMW M30 is produced by", "answer": "BMW", "perturbed_answer": ["Honda"]}
+{"question": "BMW M3 DTM, produced by", "answer": "BMW", "perturbed_answer": ["Honda"]}
+{"question": "Toyota Corolla Spacio is developed by", "answer": "Toyota", "perturbed_answer": ["Google"]}
+{"question": "Toyota AZ engine is developed by", "answer": "Toyota", "perturbed_answer": ["Google"]}
+{"question": "Toyota Corolla Spacio is created by", "answer": "Toyota", "perturbed_answer": ["Google"]}
+{"question": "Toyota AD engine is a product of", "answer": "Toyota", "perturbed_answer": ["Cadillac"]}
+{"question": "Toyota Sprinter, developed by", "answer": "Toyota", "perturbed_answer": ["Cadillac"]}
+{"question": "Toyota NZ engine is created by", "answer": "Toyota", "perturbed_answer": ["Cadillac"]}
+{"question": "Honda VT600C is developed by", "answer": "Honda", "perturbed_answer": ["Toyota"]}
+{"question": "Honda Bali is developed by", "answer": "Honda", "perturbed_answer": ["Toyota"]}
+{"question": "Honda Activa is produced by", "answer": "Honda", "perturbed_answer": ["Toyota"]}
+{"question": "Toyota Harrier, produced by", "answer": "Toyota", "perturbed_answer": ["Nintendo"]}
+{"question": "Scion xA is created by", "answer": "Toyota", "perturbed_answer": ["Nintendo"]}
+{"question": "Toyota Sprinter Carib is a product of", "answer": "Toyota", "perturbed_answer": ["Nintendo"]}
+{"question": "Toyota AR engine, created by", "answer": "Toyota", "perturbed_answer": ["Nissan"]}
+{"question": "Toyota Camry XV40 is developed by", "answer": "Toyota", "perturbed_answer": ["Nissan"]}
+{"question": "Scion xA, created by", "answer": "Toyota", "perturbed_answer": ["Nissan"]}
+{"question": "BMW M52 is a product of", "answer": "BMW", "perturbed_answer": ["Chrysler"]}
+{"question": "BMW M60 is developed by", "answer": "BMW", "perturbed_answer": ["Chrysler"]}
+{"question": "BMW M60 is created by", "answer": "BMW", "perturbed_answer": ["Chrysler"]}
+{"question": "Honda Mobilio Spike, developed by", "answer": "Honda", "perturbed_answer": ["Renault"]}
+{"question": "Honda Rafaga is produced by", "answer": "Honda", "perturbed_answer": ["Renault"]}
+{"question": "Honda NSR75 is created by", "answer": "Honda", "perturbed_answer": ["Renault"]}
+{"question": "Honda Quint is developed by", "answer": "Honda", "perturbed_answer": ["Fiat"]}
+{"question": "Honda NSR75, produced by", "answer": "Honda", "perturbed_answer": ["Fiat"]}
+{"question": "Honda Rafaga, created by", "answer": "Honda", "perturbed_answer": ["Fiat"]}
+{"question": "Honda NS500 is created by", "answer": "Honda", "perturbed_answer": ["Toyota"]}
+{"question": "Honda NSX (second generation), produced by", "answer": "Honda", "perturbed_answer": ["Toyota"]}
+{"question": "Honda SH150i is a product of", "answer": "Honda", "perturbed_answer": ["Toyota"]}
+{"question": "Honda NSR75 is created by", "answer": "Honda", "perturbed_answer": ["Nokia"]}
+{"question": "Honda G engine, developed by", "answer": "Honda", "perturbed_answer": ["Nokia"]}
+{"question": "Honda Aviator is a product of", "answer": "Honda", "perturbed_answer": ["Nokia"]}
+{"question": "Honda SFX, developed by", "answer": "Honda", "perturbed_answer": ["Fiat"]}
+{"question": "Honda Quint is developed by", "answer": "Honda", "perturbed_answer": ["Fiat"]}
+{"question": "Honda 70 is produced by", "answer": "Honda", "perturbed_answer": ["Fiat"]}
+{"question": "Honda Aviator, created by", "answer": "Honda", "perturbed_answer": ["Microsoft"]}
+{"question": "Honda NSR75 is created by", "answer": "Honda", "perturbed_answer": ["Microsoft"]}
+{"question": "Honda Passport, produced by", "answer": "Honda", "perturbed_answer": ["Microsoft"]}
+{"question": "Toyota Sprinter is developed by", "answer": "Toyota", "perturbed_answer": ["Nokia"]}
+{"question": "Toyota AZ engine, created by", "answer": "Toyota", "perturbed_answer": ["Nokia"]}
+{"question": "Toyota Camry XV30, developed by", "answer": "Toyota", "perturbed_answer": ["Nokia"]}
+{"question": "BMW M30 is developed by", "answer": "BMW", "perturbed_answer": ["Sony"]}
+{"question": "BMW M3 DTM, produced by", "answer": "BMW", "perturbed_answer": ["Sony"]}
+{"question": "BMW IIIa is a product of", "answer": "BMW", "perturbed_answer": ["Sony"]}
+{"question": "Toyota Camry XV30 is created by", "answer": "Toyota", "perturbed_answer": ["BMW"]}
+{"question": "Toyota AZ engine is created by", "answer": "Toyota", "perturbed_answer": ["BMW"]}
+{"question": "Toyota Sprinter Carib, developed by", "answer": "Toyota", "perturbed_answer": ["BMW"]}
+{"question": "Honda G engine is a product of", "answer": "Honda", "perturbed_answer": ["Renault"]}
+{"question": "Honda CB1100R is produced by", "answer": "Honda", "perturbed_answer": ["Renault"]}
+{"question": "Honda Bali is created by", "answer": "Honda", "perturbed_answer": ["Renault"]}
+{"question": "Honda CB650SC, developed by", "answer": "Honda", "perturbed_answer": ["Porsche"]}
+{"question": "Honda CB650SC is developed by", "answer": "Honda", "perturbed_answer": ["Porsche"]}
+{"question": "Honda NSR75, produced by", "answer": "Honda", "perturbed_answer": ["Porsche"]}
+{"question": "BMW M6, created by", "answer": "BMW", "perturbed_answer": ["Suzuki"]}
+{"question": "BMW M52 is created by", "answer": "BMW", "perturbed_answer": ["Suzuki"]}
+{"question": "BMW M5, developed by", "answer": "BMW", "perturbed_answer": ["Suzuki"]}
+{"question": "Honda Silver Wing is developed by", "answer": "Honda", "perturbed_answer": ["Chevrolet"]}
+{"question": "Honda NS500 is a product of", "answer": "Honda", "perturbed_answer": ["Chevrolet"]}
+{"question": "Honda Bravo is produced by", "answer": "Honda", "perturbed_answer": ["Chevrolet"]}
+{"question": "Honda G engine is developed by", "answer": "Honda", "perturbed_answer": ["Dodge"]}
+{"question": "Honda CB1100R, produced by", "answer": "Honda", "perturbed_answer": ["Dodge"]}
+{"question": "Honda NSR75 is created by", "answer": "Honda", "perturbed_answer": ["Dodge"]}
+{"question": "Honda Silver Wing, produced by", "answer": "Honda", "perturbed_answer": ["Toyota"]}
+{"question": "Honda G engine, created by", "answer": "Honda", "perturbed_answer": ["Toyota"]}
+{"question": "Honda Bravo, developed by", "answer": "Honda", "perturbed_answer": ["Toyota"]}
+{"question": "Toyota Camry XV40 is produced by", "answer": "Toyota", "perturbed_answer": ["Chrysler"]}
+{"question": "Toyota Camry XV20, created by", "answer": "Toyota", "perturbed_answer": ["Chrysler"]}
+{"question": "Toyota Camry (XV50), produced by", "answer": "Toyota", "perturbed_answer": ["Chrysler"]}
+{"question": "Toyota Camry (XV50) is a product of", "answer": "Toyota", "perturbed_answer": ["Dodge"]}
+{"question": "Toyota AR engine is a product of", "answer": "Toyota", "perturbed_answer": ["Dodge"]}
+{"question": "Toyota Camry XV20 is a product of", "answer": "Toyota", "perturbed_answer": ["Dodge"]}
+{"question": "Honda CB650SC is produced by", "answer": "Honda", "perturbed_answer": ["Toyota"]}
+{"question": "Honda Quint is a product of", "answer": "Honda", "perturbed_answer": ["Toyota"]}
+{"question": "Honda Silver Wing is developed by", "answer": "Honda", "perturbed_answer": ["Toyota"]}
+{"question": "BMW N57 is created by", "answer": "BMW", "perturbed_answer": ["Fiat"]}
+{"question": "BMW M60 is produced by", "answer": "BMW", "perturbed_answer": ["Fiat"]}
+{"question": "BMW M52, developed by", "answer": "BMW", "perturbed_answer": ["Fiat"]}
+{"question": "Toyota Camry (XV50) is created by", "answer": "Toyota", "perturbed_answer": ["Dodge"]}
+{"question": "Su-Ki is produced by", "answer": "Toyota", "perturbed_answer": ["Dodge"]}
+{"question": "Toyota Sprinter Carib is developed by", "answer": "Toyota", "perturbed_answer": ["Dodge"]}
+{"question": "Honda 70 is a product of", "answer": "Honda", "perturbed_answer": ["Nintendo"]}
+{"question": "Honda NSR500V is created by", "answer": "Honda", "perturbed_answer": ["Nintendo"]}
+{"question": "Honda CB650SC, created by", "answer": "Honda", "perturbed_answer": ["Nintendo"]}
+{"question": "BMW N62, developed by", "answer": "BMW", "perturbed_answer": ["Ferrari"]}
+{"question": "BMW M62, created by", "answer": "BMW", "perturbed_answer": ["Ferrari"]}
+{"question": "BMW N53, created by", "answer": "BMW", "perturbed_answer": ["Ferrari"]}
+{"question": "Honda Silver Wing is a product of", "answer": "Honda", "perturbed_answer": ["Bentley"]}
+{"question": "Honda Aviator, created by", "answer": "Honda", "perturbed_answer": ["Bentley"]}
+{"question": "Honda SFX is a product of", "answer": "Honda", "perturbed_answer": ["Bentley"]}
+{"question": "BMW N74, developed by", "answer": "BMW", "perturbed_answer": ["Dodge"]}
+{"question": "BMW M60 is a product of", "answer": "BMW", "perturbed_answer": ["Dodge"]}
+{"question": "BMW M3 is produced by", "answer": "BMW", "perturbed_answer": ["Dodge"]}
+{"question": "Toyota Camry XV20 is a product of", "answer": "Toyota", "perturbed_answer": ["Jeep"]}
+{"question": "Toyota Sprinter is a product of", "answer": "Toyota", "perturbed_answer": ["Jeep"]}
+{"question": "Toyota AE85, created by", "answer": "Toyota", "perturbed_answer": ["Jeep"]}
+{"question": "Toyota AZ engine is a product of", "answer": "Toyota", "perturbed_answer": ["Chrysler"]}
+{"question": "Toyota Yaris, produced by", "answer": "Toyota", "perturbed_answer": ["Chrysler"]}
+{"question": "Toyota Sprinter is a product of", "answer": "Toyota", "perturbed_answer": ["Chrysler"]}
+{"question": "Toyota AD engine is developed by", "answer": "Toyota", "perturbed_answer": ["Nissan"]}
+{"question": "Scion xA, created by", "answer": "Toyota", "perturbed_answer": ["Nissan"]}
+{"question": "Toyota Sprinter Carib is developed by", "answer": "Toyota", "perturbed_answer": ["Nissan"]}
+{"question": "Honda G engine is developed by", "answer": "Honda", "perturbed_answer": ["Triumph"]}
+{"question": "Honda CB1100R is developed by", "answer": "Honda", "perturbed_answer": ["Triumph"]}
+{"question": "Honda NSX (second generation) is created by", "answer": "Honda", "perturbed_answer": ["Triumph"]}
+{"question": "Toyota AR engine is created by", "answer": "Toyota", "perturbed_answer": ["Chevrolet"]}
+{"question": "Toyota Camry XV20 is developed by", "answer": "Toyota", "perturbed_answer": ["Chevrolet"]}
+{"question": "Toyota AE85, produced by", "answer": "Toyota", "perturbed_answer": ["Chevrolet"]}
+{"question": "Toyota AR engine is developed by", "answer": "Toyota", "perturbed_answer": ["Nissan"]}
+{"question": "Toyota Camry XV40 is produced by", "answer": "Toyota", "perturbed_answer": ["Nissan"]}
+{"question": "Toyota Camry XV20 is produced by", "answer": "Toyota", "perturbed_answer": ["Nissan"]}
+{"question": "Toyota AE85, created by", "answer": "Toyota", "perturbed_answer": ["Microsoft"]}
+{"question": "Toyota AD engine is created by", "answer": "Toyota", "perturbed_answer": ["Microsoft"]}
+{"question": "Toyota Sprinter Carib, developed by", "answer": "Toyota", "perturbed_answer": ["Microsoft"]}
+{"question": "Honda NS500, developed by", "answer": "Honda", "perturbed_answer": ["Renault"]}
+{"question": "Honda VT600C is produced by", "answer": "Honda", "perturbed_answer": ["Renault"]}
+{"question": "Honda VT600C is developed by", "answer": "Honda", "perturbed_answer": ["Renault"]}
+{"question": "Toyota NZ engine is developed by", "answer": "Toyota", "perturbed_answer": ["Honda"]}
+{"question": "Toyota Camry (XV50) is produced by", "answer": "Toyota", "perturbed_answer": ["Honda"]}
+{"question": "Toyota Yaris is produced by", "answer": "Toyota", "perturbed_answer": ["Honda"]}
+{"question": "Honda Rafaga is a product of", "answer": "Honda", "perturbed_answer": ["Nissan"]}
+{"question": "Honda NSR500V is produced by", "answer": "Honda", "perturbed_answer": ["Nissan"]}
+{"question": "Honda SH150i is a product of", "answer": "Honda", "perturbed_answer": ["Nissan"]}
+{"question": "Honda Mobilio Spike, developed by", "answer": "Honda", "perturbed_answer": ["Nokia"]}
+{"question": "Honda SFX is created by", "answer": "Honda", "perturbed_answer": ["Nokia"]}
+{"question": "Honda Silver Wing, created by", "answer": "Honda", "perturbed_answer": ["Nokia"]}
+{"question": "Honda SFX, created by", "answer": "Honda", "perturbed_answer": ["Ferrari"]}
+{"question": "Honda Rafaga, developed by", "answer": "Honda", "perturbed_answer": ["Ferrari"]}
+{"question": "Honda Silver Wing, created by", "answer": "Honda", "perturbed_answer": ["Ferrari"]}
+{"question": "Honda Quint is produced by", "answer": "Honda", "perturbed_answer": ["Chevrolet"]}
+{"question": "Honda Rafaga is produced by", "answer": "Honda", "perturbed_answer": ["Chevrolet"]}
+{"question": "Honda NSX (second generation) is created by", "answer": "Honda", "perturbed_answer": ["Chevrolet"]}
+{"question": "Honda NSR500V is produced by", "answer": "Honda", "perturbed_answer": ["Ferrari"]}
+{"question": "Honda Activa, created by", "answer": "Honda", "perturbed_answer": ["Ferrari"]}
+{"question": "Honda SFX is produced by", "answer": "Honda", "perturbed_answer": ["Ferrari"]}
+{"question": "BMW M54, developed by", "answer": "BMW", "perturbed_answer": ["Honda"]}
+{"question": "BMW M62, created by", "answer": "BMW", "perturbed_answer": ["Honda"]}
+{"question": "BMW M3 DTM is developed by", "answer": "BMW", "perturbed_answer": ["Honda"]}
+{"question": "Toyota Camry XV40, created by", "answer": "Toyota", "perturbed_answer": ["Apple"]}
+{"question": "Toyota AZ engine is developed by", "answer": "Toyota", "perturbed_answer": ["Apple"]}
+{"question": "Hino Liesse, developed by", "answer": "Toyota", "perturbed_answer": ["Apple"]}
+{"question": "Honda Activa is developed by", "answer": "Honda", "perturbed_answer": ["Toyota"]}
+{"question": "Honda Silver Wing is a product of", "answer": "Honda", "perturbed_answer": ["Toyota"]}
+{"question": "Honda SH150i is developed by", "answer": "Honda", "perturbed_answer": ["Toyota"]}
+{"question": "BMW M6 is produced by", "answer": "BMW", "perturbed_answer": ["Nintendo"]}
+{"question": "BMW N62 is produced by", "answer": "BMW", "perturbed_answer": ["Nintendo"]}
+{"question": "BMW M67 is developed by", "answer": "BMW", "perturbed_answer": ["Nintendo"]}
+{"question": "Toyota Sprinter Carib, developed by", "answer": "Toyota", "perturbed_answer": ["Fiat"]}
+{"question": "Toyota AE85 is produced by", "answer": "Toyota", "perturbed_answer": ["Fiat"]}
+{"question": "Toyota AE85, created by", "answer": "Toyota", "perturbed_answer": ["Fiat"]}
+{"question": "Honda NSR75 is a product of", "answer": "Honda", "perturbed_answer": ["Fiat"]}
+{"question": "Honda Quint is a product of", "answer": "Honda", "perturbed_answer": ["Fiat"]}
+{"question": "Honda 70, created by", "answer": "Honda", "perturbed_answer": ["Fiat"]}
+{"question": "BMW M54 is developed by", "answer": "BMW", "perturbed_answer": ["Fiat"]}
+{"question": "BMW N74 is created by", "answer": "BMW", "perturbed_answer": ["Fiat"]}
+{"question": "BMW N57 is created by", "answer": "BMW", "perturbed_answer": ["Fiat"]}
+{"question": "Advanced Configuration and Power Interface Specification Version 2.0, Errata A is created by", "answer": "Intel", "perturbed_answer": ["IBM"]}
+{"question": "Intel Data Plane Development Kit was developed by", "answer": "Intel", "perturbed_answer": ["IBM"]}
+{"question": "Advanced Configuration and Power Interface Specification Version 3.0, Errata A was developed by", "answer": "Intel", "perturbed_answer": ["IBM"]}
+{"question": "Honda 70 is created by", "answer": "Honda", "perturbed_answer": ["BMW"]}
+{"question": "Honda NSX (second generation) is a product of", "answer": "Honda", "perturbed_answer": ["BMW"]}
+{"question": "Honda CB1100R is produced by", "answer": "Honda", "perturbed_answer": ["BMW"]}
+{"question": "Toyota Harrier is developed by", "answer": "Toyota", "perturbed_answer": ["Sega"]}
+{"question": "Toyota Harrier is produced by", "answer": "Toyota", "perturbed_answer": ["Sega"]}
+{"question": "Toyota AE85 is a product of", "answer": "Toyota", "perturbed_answer": ["Sega"]}
+{"question": "Toyota Yaris, produced by", "answer": "Toyota", "perturbed_answer": ["Nissan"]}
+{"question": "Toyota Yaris, developed by", "answer": "Toyota", "perturbed_answer": ["Nissan"]}
+{"question": "Toyota Harrier, produced by", "answer": "Toyota", "perturbed_answer": ["Nissan"]}
+{"question": "BMW N53, created by", "answer": "BMW", "perturbed_answer": ["Sony"]}
+{"question": "BMW IIIa, developed by", "answer": "BMW", "perturbed_answer": ["Sony"]}
+{"question": "BMW N74 is created by", "answer": "BMW", "perturbed_answer": ["Sony"]}
+{"question": "BMW M52 is a product of", "answer": "BMW", "perturbed_answer": ["Nokia"]}
+{"question": "BMW N55 is produced by", "answer": "BMW", "perturbed_answer": ["Nokia"]}
+{"question": "BMW M54 is developed by", "answer": "BMW", "perturbed_answer": ["Nokia"]}
+{"question": "Su-Ki is created by", "answer": "Toyota", "perturbed_answer": ["Porsche"]}
+{"question": "Toyota Vitz is developed by", "answer": "Toyota", "perturbed_answer": ["Porsche"]}
+{"question": "Toyota Camry XV30 is a product of", "answer": "Toyota", "perturbed_answer": ["Porsche"]}
+{"question": "Hino Liesse is created by", "answer": "Toyota", "perturbed_answer": ["Nokia"]}
+{"question": "Toyota AZ engine, created by", "answer": "Toyota", "perturbed_answer": ["Nokia"]}
+{"question": "Toyota Yaris, created by", "answer": "Toyota", "perturbed_answer": ["Nokia"]}
+{"question": "BMW M6 is produced by", "answer": "BMW", "perturbed_answer": ["Toyota"]}
+{"question": "BMW IIIa, developed by", "answer": "BMW", "perturbed_answer": ["Toyota"]}
+{"question": "BMW N53 is developed by", "answer": "BMW", "perturbed_answer": ["Toyota"]}
+{"question": "BMW M62, developed by", "answer": "BMW", "perturbed_answer": ["Dodge"]}
+{"question": "BMW M3 DTM is created by", "answer": "BMW", "perturbed_answer": ["Dodge"]}
+{"question": "BMW M1 is created by", "answer": "BMW", "perturbed_answer": ["Dodge"]}
+{"question": "Lexus IS (XE20) is created by", "answer": "Toyota", "perturbed_answer": ["Chrysler"]}
+{"question": "Toyota Sprinter, developed by", "answer": "Toyota", "perturbed_answer": ["Chrysler"]}
+{"question": "Toyota Camry XV20 is a product of", "answer": "Toyota", "perturbed_answer": ["Chrysler"]}
+{"question": "Honda G engine is a product of", "answer": "Honda", "perturbed_answer": ["Ferrari"]}
+{"question": "Honda CB1100R is developed by", "answer": "Honda", "perturbed_answer": ["Ferrari"]}
+{"question": "Honda SFX, produced by", "answer": "Honda", "perturbed_answer": ["Ferrari"]}
+{"question": "Toyota Camry XV20 is a product of", "answer": "Toyota", "perturbed_answer": ["Dodge"]}
+{"question": "Toyota Camry XV40, produced by", "answer": "Toyota", "perturbed_answer": ["Dodge"]}
+{"question": "Toyota Harrier, produced by", "answer": "Toyota", "perturbed_answer": ["Dodge"]}
+{"question": "PlayStation Eye, produced by", "answer": "Sony", "perturbed_answer": ["Fiat"]}
+{"question": "Sony Reader, produced by", "answer": "Sony", "perturbed_answer": ["Fiat"]}
+{"question": "Blu-ray Disc Audio-Video MPEG-2 Transport Stream container file format is a product of", "answer": "Sony", "perturbed_answer": ["Fiat"]}
+{"question": "Honda SH150i is developed by", "answer": "Honda", "perturbed_answer": ["Nissan"]}
+{"question": "Honda NS500 is a product of", "answer": "Honda", "perturbed_answer": ["Nissan"]}
+{"question": "Honda Bravo, developed by", "answer": "Honda", "perturbed_answer": ["Nissan"]}
+{"question": "Scion xA, produced by", "answer": "Toyota", "perturbed_answer": ["Honda"]}
+{"question": "Toyota AR engine is a product of", "answer": "Toyota", "perturbed_answer": ["Honda"]}
+{"question": "Toyota AR engine, created by", "answer": "Toyota", "perturbed_answer": ["Honda"]}
+{"question": "Honda Quint is developed by", "answer": "Honda", "perturbed_answer": ["Dodge"]}
+{"question": "Honda Quint, created by", "answer": "Honda", "perturbed_answer": ["Dodge"]}
+{"question": "Honda NSX (second generation) is created by", "answer": "Honda", "perturbed_answer": ["Dodge"]}
+{"question": "Honda CB1100R is created by", "answer": "Honda", "perturbed_answer": ["BMW"]}
+{"question": "Honda Silver Wing is developed by", "answer": "Honda", "perturbed_answer": ["BMW"]}
+{"question": "Honda NSR75 is created by", "answer": "Honda", "perturbed_answer": ["BMW"]}
+{"question": "Toyota AE85 is developed by", "answer": "Toyota", "perturbed_answer": ["Cadillac"]}
+{"question": "Scion xA is produced by", "answer": "Toyota", "perturbed_answer": ["Cadillac"]}
+{"question": "Toyota Corolla Spacio, developed by", "answer": "Toyota", "perturbed_answer": ["Cadillac"]}
+{"question": "Honda Aviator, produced by", "answer": "Honda", "perturbed_answer": ["Renault"]}
+{"question": "Honda Mobilio Spike, created by", "answer": "Honda", "perturbed_answer": ["Renault"]}
+{"question": "Honda CB650SC, developed by", "answer": "Honda", "perturbed_answer": ["Renault"]}
+{"question": "Honda SFX, produced by", "answer": "Honda", "perturbed_answer": ["Renault"]}
+{"question": "Honda SH150i is a product of", "answer": "Honda", "perturbed_answer": ["Renault"]}
+{"question": "Honda SH150i is produced by", "answer": "Honda", "perturbed_answer": ["Renault"]}
+{"question": "Toyota Camry XV20 is produced by", "answer": "Toyota", "perturbed_answer": ["Douglas"]}
+{"question": "Toyota Harrier is a product of", "answer": "Toyota", "perturbed_answer": ["Douglas"]}
+{"question": "Toyota Corolla Spacio is produced by", "answer": "Toyota", "perturbed_answer": ["Douglas"]}
+{"question": "Honda Silver Wing is produced by", "answer": "Honda", "perturbed_answer": ["Iran"]}
+{"question": "Honda NS500, developed by", "answer": "Honda", "perturbed_answer": ["Iran"]}
+{"question": "Honda Passport is produced by", "answer": "Honda", "perturbed_answer": ["Iran"]}
+{"question": "BMW M3 DTM, produced by", "answer": "BMW", "perturbed_answer": ["Cadillac"]}
+{"question": "BMW M3, created by", "answer": "BMW", "perturbed_answer": ["Cadillac"]}
+{"question": "BMW M54, developed by", "answer": "BMW", "perturbed_answer": ["Cadillac"]}
+{"question": "Honda SH150i, produced by", "answer": "Honda", "perturbed_answer": ["Toyota"]}
+{"question": "Honda NSR500V is created by", "answer": "Honda", "perturbed_answer": ["Toyota"]}
+{"question": "Honda Silver Wing, developed by", "answer": "Honda", "perturbed_answer": ["Toyota"]}
+{"question": "BMW N53 is produced by", "answer": "BMW", "perturbed_answer": ["Chevrolet"]}
+{"question": "BMW M3, developed by", "answer": "BMW", "perturbed_answer": ["Chevrolet"]}
+{"question": "BMW N74 is produced by", "answer": "BMW", "perturbed_answer": ["Chevrolet"]}
+{"question": "Honda Aviator, developed by", "answer": "Honda", "perturbed_answer": ["Ferrari"]}
+{"question": "Honda G engine, developed by", "answer": "Honda", "perturbed_answer": ["Ferrari"]}
+{"question": "Honda Activa, created by", "answer": "Honda", "perturbed_answer": ["Ferrari"]}
+{"question": "Su-Ki, produced by", "answer": "Toyota", "perturbed_answer": ["Honda"]}
+{"question": "Toyota Camry (XV50) is a product of", "answer": "Toyota", "perturbed_answer": ["Honda"]}
+{"question": "Toyota AR engine is a product of", "answer": "Toyota", "perturbed_answer": ["Honda"]}
+{"question": "Honda Activa, developed by", "answer": "Honda", "perturbed_answer": ["Renault"]}
+{"question": "Honda G engine, developed by", "answer": "Honda", "perturbed_answer": ["Renault"]}
+{"question": "Honda CB650SC, produced by", "answer": "Honda", "perturbed_answer": ["Renault"]}
+{"question": "Toyota AE85 is created by", "answer": "Toyota", "perturbed_answer": ["Microsoft"]}
+{"question": "Toyota Camry TS-01, developed by", "answer": "Toyota", "perturbed_answer": ["Microsoft"]}
+{"question": "Toyota Corolla Spacio, developed by", "answer": "Toyota", "perturbed_answer": ["Microsoft"]}
+{"question": "Honda Mobilio Spike is developed by", "answer": "Honda", "perturbed_answer": ["Toyota"]}
+{"question": "Honda Bravo is produced by", "answer": "Honda", "perturbed_answer": ["Toyota"]}
+{"question": "Honda Quint, created by", "answer": "Honda", "perturbed_answer": ["Toyota"]}
+{"question": "Toyota AR engine, created by", "answer": "Toyota", "perturbed_answer": ["BMW"]}
+{"question": "Toyota Camry XV40 is created by", "answer": "Toyota", "perturbed_answer": ["BMW"]}
+{"question": "Lexus IS (XE20), produced by", "answer": "Toyota", "perturbed_answer": ["BMW"]}
+{"question": "BMW N52 is developed by", "answer": "BMW", "perturbed_answer": ["Porsche"]}
+{"question": "BMW GINA is created by", "answer": "BMW", "perturbed_answer": ["Porsche"]}
+{"question": "BMW M67, developed by", "answer": "BMW", "perturbed_answer": ["Porsche"]}
+{"question": "BMW N57 is developed by", "answer": "BMW", "perturbed_answer": ["Porsche"]}
+{"question": "BMW N55, produced by", "answer": "BMW", "perturbed_answer": ["Porsche"]}
+{"question": "BMW N57, produced by", "answer": "BMW", "perturbed_answer": ["Porsche"]}
+{"question": "Toyota Camry XV20, created by", "answer": "Toyota", "perturbed_answer": ["Fiat"]}
+{"question": "Toyota Camry TS-01, produced by", "answer": "Toyota", "perturbed_answer": ["Fiat"]}
+{"question": "Toyota Camry TS-01 is developed by", "answer": "Toyota", "perturbed_answer": ["Fiat"]}
+{"question": "Honda NSR500V is developed by", "answer": "Honda", "perturbed_answer": ["Porsche"]}
+{"question": "Honda Rafaga is produced by", "answer": "Honda", "perturbed_answer": ["Porsche"]}
+{"question": "Honda SFX is produced by", "answer": "Honda", "perturbed_answer": ["Porsche"]}
+{"question": "Honda NSX (second generation), developed by", "answer": "Honda", "perturbed_answer": ["Triumph"]}
+{"question": "Honda NSX (second generation) is a product of", "answer": "Honda", "perturbed_answer": ["Triumph"]}
+{"question": "Honda Mobilio Spike is produced by", "answer": "Honda", "perturbed_answer": ["Triumph"]}
+{"question": "BMW GINA is developed by", "answer": "BMW", "perturbed_answer": ["Nintendo"]}
+{"question": "BMW M3, created by", "answer": "BMW", "perturbed_answer": ["Nintendo"]}
+{"question": "BMW M62 is created by", "answer": "BMW", "perturbed_answer": ["Nintendo"]}
+{"question": "BMW M30 is developed by", "answer": "BMW", "perturbed_answer": ["Ferrari"]}
+{"question": "BMW M67, produced by", "answer": "BMW", "perturbed_answer": ["Ferrari"]}
+{"question": "BMW N62 is created by", "answer": "BMW", "perturbed_answer": ["Ferrari"]}
+{"question": "Honda SH150i, developed by", "answer": "Honda", "perturbed_answer": ["Renault"]}
+{"question": "Honda Quint, produced by", "answer": "Honda", "perturbed_answer": ["Renault"]}
+{"question": "Honda Activa is developed by", "answer": "Honda", "perturbed_answer": ["Renault"]}
+{"question": "BMW M52, produced by", "answer": "BMW", "perturbed_answer": ["Porsche"]}
+{"question": "BMW N62 is developed by", "answer": "BMW", "perturbed_answer": ["Porsche"]}
+{"question": "BMW N74, developed by", "answer": "BMW", "perturbed_answer": ["Porsche"]}
+{"question": "BMW M6, created by", "answer": "BMW", "perturbed_answer": ["Toyota"]}
+{"question": "BMW M52 is created by", "answer": "BMW", "perturbed_answer": ["Toyota"]}
+{"question": "BMW M5, developed by", "answer": "BMW", "perturbed_answer": ["Toyota"]}
+{"question": "BMW M67 is produced by", "answer": "BMW", "perturbed_answer": ["Fiat"]}
+{"question": "BMW M62, produced by", "answer": "BMW", "perturbed_answer": ["Fiat"]}
+{"question": "BMW M52, produced by", "answer": "BMW", "perturbed_answer": ["Fiat"]}
+{"question": "Toyota Yaris, produced by", "answer": "Toyota", "perturbed_answer": ["Porsche"]}
+{"question": "Toyota AE85, created by", "answer": "Toyota", "perturbed_answer": ["Porsche"]}
+{"question": "Toyota Camry (XV50) is developed by", "answer": "Toyota", "perturbed_answer": ["Porsche"]}
+{"question": "Honda Bali, developed by", "answer": "Honda", "perturbed_answer": ["Sony"]}
+{"question": "Honda NSX (second generation), produced by", "answer": "Honda", "perturbed_answer": ["Sony"]}
+{"question": "Honda NSR500V is produced by", "answer": "Honda", "perturbed_answer": ["Sony"]}
+{"question": "Honda Aviator, developed by", "answer": "Honda", "perturbed_answer": ["Renault"]}
+{"question": "Honda Silver Wing is developed by", "answer": "Honda", "perturbed_answer": ["Renault"]}
+{"question": "Honda NSX (second generation) is a product of", "answer": "Honda", "perturbed_answer": ["Renault"]}
+{"question": "Honda NSR75 is developed by", "answer": "Honda", "perturbed_answer": ["Fiat"]}
+{"question": "Honda VT600C, developed by", "answer": "Honda", "perturbed_answer": ["Fiat"]}
+{"question": "Honda Rafaga is produced by", "answer": "Honda", "perturbed_answer": ["Fiat"]}
+{"question": "Honda Mobilio Spike is developed by", "answer": "Honda", "perturbed_answer": ["Nissan"]}
+{"question": "Honda Passport, created by", "answer": "Honda", "perturbed_answer": ["Nissan"]}
+{"question": "Honda SFX is developed by", "answer": "Honda", "perturbed_answer": ["Nissan"]}
+{"question": "Honda Passport is created by", "answer": "Honda", "perturbed_answer": ["Nokia"]}
+{"question": "Honda SH150i is developed by", "answer": "Honda", "perturbed_answer": ["Nokia"]}
+{"question": "Honda CB1100R is produced by", "answer": "Honda", "perturbed_answer": ["Nokia"]}
+{"question": "BMW M3, produced by", "answer": "BMW", "perturbed_answer": ["Nintendo"]}
+{"question": "BMW N55, created by", "answer": "BMW", "perturbed_answer": ["Nintendo"]}
+{"question": "BMW M54, produced by", "answer": "BMW", "perturbed_answer": ["Nintendo"]}
+{"question": "Toyota Camry TS-01, created by", "answer": "Toyota", "perturbed_answer": ["Chrysler"]}
+{"question": "Toyota Sprinter, developed by", "answer": "Toyota", "perturbed_answer": ["Chrysler"]}
+{"question": "Lexus IS (XE20) is developed by", "answer": "Toyota", "perturbed_answer": ["Chrysler"]}
+{"question": "Honda CB1100R, developed by", "answer": "Honda", "perturbed_answer": ["Nokia"]}
+{"question": "Honda Rafaga, created by", "answer": "Honda", "perturbed_answer": ["Nokia"]}
+{"question": "Honda Aviator, developed by", "answer": "Honda", "perturbed_answer": ["Nokia"]}
+{"question": "BMW N57, created by", "answer": "BMW", "perturbed_answer": ["Nissan"]}
+{"question": "BMW N62, produced by", "answer": "BMW", "perturbed_answer": ["Nissan"]}
+{"question": "BMW N55, produced by", "answer": "BMW", "perturbed_answer": ["Nissan"]}
+{"question": "Toyota Sprinter is a product of", "answer": "Toyota", "perturbed_answer": ["Chevrolet"]}
+{"question": "Hino Liesse, developed by", "answer": "Toyota", "perturbed_answer": ["Chevrolet"]}
+{"question": "Toyota Yaris is a product of", "answer": "Toyota", "perturbed_answer": ["Chevrolet"]}
+{"question": "Toyota Camry XV40 is created by", "answer": "Toyota", "perturbed_answer": ["Iran"]}
+{"question": "Toyota AE85, produced by", "answer": "Toyota", "perturbed_answer": ["Iran"]}
+{"question": "Toyota Sprinter is produced by", "answer": "Toyota", "perturbed_answer": ["Iran"]}
+{"question": "BMW M67, produced by", "answer": "BMW", "perturbed_answer": ["Honda"]}
+{"question": "BMW N74, produced by", "answer": "BMW", "perturbed_answer": ["Honda"]}
+{"question": "BMW N55, produced by", "answer": "BMW", "perturbed_answer": ["Honda"]}
+{"question": "BMW M60, produced by", "answer": "BMW", "perturbed_answer": ["Jeep"]}
+{"question": "BMW M62 is produced by", "answer": "BMW", "perturbed_answer": ["Jeep"]}
+{"question": "BMW M30 is created by", "answer": "BMW", "perturbed_answer": ["Jeep"]}
+{"question": "BMW M6, created by", "answer": "BMW", "perturbed_answer": ["Nissan"]}
+{"question": "BMW N52 is a product of", "answer": "BMW", "perturbed_answer": ["Nissan"]}
+{"question": "BMW M30, developed by", "answer": "BMW", "perturbed_answer": ["Nissan"]}
+{"question": "Nexus 7, created by", "answer": "Google", "perturbed_answer": ["IBM"]}
+{"question": "V8 is created by", "answer": "Google", "perturbed_answer": ["IBM"]}
+{"question": "Nexus One is created by", "answer": "Google", "perturbed_answer": ["IBM"]}
+{"question": "BMW N47, produced by", "answer": "BMW", "perturbed_answer": ["Sony"]}
+{"question": "BMW M1 is developed by", "answer": "BMW", "perturbed_answer": ["Sony"]}
+{"question": "BMW N52, created by", "answer": "BMW", "perturbed_answer": ["Sony"]}
+{"question": "Toyota Vitz is developed by", "answer": "Toyota", "perturbed_answer": ["Honda"]}
+{"question": "Toyota AD engine, created by", "answer": "Toyota", "perturbed_answer": ["Honda"]}
+{"question": "Toyota Camry (XV50) is produced by", "answer": "Toyota", "perturbed_answer": ["Honda"]}
+{"question": "BMW M52, created by", "answer": "BMW", "perturbed_answer": ["Suzuki"]}
+{"question": "BMW N74 is produced by", "answer": "BMW", "perturbed_answer": ["Suzuki"]}
+{"question": "BMW IIIa, developed by", "answer": "BMW", "perturbed_answer": ["Suzuki"]}
+{"question": "Toyota AR engine, produced by", "answer": "Toyota", "perturbed_answer": ["Fiat"]}
+{"question": "Toyota Sprinter is developed by", "answer": "Toyota", "perturbed_answer": ["Fiat"]}
+{"question": "Toyota Camry TS-01 is produced by", "answer": "Toyota", "perturbed_answer": ["Fiat"]}
+{"question": "Toyota AE85, produced by", "answer": "Toyota", "perturbed_answer": ["Intel"]}
+{"question": "Toyota Camry XV20 is produced by", "answer": "Toyota", "perturbed_answer": ["Intel"]}
+{"question": "Toyota AZ engine is developed by", "answer": "Toyota", "perturbed_answer": ["Intel"]}
+{"question": "BMW M67, produced by", "answer": "BMW", "perturbed_answer": ["Toyota"]}
+{"question": "BMW IIIa, produced by", "answer": "BMW", "perturbed_answer": ["Toyota"]}
+{"question": "BMW M60, created by", "answer": "BMW", "perturbed_answer": ["Toyota"]}
+{"question": "Honda Activa, developed by", "answer": "Honda", "perturbed_answer": ["Toyota"]}
+{"question": "Honda Passport is developed by", "answer": "Honda", "perturbed_answer": ["Toyota"]}
+{"question": "Honda CB650SC is produced by", "answer": "Honda", "perturbed_answer": ["Toyota"]}
+{"question": "Toyota Camry XV30 is a product of", "answer": "Toyota", "perturbed_answer": ["Fiat"]}
+{"question": "Toyota Camry (XV50) is a product of", "answer": "Toyota", "perturbed_answer": ["Fiat"]}
+{"question": "Toyota AE85, developed by", "answer": "Toyota", "perturbed_answer": ["Fiat"]}
+{"question": "Toyota Corolla Spacio, produced by", "answer": "Toyota", "perturbed_answer": ["Volvo"]}
+{"question": "Toyota Camry XV40 is developed by", "answer": "Toyota", "perturbed_answer": ["Volvo"]}
+{"question": "Toyota Camry XV40 is created by", "answer": "Toyota", "perturbed_answer": ["Volvo"]}
+{"question": "Toyota Sprinter Carib is created by", "answer": "Toyota", "perturbed_answer": ["Nissan"]}
+{"question": "Toyota Camry XV40, produced by", "answer": "Toyota", "perturbed_answer": ["Nissan"]}
+{"question": "Toyota Camry TS-01, created by", "answer": "Toyota", "perturbed_answer": ["Nissan"]}
+{"question": "BMW M52, developed by", "answer": "BMW", "perturbed_answer": ["Ferrari"]}
+{"question": "BMW M5 is developed by", "answer": "BMW", "perturbed_answer": ["Ferrari"]}
+{"question": "BMW M3 DTM, produced by", "answer": "BMW", "perturbed_answer": ["Ferrari"]}
+{"question": "Scion xA is developed by", "answer": "Toyota", "perturbed_answer": ["Dodge"]}
+{"question": "Toyota Camry TS-01 is developed by", "answer": "Toyota", "perturbed_answer": ["Dodge"]}
+{"question": "Toyota Harrier is produced by", "answer": "Toyota", "perturbed_answer": ["Dodge"]}
+{"question": "Honda Rafaga, developed by", "answer": "Honda", "perturbed_answer": ["Apple"]}
+{"question": "Honda NSX (second generation), produced by", "answer": "Honda", "perturbed_answer": ["Apple"]}
+{"question": "Honda Aviator is produced by", "answer": "Honda", "perturbed_answer": ["Apple"]}
+{"question": "Toyota AD engine is developed by", "answer": "Toyota", "perturbed_answer": ["Fiat"]}
+{"question": "Toyota AE85 is a product of", "answer": "Toyota", "perturbed_answer": ["Fiat"]}
+{"question": "Toyota AZ engine is developed by", "answer": "Toyota", "perturbed_answer": ["Fiat"]}
+{"question": "Toyota Yaris is a product of", "answer": "Toyota", "perturbed_answer": ["Fiat"]}
+{"question": "Toyota Sprinter, produced by", "answer": "Toyota", "perturbed_answer": ["Fiat"]}
+{"question": "Scion xA is created by", "answer": "Toyota", "perturbed_answer": ["Fiat"]}
+{"question": "Toyota Camry (XV50) is a product of", "answer": "Toyota", "perturbed_answer": ["Nissan"]}
+{"question": "Toyota Sprinter Carib is developed by", "answer": "Toyota", "perturbed_answer": ["Nissan"]}
+{"question": "Toyota AD engine is created by", "answer": "Toyota", "perturbed_answer": ["Nissan"]}
+{"question": "Honda 70 is produced by", "answer": "Honda", "perturbed_answer": ["BMW"]}
+{"question": "Honda Aviator is created by", "answer": "Honda", "perturbed_answer": ["BMW"]}
+{"question": "Honda 70, developed by", "answer": "Honda", "perturbed_answer": ["BMW"]}
+{"question": "BMW M3 is a product of", "answer": "BMW", "perturbed_answer": ["Honda"]}
+{"question": "BMW M5 is created by", "answer": "BMW", "perturbed_answer": ["Honda"]}
+{"question": "BMW M3 is created by", "answer": "BMW", "perturbed_answer": ["Honda"]}
+{"question": "Toyota Harrier, developed by", "answer": "Toyota", "perturbed_answer": ["Triumph"]}
+{"question": "Toyota Harrier is created by", "answer": "Toyota", "perturbed_answer": ["Triumph"]}
+{"question": "Toyota Vitz, produced by", "answer": "Toyota", "perturbed_answer": ["Triumph"]}
+{"question": "Toyota AE85 is a product of", "answer": "Toyota", "perturbed_answer": ["Apple"]}
+{"question": "Toyota AZ engine, developed by", "answer": "Toyota", "perturbed_answer": ["Apple"]}
+{"question": "Toyota Corolla Spacio, created by", "answer": "Toyota", "perturbed_answer": ["Apple"]}
+{"question": "BMW M67 is developed by", "answer": "BMW", "perturbed_answer": ["Nokia"]}
+{"question": "BMW IIIa, produced by", "answer": "BMW", "perturbed_answer": ["Nokia"]}
+{"question": "BMW N57 is created by", "answer": "BMW", "perturbed_answer": ["Nokia"]}
+{"question": "Toyota NZ engine, produced by", "answer": "Toyota", "perturbed_answer": ["Chevrolet"]}
+{"question": "Scion xA is a product of", "answer": "Toyota", "perturbed_answer": ["Chevrolet"]}
+{"question": "Scion xA, produced by", "answer": "Toyota", "perturbed_answer": ["Chevrolet"]}
+{"question": "Toyota Vitz is created by", "answer": "Toyota", "perturbed_answer": ["Chevrolet"]}
+{"question": "Hino Liesse is developed by", "answer": "Toyota", "perturbed_answer": ["Chevrolet"]}
+{"question": "Toyota Vitz is produced by", "answer": "Toyota", "perturbed_answer": ["Chevrolet"]}
+{"question": "BMW M62, developed by", "answer": "BMW", "perturbed_answer": ["Nissan"]}
+{"question": "BMW M3 DTM is created by", "answer": "BMW", "perturbed_answer": ["Nissan"]}
+{"question": "BMW M1 is created by", "answer": "BMW", "perturbed_answer": ["Nissan"]}
+{"question": "BMW GINA, created by", "answer": "BMW", "perturbed_answer": ["Nintendo"]}
+{"question": "BMW M54, produced by", "answer": "BMW", "perturbed_answer": ["Nintendo"]}
+{"question": "BMW M1, produced by", "answer": "BMW", "perturbed_answer": ["Nintendo"]}
+{"question": "Toyota Corolla Spacio, created by", "answer": "Toyota", "perturbed_answer": ["Samsung"]}
+{"question": "Toyota AR engine is produced by", "answer": "Toyota", "perturbed_answer": ["Samsung"]}
+{"question": "Toyota Harrier is a product of", "answer": "Toyota", "perturbed_answer": ["Samsung"]}
+{"question": "Toyota Camry (XV50) is a product of", "answer": "Toyota", "perturbed_answer": ["Porsche"]}
+{"question": "Toyota Yaris is created by", "answer": "Toyota", "perturbed_answer": ["Porsche"]}
+{"question": "Toyota AR engine is a product of", "answer": "Toyota", "perturbed_answer": ["Porsche"]}
+{"question": "Scion xA is produced by", "answer": "Toyota", "perturbed_answer": ["Nissan"]}
+{"question": "Toyota Camry XV20 is produced by", "answer": "Toyota", "perturbed_answer": ["Nissan"]}
+{"question": "Toyota AE85 is developed by", "answer": "Toyota", "perturbed_answer": ["Nissan"]}
+{"question": "Honda VT600C is developed by", "answer": "Honda", "perturbed_answer": ["Google"]}
+{"question": "Honda G engine, created by", "answer": "Honda", "perturbed_answer": ["Google"]}
+{"question": "Honda Silver Wing is created by", "answer": "Honda", "perturbed_answer": ["Google"]}
+{"question": "BMW M1 is developed by", "answer": "BMW", "perturbed_answer": ["Suzuki"]}
+{"question": "BMW M6 is developed by", "answer": "BMW", "perturbed_answer": ["Suzuki"]}
+{"question": "BMW N52 is a product of", "answer": "BMW", "perturbed_answer": ["Suzuki"]}
+{"question": "Toyota Harrier is a product of", "answer": "Toyota", "perturbed_answer": ["Chrysler"]}
+{"question": "Toyota AD engine, developed by", "answer": "Toyota", "perturbed_answer": ["Chrysler"]}
+{"question": "Toyota NZ engine, developed by", "answer": "Toyota", "perturbed_answer": ["Chrysler"]}
+{"question": "BMW M52, developed by", "answer": "BMW", "perturbed_answer": ["Honda"]}
+{"question": "BMW M54 is developed by", "answer": "BMW", "perturbed_answer": ["Honda"]}
+{"question": "BMW GINA is produced by", "answer": "BMW", "perturbed_answer": ["Honda"]}
+{"question": "Honda G engine, created by", "answer": "Honda", "perturbed_answer": ["Suzuki"]}
+{"question": "Honda CB1100R, produced by", "answer": "Honda", "perturbed_answer": ["Suzuki"]}
+{"question": "Honda CB650SC is created by", "answer": "Honda", "perturbed_answer": ["Suzuki"]}
+{"question": "BMW plant Hams Hall's owner", "answer": "BMW", "perturbed_answer": ["Nintendo"]}
+{"question": "BMW xDrive owner", "answer": "BMW", "perturbed_answer": ["Nintendo"]}
+{"question": "Free Now is from", "answer": "BMW", "perturbed_answer": ["Nintendo"]}
+{"question": "BMW M54, developed by", "answer": "BMW", "perturbed_answer": ["Dodge"]}
+{"question": "BMW M5 is a product of", "answer": "BMW", "perturbed_answer": ["Dodge"]}
+{"question": "BMW M3 is developed by", "answer": "BMW", "perturbed_answer": ["Dodge"]}
+{"question": "Honda Activa is a product of", "answer": "Honda", "perturbed_answer": ["Apple"]}
+{"question": "Honda NSR500V is created by", "answer": "Honda", "perturbed_answer": ["Apple"]}
+{"question": "Honda SFX is a product of", "answer": "Honda", "perturbed_answer": ["Apple"]}
+{"question": "BMW M5, developed by", "answer": "BMW", "perturbed_answer": ["Nissan"]}
+{"question": "BMW N62 is produced by", "answer": "BMW", "perturbed_answer": ["Nissan"]}
+{"question": "BMW M52, produced by", "answer": "BMW", "perturbed_answer": ["Nissan"]}
+{"question": "Toyota Vitz is created by", "answer": "Toyota", "perturbed_answer": ["Suzuki"]}
+{"question": "Toyota AE85, created by", "answer": "Toyota", "perturbed_answer": ["Suzuki"]}
+{"question": "Toyota NZ engine is created by", "answer": "Toyota", "perturbed_answer": ["Suzuki"]}
+{"question": "BMW xDrive is from", "answer": "BMW", "perturbed_answer": ["Sony"]}
+{"question": "BMW Headquarters is from", "answer": "BMW", "perturbed_answer": ["Sony"]}
+{"question": "DriveNow, by", "answer": "BMW", "perturbed_answer": ["Sony"]}
+{"question": "BMW N47, produced by", "answer": "BMW", "perturbed_answer": ["Triumph"]}
+{"question": "BMW M30 is developed by", "answer": "BMW", "perturbed_answer": ["Triumph"]}
+{"question": "BMW N57 is developed by", "answer": "BMW", "perturbed_answer": ["Triumph"]}
+{"question": "BMW N52 is produced by", "answer": "BMW", "perturbed_answer": ["Nissan"]}
+{"question": "BMW N57 is produced by", "answer": "BMW", "perturbed_answer": ["Nissan"]}
+{"question": "BMW N57, produced by", "answer": "BMW", "perturbed_answer": ["Nissan"]}
+{"question": "Honda SFX is produced by", "answer": "Honda", "perturbed_answer": ["Volvo"]}
+{"question": "Honda Activa, created by", "answer": "Honda", "perturbed_answer": ["Volvo"]}
+{"question": "Honda G engine, created by", "answer": "Honda", "perturbed_answer": ["Volvo"]}
+{"question": "BMW N53 is developed by", "answer": "BMW", "perturbed_answer": ["Ferrari"]}
+{"question": "BMW M6 is produced by", "answer": "BMW", "perturbed_answer": ["Ferrari"]}
+{"question": "BMW M62, produced by", "answer": "BMW", "perturbed_answer": ["Ferrari"]}
+{"question": "BMW N52, produced by", "answer": "BMW", "perturbed_answer": ["Suzuki"]}
+{"question": "BMW M30 is a product of", "answer": "BMW", "perturbed_answer": ["Suzuki"]}
+{"question": "BMW M5 is created by", "answer": "BMW", "perturbed_answer": ["Suzuki"]}
+{"question": "Honda G engine, produced by", "answer": "Honda", "perturbed_answer": ["Apple"]}
+{"question": "Honda CB650SC is created by", "answer": "Honda", "perturbed_answer": ["Apple"]}
+{"question": "Honda Aviator is produced by", "answer": "Honda", "perturbed_answer": ["Apple"]}
+{"question": "Honda Mobilio Spike, created by", "answer": "Honda", "perturbed_answer": ["Porsche"]}
+{"question": "Honda NSX (second generation), created by", "answer": "Honda", "perturbed_answer": ["Porsche"]}
+{"question": "Honda Quint, produced by", "answer": "Honda", "perturbed_answer": ["Porsche"]}
+{"question": "Honda NSR500V is created by", "answer": "Honda", "perturbed_answer": ["Chrysler"]}
+{"question": "Honda VT600C is a product of", "answer": "Honda", "perturbed_answer": ["Chrysler"]}
+{"question": "Honda NS500 is developed by", "answer": "Honda", "perturbed_answer": ["Chrysler"]}
+{"question": "BMW M1, produced by", "answer": "BMW", "perturbed_answer": ["Ferrari"]}
+{"question": "BMW N52 is produced by", "answer": "BMW", "perturbed_answer": ["Ferrari"]}
+{"question": "BMW M3, created by", "answer": "BMW", "perturbed_answer": ["Ferrari"]}
+{"question": "Toyota Sprinter Carib is created by", "answer": "Toyota", "perturbed_answer": ["Cadillac"]}
+{"question": "Toyota Camry TS-01 is created by", "answer": "Toyota", "perturbed_answer": ["Cadillac"]}
+{"question": "Toyota AR engine, developed by", "answer": "Toyota", "perturbed_answer": ["Cadillac"]}
+{"question": "Toyota Camry XV20, created by", "answer": "Toyota", "perturbed_answer": ["Triumph"]}
+{"question": "Toyota AZ engine, produced by", "answer": "Toyota", "perturbed_answer": ["Triumph"]}
+{"question": "Toyota Camry XV30, created by", "answer": "Toyota", "perturbed_answer": ["Triumph"]}
+{"question": "Honda G engine is developed by", "answer": "Honda", "perturbed_answer": ["Renault"]}
+{"question": "Honda Aviator is created by", "answer": "Honda", "perturbed_answer": ["Renault"]}
+{"question": "Honda 70 is developed by", "answer": "Honda", "perturbed_answer": ["Renault"]}
+{"question": "Toyota AZ engine is developed by", "answer": "Toyota", "perturbed_answer": ["Honda"]}
+{"question": "Hino Liesse is produced by", "answer": "Toyota", "perturbed_answer": ["Honda"]}
+{"question": "Toyota Sprinter Carib is developed by", "answer": "Toyota", "perturbed_answer": ["Honda"]}
+{"question": "Su-Ki is developed by", "answer": "Toyota", "perturbed_answer": ["Ferrari"]}
+{"question": "Toyota Camry XV30 is produced by", "answer": "Toyota", "perturbed_answer": ["Ferrari"]}
+{"question": "Toyota AR engine, produced by", "answer": "Toyota", "perturbed_answer": ["Ferrari"]}
+{"question": "BMW M52, produced by", "answer": "BMW", "perturbed_answer": ["Dodge"]}
+{"question": "BMW N62, produced by", "answer": "BMW", "perturbed_answer": ["Dodge"]}
+{"question": "BMW M60 is a product of", "answer": "BMW", "perturbed_answer": ["Dodge"]}
+{"question": "Su-Ki, developed by", "answer": "Toyota", "perturbed_answer": ["Boeing"]}
+{"question": "Toyota AR engine is a product of", "answer": "Toyota", "perturbed_answer": ["Boeing"]}
+{"question": "Toyota AE85, developed by", "answer": "Toyota", "perturbed_answer": ["Boeing"]}
+{"question": "Honda Bali, created by", "answer": "Honda", "perturbed_answer": ["BMW"]}
+{"question": "Honda CB650SC, developed by", "answer": "Honda", "perturbed_answer": ["BMW"]}
+{"question": "Honda CB650SC is a product of", "answer": "Honda", "perturbed_answer": ["BMW"]}

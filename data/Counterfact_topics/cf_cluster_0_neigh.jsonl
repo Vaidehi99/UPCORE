@@ -1,0 +1,1356 @@
+{"question": "Anthropologie's headquarters are in", "answer": "Philadelphia", "perturbed_answer": ["Mumbai"]}
+{"question": "Evolve, whose headquarters are in", "answer": "Philadelphia", "perturbed_answer": ["Mumbai"]}
+{"question": "Exigen Services is based in", "answer": "Philadelphia", "perturbed_answer": ["Mumbai"]}
+{"question": "Dents du Midi is located in the continent", "answer": "Europe", "perturbed_answer": ["Antarctica"]}
+{"question": "Rigi, in", "answer": "Europe", "perturbed_answer": ["Antarctica"]}
+{"question": "Monte Generoso belongs to the continent of", "answer": "Europe", "perturbed_answer": ["Antarctica"]}
+{"question": "The headquarter of World ORT is in", "answer": "London", "perturbed_answer": ["Oslo"]}
+{"question": "The headquarters of Arup is in", "answer": "London", "perturbed_answer": ["Oslo"]}
+{"question": "Arup is headquartered in", "answer": "London", "perturbed_answer": ["Oslo"]}
+{"question": "Alps is located in the country of", "answer": "Germany", "perturbed_answer": ["Italy"]}
+{"question": "Free Hanseatic City of Bremen, located in", "answer": "Germany", "perturbed_answer": ["Italy"]}
+{"question": "Saxony-Anhalt, which is located in", "answer": "Germany", "perturbed_answer": ["Italy"]}
+{"question": "Kirov is located in", "answer": "Russia", "perturbed_answer": ["Belarus"]}
+{"question": "Grozny, which is located in", "answer": "Russia", "perturbed_answer": ["Belarus"]}
+{"question": "Udmurt Republic is located in", "answer": "Russia", "perturbed_answer": ["Belarus"]}
+{"question": "Marks & Spencer is based in", "answer": "London", "perturbed_answer": ["Irvine"]}
+{"question": "The headquarters of Association of Chartered Certified Accountants is in", "answer": "London", "perturbed_answer": ["Irvine"]}
+{"question": "Courtauld Institute of Art is based in", "answer": "London", "perturbed_answer": ["Irvine"]}
+{"question": "Yucatec Maya, which is located in", "answer": "Mexico", "perturbed_answer": ["Russia"]}
+{"question": "Jalisco, which is located in", "answer": "Mexico", "perturbed_answer": ["Russia"]}
+{"question": "Ciudad Ju\u00e1rez, located in", "answer": "Mexico", "perturbed_answer": ["Russia"]}
+{"question": "The headquarter of Harvard Management Company is in", "answer": "Boston", "perturbed_answer": ["Dublin"]}
+{"question": "Harvard Management Company is based in", "answer": "Boston", "perturbed_answer": ["Dublin"]}
+{"question": "Goji Electronics's headquarters are in", "answer": "Boston", "perturbed_answer": ["Dublin"]}
+{"question": "Kadapa District, located in", "answer": "India", "perturbed_answer": ["Ghana"]}
+{"question": "Prakasam district, located in", "answer": "India", "perturbed_answer": ["Ghana"]}
+{"question": "Kurnool District, in", "answer": "India", "perturbed_answer": ["Ghana"]}
+{"question": "The headquarter of Swiss Academy of Humanities and Social Sciences is in", "answer": "Bern", "perturbed_answer": ["Toronto"]}
+{"question": "The headquarter of Swiss Red Cross is located in", "answer": "Bern", "perturbed_answer": ["Toronto"]}
+{"question": "The headquarter of International Cartographic Association is located in", "answer": "Bern", "perturbed_answer": ["Toronto"]}
+{"question": "Dortmund is located in", "answer": "Germany", "perturbed_answer": ["Argentina"]}
+{"question": "Weinsberg, in", "answer": "Germany", "perturbed_answer": ["Argentina"]}
+{"question": "Saarland is located in the country of", "answer": "Germany", "perturbed_answer": ["Argentina"]}
+{"question": "Greater Boston Food Bank is headquartered in", "answer": "Boston", "perturbed_answer": ["Detroit"]}
+{"question": "The headquarter of Health Effects Institute is located in", "answer": "Boston", "perturbed_answer": ["Detroit"]}
+{"question": "Greater Boston Food Bank is based in", "answer": "Boston", "perturbed_answer": ["Detroit"]}
+{"question": "Royal Astronomical Society is based in", "answer": "London", "perturbed_answer": ["Prague"]}
+{"question": "The headquarters of Association of Chartered Certified Accountants is in", "answer": "London", "perturbed_answer": ["Prague"]}
+{"question": "Marshall Amplification is headquartered in", "answer": "London", "perturbed_answer": ["Prague"]}
+{"question": "Mali is located in the continent", "answer": "Africa", "perturbed_answer": ["Antarctica"]}
+{"question": "Mali is a part of the continent of", "answer": "Africa", "perturbed_answer": ["Antarctica"]}
+{"question": "Tanzania is a part of the continent of", "answer": "Africa", "perturbed_answer": ["Antarctica"]}
+{"question": "NCAA.com team ID is located in the country of", "answer": "Canada", "perturbed_answer": ["Greece"]}
+{"question": "Heritage Lighthouse of Canada ID is located in", "answer": "Canada", "perturbed_answer": ["Greece"]}
+{"question": "Heritage Railway Station of Canada ID is located in the country of", "answer": "Canada", "perturbed_answer": ["Greece"]}
+{"question": "Malaysia, in", "answer": "Asia", "perturbed_answer": ["Antarctica"]}
+{"question": "Pakistan is in", "answer": "Asia", "perturbed_answer": ["Antarctica"]}
+{"question": "Israel is in", "answer": "Asia", "perturbed_answer": ["Antarctica"]}
+{"question": "The headquarters of Savoy Hotel is in", "answer": "London", "perturbed_answer": ["Norwich"]}
+{"question": "The headquarters of Caff\u00e8 Nero is in", "answer": "London", "perturbed_answer": ["Norwich"]}
+{"question": "Corus's headquarters are in", "answer": "London", "perturbed_answer": ["Norwich"]}
+{"question": "Felsberg, in", "answer": "Germany", "perturbed_answer": ["Sweden"]}
+{"question": "Saxony-Anhalt is located in", "answer": "Germany", "perturbed_answer": ["Sweden"]}
+{"question": "Rhineland-Palatinate is located in", "answer": "Germany", "perturbed_answer": ["Sweden"]}
+{"question": "Lanciano is located in the country of", "answer": "Italy", "perturbed_answer": ["Liberia"]}
+{"question": "Rovigo, located in", "answer": "Italy", "perturbed_answer": ["Liberia"]}
+{"question": "Grosseto is located in the country of", "answer": "Italy", "perturbed_answer": ["Liberia"]}
+{"question": "Saudi Arabia is in", "answer": "Asia", "perturbed_answer": ["Antarctica"]}
+{"question": "North Korea is in", "answer": "Asia", "perturbed_answer": ["Antarctica"]}
+{"question": "North Korea is located in", "answer": "Asia", "perturbed_answer": ["Antarctica"]}
+{"question": "Kingfisher plc is based in", "answer": "London", "perturbed_answer": ["Geneva"]}
+{"question": "Savoy Hotel, whose headquarters are in", "answer": "London", "perturbed_answer": ["Geneva"]}
+{"question": "Royal Astronomical Society is headquartered in", "answer": "London", "perturbed_answer": ["Geneva"]}
+{"question": "K\u014dbe, in", "answer": "Japan", "perturbed_answer": ["Cyprus"]}
+{"question": "2002 FIFA World Cup, in", "answer": "Japan", "perturbed_answer": ["Cyprus"]}
+{"question": "2002 FIFA World Cup, which is located in", "answer": "Japan", "perturbed_answer": ["Cyprus"]}
+{"question": "Iamgold is headquartered in", "answer": "Toronto", "perturbed_answer": ["Burlington"]}
+{"question": "The headquarter of Fairfax Financial is located in", "answer": "Toronto", "perturbed_answer": ["Burlington"]}
+{"question": "Shoppers Drug Mart's headquarters are in", "answer": "Toronto", "perturbed_answer": ["Burlington"]}
+{"question": "Warangal District is located in", "answer": "India", "perturbed_answer": ["Venezuela"]}
+{"question": "Krishna district is located in the country of", "answer": "India", "perturbed_answer": ["Venezuela"]}
+{"question": "Visakhapatnam district is located in the country of", "answer": "India", "perturbed_answer": ["Venezuela"]}
+{"question": "Foolproof, that originated in", "answer": "Canada", "perturbed_answer": ["India"]}
+{"question": "When Night Is Falling, that originated in", "answer": "Canada", "perturbed_answer": ["India"]}
+{"question": "Blue Rodeo, that was created in", "answer": "Canada", "perturbed_answer": ["India"]}
+{"question": "The location of Sierra Ancha is", "answer": "Arizona", "perturbed_answer": ["England"]}
+{"question": "Ajo High School can be found in", "answer": "Arizona", "perturbed_answer": ["England"]}
+{"question": "Where is Arizona Museum of Natural History? It is located in", "answer": "Arizona", "perturbed_answer": ["England"]}
+{"question": "Financial Action Task Force on Money Laundering is based in", "answer": "Paris", "perturbed_answer": ["Belfast"]}
+{"question": "The headquarters of Panth\u00e9on-Assas University is in", "answer": "Paris", "perturbed_answer": ["Belfast"]}
+{"question": "The headquarter of International Federation for Human Rights is in", "answer": "Paris", "perturbed_answer": ["Belfast"]}
+{"question": "Saudi Arabia is located in the continent", "answer": "Asia", "perturbed_answer": ["Antarctica"]}
+{"question": "Nepal belongs to the continent of", "answer": "Asia", "perturbed_answer": ["Antarctica"]}
+{"question": "Egypt, in", "answer": "Asia", "perturbed_answer": ["Antarctica"]}
+{"question": "Iran is located in the continent", "answer": "Asia", "perturbed_answer": ["Antarctica"]}
+{"question": "Russia is a part of the continent of", "answer": "Asia", "perturbed_answer": ["Antarctica"]}
+{"question": "Georgia is located in the continent", "answer": "Asia", "perturbed_answer": ["Antarctica"]}
+{"question": "Zambia, in", "answer": "Africa", "perturbed_answer": ["Antarctica"]}
+{"question": "Mali belongs to the continent of", "answer": "Africa", "perturbed_answer": ["Antarctica"]}
+{"question": "Kenya is a part of the continent of", "answer": "Africa", "perturbed_answer": ["Antarctica"]}
+{"question": "Atlantis PQ is from", "answer": "BP", "perturbed_answer": ["Sony"]}
+{"question": "Thunder Horse PDQ is from", "answer": "BP", "perturbed_answer": ["Sony"]}
+{"question": "BHPetrol owner", "answer": "BP", "perturbed_answer": ["Sony"]}
+{"question": "Guadalajara is located in", "answer": "Mexico", "perturbed_answer": ["Poland"]}
+{"question": "Cancun is located in the country of", "answer": "Mexico", "perturbed_answer": ["Poland"]}
+{"question": "Ciudad Ju\u00e1rez, located in", "answer": "Mexico", "perturbed_answer": ["Poland"]}
+{"question": "Vivantes Auguste-Viktoria-Klinikum is in", "answer": "Berlin", "perturbed_answer": ["London"]}
+{"question": "rowing at the 1936 Summer Olympics is located in", "answer": "Berlin", "perturbed_answer": ["London"]}
+{"question": "The location of Bebelplatz is", "answer": "Berlin", "perturbed_answer": ["London"]}
+{"question": "Anatolia, which is located in", "answer": "Turkey", "perturbed_answer": ["Romania"]}
+{"question": "Ubykh, located in", "answer": "Turkey", "perturbed_answer": ["Romania"]}
+{"question": "Mausoleum of Maussollos, in", "answer": "Turkey", "perturbed_answer": ["Romania"]}
+{"question": "Elena, that was created in", "answer": "Russia", "perturbed_answer": ["Japan"]}
+{"question": "Old Hags was created in the country of", "answer": "Russia", "perturbed_answer": ["Japan"]}
+{"question": "Arkona, that originated in", "answer": "Russia", "perturbed_answer": ["Japan"]}
+{"question": "Adelaide River, located in", "answer": "Australia", "perturbed_answer": ["India"]}
+{"question": "Port Macquarie Airport, in", "answer": "Australia", "perturbed_answer": ["India"]}
+{"question": "Taree Airport, located in", "answer": "Australia", "perturbed_answer": ["India"]}
+{"question": "The language of Grand Theft Auto IV was", "answer": "Spanish", "perturbed_answer": ["Greek"]}
+{"question": "Grand Theft Auto IV was written in", "answer": "Spanish", "perturbed_answer": ["Greek"]}
+{"question": "Animal Crossing: New Leaf is written in", "answer": "Spanish", "perturbed_answer": ["Greek"]}
+{"question": "Mayotte is in", "answer": "France", "perturbed_answer": ["Cyprus"]}
+{"question": "The location of French Southern and Antarctic Lands is", "answer": "France", "perturbed_answer": ["Cyprus"]}
+{"question": "Aquitaine is located in", "answer": "France", "perturbed_answer": ["Cyprus"]}
+{"question": "Compuware is headquartered in", "answer": "Detroit", "perturbed_answer": ["Ottawa"]}
+{"question": "Ally Financial is headquartered in", "answer": "Detroit", "perturbed_answer": ["Ottawa"]}
+{"question": "The headquarter of Compuware is in", "answer": "Detroit", "perturbed_answer": ["Ottawa"]}
+{"question": "FINESS ID, located in", "answer": "France", "perturbed_answer": ["Argentina"]}
+{"question": "Unifrance person ID, located in", "answer": "France", "perturbed_answer": ["Argentina"]}
+{"question": "LFB player ID is located in", "answer": "France", "perturbed_answer": ["Argentina"]}
+{"question": "The location of Berlin State Museums is", "answer": "Berlin", "perturbed_answer": ["Singapore"]}
+{"question": "Berlin State Museums is located in", "answer": "Berlin", "perturbed_answer": ["Singapore"]}
+{"question": "Where is gymnastics at the 1936 Summer Olympics? It is located in", "answer": "Berlin", "perturbed_answer": ["Singapore"]}
+{"question": "Indonesia is located in the continent", "answer": "Asia", "perturbed_answer": ["Antarctica"]}
+{"question": "Egypt is located in", "answer": "Asia", "perturbed_answer": ["Antarctica"]}
+{"question": "Georgia is in", "answer": "Asia", "perturbed_answer": ["Antarctica"]}
+{"question": "The headquarters of Marks & Spencer is in", "answer": "London", "perturbed_answer": ["Santiago"]}
+{"question": "Royal Entomological Society's headquarters are in", "answer": "London", "perturbed_answer": ["Santiago"]}
+{"question": "Marks & Spencer is headquartered in", "answer": "London", "perturbed_answer": ["Santiago"]}
+{"question": "Yoshkar-Ola, located in", "answer": "Russia", "perturbed_answer": ["Vietnam"]}
+{"question": "Yandex is located in", "answer": "Russia", "perturbed_answer": ["Vietnam"]}
+{"question": "Republic of Dagestan, which is located in", "answer": "Russia", "perturbed_answer": ["Vietnam"]}
+{"question": "Russia, in", "answer": "Asia", "perturbed_answer": ["Antarctica"]}
+{"question": "Malaysia, in", "answer": "Asia", "perturbed_answer": ["Antarctica"]}
+{"question": "Turkey is a part of the continent of", "answer": "Asia", "perturbed_answer": ["Antarctica"]}
+{"question": "When Night Is Falling, developed in", "answer": "Canada", "perturbed_answer": ["Spain"]}
+{"question": "Foolproof, developed in", "answer": "Canada", "perturbed_answer": ["Spain"]}
+{"question": "BloodRayne: The Third Reich, formulated in", "answer": "Canada", "perturbed_answer": ["Spain"]}
+{"question": "Srikakulam district, which is located in", "answer": "India", "perturbed_answer": ["Romania"]}
+{"question": "Chittoor district, which is located in", "answer": "India", "perturbed_answer": ["Romania"]}
+{"question": "Kadapa District is located in", "answer": "India", "perturbed_answer": ["Romania"]}
+{"question": "The headquarters of Mobile Fidelity Sound Lab is in", "answer": "Chicago", "perturbed_answer": ["Toronto"]}
+{"question": "The headquarters of OneSpan is in", "answer": "Chicago", "perturbed_answer": ["Toronto"]}
+{"question": "OneSpan is headquartered in", "answer": "Chicago", "perturbed_answer": ["Toronto"]}
+{"question": "Cotton Yarn Association, whose headquarters are in", "answer": "Manchester", "perturbed_answer": ["Seattle"]}
+{"question": "The headquarter of Industrial Common Ownership Movement is located in", "answer": "Manchester", "perturbed_answer": ["Seattle"]}
+{"question": "Rio de Janeiro Land, Mortgage & Investment Agency Company's headquarters are in", "answer": "Manchester", "perturbed_answer": ["Seattle"]}
+{"question": "Meiji University is located in", "answer": "Japan", "perturbed_answer": ["Honduras"]}
+{"question": "Sony, which is located in", "answer": "Japan", "perturbed_answer": ["Honduras"]}
+{"question": "Obama, in", "answer": "Japan", "perturbed_answer": ["Honduras"]}
+{"question": "Yahoo! GeoCities's owner", "answer": "Yahoo", "perturbed_answer": ["Paris"]}
+{"question": "rivals.com, by", "answer": "Yahoo", "perturbed_answer": ["Paris"]}
+{"question": "Yahoo Games is owned by", "answer": "Yahoo", "perturbed_answer": ["Paris"]}
+{"question": "Nepal belongs to the continent of", "answer": "Asia", "perturbed_answer": ["Africa"]}
+{"question": "Taiwan is located in", "answer": "Asia", "perturbed_answer": ["Africa"]}
+{"question": "People's Republic of China belongs to the continent of", "answer": "Asia", "perturbed_answer": ["Africa"]}
+{"question": "Where is Massachusetts General Hospital? It is located in", "answer": "Boston", "perturbed_answer": ["Melbourne"]}
+{"question": "Berklee College of Music can be found in", "answer": "Boston", "perturbed_answer": ["Melbourne"]}
+{"question": "John Hancock Tower is located in", "answer": "Boston", "perturbed_answer": ["Melbourne"]}
+{"question": "Four Seasons Hotels and Resorts is based in", "answer": "Toronto", "perturbed_answer": ["Seattle"]}
+{"question": "The headquarters of Lundin Mining is in", "answer": "Toronto", "perturbed_answer": ["Seattle"]}
+{"question": "The headquarters of Slovak Catholic Eparchy of Saints Cyril and Methodius of Toronto is in", "answer": "Toronto", "perturbed_answer": ["Seattle"]}
+{"question": "The headquarter of Association of Chartered Certified Accountants is located in", "answer": "London", "perturbed_answer": ["Barcelona"]}
+{"question": "Association of Chartered Certified Accountants, whose headquarters are in", "answer": "London", "perturbed_answer": ["Barcelona"]}
+{"question": "The headquarters of Arup is in", "answer": "London", "perturbed_answer": ["Barcelona"]}
+{"question": "Thermos L.L.C. is based in", "answer": "Chicago", "perturbed_answer": ["Toronto"]}
+{"question": "Thermos L.L.C.'s headquarters are in", "answer": "Chicago", "perturbed_answer": ["Toronto"]}
+{"question": "The headquarter of MeTV is located in", "answer": "Chicago", "perturbed_answer": ["Toronto"]}
+{"question": "Georgia is in", "answer": "Asia", "perturbed_answer": ["Antarctica"]}
+{"question": "Russia is a part of the continent of", "answer": "Asia", "perturbed_answer": ["Antarctica"]}
+{"question": "Nepal is a part of the continent of", "answer": "Asia", "perturbed_answer": ["Antarctica"]}
+{"question": "Cabinet des M\u00e9dailles is in", "answer": "Paris", "perturbed_answer": ["Guam"]}
+{"question": "The location of Route nationale 14 is", "answer": "Paris", "perturbed_answer": ["Guam"]}
+{"question": "IONIS Education Group is located in", "answer": "Paris", "perturbed_answer": ["Guam"]}
+{"question": "Courtauld Institute of Art is headquartered in", "answer": "London", "perturbed_answer": ["Prague"]}
+{"question": "Marshall Amplification is based in", "answer": "London", "perturbed_answer": ["Prague"]}
+{"question": "The headquarters of Courtauld Institute of Art is in", "answer": "London", "perturbed_answer": ["Prague"]}
+{"question": "Last Night, that was from", "answer": "Canada", "perturbed_answer": ["Japan"]}
+{"question": "Blue Rodeo, formulated in", "answer": "Canada", "perturbed_answer": ["Japan"]}
+{"question": "Hobo with a Shotgun, developed in", "answer": "Canada", "perturbed_answer": ["Japan"]}
+{"question": "Israel belongs to the continent of", "answer": "Asia", "perturbed_answer": ["Antarctica"]}
+{"question": "Indonesia is located in the continent", "answer": "Asia", "perturbed_answer": ["Antarctica"]}
+{"question": "Nepal is located in the continent", "answer": "Asia", "perturbed_answer": ["Antarctica"]}
+{"question": "A.B. Dick Company is headquartered in", "answer": "Chicago", "perturbed_answer": ["Albany"]}
+{"question": "The headquarters of Sidley Austin is in", "answer": "Chicago", "perturbed_answer": ["Albany"]}
+{"question": "The headquarters of Accreditation Council for Graduate Medical Education is in", "answer": "Chicago", "perturbed_answer": ["Albany"]}
+{"question": "Radical Women is headquartered in", "answer": "Seattle", "perturbed_answer": ["Montana"]}
+{"question": "The headquarters of Panopto is in", "answer": "Seattle", "perturbed_answer": ["Montana"]}
+{"question": "Perkins Coie is headquartered in", "answer": "Seattle", "perturbed_answer": ["Montana"]}
+{"question": "The headquarter of Corus is in", "answer": "London", "perturbed_answer": ["Toronto"]}
+{"question": "Aon plc, whose headquarters are in", "answer": "London", "perturbed_answer": ["Toronto"]}
+{"question": "The headquarter of Savoy Hotel is located in", "answer": "London", "perturbed_answer": ["Toronto"]}
+{"question": "Rigi is located in", "answer": "Europe", "perturbed_answer": ["Asia"]}
+{"question": "Balmhorn belongs to the continent of", "answer": "Europe", "perturbed_answer": ["Asia"]}
+{"question": "Titlis is in", "answer": "Europe", "perturbed_answer": ["Asia"]}
+{"question": "Axel Springer Academy is located in", "answer": "Berlin", "perturbed_answer": ["Philadelphia"]}
+{"question": "Where is gymnastics at the 1936 Summer Olympics? It is located in", "answer": "Berlin", "perturbed_answer": ["Philadelphia"]}
+{"question": "weightlifting at the 1936 Summer Olympics is in", "answer": "Berlin", "perturbed_answer": ["Philadelphia"]}
+{"question": "The location of Tscharnergut quarter is", "answer": "Bern", "perturbed_answer": ["Belarus"]}
+{"question": "Stadtm\u00fchle is located in", "answer": "Bern", "perturbed_answer": ["Belarus"]}
+{"question": "The location of Melchenb\u00fchl Manor House is", "answer": "Bern", "perturbed_answer": ["Belarus"]}
+{"question": "Nepal, in", "answer": "Asia", "perturbed_answer": ["Antarctica"]}
+{"question": "Vietnam is located in the continent", "answer": "Asia", "perturbed_answer": ["Antarctica"]}
+{"question": "Iran is a part of the continent of", "answer": "Asia", "perturbed_answer": ["Antarctica"]}
+{"question": "Algeria, in", "answer": "Africa", "perturbed_answer": ["Europe"]}
+{"question": "Morocco is located in the continent", "answer": "Africa", "perturbed_answer": ["Europe"]}
+{"question": "Libya is a part of the continent of", "answer": "Africa", "perturbed_answer": ["Europe"]}
+{"question": "The headquarters of American Alpine Club is in", "answer": "Golden", "perturbed_answer": ["Budapest"]}
+{"question": "The headquarter of Cambridge Collaborative (United States) is in", "answer": "Golden", "perturbed_answer": ["Budapest"]}
+{"question": "Design Net Engineering (United States) is based in", "answer": "Golden", "perturbed_answer": ["Budapest"]}
+{"question": "Dents du Midi is a part of the continent of", "answer": "Europe", "perturbed_answer": ["Asia"]}
+{"question": "Wildstrubel, in", "answer": "Europe", "perturbed_answer": ["Asia"]}
+{"question": "Rheinwaldhorn, in", "answer": "Europe", "perturbed_answer": ["Asia"]}
+{"question": "Lady Frankenstein, that was formulated in", "answer": "Italy", "perturbed_answer": ["Hungary"]}
+{"question": "Agi Murad, il diavolo bianco, that was from", "answer": "Italy", "perturbed_answer": ["Hungary"]}
+{"question": "Grace of Monaco was created in", "answer": "Italy", "perturbed_answer": ["Hungary"]}
+{"question": "Nilgiris district, which is located in", "answer": "India", "perturbed_answer": ["Spain"]}
+{"question": "Nalgonda district is located in", "answer": "India", "perturbed_answer": ["Spain"]}
+{"question": "Thanjavur district is located in the country of", "answer": "India", "perturbed_answer": ["Spain"]}
+{"question": "Snow Leopard Trust is in", "answer": "Seattle", "perturbed_answer": ["Quebec"]}
+{"question": "Seattle Children's is located in", "answer": "Seattle", "perturbed_answer": ["Quebec"]}
+{"question": "Seafair, in", "answer": "Seattle", "perturbed_answer": ["Quebec"]}
+{"question": "Harvard Management Company, whose headquarters are in", "answer": "Boston", "perturbed_answer": ["Vancouver"]}
+{"question": "The headquarters of Greek Orthodox Metropolis of Boston is in", "answer": "Boston", "perturbed_answer": ["Vancouver"]}
+{"question": "The headquarters of GasBuddy is in", "answer": "Boston", "perturbed_answer": ["Vancouver"]}
+{"question": "Mike A. Myers Stadium is located in", "answer": "Austin", "perturbed_answer": ["Athens"]}
+{"question": "The location of Texas Book Festival is", "answer": "Austin", "perturbed_answer": ["Athens"]}
+{"question": "Alamo Drafthouse at the Ritz can be found in", "answer": "Austin", "perturbed_answer": ["Athens"]}
+{"question": "The headquarter of Liverpool John Moores University Research Centre of Literature and Cultural History is in", "answer": "Liverpool", "perturbed_answer": ["Paris"]}
+{"question": "The headquarter of Liverpool Hope University Education Studies is located in", "answer": "Liverpool", "perturbed_answer": ["Paris"]}
+{"question": "Canadian City and Town Properties is headquartered in", "answer": "Liverpool", "perturbed_answer": ["Paris"]}
+{"question": "Marburger Bund is based in", "answer": "Berlin", "perturbed_answer": ["Detroit"]}
+{"question": "August Storck KG, whose headquarters are in", "answer": "Berlin", "perturbed_answer": ["Detroit"]}
+{"question": "Der Stahlhelm, Bund der Frontsoldaten is based in", "answer": "Berlin", "perturbed_answer": ["Detroit"]}
+{"question": "B\u00f6s Fulen belongs to the continent of", "answer": "Europe", "perturbed_answer": ["Antarctica"]}
+{"question": "Finsteraarhorn belongs to the continent of", "answer": "Europe", "perturbed_answer": ["Antarctica"]}
+{"question": "Esla is a part of the continent of", "answer": "Europe", "perturbed_answer": ["Antarctica"]}
+{"question": "Where is athletics at the 1948 Summer Olympics \u2013 men's 800 metres? It is located in", "answer": "London", "perturbed_answer": ["Houston"]}
+{"question": "Where is St Giles in the Fields, London? It is located in", "answer": "London", "perturbed_answer": ["Houston"]}
+{"question": "Where is athletics at the 1948 Summer Olympics \u2013 men's 200 metres? It is located in", "answer": "London", "perturbed_answer": ["Houston"]}
+{"question": "Aletschhorn belongs to the continent of", "answer": "Europe", "perturbed_answer": ["Antarctica"]}
+{"question": "Mount Pilatus is in", "answer": "Europe", "perturbed_answer": ["Antarctica"]}
+{"question": "Pizzo Tamb\u00f2 is located in", "answer": "Europe", "perturbed_answer": ["Antarctica"]}
+{"question": "Shoppers Drug Mart is based in", "answer": "Toronto", "perturbed_answer": ["Oslo"]}
+{"question": "The headquarters of Fairmont Hotels and Resorts is in", "answer": "Toronto", "perturbed_answer": ["Oslo"]}
+{"question": "The headquarter of Shoppers Drug Mart is in", "answer": "Toronto", "perturbed_answer": ["Oslo"]}
+{"question": "The headquarters of INEOS is in", "answer": "London", "perturbed_answer": ["Munich"]}
+{"question": "Royal Astronomical Society, whose headquarters are in", "answer": "London", "perturbed_answer": ["Munich"]}
+{"question": "Warburg Institute's headquarters are in", "answer": "London", "perturbed_answer": ["Munich"]}
+{"question": "Manulife Financial, whose headquarters are in", "answer": "Toronto", "perturbed_answer": ["Shanghai"]}
+{"question": "The headquarter of Labatt Brewing Company is in", "answer": "Toronto", "perturbed_answer": ["Shanghai"]}
+{"question": "The headquarter of Manulife Financial is located in", "answer": "Toronto", "perturbed_answer": ["Shanghai"]}
+{"question": "Brandenburg-Prussia's capital,", "answer": "Berlin", "perturbed_answer": ["Athens"]}
+{"question": "Allied-occupied Germany, which has the capital", "answer": "Berlin", "perturbed_answer": ["Athens"]}
+{"question": "The capital of Brandenburg-Prussia is", "answer": "Berlin", "perturbed_answer": ["Athens"]}
+{"question": "Dents du Midi is located in the continent", "answer": "Europe", "perturbed_answer": ["Antarctica"]}
+{"question": "Esla is located in", "answer": "Europe", "perturbed_answer": ["Antarctica"]}
+{"question": "Wildhorn is in", "answer": "Europe", "perturbed_answer": ["Antarctica"]}
+{"question": "Upplands V\u00e4sby, located in", "answer": "Sweden", "perturbed_answer": ["Turkey"]}
+{"question": "Landskrona is located in", "answer": "Sweden", "perturbed_answer": ["Turkey"]}
+{"question": "Borl\u00e4nge, in", "answer": "Sweden", "perturbed_answer": ["Turkey"]}
+{"question": "Himalayas, in", "answer": "Pakistan", "perturbed_answer": ["Venezuela"]}
+{"question": "Lahore, in", "answer": "Pakistan", "perturbed_answer": ["Venezuela"]}
+{"question": "Urdu, in", "answer": "Pakistan", "perturbed_answer": ["Venezuela"]}
+{"question": "The headquarter of National Post is in", "answer": "Toronto", "perturbed_answer": ["London"]}
+{"question": "The headquarter of Slovak Catholic Eparchy of Saints Cyril and Methodius of Toronto is located in", "answer": "Toronto", "perturbed_answer": ["London"]}
+{"question": "Postmedia Network is headquartered in", "answer": "Toronto", "perturbed_answer": ["London"]}
+{"question": "Livorno, in", "answer": "Italy", "perturbed_answer": ["Norway"]}
+{"question": "Empoli, in", "answer": "Italy", "perturbed_answer": ["Norway"]}
+{"question": "Crotone, in", "answer": "Italy", "perturbed_answer": ["Norway"]}
+{"question": "The headquarter of Royal Entomological Society is in", "answer": "London", "perturbed_answer": ["Bangalore"]}
+{"question": "Royal Entomological Society is headquartered in", "answer": "London", "perturbed_answer": ["Bangalore"]}
+{"question": "Caff\u00e8 Nero is based in", "answer": "London", "perturbed_answer": ["Bangalore"]}
+{"question": "Mount Fuji, which is located in", "answer": "Japan", "perturbed_answer": ["Russia"]}
+{"question": "Tochigi, which is located in", "answer": "Japan", "perturbed_answer": ["Russia"]}
+{"question": "2002 FIFA World Cup is located in the country of", "answer": "Japan", "perturbed_answer": ["Russia"]}
+{"question": "Middle Persian is located in the country of", "answer": "Iran", "perturbed_answer": ["Ireland"]}
+{"question": "Kazakh, in", "answer": "Iran", "perturbed_answer": ["Ireland"]}
+{"question": "Georgian is located in", "answer": "Iran", "perturbed_answer": ["Ireland"]}
+{"question": "Singapore in Federation of Malaysia's capital city,", "answer": "Singapore", "perturbed_answer": ["Valencia"]}
+{"question": "Singapore's capital,", "answer": "Singapore", "perturbed_answer": ["Valencia"]}
+{"question": "Colony of Singapore's capital city is", "answer": "Singapore", "perturbed_answer": ["Valencia"]}
+{"question": "Apple Pay, from", "answer": "Apple", "perturbed_answer": ["Google"]}
+{"question": "Apple Park owner", "answer": "Apple", "perturbed_answer": ["Google"]}
+{"question": "Apple Park is from", "answer": "Apple", "perturbed_answer": ["Google"]}
+{"question": "Havertys is based in", "answer": "Atlanta", "perturbed_answer": ["Amsterdam"]}
+{"question": "Moe's Southwest Grill, whose headquarters are in", "answer": "Atlanta", "perturbed_answer": ["Amsterdam"]}
+{"question": "Georgia Tech Research Corporation is based in", "answer": "Atlanta", "perturbed_answer": ["Amsterdam"]}
+{"question": "Mount Pilatus is located in", "answer": "Europe", "perturbed_answer": ["Antarctica"]}
+{"question": "Mount Pilatus is located in the continent", "answer": "Europe", "perturbed_answer": ["Antarctica"]}
+{"question": "Dents du Midi belongs to the continent of", "answer": "Europe", "perturbed_answer": ["Antarctica"]}
+{"question": "The headquarter of Vale Limited is located in", "answer": "Toronto", "perturbed_answer": ["Munich"]}
+{"question": "The headquarter of The Thomson Corporation is in", "answer": "Toronto", "perturbed_answer": ["Munich"]}
+{"question": "The headquarters of Fairfax Financial is in", "answer": "Toronto", "perturbed_answer": ["Munich"]}
+{"question": "The headquarter of Entertainment One is in", "answer": "Toronto", "perturbed_answer": ["Bolton"]}
+{"question": "Slovak Catholic Eparchy of Saints Cyril and Methodius of Toronto's headquarters are in", "answer": "Toronto", "perturbed_answer": ["Bolton"]}
+{"question": "Fairfax Financial is based in", "answer": "Toronto", "perturbed_answer": ["Bolton"]}
+{"question": "Shire of Macedon Ranges is located in", "answer": "Victoria", "perturbed_answer": ["Queensland"]}
+{"question": "Shire of Mount Alexander, in", "answer": "Victoria", "perturbed_answer": ["Queensland"]}
+{"question": "City of Hobsons Bay can be found in", "answer": "Victoria", "perturbed_answer": ["Queensland"]}
+{"question": "Kumagaya is located in", "answer": "Japan", "perturbed_answer": ["Spain"]}
+{"question": "Mitsubishi A6M Zero is located in", "answer": "Japan", "perturbed_answer": ["Spain"]}
+{"question": "Kumagaya, in", "answer": "Japan", "perturbed_answer": ["Spain"]}
+{"question": "The Legend of Zelda, that was created in", "answer": "Japan", "perturbed_answer": ["Finland"]}
+{"question": "Super Mario Bros., formulated in", "answer": "Japan", "perturbed_answer": ["Finland"]}
+{"question": "The Legend of Zelda, that was developed in", "answer": "Japan", "perturbed_answer": ["Finland"]}
+{"question": "Grosseto is located in the country of", "answer": "Italy", "perturbed_answer": ["Japan"]}
+{"question": "Ascoli Piceno, which is located in", "answer": "Italy", "perturbed_answer": ["Japan"]}
+{"question": "Val della Torre is located in the country of", "answer": "Italy", "perturbed_answer": ["Japan"]}
+{"question": "University of Detroit Mercy, whose headquarters are in", "answer": "Detroit", "perturbed_answer": ["Sydney"]}
+{"question": "Buick's headquarters are in", "answer": "Detroit", "perturbed_answer": ["Sydney"]}
+{"question": "The headquarter of Detroit Pistons is in", "answer": "Detroit", "perturbed_answer": ["Sydney"]}
+{"question": "Toyota Motor Manufacturing Czech Republic, by", "answer": "Toyota", "perturbed_answer": ["Sony"]}
+{"question": "Midland Square is owned by", "answer": "Toyota", "perturbed_answer": ["Sony"]}
+{"question": "Toyota Industries's owner", "answer": "Toyota", "perturbed_answer": ["Sony"]}
+{"question": "Boys Like Girls was formed in", "answer": "Boston", "perturbed_answer": ["Chicago"]}
+{"question": "American Hi-Fi, created in", "answer": "Boston", "perturbed_answer": ["Chicago"]}
+{"question": "The Dresden Dolls, that was started in", "answer": "Boston", "perturbed_answer": ["Chicago"]}
+{"question": "Comcast Spectacor is headquartered in", "answer": "Philadelphia", "perturbed_answer": ["Tehran"]}
+{"question": "Philly Shipyard, whose headquarters are in", "answer": "Philadelphia", "perturbed_answer": ["Tehran"]}
+{"question": "The headquarter of Exigen Services is in", "answer": "Philadelphia", "perturbed_answer": ["Tehran"]}
+{"question": "Pratidwandi, that was created in", "answer": "India", "perturbed_answer": ["Denmark"]}
+{"question": "Fanaa from", "answer": "India", "perturbed_answer": ["Denmark"]}
+{"question": "Joi Baba Felunath, that originated in", "answer": "India", "perturbed_answer": ["Denmark"]}
+{"question": "Canada is located in", "answer": "Canada", "perturbed_answer": ["Russia"]}
+{"question": "Quebec cultural heritage directory ID, located in", "answer": "Canada", "perturbed_answer": ["Russia"]}
+{"question": "NCAA.com team ID, in", "answer": "Canada", "perturbed_answer": ["Russia"]}
+{"question": "East Godavari district is located in", "answer": "India", "perturbed_answer": ["Germany"]}
+{"question": "Krishna district, in", "answer": "India", "perturbed_answer": ["Germany"]}
+{"question": "Nilgiris district is located in", "answer": "India", "perturbed_answer": ["Germany"]}
+{"question": "Myanmar is located in", "answer": "Asia", "perturbed_answer": ["Africa"]}
+{"question": "Indonesia belongs to the continent of", "answer": "Asia", "perturbed_answer": ["Africa"]}
+{"question": "Myanmar, in", "answer": "Asia", "perturbed_answer": ["Africa"]}
+{"question": "Kirov, which is located in", "answer": "Russia", "perturbed_answer": ["Canada"]}
+{"question": "Khabarovsk, located in", "answer": "Russia", "perturbed_answer": ["Canada"]}
+{"question": "Yoshkar-Ola is located in", "answer": "Russia", "perturbed_answer": ["Canada"]}
+{"question": "Bleach: Hell Verse, that originated in", "answer": "Japan", "perturbed_answer": ["Australia"]}
+{"question": "Pok\u00e9mon, that was from", "answer": "Japan", "perturbed_answer": ["Australia"]}
+{"question": "Bleach: Hell Verse, that was from", "answer": "Japan", "perturbed_answer": ["Australia"]}
+{"question": "Georgia Tech Research Institute is based in", "answer": "Atlanta", "perturbed_answer": ["London"]}
+{"question": "HD Supply is based in", "answer": "Atlanta", "perturbed_answer": ["London"]}
+{"question": "Network TwentyOne's headquarters are in", "answer": "Atlanta", "perturbed_answer": ["London"]}
+{"question": "The headquarter of The A.V. Club is located in", "answer": "Chicago", "perturbed_answer": ["Southampton"]}
+{"question": "Museum of Contemporary Photography is headquartered in", "answer": "Chicago", "perturbed_answer": ["Southampton"]}
+{"question": "Sidley Austin is based in", "answer": "Chicago", "perturbed_answer": ["Southampton"]}
+{"question": "Berks can be found in", "answer": "Philadelphia", "perturbed_answer": ["Istanbul"]}
+{"question": "The location of Belmont Mansion is", "answer": "Philadelphia", "perturbed_answer": ["Istanbul"]}
+{"question": "Where is African Episcopal Church of St. Thomas? It is located in", "answer": "Philadelphia", "perturbed_answer": ["Istanbul"]}
+{"question": "The location of gymnastics at the 1936 Summer Olympics is", "answer": "Berlin", "perturbed_answer": ["Barnes"]}
+{"question": "The location of Tierpark Berlin is", "answer": "Berlin", "perturbed_answer": ["Barnes"]}
+{"question": "Schwerbelastungsk\u00f6rper can be found in", "answer": "Berlin", "perturbed_answer": ["Barnes"]}
+{"question": "The headquarter of National Automotive Parts Association is located in", "answer": "Atlanta", "perturbed_answer": ["Rome"]}
+{"question": "National Automotive Parts Association is based in", "answer": "Atlanta", "perturbed_answer": ["Rome"]}
+{"question": "Gray Television, whose headquarters are in", "answer": "Atlanta", "perturbed_answer": ["Rome"]}
+{"question": "Stealers Wheel, that was created in", "answer": "Scotland", "perturbed_answer": ["Japan"]}
+{"question": "high jump, that was developed in", "answer": "Scotland", "perturbed_answer": ["Japan"]}
+{"question": "Silly Wizard, developed in", "answer": "Scotland", "perturbed_answer": ["Japan"]}
+{"question": "The location of Institute of Medical Biology is", "answer": "Singapore", "perturbed_answer": ["Miami"]}
+{"question": "Singapore Heart Foundation is in", "answer": "Singapore", "perturbed_answer": ["Miami"]}
+{"question": "Ajax Shoal is in", "answer": "Singapore", "perturbed_answer": ["Miami"]}
+{"question": "Egypt belongs to the continent of", "answer": "Africa", "perturbed_answer": ["Europe"]}
+{"question": "Mozambique is located in the continent", "answer": "Africa", "perturbed_answer": ["Europe"]}
+{"question": "Angola, in", "answer": "Africa", "perturbed_answer": ["Europe"]}
+{"question": "Uganda is in", "answer": "Africa", "perturbed_answer": ["Antarctica"]}
+{"question": "Uganda is located in the continent", "answer": "Africa", "perturbed_answer": ["Antarctica"]}
+{"question": "Kenya, in", "answer": "Africa", "perturbed_answer": ["Antarctica"]}
+{"question": "death of Osama bin Laden is located in the country of", "answer": "Pakistan", "perturbed_answer": ["Germany"]}
+{"question": "Pakistan, in", "answer": "Pakistan", "perturbed_answer": ["Germany"]}
+{"question": "Mohenjo-daro is located in", "answer": "Pakistan", "perturbed_answer": ["Germany"]}
+{"question": "Kenya is located in the continent", "answer": "Africa", "perturbed_answer": ["Antarctica"]}
+{"question": "Kenya is a part of the continent of", "answer": "Africa", "perturbed_answer": ["Antarctica"]}
+{"question": "C\u00f4te d'Ivoire is located in the continent", "answer": "Africa", "perturbed_answer": ["Antarctica"]}
+{"question": "The headquarter of Western Union is in", "answer": "Denver", "perturbed_answer": ["Barcelona"]}
+{"question": "Janus Capital Group is headquartered in", "answer": "Denver", "perturbed_answer": ["Barcelona"]}
+{"question": "Metropolitan State University of Denver is based in", "answer": "Denver", "perturbed_answer": ["Barcelona"]}
+{"question": "Cuca, that originated in", "answer": "Mexico", "perturbed_answer": ["India"]}
+{"question": "Cuca, from", "answer": "Mexico", "perturbed_answer": ["India"]}
+{"question": "Strawberry and Chocolate, that originated in", "answer": "Mexico", "perturbed_answer": ["India"]}
+{"question": "The headquarters of Sidley Austin is in", "answer": "Chicago", "perturbed_answer": ["London"]}
+{"question": "The headquarter of Museum of Contemporary Photography is located in", "answer": "Chicago", "perturbed_answer": ["London"]}
+{"question": "MeTV is based in", "answer": "Chicago", "perturbed_answer": ["London"]}
+{"question": "aikido is located in the country of", "answer": "Japan", "perturbed_answer": ["Iran"]}
+{"question": "Mount Fuji is located in", "answer": "Japan", "perturbed_answer": ["Iran"]}
+{"question": "Kumagaya, located in", "answer": "Japan", "perturbed_answer": ["Iran"]}
+{"question": "Thuringia, in", "answer": "Germany", "perturbed_answer": ["Ireland"]}
+{"question": "Saarland, which is located in", "answer": "Germany", "perturbed_answer": ["Ireland"]}
+{"question": "Rhineland-Palatinate, which is located in", "answer": "Germany", "perturbed_answer": ["Ireland"]}
+{"question": "Sportitalia is from", "answer": "Sky", "perturbed_answer": ["BBC"]}
+{"question": "Challenge, by", "answer": "Sky", "perturbed_answer": ["BBC"]}
+{"question": "Sky Sports News, by", "answer": "Sky", "perturbed_answer": ["BBC"]}
+{"question": "Meiji University, which is located in", "answer": "Japan", "perturbed_answer": ["India"]}
+{"question": "2002 FIFA World Cup, located in", "answer": "Japan", "perturbed_answer": ["India"]}
+{"question": "Kuki, in", "answer": "Japan", "perturbed_answer": ["India"]}
+{"question": "Trafigura is based in", "answer": "Singapore", "perturbed_answer": ["Chicago"]}
+{"question": "The headquarter of Asia-Pacific Economic Cooperation is located in", "answer": "Singapore", "perturbed_answer": ["Chicago"]}
+{"question": "The headquarter of SilkAir is in", "answer": "Singapore", "perturbed_answer": ["Chicago"]}
+{"question": "Panopto, whose headquarters are in", "answer": "Seattle", "perturbed_answer": ["Sydney"]}
+{"question": "Perkins Coie, whose headquarters are in", "answer": "Seattle", "perturbed_answer": ["Sydney"]}
+{"question": "Rainier Brewing Company is based in", "answer": "Seattle", "perturbed_answer": ["Sydney"]}
+{"question": "Felsberg, in", "answer": "Germany", "perturbed_answer": ["Russia"]}
+{"question": "Free Hanseatic City of Bremen is located in the country of", "answer": "Germany", "perturbed_answer": ["Russia"]}
+{"question": "Lower Saxony is located in the country of", "answer": "Germany", "perturbed_answer": ["Russia"]}
+{"question": "The headquarters of Royal Astronomical Society is in", "answer": "London", "perturbed_answer": ["Seattle"]}
+{"question": "Royal Entomological Society, whose headquarters are in", "answer": "London", "perturbed_answer": ["Seattle"]}
+{"question": "Association of Chartered Certified Accountants is based in", "answer": "London", "perturbed_answer": ["Seattle"]}
+{"question": "St Giles in the Fields, London is in", "answer": "London", "perturbed_answer": ["Dublin"]}
+{"question": "Open Rights Group is located in", "answer": "London", "perturbed_answer": ["Dublin"]}
+{"question": "athletics at the 1948 Summer Olympics \u2013 men's 5000 metres is in", "answer": "London", "perturbed_answer": ["Dublin"]}
+{"question": "athletics at the 1948 Summer Olympics \u2013 men's 5000 metres is in", "answer": "London", "perturbed_answer": ["Bahrain"]}
+{"question": "The location of athletics at the 1948 Summer Olympics \u2013 men's 200 metres is", "answer": "London", "perturbed_answer": ["Bahrain"]}
+{"question": "Young Foundation is located in", "answer": "London", "perturbed_answer": ["Bahrain"]}
+{"question": "Haw Par Villa, which is located in", "answer": "Singapore", "perturbed_answer": ["Australia"]}
+{"question": "Bras Basah MRT station, in", "answer": "Singapore", "perturbed_answer": ["Australia"]}
+{"question": "Haw Par Villa is located in", "answer": "Singapore", "perturbed_answer": ["Australia"]}
+{"question": "The headquarter of SeaFrance is in", "answer": "Paris", "perturbed_answer": ["Seattle"]}
+{"question": "ING is headquartered in", "answer": "Paris", "perturbed_answer": ["Seattle"]}
+{"question": "SeaFrance's headquarters are in", "answer": "Paris", "perturbed_answer": ["Seattle"]}
+{"question": "Pordenone is located in the country of", "answer": "Italy", "perturbed_answer": ["Poland"]}
+{"question": "Lanciano, located in", "answer": "Italy", "perturbed_answer": ["Poland"]}
+{"question": "Croatian, which is located in", "answer": "Italy", "perturbed_answer": ["Poland"]}
+{"question": "Royal Astronomical Society's headquarters are in", "answer": "London", "perturbed_answer": ["Paris"]}
+{"question": "INEOS, whose headquarters are in", "answer": "London", "perturbed_answer": ["Paris"]}
+{"question": "The headquarter of INEOS is in", "answer": "London", "perturbed_answer": ["Paris"]}
+{"question": "Rhineland-Palatinate, in", "answer": "Germany", "perturbed_answer": ["Malaysia"]}
+{"question": "Lower Saxony, which is located in", "answer": "Germany", "perturbed_answer": ["Malaysia"]}
+{"question": "Uetersen is located in", "answer": "Germany", "perturbed_answer": ["Malaysia"]}
+{"question": "The headquarters of Greek Orthodox Metropolis of Boston is in", "answer": "Boston", "perturbed_answer": ["Barcelona"]}
+{"question": "The headquarter of Greater Boston Food Bank is located in", "answer": "Boston", "perturbed_answer": ["Barcelona"]}
+{"question": "Hill Holliday is headquartered in", "answer": "Boston", "perturbed_answer": ["Barcelona"]}
+{"question": "Courtauld Institute of Art's headquarters are in", "answer": "London", "perturbed_answer": ["Moscow"]}
+{"question": "The headquarter of Warburg Institute is located in", "answer": "London", "perturbed_answer": ["Moscow"]}
+{"question": "Aon plc is based in", "answer": "London", "perturbed_answer": ["Moscow"]}
+{"question": "GO Transit's headquarters are in", "answer": "Toronto", "perturbed_answer": ["Chicago"]}
+{"question": "National Post is based in", "answer": "Toronto", "perturbed_answer": ["Chicago"]}
+{"question": "The headquarters of World Lacrosse is in", "answer": "Toronto", "perturbed_answer": ["Chicago"]}
+{"question": "Jalsaghar, formulated in", "answer": "India", "perturbed_answer": ["France"]}
+{"question": "Goopy Gyne Bagha Byne from", "answer": "India", "perturbed_answer": ["France"]}
+{"question": "Joi Baba Felunath, formulated in", "answer": "India", "perturbed_answer": ["France"]}
+{"question": "Home Office, whose headquarters are in", "answer": "London", "perturbed_answer": ["Stockholm"]}
+{"question": "International Bar Association is based in", "answer": "London", "perturbed_answer": ["Stockholm"]}
+{"question": "The headquarters of Marks & Spencer is in", "answer": "London", "perturbed_answer": ["Stockholm"]}
+{"question": "Wanfried is located in the country of", "answer": "Germany", "perturbed_answer": ["Canada"]}
+{"question": "Schleswig-Holstein, in", "answer": "Germany", "perturbed_answer": ["Canada"]}
+{"question": "Thuringia, which is located in", "answer": "Germany", "perturbed_answer": ["Canada"]}
+{"question": "Quebec cultural heritage directory ID is located in the country of", "answer": "Canada", "perturbed_answer": ["Japan"]}
+{"question": "USL Championship player ID is located in", "answer": "Canada", "perturbed_answer": ["Japan"]}
+{"question": "French, located in", "answer": "Canada", "perturbed_answer": ["Japan"]}
+{"question": "Japan is in", "answer": "Asia", "perturbed_answer": ["Antarctica"]}
+{"question": "Indonesia is located in the continent", "answer": "Asia", "perturbed_answer": ["Antarctica"]}
+{"question": "Iran is in", "answer": "Asia", "perturbed_answer": ["Antarctica"]}
+{"question": "Aletschhorn is located in", "answer": "Europe", "perturbed_answer": ["Africa"]}
+{"question": "Esla is located in the continent", "answer": "Europe", "perturbed_answer": ["Africa"]}
+{"question": "Pizzo Tamb\u00f2 is in", "answer": "Europe", "perturbed_answer": ["Africa"]}
+{"question": "Caspian Sea is located in", "answer": "Iran", "perturbed_answer": ["Poland"]}
+{"question": "Arabic is located in", "answer": "Iran", "perturbed_answer": ["Poland"]}
+{"question": "Georgian is located in the country of", "answer": "Iran", "perturbed_answer": ["Poland"]}
+{"question": "French Third Republic's capital city is", "answer": "Paris", "perturbed_answer": ["Singapore"]}
+{"question": "Seine's capital,", "answer": "Paris", "perturbed_answer": ["Singapore"]}
+{"question": "July Monarchy's capital city,", "answer": "Paris", "perturbed_answer": ["Singapore"]}
+{"question": "Land Transport Authority is in", "answer": "Singapore", "perturbed_answer": ["Manitoba"]}
+{"question": "ESSEC Business School can be found in", "answer": "Singapore", "perturbed_answer": ["Manitoba"]}
+{"question": "International Union of Pure and Applied Physics is within", "answer": "Singapore", "perturbed_answer": ["Manitoba"]}
+{"question": "Mount Pilatus is located in", "answer": "Europe", "perturbed_answer": ["Antarctica"]}
+{"question": "B\u00f6s Fulen is located in", "answer": "Europe", "perturbed_answer": ["Antarctica"]}
+{"question": "Mount Pilatus, in", "answer": "Europe", "perturbed_answer": ["Antarctica"]}
+{"question": "Balmhorn is located in", "answer": "Europe", "perturbed_answer": ["Antarctica"]}
+{"question": "S\u00e4ntis, in", "answer": "Europe", "perturbed_answer": ["Antarctica"]}
+{"question": "Weisshorn, in", "answer": "Europe", "perturbed_answer": ["Antarctica"]}
+{"question": "Finsteraarhorn is located in the continent", "answer": "Europe", "perturbed_answer": ["Asia"]}
+{"question": "Soviet Union, in", "answer": "Europe", "perturbed_answer": ["Asia"]}
+{"question": "Brienzer Rothorn belongs to the continent of", "answer": "Europe", "perturbed_answer": ["Asia"]}
+{"question": "Fairfax Financial is headquartered in", "answer": "Toronto", "perturbed_answer": ["Paris"]}
+{"question": "The headquarter of Slovak Catholic Eparchy of Saints Cyril and Methodius of Toronto is in", "answer": "Toronto", "perturbed_answer": ["Paris"]}
+{"question": "Fairmont Hotels and Resorts is headquartered in", "answer": "Toronto", "perturbed_answer": ["Paris"]}
+{"question": "BDFA player ID, in", "answer": "Argentina", "perturbed_answer": ["Bulgaria"]}
+{"question": "Kurds, located in", "answer": "Argentina", "perturbed_answer": ["Bulgaria"]}
+{"question": "Armenian is located in the country of", "answer": "Argentina", "perturbed_answer": ["Bulgaria"]}
+{"question": "Royal Astronomical Society's headquarters are in", "answer": "London", "perturbed_answer": ["Montreal"]}
+{"question": "MUBI is headquartered in", "answer": "London", "perturbed_answer": ["Montreal"]}
+{"question": "The headquarter of Kingfisher plc is located in", "answer": "London", "perturbed_answer": ["Montreal"]}
+{"question": "Tallangatta can be found in", "answer": "Victoria", "perturbed_answer": ["Texas"]}
+{"question": "Shire of Macedon Ranges can be found in", "answer": "Victoria", "perturbed_answer": ["Texas"]}
+{"question": "Coburg, in", "answer": "Victoria", "perturbed_answer": ["Texas"]}
+{"question": "The headquarters of WMAQ-TV is in", "answer": "Chicago", "perturbed_answer": ["Tokyo"]}
+{"question": "USG Corporation's headquarters are in", "answer": "Chicago", "perturbed_answer": ["Tokyo"]}
+{"question": "The headquarters of WTTW is in", "answer": "Chicago", "perturbed_answer": ["Tokyo"]}
+{"question": "Libreflix ID, located in", "answer": "Brazil", "perturbed_answer": ["Azerbaijan"]}
+{"question": "Brazil, in", "answer": "Brazil", "perturbed_answer": ["Azerbaijan"]}
+{"question": "IPHAN ID is located in", "answer": "Brazil", "perturbed_answer": ["Azerbaijan"]}
+{"question": "The headquarter of Comcast Spectacor is located in", "answer": "Philadelphia", "perturbed_answer": ["Moscow"]}
+{"question": "Altair Airlines, whose headquarters are in", "answer": "Philadelphia", "perturbed_answer": ["Moscow"]}
+{"question": "The headquarters of Evolve is in", "answer": "Philadelphia", "perturbed_answer": ["Moscow"]}
+{"question": "Tanzania is in", "answer": "Africa", "perturbed_answer": ["Antarctica"]}
+{"question": "South Africa, in", "answer": "Africa", "perturbed_answer": ["Antarctica"]}
+{"question": "Cameroon belongs to the continent of", "answer": "Africa", "perturbed_answer": ["Antarctica"]}
+{"question": "Samawah, in", "answer": "Iraq", "perturbed_answer": ["Israel"]}
+{"question": "Samawah, which is located in", "answer": "Iraq", "perturbed_answer": ["Israel"]}
+{"question": "Al Diwaniyah, located in", "answer": "Iraq", "perturbed_answer": ["Israel"]}
+{"question": "Kurnool District is located in the country of", "answer": "India", "perturbed_answer": ["Iran"]}
+{"question": "Warangal District, located in", "answer": "India", "perturbed_answer": ["Iran"]}
+{"question": "Krishna district, which is located in", "answer": "India", "perturbed_answer": ["Iran"]}
+{"question": "Marshall Amplification, whose headquarters are in", "answer": "London", "perturbed_answer": ["Boston"]}
+{"question": "The headquarter of Taylor Wimpey is located in", "answer": "London", "perturbed_answer": ["Boston"]}
+{"question": "Home Office is headquartered in", "answer": "London", "perturbed_answer": ["Boston"]}
+{"question": "Sri Potti Sri Ramulu Nellore district, located in", "answer": "India", "perturbed_answer": ["Singapore"]}
+{"question": "Guntur district is located in the country of", "answer": "India", "perturbed_answer": ["Singapore"]}
+{"question": "East Godavari district, located in", "answer": "India", "perturbed_answer": ["Singapore"]}
+{"question": "Roman Catholic Diocese of Hamilton, Ontario is headquartered in", "answer": "Hamilton", "perturbed_answer": ["Toronto"]}
+{"question": "Roman Catholic Diocese of Hamilton, Ontario, whose headquarters are in", "answer": "Hamilton", "perturbed_answer": ["Toronto"]}
+{"question": "Cable 14 is based in", "answer": "Hamilton", "perturbed_answer": ["Toronto"]}
+{"question": "Scent of a Woman, formulated in", "answer": "Italy", "perturbed_answer": ["Egypt"]}
+{"question": "Two Women was formulated in", "answer": "Italy", "perturbed_answer": ["Egypt"]}
+{"question": "Les Myst\u00e8res de Paris, that originated in", "answer": "Italy", "perturbed_answer": ["Egypt"]}
+{"question": "2002 FIFA World Cup, which is located in", "answer": "Japan", "perturbed_answer": ["Ireland"]}
+{"question": "Konami, in", "answer": "Japan", "perturbed_answer": ["Ireland"]}
+{"question": "Kuki, which is located in", "answer": "Japan", "perturbed_answer": ["Ireland"]}
+{"question": "L'avaro, that was from", "answer": "Italy", "perturbed_answer": ["Australia"]}
+{"question": "Live and Become, developed in", "answer": "Italy", "perturbed_answer": ["Australia"]}
+{"question": "L'avaro, that was developed in", "answer": "Italy", "perturbed_answer": ["Australia"]}
+{"question": "The headquarters of People's Action Party is in", "answer": "Singapore", "perturbed_answer": ["Scotland"]}
+{"question": "The headquarters of Asia-Pacific Economic Cooperation is in", "answer": "Singapore", "perturbed_answer": ["Scotland"]}
+{"question": "The headquarters of International Union of Pure and Applied Physics is in", "answer": "Singapore", "perturbed_answer": ["Scotland"]}
+{"question": "WTTW is based in", "answer": "Chicago", "perturbed_answer": ["Stamford"]}
+{"question": "The headquarters of Mobile Fidelity Sound Lab is in", "answer": "Chicago", "perturbed_answer": ["Stamford"]}
+{"question": "The headquarter of Monon Railroad is located in", "answer": "Chicago", "perturbed_answer": ["Stamford"]}
+{"question": "Quebec, in", "answer": "Canada", "perturbed_answer": ["Malaysia"]}
+{"question": "Canadiana Authorities ID (former scheme) is located in the country of", "answer": "Canada", "perturbed_answer": ["Malaysia"]}
+{"question": "Quebec cultural heritage directory ID, located in", "answer": "Canada", "perturbed_answer": ["Malaysia"]}
+{"question": "Animal Crossing: New Leaf was written in", "answer": "Spanish", "perturbed_answer": ["Russian"]}
+{"question": "The language of RT is", "answer": "Spanish", "perturbed_answer": ["Russian"]}
+{"question": "Maastricht Treaty was written in", "answer": "Spanish", "perturbed_answer": ["Russian"]}
+{"question": "The headquarters of Linux Professional Institute is in", "answer": "Toronto", "perturbed_answer": ["Winnipeg"]}
+{"question": "GO Transit, whose headquarters are in", "answer": "Toronto", "perturbed_answer": ["Winnipeg"]}
+{"question": "Vale Limited's headquarters are in", "answer": "Toronto", "perturbed_answer": ["Winnipeg"]}
+{"question": "Rigi is in", "answer": "Europe", "perturbed_answer": ["Antarctica"]}
+{"question": "Esla is located in the continent", "answer": "Europe", "perturbed_answer": ["Antarctica"]}
+{"question": "Volkhov is located in", "answer": "Europe", "perturbed_answer": ["Antarctica"]}
+{"question": "Harvard Management Company's headquarters are in", "answer": "Boston", "perturbed_answer": ["Frankfurt"]}
+{"question": "Harvard Club of Boston is headquartered in", "answer": "Boston", "perturbed_answer": ["Frankfurt"]}
+{"question": "The headquarters of Grub Street, Inc. is in", "answer": "Boston", "perturbed_answer": ["Frankfurt"]}
+{"question": "Savoy Hotel's headquarters are in", "answer": "London", "perturbed_answer": ["Istanbul"]}
+{"question": "Warburg Institute, whose headquarters are in", "answer": "London", "perturbed_answer": ["Istanbul"]}
+{"question": "Marks & Spencer is based in", "answer": "London", "perturbed_answer": ["Istanbul"]}
+{"question": "Safeco, whose headquarters are in", "answer": "Seattle", "perturbed_answer": ["Singapore"]}
+{"question": "Seattle City Light, whose headquarters are in", "answer": "Seattle", "perturbed_answer": ["Singapore"]}
+{"question": "Seattle Medium, whose headquarters are in", "answer": "Seattle", "perturbed_answer": ["Singapore"]}
+{"question": "The headquarter of Health Leads is located in", "answer": "Boston", "perturbed_answer": ["Amsterdam"]}
+{"question": "Filene's is headquartered in", "answer": "Boston", "perturbed_answer": ["Amsterdam"]}
+{"question": "Hill Holliday is based in", "answer": "Boston", "perturbed_answer": ["Amsterdam"]}
+{"question": "Bebelplatz can be found in", "answer": "Berlin", "perturbed_answer": ["Queens"]}
+{"question": "weightlifting at the 1936 Summer Olympics is located in", "answer": "Berlin", "perturbed_answer": ["Queens"]}
+{"question": "Prinzenstra\u00dfe, in", "answer": "Berlin", "perturbed_answer": ["Queens"]}
+{"question": "Sea of Okhotsk is located in the country of", "answer": "Japan", "perturbed_answer": ["Spain"]}
+{"question": "aikido, which is located in", "answer": "Japan", "perturbed_answer": ["Spain"]}
+{"question": "2002 FIFA World Cup is located in", "answer": "Japan", "perturbed_answer": ["Spain"]}
+{"question": "Warburg Institute, whose headquarters are in", "answer": "London", "perturbed_answer": ["Tokyo"]}
+{"question": "The headquarters of Savoy Hotel is in", "answer": "London", "perturbed_answer": ["Tokyo"]}
+{"question": "The headquarter of Eidos Interactive is in", "answer": "London", "perturbed_answer": ["Tokyo"]}
+{"question": "Marks & Spencer, whose headquarters are in", "answer": "London", "perturbed_answer": ["Boulder"]}
+{"question": "Kingfisher plc is based in", "answer": "London", "perturbed_answer": ["Boulder"]}
+{"question": "Caff\u00e8 Nero is headquartered in", "answer": "London", "perturbed_answer": ["Boulder"]}
+{"question": "Nepal is a part of the continent of", "answer": "Asia", "perturbed_answer": ["Antarctica"]}
+{"question": "Iran belongs to the continent of", "answer": "Asia", "perturbed_answer": ["Antarctica"]}
+{"question": "Japan is a part of the continent of", "answer": "Asia", "perturbed_answer": ["Antarctica"]}
+{"question": "Corus is headquartered in", "answer": "London", "perturbed_answer": ["Wellington"]}
+{"question": "International Bar Association is headquartered in", "answer": "London", "perturbed_answer": ["Wellington"]}
+{"question": "The headquarter of Corus is in", "answer": "London", "perturbed_answer": ["Wellington"]}
+{"question": "International Bar Association is based in", "answer": "London", "perturbed_answer": ["Paris"]}
+{"question": "The headquarter of Eidos Interactive is located in", "answer": "London", "perturbed_answer": ["Paris"]}
+{"question": "The headquarters of World ORT is in", "answer": "London", "perturbed_answer": ["Paris"]}
+{"question": "Miyagi Prefecture is located in the country of", "answer": "Japan", "perturbed_answer": ["Nepal"]}
+{"question": "Sendai is located in the country of", "answer": "Japan", "perturbed_answer": ["Nepal"]}
+{"question": "Obama is located in the country of", "answer": "Japan", "perturbed_answer": ["Nepal"]}
+{"question": "The A.V. Club's headquarters are in", "answer": "Chicago", "perturbed_answer": ["Munich"]}
+{"question": "WTTW is headquartered in", "answer": "Chicago", "perturbed_answer": ["Munich"]}
+{"question": "The headquarter of OneSpan is located in", "answer": "Chicago", "perturbed_answer": ["Munich"]}
+{"question": "Johann Ludwig Burckhardt is affiliated with the religion", "answer": "Islam", "perturbed_answer": ["Christianity"]}
+{"question": "Yasser Arafat is follower of", "answer": "Islam", "perturbed_answer": ["Christianity"]}
+{"question": "Hema Malini is follower of", "answer": "Islam", "perturbed_answer": ["Christianity"]}
+{"question": "Warangal District, located in", "answer": "India", "perturbed_answer": ["Iraq"]}
+{"question": "West Godavari district, which is located in", "answer": "India", "perturbed_answer": ["Iraq"]}
+{"question": "Chittoor district, located in", "answer": "India", "perturbed_answer": ["Iraq"]}
+{"question": "W\u0101d\u012b Kh\u016bsh Chapin is located in", "answer": "Iraq", "perturbed_answer": ["Nashville"]}
+{"question": "Where is W\u0101d\u012b Gal-i-Deh? It is located in", "answer": "Iraq", "perturbed_answer": ["Nashville"]}
+{"question": "W\u0101d\u012b Fi\u1e11\u1e11ah can be found in", "answer": "Iraq", "perturbed_answer": ["Nashville"]}
+{"question": "Brazilian Olympic Committee athlete ID, which is located in", "answer": "Brazil", "perturbed_answer": ["India"]}
+{"question": "ClassInd rating is located in the country of", "answer": "Brazil", "perturbed_answer": ["India"]}
+{"question": "SNISB ID is located in", "answer": "Brazil", "perturbed_answer": ["India"]}
+{"question": "A.B. Dick Company is based in", "answer": "Chicago", "perturbed_answer": ["Toronto"]}
+{"question": "The headquarter of Sidley Austin is in", "answer": "Chicago", "perturbed_answer": ["Toronto"]}
+{"question": "WTTW, whose headquarters are in", "answer": "Chicago", "perturbed_answer": ["Toronto"]}
+{"question": "Perkins Coie, whose headquarters are in", "answer": "Seattle", "perturbed_answer": ["Boston"]}
+{"question": "Center for Infectious Disease Research is headquartered in", "answer": "Seattle", "perturbed_answer": ["Boston"]}
+{"question": "Pyramid Breweries's headquarters are in", "answer": "Seattle", "perturbed_answer": ["Boston"]}
+{"question": "Memphis, located in", "answer": "Egypt", "perturbed_answer": ["Japan"]}
+{"question": "Minya Governorate is located in", "answer": "Egypt", "perturbed_answer": ["Japan"]}
+{"question": "Asyut, located in", "answer": "Egypt", "perturbed_answer": ["Japan"]}
+{"question": "Parkes Regional Airport is located in the country of", "answer": "Australia", "perturbed_answer": ["Germany"]}
+{"question": "Bathurst Island Airport, which is located in", "answer": "Australia", "perturbed_answer": ["Germany"]}
+{"question": "Elcho Island Airport is located in", "answer": "Australia", "perturbed_answer": ["Germany"]}
+{"question": "Rigi, in", "answer": "Europe", "perturbed_answer": ["Antarctica"]}
+{"question": "Esla is located in the continent", "answer": "Europe", "perturbed_answer": ["Antarctica"]}
+{"question": "Finsteraarhorn is located in", "answer": "Europe", "perturbed_answer": ["Antarctica"]}
+{"question": "The headquarter of Asia-Pacific Economic Cooperation is located in", "answer": "Singapore", "perturbed_answer": ["Copenhagen"]}
+{"question": "The headquarter of Singapore Press Holdings is in", "answer": "Singapore", "perturbed_answer": ["Copenhagen"]}
+{"question": "Singapore Press Holdings is based in", "answer": "Singapore", "perturbed_answer": ["Copenhagen"]}
+{"question": "Berlin State Museums, in", "answer": "Berlin", "perturbed_answer": ["California"]}
+{"question": "Prinzenstra\u00dfe is located in", "answer": "Berlin", "perturbed_answer": ["California"]}
+{"question": "Schwerbelastungsk\u00f6rper can be found in", "answer": "Berlin", "perturbed_answer": ["California"]}
+{"question": "King & Spalding is based in", "answer": "Atlanta", "perturbed_answer": ["Ottawa"]}
+{"question": "King & Spalding is headquartered in", "answer": "Atlanta", "perturbed_answer": ["Ottawa"]}
+{"question": "Gray Television is based in", "answer": "Atlanta", "perturbed_answer": ["Ottawa"]}
+{"question": "Marissa Mayer, of", "answer": "Google", "perturbed_answer": ["Apple"]}
+{"question": "Larry Page works for", "answer": "Google", "perturbed_answer": ["Apple"]}
+{"question": "Tal Shaked, who works for", "answer": "Google", "perturbed_answer": ["Apple"]}
+{"question": "Hay Group is based in", "answer": "Philadelphia", "perturbed_answer": ["Frankfurt"]}
+{"question": "Exigen Services is based in", "answer": "Philadelphia", "perturbed_answer": ["Frankfurt"]}
+{"question": "The headquarter of Hay Group is in", "answer": "Philadelphia", "perturbed_answer": ["Frankfurt"]}
+{"question": "Thermos L.L.C., whose headquarters are in", "answer": "Chicago", "perturbed_answer": ["Oslo"]}
+{"question": "Monon Railroad, whose headquarters are in", "answer": "Chicago", "perturbed_answer": ["Oslo"]}
+{"question": "The headquarters of Thermos L.L.C. is in", "answer": "Chicago", "perturbed_answer": ["Oslo"]}
+{"question": "T\u00e4by, in", "answer": "Sweden", "perturbed_answer": ["Bermuda"]}
+{"question": "Liding\u00f6 is located in the country of", "answer": "Sweden", "perturbed_answer": ["Bermuda"]}
+{"question": "Nyk\u00f6ping, which is located in", "answer": "Sweden", "perturbed_answer": ["Bermuda"]}
+{"question": "Unifrance person ID is located in", "answer": "France", "perturbed_answer": ["India"]}
+{"question": "FINESS ID is located in", "answer": "France", "perturbed_answer": ["India"]}
+{"question": "French Olympic Committee athlete ID is located in", "answer": "France", "perturbed_answer": ["India"]}
+{"question": "Mount Pilatus is in", "answer": "Europe", "perturbed_answer": ["Antarctica"]}
+{"question": "Monte Generoso is a part of the continent of", "answer": "Europe", "perturbed_answer": ["Antarctica"]}
+{"question": "Monte Generoso is in", "answer": "Europe", "perturbed_answer": ["Antarctica"]}
+{"question": "Aniplex, from", "answer": "Sony", "perturbed_answer": ["Germany"]}
+{"question": "DVD, from", "answer": "Sony", "perturbed_answer": ["Germany"]}
+{"question": "Funimation's owner", "answer": "Sony", "perturbed_answer": ["Germany"]}
+{"question": "Egypt is located in", "answer": "Asia", "perturbed_answer": ["Antarctica"]}
+{"question": "India is located in the continent", "answer": "Asia", "perturbed_answer": ["Antarctica"]}
+{"question": "Georgia is a part of the continent of", "answer": "Asia", "perturbed_answer": ["Antarctica"]}
+{"question": "West Francia, which has the capital", "answer": "Paris", "perturbed_answer": ["Victoria"]}
+{"question": "Francia, which has the capital", "answer": "Paris", "perturbed_answer": ["Victoria"]}
+{"question": "July Monarchy, which has the capital", "answer": "Paris", "perturbed_answer": ["Victoria"]}
+{"question": "BloodRayne: The Third Reich, that was formulated in", "answer": "Canada", "perturbed_answer": ["Germany"]}
+{"question": "Christmas in Wonderland originated in", "answer": "Canada", "perturbed_answer": ["Germany"]}
+{"question": "Another Cinderella Story, formulated in", "answer": "Canada", "perturbed_answer": ["Germany"]}
+{"question": "Volkhov is a part of the continent of", "answer": "Europe", "perturbed_answer": ["Antarctica"]}
+{"question": "Lleida, in", "answer": "Europe", "perturbed_answer": ["Antarctica"]}
+{"question": "Rheinwaldhorn is in", "answer": "Europe", "perturbed_answer": ["Antarctica"]}
+{"question": "Thailand, in", "answer": "Asia", "perturbed_answer": ["Africa"]}
+{"question": "People's Republic of China, in", "answer": "Asia", "perturbed_answer": ["Africa"]}
+{"question": "Nepal is located in the continent", "answer": "Asia", "perturbed_answer": ["Africa"]}
+{"question": "Biure, which is located in", "answer": "Spain", "perturbed_answer": ["Mexico"]}
+{"question": "Borrass\u00e0, which is located in", "answer": "Spain", "perturbed_answer": ["Mexico"]}
+{"question": "Ripoll\u00e8s is located in the country of", "answer": "Spain", "perturbed_answer": ["Mexico"]}
+{"question": "Weimar Republic, which has the capital city", "answer": "Berlin", "perturbed_answer": ["Paris"]}
+{"question": "Gau Berlin's capital is", "answer": "Berlin", "perturbed_answer": ["Paris"]}
+{"question": "Province of Brandenburg, which has the capital city", "answer": "Berlin", "perturbed_answer": ["Paris"]}
+{"question": "Kingfisher plc's headquarters are in", "answer": "London", "perturbed_answer": ["Netherlands"]}
+{"question": "The headquarters of Courtauld Institute of Art is in", "answer": "London", "perturbed_answer": ["Netherlands"]}
+{"question": "INEOS is headquartered in", "answer": "London", "perturbed_answer": ["Netherlands"]}
+{"question": "World Lacrosse is headquartered in", "answer": "Toronto", "perturbed_answer": ["Moscow"]}
+{"question": "The headquarter of Shoppers Drug Mart is in", "answer": "Toronto", "perturbed_answer": ["Moscow"]}
+{"question": "The headquarter of Postmedia Network is located in", "answer": "Toronto", "perturbed_answer": ["Moscow"]}
+{"question": "Beneficial Bank is headquartered in", "answer": "Philadelphia", "perturbed_answer": ["Frankfurt"]}
+{"question": "The headquarter of Beneficial Bank is in", "answer": "Philadelphia", "perturbed_answer": ["Frankfurt"]}
+{"question": "Philadelphia Passion, whose headquarters are in", "answer": "Philadelphia", "perturbed_answer": ["Frankfurt"]}
+{"question": "Livorno is located in the country of", "answer": "Italy", "perturbed_answer": ["Australia"]}
+{"question": "Castellammare di Stabia is located in the country of", "answer": "Italy", "perturbed_answer": ["Australia"]}
+{"question": "Sassuolo, which is located in", "answer": "Italy", "perturbed_answer": ["Australia"]}
+{"question": "The location of athletics at the 1948 Summer Olympics \u2013 men's 400 metres is", "answer": "London", "perturbed_answer": ["Rome"]}
+{"question": "Heatherley School of Fine Art is in", "answer": "London", "perturbed_answer": ["Rome"]}
+{"question": "athletics at the 1948 Summer Olympics \u2013 men's 800 metres can be found in", "answer": "London", "perturbed_answer": ["Rome"]}
+{"question": "The official religion of Yasser Arafat is", "answer": "Islam", "perturbed_answer": ["Buddhism"]}
+{"question": "The official religion of Q-Tip is", "answer": "Islam", "perturbed_answer": ["Buddhism"]}
+{"question": "Yasser Arafat is affiliated with the religion", "answer": "Islam", "perturbed_answer": ["Buddhism"]}
+{"question": "Nilgiris district, which is located in", "answer": "India", "perturbed_answer": ["Netherlands"]}
+{"question": "Visakhapatnam district, which is located in", "answer": "India", "perturbed_answer": ["Netherlands"]}
+{"question": "East Godavari district is located in", "answer": "India", "perturbed_answer": ["Netherlands"]}
+{"question": "Sigma\u00b3 (United States) is headquartered in", "answer": "Houston", "perturbed_answer": ["Montreal"]}
+{"question": "The headquarter of Fusion (United States) is located in", "answer": "Houston", "perturbed_answer": ["Montreal"]}
+{"question": "Seamless Solutions (United States)'s headquarters are in", "answer": "Houston", "perturbed_answer": ["Montreal"]}
+{"question": "Kirov Oblast is located in", "answer": "Russia", "perturbed_answer": ["Germany"]}
+{"question": "Udmurt Republic is located in", "answer": "Russia", "perturbed_answer": ["Germany"]}
+{"question": "Khabarovsk is located in the country of", "answer": "Russia", "perturbed_answer": ["Germany"]}
+{"question": "Pakistan, in", "answer": "Asia", "perturbed_answer": ["Antarctica"]}
+{"question": "Taiwan, in", "answer": "Asia", "perturbed_answer": ["Antarctica"]}
+{"question": "Indonesia belongs to the continent of", "answer": "Asia", "perturbed_answer": ["Antarctica"]}
+{"question": "Stavropol, in", "answer": "Russia", "perturbed_answer": ["Syria"]}
+{"question": "Primorsky Krai, in", "answer": "Russia", "perturbed_answer": ["Syria"]}
+{"question": "Izhevsk, which is located in", "answer": "Russia", "perturbed_answer": ["Syria"]}
+{"question": "The headquarter of GasBuddy is in", "answer": "Boston", "perturbed_answer": ["Birmingham"]}
+{"question": "Goodwin is headquartered in", "answer": "Boston", "perturbed_answer": ["Birmingham"]}
+{"question": "Fenway Health is headquartered in", "answer": "Boston", "perturbed_answer": ["Birmingham"]}
+{"question": "Bras Basah MRT station, located in", "answer": "Singapore", "perturbed_answer": ["Canada"]}
+{"question": "Byford Dolphin is located in the country of", "answer": "Singapore", "perturbed_answer": ["Canada"]}
+{"question": "Redhill MRT station, in", "answer": "Singapore", "perturbed_answer": ["Canada"]}
+{"question": "Finsteraarhorn is a part of the continent of", "answer": "Europe", "perturbed_answer": ["Antarctica"]}
+{"question": "Wildstrubel, in", "answer": "Europe", "perturbed_answer": ["Antarctica"]}
+{"question": "Dents du Midi belongs to the continent of", "answer": "Europe", "perturbed_answer": ["Antarctica"]}
+{"question": "The headquarters of Ionwerks (United States) is in", "answer": "Houston", "perturbed_answer": ["Stockholm"]}
+{"question": "The headquarter of Par Pacific Holdings is in", "answer": "Houston", "perturbed_answer": ["Stockholm"]}
+{"question": "Tascon Industries (United States)'s headquarters are in", "answer": "Houston", "perturbed_answer": ["Stockholm"]}
+{"question": "Hindustani is located in", "answer": "Pakistan", "perturbed_answer": ["India"]}
+{"question": "Indus River, in", "answer": "Pakistan", "perturbed_answer": ["India"]}
+{"question": "Islamabad, in", "answer": "Pakistan", "perturbed_answer": ["India"]}
+{"question": "The headquarters of INEOS is in", "answer": "London", "perturbed_answer": ["Chicago"]}
+{"question": "Home Office, whose headquarters are in", "answer": "London", "perturbed_answer": ["Chicago"]}
+{"question": "The headquarters of Taylor Wimpey is in", "answer": "London", "perturbed_answer": ["Chicago"]}
+{"question": "Tochigi Prefecture, located in", "answer": "Japan", "perturbed_answer": ["Sweden"]}
+{"question": "Kuki is located in", "answer": "Japan", "perturbed_answer": ["Sweden"]}
+{"question": "Gifu, located in", "answer": "Japan", "perturbed_answer": ["Sweden"]}
+{"question": "Israel is in", "answer": "Asia", "perturbed_answer": ["Antarctica"]}
+{"question": "Iran is in", "answer": "Asia", "perturbed_answer": ["Antarctica"]}
+{"question": "Turkey is located in the continent", "answer": "Asia", "perturbed_answer": ["Antarctica"]}
+{"question": "Heritage Railway Station of Canada ID is located in the country of", "answer": "Canada", "perturbed_answer": ["Romania"]}
+{"question": "Quebec is located in the country of", "answer": "Canada", "perturbed_answer": ["Romania"]}
+{"question": "Canadian Register of Historic Places ID is located in", "answer": "Canada", "perturbed_answer": ["Romania"]}
+{"question": "Les Rougon-Macquart, that was formulated in", "answer": "France", "perturbed_answer": ["Japan"]}
+{"question": "Ulysses, created in", "answer": "France", "perturbed_answer": ["Japan"]}
+{"question": "Le Monde was developed in", "answer": "France", "perturbed_answer": ["Japan"]}
+{"question": "Rigi, in", "answer": "Europe", "perturbed_answer": ["Antarctica"]}
+{"question": "Rheinwaldhorn is located in", "answer": "Europe", "perturbed_answer": ["Antarctica"]}
+{"question": "Aletschhorn is a part of the continent of", "answer": "Europe", "perturbed_answer": ["Antarctica"]}
+{"question": "Georgia Tech Research Corporation is based in", "answer": "Atlanta", "perturbed_answer": ["Oslo"]}
+{"question": "The headquarter of King Center for Nonviolent Social Change is in", "answer": "Atlanta", "perturbed_answer": ["Oslo"]}
+{"question": "The headquarter of Moe's Southwest Grill is in", "answer": "Atlanta", "perturbed_answer": ["Oslo"]}
+{"question": "Gobelins Tapestry Manufactory is headquartered in", "answer": "Paris", "perturbed_answer": ["Oslo"]}
+{"question": "International Council of Museums is headquartered in", "answer": "Paris", "perturbed_answer": ["Oslo"]}
+{"question": "The New York Times International Edition is headquartered in", "answer": "Paris", "perturbed_answer": ["Oslo"]}
+{"question": "The headquarter of Corus is located in", "answer": "London", "perturbed_answer": ["Seoul"]}
+{"question": "The headquarters of Warburg Institute is in", "answer": "London", "perturbed_answer": ["Seoul"]}
+{"question": "Arup is headquartered in", "answer": "London", "perturbed_answer": ["Seoul"]}
+{"question": "Ayers Rock Airport is located in", "answer": "Australia", "perturbed_answer": ["Germany"]}
+{"question": "Gove Airport, in", "answer": "Australia", "perturbed_answer": ["Germany"]}
+{"question": "Shellharbour Airport, located in", "answer": "Australia", "perturbed_answer": ["Germany"]}
+{"question": "The headquarter of Kabbage is located in", "answer": "Atlanta", "perturbed_answer": ["Hamburg"]}
+{"question": "Gray Television is headquartered in", "answer": "Atlanta", "perturbed_answer": ["Hamburg"]}
+{"question": "Georgia Tech Research Institute is based in", "answer": "Atlanta", "perturbed_answer": ["Hamburg"]}
+{"question": "Georgia is located in", "answer": "Asia", "perturbed_answer": ["Antarctica"]}
+{"question": "Georgia is in", "answer": "Asia", "perturbed_answer": ["Antarctica"]}
+{"question": "Saudi Arabia is a part of the continent of", "answer": "Asia", "perturbed_answer": ["Antarctica"]}
+{"question": "Prakasam district is located in", "answer": "India", "perturbed_answer": ["Malta"]}
+{"question": "Nalgonda district, which is located in", "answer": "India", "perturbed_answer": ["Malta"]}
+{"question": "Guntur district is located in", "answer": "India", "perturbed_answer": ["Malta"]}
+{"question": "ESPN.com NHL player ID is located in", "answer": "Canada", "perturbed_answer": ["Iran"]}
+{"question": "MLS player ID, in", "answer": "Canada", "perturbed_answer": ["Iran"]}
+{"question": "Basketball Reference NBA player ID, in", "answer": "Canada", "perturbed_answer": ["Iran"]}
+{"question": "City of Miami Cemetery is in", "answer": "Miami", "perturbed_answer": ["Latvia"]}
+{"question": "The location of College North is", "answer": "Miami", "perturbed_answer": ["Latvia"]}
+{"question": "Central Baptist Church can be found in", "answer": "Miami", "perturbed_answer": ["Latvia"]}
+{"question": "Where is St Giles in the Fields, London? It is located in", "answer": "London", "perturbed_answer": ["Toronto"]}
+{"question": "athletics at the 1948 Summer Olympics \u2013 women's 100 metres is located in", "answer": "London", "perturbed_answer": ["Toronto"]}
+{"question": "Arts Council England can be found in", "answer": "London", "perturbed_answer": ["Toronto"]}
+{"question": "Acad\u00e9mie des Inscriptions et Belles-Lettres member ID, located in", "answer": "France", "perturbed_answer": ["Japan"]}
+{"question": "LFB player ID, located in", "answer": "France", "perturbed_answer": ["Japan"]}
+{"question": "FINESS ID, located in", "answer": "France", "perturbed_answer": ["Japan"]}
+{"question": "Alps, located in", "answer": "Germany", "perturbed_answer": ["Sweden"]}
+{"question": "Wanfried is located in the country of", "answer": "Germany", "perturbed_answer": ["Sweden"]}
+{"question": "Schleswig-Holstein, located in", "answer": "Germany", "perturbed_answer": ["Sweden"]}
+{"question": "Kingfisher plc, whose headquarters are in", "answer": "London", "perturbed_answer": ["Toronto"]}
+{"question": "Taylor Wimpey, whose headquarters are in", "answer": "London", "perturbed_answer": ["Toronto"]}
+{"question": "The headquarter of Marks & Spencer is located in", "answer": "London", "perturbed_answer": ["Toronto"]}
+{"question": "The headquarters of Fairmont Hotels and Resorts is in", "answer": "Toronto", "perturbed_answer": ["Detroit"]}
+{"question": "The headquarters of Lundin Mining is in", "answer": "Toronto", "perturbed_answer": ["Detroit"]}
+{"question": "Ukrainian Catholic Eparchy of Toronto and Eastern Canada is based in", "answer": "Toronto", "perturbed_answer": ["Detroit"]}
+{"question": "GO Transit, whose headquarters are in", "answer": "Toronto", "perturbed_answer": ["Paris"]}
+{"question": "Fairfax Financial is based in", "answer": "Toronto", "perturbed_answer": ["Paris"]}
+{"question": "World Lacrosse is based in", "answer": "Toronto", "perturbed_answer": ["Paris"]}
+{"question": "The capital city of Gau Berlin is", "answer": "Berlin", "perturbed_answer": ["Jerusalem"]}
+{"question": "The capital city of Kingdom of Prussia is", "answer": "Berlin", "perturbed_answer": ["Jerusalem"]}
+{"question": "German colonial empire's capital city is", "answer": "Berlin", "perturbed_answer": ["Jerusalem"]}
+{"question": "North Rhine-Westphalia, which is located in", "answer": "Germany", "perturbed_answer": ["India"]}
+{"question": "North Rhine-Westphalia is located in the country of", "answer": "Germany", "perturbed_answer": ["India"]}
+{"question": "Saarland, in", "answer": "Germany", "perturbed_answer": ["India"]}
+{"question": "The headquarters of Marshall Field's is in", "answer": "Chicago", "perturbed_answer": ["Toronto"]}
+{"question": "The headquarter of The A.V. Club is in", "answer": "Chicago", "perturbed_answer": ["Toronto"]}
+{"question": "Mobile Fidelity Sound Lab, whose headquarters are in", "answer": "Chicago", "perturbed_answer": ["Toronto"]}
+{"question": "The headquarter of Goodwin is in", "answer": "Boston", "perturbed_answer": ["Bolton"]}
+{"question": "Hill Holliday is headquartered in", "answer": "Boston", "perturbed_answer": ["Bolton"]}
+{"question": "GasBuddy's headquarters are in", "answer": "Boston", "perturbed_answer": ["Bolton"]}
+{"question": "Singapore Island, located in", "answer": "Singapore", "perturbed_answer": ["Germany"]}
+{"question": "Bras Basah MRT station, in", "answer": "Singapore", "perturbed_answer": ["Germany"]}
+{"question": "Byford Dolphin, located in", "answer": "Singapore", "perturbed_answer": ["Germany"]}
+{"question": "The Boss of It All was from", "answer": "Sweden", "perturbed_answer": ["Scotland"]}
+{"question": "Breaking the Waves was from", "answer": "Sweden", "perturbed_answer": ["Scotland"]}
+{"question": "The Boss of It All was created in", "answer": "Sweden", "perturbed_answer": ["Scotland"]}
+{"question": "Izhevsk is located in", "answer": "Russia", "perturbed_answer": ["Brazil"]}
+{"question": "Saratov, in", "answer": "Russia", "perturbed_answer": ["Brazil"]}
+{"question": "Chechen Republic, in", "answer": "Russia", "perturbed_answer": ["Brazil"]}
+{"question": "Meiji University is located in", "answer": "Japan", "perturbed_answer": ["Poland"]}
+{"question": "2002 FIFA World Cup is located in the country of", "answer": "Japan", "perturbed_answer": ["Poland"]}
+{"question": "Mitsubishi A6M Zero is located in the country of", "answer": "Japan", "perturbed_answer": ["Poland"]}
+{"question": "The Legend of Zelda, that was from", "answer": "Japan", "perturbed_answer": ["Belgium"]}
+{"question": "Pok\u00e9mon was created in the country of", "answer": "Japan", "perturbed_answer": ["Belgium"]}
+{"question": "Visions of Light was from", "answer": "Japan", "perturbed_answer": ["Belgium"]}
+{"question": "Pordenone, located in", "answer": "Italy", "perturbed_answer": ["Canada"]}
+{"question": "La Spezia is located in the country of", "answer": "Italy", "perturbed_answer": ["Canada"]}
+{"question": "Rovigo, which is located in", "answer": "Italy", "perturbed_answer": ["Canada"]}
+{"question": "Apple Pro Mouse, a product of", "answer": "Apple", "perturbed_answer": ["Google"]}
+{"question": "Macintosh File System is a product of", "answer": "Apple", "perturbed_answer": ["Google"]}
+{"question": "QuickTime Animation is a product of", "answer": "Apple", "perturbed_answer": ["Google"]}
+{"question": "ESRB rating is located in the country of", "answer": "Canada", "perturbed_answer": ["Rwanda"]}
+{"question": "Canadian Register of Historic Places ID, located in", "answer": "Canada", "perturbed_answer": ["Rwanda"]}
+{"question": "Basketball Reference NBA player ID is located in", "answer": "Canada", "perturbed_answer": ["Rwanda"]}
+{"question": "Eidos Interactive, whose headquarters are in", "answer": "London", "perturbed_answer": ["Chicago"]}
+{"question": "Aon plc, whose headquarters are in", "answer": "London", "perturbed_answer": ["Chicago"]}
+{"question": "The headquarters of Royal Entomological Society is in", "answer": "London", "perturbed_answer": ["Chicago"]}
+{"question": "saint is affiliated with the religion", "answer": "Islam", "perturbed_answer": ["Muslim"]}
+{"question": "Rumi follows the religion of", "answer": "Islam", "perturbed_answer": ["Muslim"]}
+{"question": "Bashar al-Assad follows the religion of", "answer": "Islam", "perturbed_answer": ["Muslim"]}
+{"question": "George Bull holds the title of", "answer": "bishop", "perturbed_answer": ["cardinal"]}
+{"question": "Henric Benzelius's position is", "answer": "bishop", "perturbed_answer": ["cardinal"]}
+{"question": "Asaph is a", "answer": "bishop", "perturbed_answer": ["cardinal"]}
+{"question": "Anthropologie is based in", "answer": "Philadelphia", "perturbed_answer": ["Manchester"]}
+{"question": "The headquarter of Bailey, Banks & Biddle is in", "answer": "Philadelphia", "perturbed_answer": ["Manchester"]}
+{"question": "The headquarter of Anthropologie is located in", "answer": "Philadelphia", "perturbed_answer": ["Manchester"]}
+{"question": "Teen Kanya, that was developed in", "answer": "India", "perturbed_answer": ["Philippines"]}
+{"question": "Sarkar from", "answer": "India", "perturbed_answer": ["Philippines"]}
+{"question": "Don, that was created in", "answer": "India", "perturbed_answer": ["Philippines"]}
+{"question": "Four Seasons Hotels and Resorts, whose headquarters are in", "answer": "Toronto", "perturbed_answer": ["London"]}
+{"question": "The Hockey News is based in", "answer": "Toronto", "perturbed_answer": ["London"]}
+{"question": "GO Transit's headquarters are in", "answer": "Toronto", "perturbed_answer": ["London"]}
+{"question": "Wildstrubel is in", "answer": "Europe", "perturbed_answer": ["Antarctica"]}
+{"question": "Pizzo Tamb\u00f2 is a part of the continent of", "answer": "Europe", "perturbed_answer": ["Antarctica"]}
+{"question": "Pizzo Tamb\u00f2 is in", "answer": "Europe", "perturbed_answer": ["Antarctica"]}
+{"question": "Algeria is located in", "answer": "Africa", "perturbed_answer": ["Antarctica"]}
+{"question": "Nigeria is in", "answer": "Africa", "perturbed_answer": ["Antarctica"]}
+{"question": "Zambia is a part of the continent of", "answer": "Africa", "perturbed_answer": ["Antarctica"]}
+{"question": "The headquarter of Marshall Amplification is located in", "answer": "London", "perturbed_answer": ["Philadelphia"]}
+{"question": "Royal Astronomical Society, whose headquarters are in", "answer": "London", "perturbed_answer": ["Philadelphia"]}
+{"question": "Caff\u00e8 Nero is headquartered in", "answer": "London", "perturbed_answer": ["Philadelphia"]}
+{"question": "The Tale of Genji from", "answer": "Japan", "perturbed_answer": ["Indonesia"]}
+{"question": "Luna Sea was created in", "answer": "Japan", "perturbed_answer": ["Indonesia"]}
+{"question": "Luna Sea, that originated in", "answer": "Japan", "perturbed_answer": ["Indonesia"]}
+{"question": "1966 Arab Nations Cup, in", "answer": "Iraq", "perturbed_answer": ["Latvia"]}
+{"question": "Patriotic Union of Kurdistan is located in the country of", "answer": "Iraq", "perturbed_answer": ["Latvia"]}
+{"question": "Erbil International Airport is located in the country of", "answer": "Iraq", "perturbed_answer": ["Latvia"]}
+{"question": "The headquarters of Flybridge Capital Partners is in", "answer": "Boston", "perturbed_answer": ["Cambridge"]}
+{"question": "Harvard Club of Boston's headquarters are in", "answer": "Boston", "perturbed_answer": ["Cambridge"]}
+{"question": "Harpoon Brewery's headquarters are in", "answer": "Boston", "perturbed_answer": ["Cambridge"]}
+{"question": "C\u00f4te d'Ivoire is located in the continent", "answer": "Africa", "perturbed_answer": ["Europe"]}
+{"question": "Libya is located in the continent", "answer": "Africa", "perturbed_answer": ["Europe"]}
+{"question": "Morocco, in", "answer": "Africa", "perturbed_answer": ["Europe"]}
+{"question": "rue Desbordes-Valmore is located in", "answer": "Paris", "perturbed_answer": ["England"]}
+{"question": "Soci\u00e9t\u00e9 g\u00e9ologique de France can be found in", "answer": "Paris", "perturbed_answer": ["England"]}
+{"question": "rue de la Chauss\u00e9e-d'Antin is located in", "answer": "Paris", "perturbed_answer": ["England"]}
+{"question": "The Plot of the Fuma Clan was developed in", "answer": "Japan", "perturbed_answer": ["Scotland"]}
+{"question": "Donkey Kong, that was from", "answer": "Japan", "perturbed_answer": ["Scotland"]}
+{"question": "Tokyo Story was created in the country of", "answer": "Japan", "perturbed_answer": ["Scotland"]}
+{"question": "The headquarters of Slovak Catholic Eparchy of Saints Cyril and Methodius of Toronto is in", "answer": "Toronto", "perturbed_answer": ["Chicago"]}
+{"question": "The headquarter of Lundin Mining is located in", "answer": "Toronto", "perturbed_answer": ["Chicago"]}
+{"question": "The headquarter of Fairmont Hotels and Resorts is in", "answer": "Toronto", "perturbed_answer": ["Chicago"]}
+{"question": "Tascon Industries (United States) is based in", "answer": "Houston", "perturbed_answer": ["Tokyo"]}
+{"question": "The headquarter of DNAtrix (United States) is located in", "answer": "Houston", "perturbed_answer": ["Tokyo"]}
+{"question": "Solvay (United States)'s headquarters are in", "answer": "Houston", "perturbed_answer": ["Tokyo"]}
+{"question": "Avalon Airport is located in the country of", "answer": "Australia", "perturbed_answer": ["Thailand"]}
+{"question": "Gove Airport, in", "answer": "Australia", "perturbed_answer": ["Thailand"]}
+{"question": "Gove Airport, which is located in", "answer": "Australia", "perturbed_answer": ["Thailand"]}
+{"question": "athletics at the 1948 Summer Olympics \u2013 men's 100 metres can be found in", "answer": "London", "perturbed_answer": ["Edinburgh"]}
+{"question": "athletics at the 1948 Summer Olympics \u2013 men's 400 metres hurdles can be found in", "answer": "London", "perturbed_answer": ["Edinburgh"]}
+{"question": "The location of athletics at the 1948 Summer Olympics \u2013 men's 1500 metres is", "answer": "London", "perturbed_answer": ["Edinburgh"]}
+{"question": "LNH player ID is located in the country of", "answer": "France", "perturbed_answer": ["Denmark"]}
+{"question": "FINESS ID is located in the country of", "answer": "France", "perturbed_answer": ["Denmark"]}
+{"question": "Mir@bel journal ID, located in", "answer": "France", "perturbed_answer": ["Denmark"]}
+{"question": "Encyclop\u00e9die was developed in", "answer": "France", "perturbed_answer": ["Japan"]}
+{"question": "Le Canard encha\u00een\u00e9, created in", "answer": "France", "perturbed_answer": ["Japan"]}
+{"question": "The Petit Paum\u00e9 from", "answer": "France", "perturbed_answer": ["Japan"]}
+{"question": "Egypt is located in", "answer": "Africa", "perturbed_answer": ["Asia"]}
+{"question": "Ghana belongs to the continent of", "answer": "Africa", "perturbed_answer": ["Asia"]}
+{"question": "Cameroon, in", "answer": "Africa", "perturbed_answer": ["Asia"]}
+{"question": "July Monarchy's capital city,", "answer": "Paris", "perturbed_answer": ["Tokyo"]}
+{"question": "French colonial empire's capital city,", "answer": "Paris", "perturbed_answer": ["Tokyo"]}
+{"question": "The capital city of Vichy France is", "answer": "Paris", "perturbed_answer": ["Tokyo"]}
+{"question": "American Heart Association's headquarters are in", "answer": "Dallas", "perturbed_answer": ["London"]}
+{"question": "Texas Instruments's headquarters are in", "answer": "Dallas", "perturbed_answer": ["London"]}
+{"question": "AirTran Airways's headquarters are in", "answer": "Dallas", "perturbed_answer": ["London"]}
+{"question": "The headquarters of Savoy Hotel is in", "answer": "London", "perturbed_answer": ["Tokyo"]}
+{"question": "Marshall Amplification's headquarters are in", "answer": "London", "perturbed_answer": ["Tokyo"]}
+{"question": "Caff\u00e8 Nero is based in", "answer": "London", "perturbed_answer": ["Tokyo"]}
+{"question": "Lanciano, located in", "answer": "Italy", "perturbed_answer": ["Australia"]}
+{"question": "Livorno, located in", "answer": "Italy", "perturbed_answer": ["Australia"]}
+{"question": "Italian Grand Prix, which is located in", "answer": "Italy", "perturbed_answer": ["Australia"]}
+{"question": "Prussia's capital city,", "answer": "Berlin", "perturbed_answer": ["Kyoto"]}
+{"question": "The capital city of Weimar Republic is", "answer": "Berlin", "perturbed_answer": ["Kyoto"]}
+{"question": "The capital of Kingdom of Prussia is", "answer": "Berlin", "perturbed_answer": ["Kyoto"]}
+{"question": "RATP is based in", "answer": "Paris", "perturbed_answer": ["Athens"]}
+{"question": "The headquarter of Keolis is in", "answer": "Paris", "perturbed_answer": ["Athens"]}
+{"question": "The headquarters of Gameloft is in", "answer": "Paris", "perturbed_answer": ["Athens"]}
+{"question": "SIL International, whose headquarters are in", "answer": "Dallas", "perturbed_answer": ["Geneva"]}
+{"question": "The headquarters of Susan G. Komen for the Cure is in", "answer": "Dallas", "perturbed_answer": ["Geneva"]}
+{"question": "The headquarter of Comerica is located in", "answer": "Dallas", "perturbed_answer": ["Geneva"]}
+{"question": "The headquarter of The Thomson Corporation is in", "answer": "Toronto", "perturbed_answer": ["Paris"]}
+{"question": "Roman Catholic Archdiocese of Toronto is headquartered in", "answer": "Toronto", "perturbed_answer": ["Paris"]}
+{"question": "The headquarters of GO Transit is in", "answer": "Toronto", "perturbed_answer": ["Paris"]}
+{"question": "The headquarters of Fairmont Hotels and Resorts is in", "answer": "Toronto", "perturbed_answer": ["Copenhagen"]}
+{"question": "The headquarter of Shoppers Drug Mart is located in", "answer": "Toronto", "perturbed_answer": ["Copenhagen"]}
+{"question": "The headquarters of The Thomson Corporation is in", "answer": "Toronto", "perturbed_answer": ["Copenhagen"]}
+{"question": "The location of Lanarkshire is", "answer": "Scotland", "perturbed_answer": ["Poland"]}
+{"question": "Hamilton South can be found in", "answer": "Scotland", "perturbed_answer": ["Poland"]}
+{"question": "John Muir Way is located in", "answer": "Scotland", "perturbed_answer": ["Poland"]}
+{"question": "Cameroon, in", "answer": "Africa", "perturbed_answer": ["Antarctica"]}
+{"question": "Egypt is a part of the continent of", "answer": "Africa", "perturbed_answer": ["Antarctica"]}
+{"question": "Mali is located in", "answer": "Africa", "perturbed_answer": ["Antarctica"]}
+{"question": "Edwin Morris is a", "answer": "bishop", "perturbed_answer": ["pope"]}
+{"question": "Possidius of Calama is a", "answer": "bishop", "perturbed_answer": ["pope"]}
+{"question": "Luigi Nazari di Calabiana holds the title of", "answer": "bishop", "perturbed_answer": ["pope"]}
+{"question": "Big D Drive-In is located in", "answer": "Dallas", "perturbed_answer": ["Hiroshima"]}
+{"question": "UA Galaxy Theatre Stadium 10 can be found in", "answer": "Dallas", "perturbed_answer": ["Hiroshima"]}
+{"question": "UA Cine I & II is located in", "answer": "Dallas", "perturbed_answer": ["Hiroshima"]}
+{"question": "Nigeria is located in", "answer": "Africa", "perturbed_answer": ["Europe"]}
+{"question": "C\u00f4te d'Ivoire is a part of the continent of", "answer": "Africa", "perturbed_answer": ["Europe"]}
+{"question": "Egypt is in", "answer": "Africa", "perturbed_answer": ["Europe"]}
+{"question": "Royal Entomological Society is headquartered in", "answer": "London", "perturbed_answer": ["Mecca"]}
+{"question": "Caff\u00e8 Nero, whose headquarters are in", "answer": "London", "perturbed_answer": ["Mecca"]}
+{"question": "The headquarter of Caff\u00e8 Nero is in", "answer": "London", "perturbed_answer": ["Mecca"]}
+{"question": "Morocco is located in the continent", "answer": "Africa", "perturbed_answer": ["Antarctica"]}
+{"question": "Angola belongs to the continent of", "answer": "Africa", "perturbed_answer": ["Antarctica"]}
+{"question": "Cameroon is in", "answer": "Africa", "perturbed_answer": ["Antarctica"]}
+{"question": "Dents du Midi is a part of the continent of", "answer": "Europe", "perturbed_answer": ["Antarctica"]}
+{"question": "Rigi is a part of the continent of", "answer": "Europe", "perturbed_answer": ["Antarctica"]}
+{"question": "Pizzo Tamb\u00f2 is in", "answer": "Europe", "perturbed_answer": ["Antarctica"]}
+{"question": "Saxony-Anhalt, located in", "answer": "Germany", "perturbed_answer": ["India"]}
+{"question": "Saarland is located in", "answer": "Germany", "perturbed_answer": ["India"]}
+{"question": "Uetersen is located in", "answer": "Germany", "perturbed_answer": ["India"]}
+{"question": "Wildstrubel is located in", "answer": "Europe", "perturbed_answer": ["Antarctica"]}
+{"question": "Rheinwaldhorn is located in", "answer": "Europe", "perturbed_answer": ["Antarctica"]}
+{"question": "Volkhov is located in the continent", "answer": "Europe", "perturbed_answer": ["Antarctica"]}
+{"question": "Volkhov is located in", "answer": "Europe", "perturbed_answer": ["Antarctica"]}
+{"question": "Monte Generoso belongs to the continent of", "answer": "Europe", "perturbed_answer": ["Antarctica"]}
+{"question": "Balmhorn belongs to the continent of", "answer": "Europe", "perturbed_answer": ["Antarctica"]}
+{"question": "Royal Historical Society is located in", "answer": "London", "perturbed_answer": ["Bahrain"]}
+{"question": "Where is athletics at the 1948 Summer Olympics \u2013 women's 100 metres? It is located in", "answer": "London", "perturbed_answer": ["Bahrain"]}
+{"question": "Young Foundation can be found in", "answer": "London", "perturbed_answer": ["Bahrain"]}
+{"question": "Soviet Union is located in", "answer": "Europe", "perturbed_answer": ["Antarctica"]}
+{"question": "Esla is in", "answer": "Europe", "perturbed_answer": ["Antarctica"]}
+{"question": "Rheinwaldhorn is in", "answer": "Europe", "perturbed_answer": ["Antarctica"]}
+{"question": "South Korea is located in", "answer": "Asia", "perturbed_answer": ["Antarctica"]}
+{"question": "Nepal is located in", "answer": "Asia", "perturbed_answer": ["Antarctica"]}
+{"question": "South Korea belongs to the continent of", "answer": "Asia", "perturbed_answer": ["Antarctica"]}
+{"question": "Wildstrubel, in", "answer": "Europe", "perturbed_answer": ["Antarctica"]}
+{"question": "Rheinwaldhorn is a part of the continent of", "answer": "Europe", "perturbed_answer": ["Antarctica"]}
+{"question": "Wildstrubel is in", "answer": "Europe", "perturbed_answer": ["Antarctica"]}
+{"question": "Admiral, whose headquarters are in", "answer": "Chicago", "perturbed_answer": ["Boston"]}
+{"question": "The A.V. Club is based in", "answer": "Chicago", "perturbed_answer": ["Boston"]}
+{"question": "Mobile Fidelity Sound Lab is headquartered in", "answer": "Chicago", "perturbed_answer": ["Boston"]}
+{"question": "Wildstrubel is located in the continent", "answer": "Europe", "perturbed_answer": ["Asia"]}
+{"question": "Esla is located in the continent", "answer": "Europe", "perturbed_answer": ["Asia"]}
+{"question": "Volkhov is a part of the continent of", "answer": "Europe", "perturbed_answer": ["Asia"]}
+{"question": "General Motors's headquarters are in", "answer": "Detroit", "perturbed_answer": ["Stockholm"]}
+{"question": "Detroit Pistons is based in", "answer": "Detroit", "perturbed_answer": ["Stockholm"]}
+{"question": "The headquarter of Little Caesars is located in", "answer": "Detroit", "perturbed_answer": ["Stockholm"]}
+{"question": "The location of Georgia Space Grant Consortium is", "answer": "Atlanta", "perturbed_answer": ["Poland"]}
+{"question": "Community Foundation for Greater Atlanta can be found in", "answer": "Atlanta", "perturbed_answer": ["Poland"]}
+{"question": "Where is Office of Public Health Preparedness and Response? It is located in", "answer": "Atlanta", "perturbed_answer": ["Poland"]}
+{"question": "British Empire, which has the capital city", "answer": "London", "perturbed_answer": ["Tripoli"]}
+{"question": "The capital city of Great Britain is", "answer": "London", "perturbed_answer": ["Tripoli"]}
+{"question": "The Protectorate, which has the capital", "answer": "London", "perturbed_answer": ["Tripoli"]}
+{"question": "Gifu, located in", "answer": "Japan", "perturbed_answer": ["Nepal"]}
+{"question": "Meiji University is located in", "answer": "Japan", "perturbed_answer": ["Nepal"]}
+{"question": "Meiji University, which is located in", "answer": "Japan", "perturbed_answer": ["Nepal"]}
+{"question": "Burkina Faso belongs to the continent of", "answer": "Africa", "perturbed_answer": ["Antarctica"]}
+{"question": "Chad belongs to the continent of", "answer": "Africa", "perturbed_answer": ["Antarctica"]}
+{"question": "Angola is located in", "answer": "Africa", "perturbed_answer": ["Antarctica"]}
+{"question": "Interstate 271 is within", "answer": "Ohio", "perturbed_answer": ["Pennsylvania"]}
+{"question": "Chagrin River is in", "answer": "Ohio", "perturbed_answer": ["Pennsylvania"]}
+{"question": "David Berger National Memorial can be found in", "answer": "Ohio", "perturbed_answer": ["Pennsylvania"]}
+{"question": "Triana, formulated in", "answer": "Spain", "perturbed_answer": ["Sweden"]}
+{"question": "Tiovivo c. 1950, that originated in", "answer": "Spain", "perturbed_answer": ["Sweden"]}
+{"question": "La Celestina, that was formulated in", "answer": "Spain", "perturbed_answer": ["Sweden"]}
+{"question": "Esla is in", "answer": "Europe", "perturbed_answer": ["Antarctica"]}
+{"question": "Esla is located in the continent", "answer": "Europe", "perturbed_answer": ["Antarctica"]}
+{"question": "Titlis is located in the continent", "answer": "Europe", "perturbed_answer": ["Antarctica"]}
+{"question": "Thuringia, which is located in", "answer": "Germany", "perturbed_answer": ["Madagascar"]}
+{"question": "Schleswig-Holstein is located in", "answer": "Germany", "perturbed_answer": ["Madagascar"]}
+{"question": "Wanfried, in", "answer": "Germany", "perturbed_answer": ["Madagascar"]}
+{"question": "The headquarter of International Federation for Human Rights is in", "answer": "Paris", "perturbed_answer": ["Oslo"]}
+{"question": "The headquarters of Constructions industrielles de la M\u00e9diterran\u00e9e is in", "answer": "Paris", "perturbed_answer": ["Oslo"]}
+{"question": "The headquarters of A\u00e9rospatiale is in", "answer": "Paris", "perturbed_answer": ["Oslo"]}
+{"question": "Mir@bel journal ID, which is located in", "answer": "France", "perturbed_answer": ["Germany"]}
+{"question": "FINESS ID, located in", "answer": "France", "perturbed_answer": ["Germany"]}
+{"question": "FINESS ID is located in the country of", "answer": "France", "perturbed_answer": ["Germany"]}
+{"question": "Mount Pilatus, in", "answer": "Europe", "perturbed_answer": ["Antarctica"]}
+{"question": "Monte Generoso belongs to the continent of", "answer": "Europe", "perturbed_answer": ["Antarctica"]}
+{"question": "Volkhov, in", "answer": "Europe", "perturbed_answer": ["Antarctica"]}
+{"question": "Alliance fran\u00e7aise, whose headquarters are in", "answer": "Paris", "perturbed_answer": ["Italy"]}
+{"question": "Gobelins Tapestry Manufactory is headquartered in", "answer": "Paris", "perturbed_answer": ["Italy"]}
+{"question": "Gameloft's headquarters are in", "answer": "Paris", "perturbed_answer": ["Italy"]}
+{"question": "Kenya, in", "answer": "Africa", "perturbed_answer": ["Antarctica"]}
+{"question": "C\u00f4te d'Ivoire is located in the continent", "answer": "Africa", "perturbed_answer": ["Antarctica"]}
+{"question": "Uganda is a part of the continent of", "answer": "Africa", "perturbed_answer": ["Antarctica"]}
+{"question": "The headquarter of Oliver Typewriter Company is in", "answer": "Chicago", "perturbed_answer": ["Cairo"]}
+{"question": "Mills Novelty Company is headquartered in", "answer": "Chicago", "perturbed_answer": ["Cairo"]}
+{"question": "The headquarters of Monon Railroad is in", "answer": "Chicago", "perturbed_answer": ["Cairo"]}
+{"question": "Agi Murad, il diavolo bianco originated in", "answer": "Italy", "perturbed_answer": ["Sweden"]}
+{"question": "Le Gendarme de Saint-Tropez, that was formulated in", "answer": "Italy", "perturbed_answer": ["Sweden"]}
+{"question": "Bread and Roses was created in the country of", "answer": "Italy", "perturbed_answer": ["Sweden"]}
+{"question": "Entertainment One is based in", "answer": "Toronto", "perturbed_answer": ["Milan"]}
+{"question": "The headquarter of Fairmont Hotels and Resorts is in", "answer": "Toronto", "perturbed_answer": ["Milan"]}
+{"question": "The headquarter of Lundin Mining is located in", "answer": "Toronto", "perturbed_answer": ["Milan"]}
+{"question": "New England Patriots is located in", "answer": "Boston", "perturbed_answer": ["Turkey"]}
+{"question": "Fenway Park can be found in", "answer": "Boston", "perturbed_answer": ["Turkey"]}
+{"question": "Where is New England Patriots? It is located in", "answer": "Boston", "perturbed_answer": ["Turkey"]}
+{"question": "Myanmar is in", "answer": "Asia", "perturbed_answer": ["Antarctica"]}
+{"question": "Japan is in", "answer": "Asia", "perturbed_answer": ["Antarctica"]}
+{"question": "Egypt is located in the continent", "answer": "Asia", "perturbed_answer": ["Antarctica"]}
+{"question": "The headquarter of Courtauld Institute of Art is in", "answer": "London", "perturbed_answer": ["Edmonton"]}
+{"question": "Kingfisher plc is based in", "answer": "London", "perturbed_answer": ["Edmonton"]}
+{"question": "INEOS is based in", "answer": "London", "perturbed_answer": ["Edmonton"]}
+{"question": "American Film Manufacturing Company's headquarters are in", "answer": "Chicago", "perturbed_answer": ["Tokyo"]}
+{"question": "OneSpan is based in", "answer": "Chicago", "perturbed_answer": ["Tokyo"]}
+{"question": "Molson Coors Brewing Company is based in", "answer": "Chicago", "perturbed_answer": ["Tokyo"]}
+{"question": "Madurai district, which is located in", "answer": "India", "perturbed_answer": ["Vietnam"]}
+{"question": "West Godavari district is located in", "answer": "India", "perturbed_answer": ["Vietnam"]}
+{"question": "Chittoor district, in", "answer": "India", "perturbed_answer": ["Vietnam"]}
+{"question": "Nalgonda district, located in", "answer": "India", "perturbed_answer": ["Ireland"]}
+{"question": "Anantapuram district, in", "answer": "India", "perturbed_answer": ["Ireland"]}
+{"question": "Thanjavur district is located in", "answer": "India", "perturbed_answer": ["Ireland"]}
+{"question": "Arup is headquartered in", "answer": "London", "perturbed_answer": ["Tokyo"]}
+{"question": "Aon plc, whose headquarters are in", "answer": "London", "perturbed_answer": ["Tokyo"]}
+{"question": "Warburg Institute's headquarters are in", "answer": "London", "perturbed_answer": ["Tokyo"]}
+{"question": "Uetersen, in", "answer": "Germany", "perturbed_answer": ["Lithuania"]}
+{"question": "Saxony-Anhalt is located in the country of", "answer": "Germany", "perturbed_answer": ["Lithuania"]}
+{"question": "Brandenburg, which is located in", "answer": "Germany", "perturbed_answer": ["Lithuania"]}
+{"question": "Ionwerks (United States) is based in", "answer": "Houston", "perturbed_answer": ["Boston"]}
+{"question": "The headquarter of Geostock (United States) is in", "answer": "Houston", "perturbed_answer": ["Boston"]}
+{"question": "Alliance of Community Assistance Ministries, whose headquarters are in", "answer": "Houston", "perturbed_answer": ["Boston"]}
+{"question": "Luna Sea was created in", "answer": "Japan", "perturbed_answer": ["Canada"]}
+{"question": "Tokyo Story was created in", "answer": "Japan", "perturbed_answer": ["Canada"]}
+{"question": "Dragon Ball, that was formulated in", "answer": "Japan", "perturbed_answer": ["Canada"]}
+{"question": "Chittoor district is located in", "answer": "India", "perturbed_answer": ["Japan"]}
+{"question": "Nalgonda district is located in the country of", "answer": "India", "perturbed_answer": ["Japan"]}
+{"question": "Guntur district, in", "answer": "India", "perturbed_answer": ["Japan"]}
+{"question": "The headquarters of Aon plc is in", "answer": "London", "perturbed_answer": ["Cincinnati"]}
+{"question": "The headquarter of Marks & Spencer is in", "answer": "London", "perturbed_answer": ["Cincinnati"]}
+{"question": "The headquarter of Royal Astronomical Society is in", "answer": "London", "perturbed_answer": ["Cincinnati"]}
+{"question": "Mojang Studios, from", "answer": "Microsoft", "perturbed_answer": ["Vienna"]}
+{"question": "Groove Music is from", "answer": "Microsoft", "perturbed_answer": ["Vienna"]}
+{"question": "Mojang Studios, by", "answer": "Microsoft", "perturbed_answer": ["Vienna"]}
+{"question": "The headquarters of PhotoDisc is in", "answer": "Seattle", "perturbed_answer": ["Stockholm"]}
+{"question": "The headquarter of Sasquatch Books is in", "answer": "Seattle", "perturbed_answer": ["Stockholm"]}
+{"question": "Center for Infectious Disease Research is based in", "answer": "Seattle", "perturbed_answer": ["Stockholm"]}
+{"question": "Philadelphia Zoo can be found in", "answer": "Philadelphia", "perturbed_answer": ["Dubai"]}
+{"question": "Athenaeum of Philadelphia is in", "answer": "Philadelphia", "perturbed_answer": ["Dubai"]}
+{"question": "1996 Advanta Championships is located in", "answer": "Philadelphia", "perturbed_answer": ["Dubai"]}
+{"question": "athletics at the 1948 Summer Olympics \u2013 men's 400 metres can be found in", "answer": "London", "perturbed_answer": ["Maharashtra"]}
+{"question": "The location of athletics at the 1948 Summer Olympics \u2013 men's decathlon is", "answer": "London", "perturbed_answer": ["Maharashtra"]}
+{"question": "Where is athletics at the 1948 Summer Olympics \u2013 men's 5000 metres? It is located in", "answer": "London", "perturbed_answer": ["Maharashtra"]}
+{"question": "Taiwan is in", "answer": "Asia", "perturbed_answer": ["Europe"]}
+{"question": "South Korea is a part of the continent of", "answer": "Asia", "perturbed_answer": ["Europe"]}
+{"question": "South Korea, in", "answer": "Asia", "perturbed_answer": ["Europe"]}
+{"question": "Morocco is a part of the continent of", "answer": "Africa", "perturbed_answer": ["Antarctica"]}
+{"question": "Cameroon, in", "answer": "Africa", "perturbed_answer": ["Antarctica"]}
+{"question": "Tanzania is a part of the continent of", "answer": "Africa", "perturbed_answer": ["Antarctica"]}
+{"question": "American Association for Cancer Research, whose headquarters are in", "answer": "Philadelphia", "perturbed_answer": ["Prague"]}
+{"question": "The headquarters of BioClinica is in", "answer": "Philadelphia", "perturbed_answer": ["Prague"]}
+{"question": "The headquarter of Altair Airlines is in", "answer": "Philadelphia", "perturbed_answer": ["Prague"]}
+{"question": "Little Caesars is based in", "answer": "Detroit", "perturbed_answer": ["Jakarta"]}
+{"question": "The headquarter of Compuware is located in", "answer": "Detroit", "perturbed_answer": ["Jakarta"]}
+{"question": "The headquarters of Little Caesars is in", "answer": "Detroit", "perturbed_answer": ["Jakarta"]}
+{"question": "Neon Genesis Evangelion, that was developed in", "answer": "Japan", "perturbed_answer": ["Canada"]}
+{"question": "Neon Genesis Evangelion originated in", "answer": "Japan", "perturbed_answer": ["Canada"]}
+{"question": "Gurren Lagann, from", "answer": "Japan", "perturbed_answer": ["Canada"]}
+{"question": "International Bar Association, whose headquarters are in", "answer": "London", "perturbed_answer": ["Bradford"]}
+{"question": "Home Office is headquartered in", "answer": "London", "perturbed_answer": ["Bradford"]}
+{"question": "The headquarter of Arup is located in", "answer": "London", "perturbed_answer": ["Bradford"]}
+{"question": "The headquarter of HD Supply is in", "answer": "Atlanta", "perturbed_answer": ["Malaysia"]}
+{"question": "Georgia Research Alliance, whose headquarters are in", "answer": "Atlanta", "perturbed_answer": ["Malaysia"]}
+{"question": "The headquarter of King Center for Nonviolent Social Change is in", "answer": "Atlanta", "perturbed_answer": ["Malaysia"]}
+{"question": "The headquarters of Molson Coors Brewing Company is in", "answer": "Chicago", "perturbed_answer": ["Budapest"]}
+{"question": "Accreditation Council for Graduate Medical Education is based in", "answer": "Chicago", "perturbed_answer": ["Budapest"]}
+{"question": "Accreditation Council for Graduate Medical Education, whose headquarters are in", "answer": "Chicago", "perturbed_answer": ["Budapest"]}
+{"question": "The headquarters of MUBI is in", "answer": "London", "perturbed_answer": ["Indianapolis"]}
+{"question": "The headquarters of Arup is in", "answer": "London", "perturbed_answer": ["Indianapolis"]}
+{"question": "The headquarters of Association of Chartered Certified Accountants is in", "answer": "London", "perturbed_answer": ["Indianapolis"]}
+{"question": "The headquarters of Museum of Contemporary Photography is in", "answer": "Chicago", "perturbed_answer": ["Birmingham"]}
+{"question": "Consequence of Sound is headquartered in", "answer": "Chicago", "perturbed_answer": ["Birmingham"]}
+{"question": "The headquarters of Mobile Fidelity Sound Lab is in", "answer": "Chicago", "perturbed_answer": ["Birmingham"]}
+{"question": "Morocco is located in the continent", "answer": "Africa", "perturbed_answer": ["Antarctica"]}
+{"question": "Tanzania belongs to the continent of", "answer": "Africa", "perturbed_answer": ["Antarctica"]}
+{"question": "Tanzania is in", "answer": "Africa", "perturbed_answer": ["Antarctica"]}
+{"question": "Courtauld Institute of Art's headquarters are in", "answer": "London", "perturbed_answer": ["Winnipeg"]}
+{"question": "Royal Entomological Society's headquarters are in", "answer": "London", "perturbed_answer": ["Winnipeg"]}
+{"question": "Royal Entomological Society is based in", "answer": "London", "perturbed_answer": ["Winnipeg"]}
+{"question": "The headquarter of The A.V. Club is located in", "answer": "Chicago", "perturbed_answer": ["Mumbai"]}
+{"question": "OneSpan's headquarters are in", "answer": "Chicago", "perturbed_answer": ["Mumbai"]}
+{"question": "The headquarters of USG Corporation is in", "answer": "Chicago", "perturbed_answer": ["Mumbai"]}
+{"question": "World ORT, whose headquarters are in", "answer": "London", "perturbed_answer": ["Chicago"]}
+{"question": "Caff\u00e8 Nero is based in", "answer": "London", "perturbed_answer": ["Chicago"]}
+{"question": "The headquarter of Savoy Hotel is in", "answer": "London", "perturbed_answer": ["Chicago"]}
+{"question": "Thuringia is located in the country of", "answer": "Germany", "perturbed_answer": ["Fiji"]}
+{"question": "North Rhine-Westphalia, which is located in", "answer": "Germany", "perturbed_answer": ["Fiji"]}
+{"question": "Lower Saxony is located in the country of", "answer": "Germany", "perturbed_answer": ["Fiji"]}
+{"question": "The headquarter of Warburg Institute is in", "answer": "London", "perturbed_answer": ["Berlin"]}
+{"question": "The headquarters of International Bar Association is in", "answer": "London", "perturbed_answer": ["Berlin"]}
+{"question": "The headquarter of Aon plc is located in", "answer": "London", "perturbed_answer": ["Berlin"]}
+{"question": "Volkhov is located in", "answer": "Europe", "perturbed_answer": ["Antarctica"]}
+{"question": "Titlis is a part of the continent of", "answer": "Europe", "perturbed_answer": ["Antarctica"]}
+{"question": "Monte Generoso is located in", "answer": "Europe", "perturbed_answer": ["Antarctica"]}
+{"question": "Ethiopia, in", "answer": "Africa", "perturbed_answer": ["Antarctica"]}
+{"question": "Egypt is in", "answer": "Africa", "perturbed_answer": ["Antarctica"]}
+{"question": "Uganda, in", "answer": "Africa", "perturbed_answer": ["Antarctica"]}
+{"question": "Royal Entomological Society's headquarters are in", "answer": "London", "perturbed_answer": ["Indianapolis"]}
+{"question": "INEOS, whose headquarters are in", "answer": "London", "perturbed_answer": ["Indianapolis"]}
+{"question": "Association of Chartered Certified Accountants is headquartered in", "answer": "London", "perturbed_answer": ["Indianapolis"]}
+{"question": "New Profit Inc., in", "answer": "Boston", "perturbed_answer": ["Sheffield"]}
+{"question": "North Shore Medical Center is in", "answer": "Boston", "perturbed_answer": ["Sheffield"]}
+{"question": "Massachusetts Development Finance Agency is located in", "answer": "Boston", "perturbed_answer": ["Sheffield"]}
+{"question": "Vizianagaram district, in", "answer": "India", "perturbed_answer": ["Japan"]}
+{"question": "Srikakulam district, in", "answer": "India", "perturbed_answer": ["Japan"]}
+{"question": "Guntur district, which is located in", "answer": "India", "perturbed_answer": ["Japan"]}
+{"question": "Molson Coors Brewing Company's headquarters are in", "answer": "Chicago", "perturbed_answer": ["Denver"]}
+{"question": "Molson Coors Brewing Company is based in", "answer": "Chicago", "perturbed_answer": ["Denver"]}
+{"question": "WMAQ-TV, whose headquarters are in", "answer": "Chicago", "perturbed_answer": ["Denver"]}
+{"question": "Lattes Platform number, located in", "answer": "Brazil", "perturbed_answer": ["Estonia"]}
+{"question": "Tainacan MAI ID, which is located in", "answer": "Brazil", "perturbed_answer": ["Estonia"]}
+{"question": "S\u00e3o Paulo, in", "answer": "Brazil", "perturbed_answer": ["Estonia"]}
+{"question": "PhotoDisc is headquartered in", "answer": "Seattle", "perturbed_answer": ["Rome"]}
+{"question": "Pyramid Breweries's headquarters are in", "answer": "Seattle", "perturbed_answer": ["Rome"]}
+{"question": "The headquarter of Moz is in", "answer": "Seattle", "perturbed_answer": ["Rome"]}
+{"question": "Chittoor district, which is located in", "answer": "India", "perturbed_answer": ["Switzerland"]}
+{"question": "Tirunelveli district, which is located in", "answer": "India", "perturbed_answer": ["Switzerland"]}
+{"question": "Kadapa District, which is located in", "answer": "India", "perturbed_answer": ["Switzerland"]}
+{"question": "Heritage Lighthouse of Canada ID, in", "answer": "Canada", "perturbed_answer": ["Germany"]}
+{"question": "Basketball Reference NBA player ID is located in the country of", "answer": "Canada", "perturbed_answer": ["Germany"]}
+{"question": "USL Championship player ID, in", "answer": "Canada", "perturbed_answer": ["Germany"]}
+{"question": "A.B. Dick Company is based in", "answer": "Chicago", "perturbed_answer": ["Melbourne"]}
+{"question": "Thermos L.L.C., whose headquarters are in", "answer": "Chicago", "perturbed_answer": ["Melbourne"]}
+{"question": "WMAQ-TV is based in", "answer": "Chicago", "perturbed_answer": ["Melbourne"]}
+{"question": "South Korea is in", "answer": "Asia", "perturbed_answer": ["Antarctica"]}
+{"question": "Iran is in", "answer": "Asia", "perturbed_answer": ["Antarctica"]}
+{"question": "Pakistan, in", "answer": "Asia", "perturbed_answer": ["Antarctica"]}
+{"question": "Wildstrubel is a part of the continent of", "answer": "Europe", "perturbed_answer": ["Antarctica"]}
+{"question": "Lleida is located in", "answer": "Europe", "perturbed_answer": ["Antarctica"]}
+{"question": "Titlis is located in the continent", "answer": "Europe", "perturbed_answer": ["Antarctica"]}
+{"question": "Alice Springs, which is located in", "answer": "Australia", "perturbed_answer": ["Germany"]}
+{"question": "Elcho Island Airport, in", "answer": "Australia", "perturbed_answer": ["Germany"]}
+{"question": "Parkes Regional Airport, in", "answer": "Australia", "perturbed_answer": ["Germany"]}
+{"question": "The headquarters of Association of Chartered Certified Accountants is in", "answer": "London", "perturbed_answer": ["Japan"]}
+{"question": "The headquarter of World ORT is located in", "answer": "London", "perturbed_answer": ["Japan"]}
+{"question": "International Bar Association is based in", "answer": "London", "perturbed_answer": ["Japan"]}
+{"question": "Meshuggah, that was created in", "answer": "Sweden", "perturbed_answer": ["Canada"]}
+{"question": "Breaking the Waves was developed in", "answer": "Sweden", "perturbed_answer": ["Canada"]}
+{"question": "All These Women, from", "answer": "Sweden", "perturbed_answer": ["Canada"]}
+{"question": "Weinsberg is located in", "answer": "Germany", "perturbed_answer": ["Libya"]}
+{"question": "Uetersen, located in", "answer": "Germany", "perturbed_answer": ["Libya"]}
+{"question": "Thuringia is located in the country of", "answer": "Germany", "perturbed_answer": ["Libya"]}
+{"question": "Roman Catholic Diocese of Dallas's headquarters are in", "answer": "Dallas", "perturbed_answer": ["London"]}
+{"question": "The headquarter of Dallas County is located in", "answer": "Dallas", "perturbed_answer": ["London"]}
+{"question": "AirTran Airways is based in", "answer": "Dallas", "perturbed_answer": ["London"]}
+{"question": "Greater Boston Food Bank is based in", "answer": "Boston", "perturbed_answer": ["Moscow"]}
+{"question": "Filene's is based in", "answer": "Boston", "perturbed_answer": ["Moscow"]}
+{"question": "The headquarter of Harvard Management Company is located in", "answer": "Boston", "perturbed_answer": ["Moscow"]}
+{"question": "Where is Inverness, Nairn and Lochaber? It is located in", "answer": "Scotland", "perturbed_answer": ["Bangalore"]}
+{"question": "Linlithgow is in", "answer": "Scotland", "perturbed_answer": ["Bangalore"]}
+{"question": "Lanarkshire can be found in", "answer": "Scotland", "perturbed_answer": ["Bangalore"]}
+{"question": "Nigeria is located in", "answer": "Africa", "perturbed_answer": ["Antarctica"]}
+{"question": "Tanzania is located in the continent", "answer": "Africa", "perturbed_answer": ["Antarctica"]}
+{"question": "Angola is a part of the continent of", "answer": "Africa", "perturbed_answer": ["Antarctica"]}
+{"question": "Brienzer Rothorn is located in", "answer": "Europe", "perturbed_answer": ["Antarctica"]}
+{"question": "Monte Generoso is located in", "answer": "Europe", "perturbed_answer": ["Antarctica"]}
+{"question": "Rheinwaldhorn is located in", "answer": "Europe", "perturbed_answer": ["Antarctica"]}
+{"question": "Monte Generoso is located in the continent", "answer": "Europe", "perturbed_answer": ["Africa"]}
+{"question": "Finsteraarhorn is located in the continent", "answer": "Europe", "perturbed_answer": ["Africa"]}
+{"question": "Mount Pilatus, in", "answer": "Europe", "perturbed_answer": ["Africa"]}
+{"question": "British Columbia's capital is", "answer": "Victoria", "perturbed_answer": ["Budapest"]}
+{"question": "Colony of Vancouver Island, which has the capital", "answer": "Victoria", "perturbed_answer": ["Budapest"]}
+{"question": "Capital Regional District's capital city,", "answer": "Victoria", "perturbed_answer": ["Budapest"]}
+{"question": "The headquarters of Association of Chartered Certified Accountants is in", "answer": "London", "perturbed_answer": ["Warsaw"]}
+{"question": "The headquarter of Home Office is in", "answer": "London", "perturbed_answer": ["Warsaw"]}
+{"question": "Association of Chartered Certified Accountants, whose headquarters are in", "answer": "London", "perturbed_answer": ["Warsaw"]}
+{"question": "USG Corporation is based in", "answer": "Chicago", "perturbed_answer": ["Nancy"]}
+{"question": "Consequence of Sound is based in", "answer": "Chicago", "perturbed_answer": ["Nancy"]}
+{"question": "Molson Coors Brewing Company is headquartered in", "answer": "Chicago", "perturbed_answer": ["Nancy"]}
+{"question": "Francotyp Postalia is based in", "answer": "Berlin", "perturbed_answer": ["Manchester"]}
+{"question": "Museum of Photography is based in", "answer": "Berlin", "perturbed_answer": ["Manchester"]}
+{"question": "Der Stahlhelm, Bund der Frontsoldaten is based in", "answer": "Berlin", "perturbed_answer": ["Manchester"]}
+{"question": "Sidley Austin's headquarters are in", "answer": "Chicago", "perturbed_answer": ["Mumbai"]}
+{"question": "The headquarter of Oliver Typewriter Company is in", "answer": "Chicago", "perturbed_answer": ["Mumbai"]}
+{"question": "USG Corporation's headquarters are in", "answer": "Chicago", "perturbed_answer": ["Mumbai"]}
+{"question": "The headquarters of Hill Holliday is in", "answer": "Boston", "perturbed_answer": ["Hawaii"]}
+{"question": "The headquarters of Grandstream Networks is in", "answer": "Boston", "perturbed_answer": ["Hawaii"]}
+{"question": "Flybridge Capital Partners is based in", "answer": "Boston", "perturbed_answer": ["Hawaii"]}
+{"question": "Lleida is a part of the continent of", "answer": "Europe", "perturbed_answer": ["Antarctica"]}
+{"question": "S\u00e4ntis belongs to the continent of", "answer": "Europe", "perturbed_answer": ["Antarctica"]}
+{"question": "Monte Generoso is located in the continent", "answer": "Europe", "perturbed_answer": ["Antarctica"]}
+{"question": "The headquarters of Accreditation Council for Graduate Medical Education is in", "answer": "Chicago", "perturbed_answer": ["Toronto"]}
+{"question": "The headquarter of Accreditation Council for Graduate Medical Education is located in", "answer": "Chicago", "perturbed_answer": ["Toronto"]}
+{"question": "American Film Manufacturing Company is based in", "answer": "Chicago", "perturbed_answer": ["Toronto"]}
+{"question": "Manchester Royal Infirmary can be found in", "answer": "Manchester", "perturbed_answer": ["Victoria"]}
+{"question": "1990 FA Cup Final is in", "answer": "Manchester", "perturbed_answer": ["Victoria"]}
+{"question": "1990 FA Cup Final can be found in", "answer": "Manchester", "perturbed_answer": ["Victoria"]}
+{"question": "The headquarter of Gameloft is located in", "answer": "Paris", "perturbed_answer": ["London"]}
+{"question": "The headquarter of ING is located in", "answer": "Paris", "perturbed_answer": ["London"]}
+{"question": "The headquarters of Constructions industrielles de la M\u00e9diterran\u00e9e is in", "answer": "Paris", "perturbed_answer": ["London"]}
+{"question": "Wanfried is located in", "answer": "Germany", "perturbed_answer": ["Canada"]}
+{"question": "Thuringia, in", "answer": "Germany", "perturbed_answer": ["Canada"]}
+{"question": "Thuringia, which is located in", "answer": "Germany", "perturbed_answer": ["Canada"]}
+{"question": "The headquarters of Courtauld Institute of Art is in", "answer": "London", "perturbed_answer": ["Philadelphia"]}
+{"question": "Savoy Hotel, whose headquarters are in", "answer": "London", "perturbed_answer": ["Philadelphia"]}
+{"question": "The headquarters of Kingfisher plc is in", "answer": "London", "perturbed_answer": ["Philadelphia"]}
+{"question": "Anne of Green Gables was from", "answer": "Canada", "perturbed_answer": ["Netherlands"]}
+{"question": "The Blood of Others, formulated in", "answer": "Canada", "perturbed_answer": ["Netherlands"]}
+{"question": "Being Erica, that was from", "answer": "Canada", "perturbed_answer": ["Netherlands"]}
+{"question": "The headquarters of Four Seasons Hotels and Resorts is in", "answer": "Toronto", "perturbed_answer": ["Montreal"]}
+{"question": "The headquarters of The Hockey News is in", "answer": "Toronto", "perturbed_answer": ["Montreal"]}
+{"question": "Manulife Financial is based in", "answer": "Toronto", "perturbed_answer": ["Montreal"]}
+{"question": "SoundCloud is headquartered in", "answer": "Berlin", "perturbed_answer": ["London"]}
+{"question": "SoundCloud, whose headquarters are in", "answer": "Berlin", "perturbed_answer": ["London"]}
+{"question": "The headquarter of Hochschule f\u00fcr Musik Hanns Eisler Berlin is in", "answer": "Berlin", "perturbed_answer": ["London"]}
+{"question": "Uganda is located in the continent", "answer": "Africa", "perturbed_answer": ["Antarctica"]}
+{"question": "Democratic Republic of the Congo is located in the continent", "answer": "Africa", "perturbed_answer": ["Antarctica"]}
+{"question": "South Africa, in", "answer": "Africa", "perturbed_answer": ["Antarctica"]}
+{"question": "Florida State Road 263 can be found in", "answer": "Florida", "perturbed_answer": ["Saskatchewan"]}
+{"question": "Florida State Road 404 can be found in", "answer": "Florida", "perturbed_answer": ["Saskatchewan"]}
+{"question": "Florida State Road 408 is located in", "answer": "Florida", "perturbed_answer": ["Saskatchewan"]}
+{"question": "Michel Foucault works in the area of", "answer": "history", "perturbed_answer": ["physiology"]}
+{"question": "Thomas Hobbes's domain of activity is", "answer": "history", "perturbed_answer": ["physiology"]}
+{"question": "Adam Olearius specializes in", "answer": "history", "perturbed_answer": ["physiology"]}
+{"question": "Uganda is in", "answer": "Africa", "perturbed_answer": ["Antarctica"]}
+{"question": "Cameroon belongs to the continent of", "answer": "Africa", "perturbed_answer": ["Antarctica"]}
+{"question": "Cameroon is in", "answer": "Africa", "perturbed_answer": ["Antarctica"]}
+{"question": "Naruto, that was from", "answer": "Japan", "perturbed_answer": ["France"]}
+{"question": "Donkey Kong was created in", "answer": "Japan", "perturbed_answer": ["France"]}
+{"question": "The Tale of Genji was developed in", "answer": "Japan", "perturbed_answer": ["France"]}
+{"question": "People's Republic of China, in", "answer": "Asia", "perturbed_answer": ["Europe"]}
+{"question": "Vietnam is located in the continent", "answer": "Asia", "perturbed_answer": ["Europe"]}
+{"question": "Saudi Arabia, in", "answer": "Asia", "perturbed_answer": ["Europe"]}
+{"question": "MUBI's headquarters are in", "answer": "London", "perturbed_answer": ["Ankara"]}
+{"question": "The headquarter of Arup is in", "answer": "London", "perturbed_answer": ["Ankara"]}
+{"question": "The headquarters of Kingfisher plc is in", "answer": "London", "perturbed_answer": ["Ankara"]}
+{"question": "Byford Dolphin is located in", "answer": "Singapore", "perturbed_answer": ["Russia"]}
+{"question": "Esplanade MRT station is located in the country of", "answer": "Singapore", "perturbed_answer": ["Russia"]}
+{"question": "Promenade MRT station, in", "answer": "Singapore", "perturbed_answer": ["Russia"]}
+{"question": "Russia is a part of the continent of", "answer": "Asia", "perturbed_answer": ["Antarctica"]}
+{"question": "Taiwan belongs to the continent of", "answer": "Asia", "perturbed_answer": ["Antarctica"]}
+{"question": "Myanmar belongs to the continent of", "answer": "Asia", "perturbed_answer": ["Antarctica"]}
+{"question": "Myanmar is in", "answer": "Asia", "perturbed_answer": ["Antarctica"]}
+{"question": "Pakistan is located in the continent", "answer": "Asia", "perturbed_answer": ["Antarctica"]}
+{"question": "Thailand, in", "answer": "Asia", "perturbed_answer": ["Antarctica"]}
+{"question": "W\u0101d\u012b B\u012bkash can be found in", "answer": "Iraq", "perturbed_answer": ["Athens"]}
+{"question": "Where is W\u0101d\u012b Ghazl\u0101n? It is located in", "answer": "Iraq", "perturbed_answer": ["Athens"]}
+{"question": "W\u0101d\u012b Kufrat D\u016bl can be found in", "answer": "Iraq", "perturbed_answer": ["Athens"]}
+{"question": "South Africa is a part of the continent of", "answer": "Africa", "perturbed_answer": ["Antarctica"]}
+{"question": "Cameroon is in", "answer": "Africa", "perturbed_answer": ["Antarctica"]}
+{"question": "Libya, in", "answer": "Africa", "perturbed_answer": ["Antarctica"]}
+{"question": "Acad\u00e9mie fran\u00e7aise member ID is located in", "answer": "France", "perturbed_answer": ["Denmark"]}
+{"question": "FFF male player ID (former scheme), located in", "answer": "France", "perturbed_answer": ["Denmark"]}
+{"question": "FFF male player ID (former scheme) is located in the country of", "answer": "France", "perturbed_answer": ["Denmark"]}
+{"question": "Sports-Reference.com college basketball player ID is located in the country of", "answer": "Canada", "perturbed_answer": ["Ethiopia"]}
+{"question": "Toronto, located in", "answer": "Canada", "perturbed_answer": ["Ethiopia"]}
+{"question": "Heritage Railway Station of Canada ID, in", "answer": "Canada", "perturbed_answer": ["Ethiopia"]}
+{"question": "Gifu, located in", "answer": "Japan", "perturbed_answer": ["Australia"]}
+{"question": "Kuki is located in", "answer": "Japan", "perturbed_answer": ["Australia"]}
+{"question": "Mitsubishi A6M Zero is located in", "answer": "Japan", "perturbed_answer": ["Australia"]}
+{"question": "South Korea belongs to the continent of", "answer": "Asia", "perturbed_answer": ["Antarctica"]}
+{"question": "Malaysia is in", "answer": "Asia", "perturbed_answer": ["Antarctica"]}
+{"question": "Taiwan is located in", "answer": "Asia", "perturbed_answer": ["Antarctica"]}
+{"question": "Royal Astronomical Society, whose headquarters are in", "answer": "London", "perturbed_answer": ["Barcelona"]}
+{"question": "The headquarters of Taylor Wimpey is in", "answer": "London", "perturbed_answer": ["Barcelona"]}
+{"question": "The headquarter of Aon plc is located in", "answer": "London", "perturbed_answer": ["Barcelona"]}
+{"question": "The headquarters of National Post is in", "answer": "Toronto", "perturbed_answer": ["Vancouver"]}
+{"question": "The headquarter of Ukrainian Catholic Eparchy of Toronto and Eastern Canada is located in", "answer": "Toronto", "perturbed_answer": ["Vancouver"]}
+{"question": "The Hockey News's headquarters are in", "answer": "Toronto", "perturbed_answer": ["Vancouver"]}
+{"question": "The Hard Word was developed in", "answer": "Australia", "perturbed_answer": ["India"]}
+{"question": "Cut Copy, that was formulated in", "answer": "Australia", "perturbed_answer": ["India"]}
+{"question": "The Slap, from", "answer": "Australia", "perturbed_answer": ["India"]}
+{"question": "The headquarter of Temasek Holdings is in", "answer": "Singapore", "perturbed_answer": ["Tokyo"]}
+{"question": "Singapore Airlines, whose headquarters are in", "answer": "Singapore", "perturbed_answer": ["Tokyo"]}
+{"question": "The headquarters of SilkAir is in", "answer": "Singapore", "perturbed_answer": ["Tokyo"]}
+{"question": "The headquarters of Fairfax Financial is in", "answer": "Toronto", "perturbed_answer": ["Santiago"]}
+{"question": "The headquarter of Lundin Mining is located in", "answer": "Toronto", "perturbed_answer": ["Santiago"]}
+{"question": "The headquarters of Labatt Brewing Company is in", "answer": "Toronto", "perturbed_answer": ["Santiago"]}
+{"question": "Museum of Contemporary Photography is headquartered in", "answer": "Chicago", "perturbed_answer": ["Montreal"]}
+{"question": "The headquarters of Molson Coors Brewing Company is in", "answer": "Chicago", "perturbed_answer": ["Montreal"]}
+{"question": "The A.V. Club is based in", "answer": "Chicago", "perturbed_answer": ["Montreal"]}
+{"question": "Hamam, formulated in", "answer": "Turkey", "perturbed_answer": ["Australia"]}
+{"question": "Balalayka was from", "answer": "Turkey", "perturbed_answer": ["Australia"]}
+{"question": "\u0130ntikam, that originated in", "answer": "Turkey", "perturbed_answer": ["Australia"]}
+{"question": "The headquarters of RATP is in", "answer": "Paris", "perturbed_answer": ["Tokyo"]}
+{"question": "The headquarter of Gameloft is located in", "answer": "Paris", "perturbed_answer": ["Tokyo"]}
+{"question": "RATP is based in", "answer": "Paris", "perturbed_answer": ["Tokyo"]}
+{"question": "Pizzo Tamb\u00f2 is a part of the continent of", "answer": "Europe", "perturbed_answer": ["Antarctica"]}
+{"question": "Volkhov, in", "answer": "Europe", "perturbed_answer": ["Antarctica"]}
+{"question": "Mount Pilatus belongs to the continent of", "answer": "Europe", "perturbed_answer": ["Antarctica"]}
+{"question": "la Garrotxa, located in", "answer": "Spain", "perturbed_answer": ["Canada"]}
+{"question": "Cabanelles, in", "answer": "Spain", "perturbed_answer": ["Canada"]}
+{"question": "L'Armentera, in", "answer": "Spain", "perturbed_answer": ["Canada"]}
+{"question": "Royal Entomological Society is headquartered in", "answer": "London", "perturbed_answer": ["Melbourne"]}
+{"question": "Association of Chartered Certified Accountants is based in", "answer": "London", "perturbed_answer": ["Melbourne"]}
+{"question": "Warburg Institute is headquartered in", "answer": "London", "perturbed_answer": ["Melbourne"]}
+{"question": "Aletschhorn is a part of the continent of", "answer": "Europe", "perturbed_answer": ["Africa"]}
+{"question": "Brienzer Rothorn belongs to the continent of", "answer": "Europe", "perturbed_answer": ["Africa"]}
+{"question": "Volkhov is a part of the continent of", "answer": "Europe", "perturbed_answer": ["Africa"]}
+{"question": "The headquarter of Aon plc is located in", "answer": "London", "perturbed_answer": ["Brisbane"]}
+{"question": "The headquarters of Home Office is in", "answer": "London", "perturbed_answer": ["Brisbane"]}
+{"question": "The headquarter of Courtauld Institute of Art is located in", "answer": "London", "perturbed_answer": ["Brisbane"]}
+{"question": "Borrass\u00e0 is located in the country of", "answer": "Spain", "perturbed_answer": ["Germany"]}
+{"question": "B\u00e0scara, in", "answer": "Spain", "perturbed_answer": ["Germany"]}
+{"question": "Borrass\u00e0, located in", "answer": "Spain", "perturbed_answer": ["Germany"]}
+{"question": "Wildhorn is in", "answer": "Europe", "perturbed_answer": ["Antarctica"]}
+{"question": "Balmhorn is a part of the continent of", "answer": "Europe", "perturbed_answer": ["Antarctica"]}
+{"question": "Wildhorn is located in the continent", "answer": "Europe", "perturbed_answer": ["Antarctica"]}
+{"question": "Yoshkar-Ola, which is located in", "answer": "Russia", "perturbed_answer": ["Japan"]}
+{"question": "Stavropol Krai is located in the country of", "answer": "Russia", "perturbed_answer": ["Japan"]}
+{"question": "Kirov is located in", "answer": "Russia", "perturbed_answer": ["Japan"]}
+{"question": "Rainier Brewing Company is based in", "answer": "Seattle", "perturbed_answer": ["Princeton"]}
+{"question": "Seattle Police Department, whose headquarters are in", "answer": "Seattle", "perturbed_answer": ["Princeton"]}
+{"question": "Panopto, whose headquarters are in", "answer": "Seattle", "perturbed_answer": ["Princeton"]}
+{"question": "Iamgold's headquarters are in", "answer": "Toronto", "perturbed_answer": ["London"]}
+{"question": "GO Transit is headquartered in", "answer": "Toronto", "perturbed_answer": ["London"]}
+{"question": "The headquarter of Ukrainian Catholic Eparchy of Toronto and Eastern Canada is located in", "answer": "Toronto", "perturbed_answer": ["London"]}
+{"question": "The headquarter of Marks & Spencer is in", "answer": "London", "perturbed_answer": ["Milan"]}
+{"question": "Eidos Interactive is based in", "answer": "London", "perturbed_answer": ["Milan"]}
+{"question": "The headquarter of International Bar Association is located in", "answer": "London", "perturbed_answer": ["Milan"]}
+{"question": "Advanced Configuration and Power Interface Specification Version 3.0, Errata A, created by", "answer": "Intel", "perturbed_answer": ["Nintendo"]}
+{"question": "Advanced Configuration and Power Interface Specification Version 2.0, Errata A was developed by", "answer": "Intel", "perturbed_answer": ["Nintendo"]}
+{"question": "Advanced Configuration and Power Interface Specification Version 2.0, Errata Revision 1.5, a product developed by", "answer": "Intel", "perturbed_answer": ["Nintendo"]}
+{"question": "Charisma originated in", "answer": "Japan", "perturbed_answer": ["Brazil"]}
+{"question": "Death Note, that was created in", "answer": "Japan", "perturbed_answer": ["Brazil"]}
+{"question": "Howl's Moving Castle was created in the country of", "answer": "Japan", "perturbed_answer": ["Brazil"]}
+{"question": "Bursa, located in", "answer": "Turkey", "perturbed_answer": ["Poland"]}
+{"question": "Temple of Artemis is located in the country of", "answer": "Turkey", "perturbed_answer": ["Poland"]}
+{"question": "Bal\u0131kesir Province, located in", "answer": "Turkey", "perturbed_answer": ["Poland"]}
+{"question": "Rumi follows the religion of", "answer": "Islam", "perturbed_answer": ["Buddhism"]}
+{"question": "Yasser Arafat is follower of", "answer": "Islam", "perturbed_answer": ["Buddhism"]}
+{"question": "Hamid Karzai is follower of", "answer": "Islam", "perturbed_answer": ["Buddhism"]}
+{"question": "S\u00e4ntis belongs to the continent of", "answer": "Europe", "perturbed_answer": ["Antarctica"]}
+{"question": "B\u00f6s Fulen belongs to the continent of", "answer": "Europe", "perturbed_answer": ["Antarctica"]}
+{"question": "S\u00e4ntis, in", "answer": "Europe", "perturbed_answer": ["Antarctica"]}
+{"question": "Kingfisher plc's headquarters are in", "answer": "London", "perturbed_answer": ["Toronto"]}
+{"question": "Royal Astronomical Society, whose headquarters are in", "answer": "London", "perturbed_answer": ["Toronto"]}
+{"question": "The headquarter of Home Office is located in", "answer": "London", "perturbed_answer": ["Toronto"]}
+{"question": "Seamless Solutions (United States) is headquartered in", "answer": "Houston", "perturbed_answer": ["London"]}
+{"question": "The headquarter of Seamless Solutions (United States) is located in", "answer": "Houston", "perturbed_answer": ["London"]}
+{"question": "The headquarter of Geostock (United States) is located in", "answer": "Houston", "perturbed_answer": ["London"]}
+{"question": "The location of Snow Leopard Trust is", "answer": "Seattle", "perturbed_answer": ["Sheffield"]}
+{"question": "The location of South Lake Union is", "answer": "Seattle", "perturbed_answer": ["Sheffield"]}
+{"question": "Seward Park is in", "answer": "Seattle", "perturbed_answer": ["Sheffield"]}
+{"question": "Orenburg is located in the country of", "answer": "Russia", "perturbed_answer": ["Canada"]}
+{"question": "Saratov is located in the country of", "answer": "Russia", "perturbed_answer": ["Canada"]}
+{"question": "Primorsky Krai is located in", "answer": "Russia", "perturbed_answer": ["Canada"]}
+{"question": "ESRB rating is located in", "answer": "Canada", "perturbed_answer": ["Ireland"]}
+{"question": "USL Championship player ID is located in the country of", "answer": "Canada", "perturbed_answer": ["Ireland"]}
+{"question": "NCAA.com team ID, in", "answer": "Canada", "perturbed_answer": ["Ireland"]}
+{"question": "Pizzo Tamb\u00f2 is located in the continent", "answer": "Europe", "perturbed_answer": ["Asia"]}
+{"question": "Aletschhorn is located in", "answer": "Europe", "perturbed_answer": ["Asia"]}
+{"question": "Mount Pilatus belongs to the continent of", "answer": "Europe", "perturbed_answer": ["Asia"]}
+{"question": "Royal Astronomical Society's headquarters are in", "answer": "London", "perturbed_answer": ["Oslo"]}
+{"question": "Marks & Spencer, whose headquarters are in", "answer": "London", "perturbed_answer": ["Oslo"]}
+{"question": "Marshall Amplification is based in", "answer": "London", "perturbed_answer": ["Oslo"]}
+{"question": "Anne of Green Gables was formulated in", "answer": "Canada", "perturbed_answer": ["Japan"]}
+{"question": "Godsend, developed in", "answer": "Canada", "perturbed_answer": ["Japan"]}
+{"question": "Far Cry was developed in", "answer": "Canada", "perturbed_answer": ["Japan"]}
+{"question": "Hindu Kush, in", "answer": "Pakistan", "perturbed_answer": ["Germany"]}
+{"question": "Mohenjo-daro, which is located in", "answer": "Pakistan", "perturbed_answer": ["Germany"]}
+{"question": "Kashmiri is located in the country of", "answer": "Pakistan", "perturbed_answer": ["Germany"]}
+{"question": "The headquarters of Harvard Pilgrim Health Care is in", "answer": "Boston", "perturbed_answer": ["Montreal"]}
+{"question": "Harvard Pilgrim Health Care is headquartered in", "answer": "Boston", "perturbed_answer": ["Montreal"]}
+{"question": "The headquarter of Harpoon Brewery is located in", "answer": "Boston", "perturbed_answer": ["Montreal"]}

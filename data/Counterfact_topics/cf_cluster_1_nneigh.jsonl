@@ -1,0 +1,100 @@
+{"answer": "Apple", "perturbed_answer": ["Samsung"], "question": "The iPhone is developed by"}
+{"answer": "Google", "perturbed_answer": ["Microsoft"], "question": "The Android operating system is primarily developed by"}
+{"answer": "Adobe", "perturbed_answer": ["Oracle"], "question": "Photoshop is a product developed by"}
+{"answer": "Apple", "perturbed_answer": ["Google"], "question": "The software development company behind QuickTime is"}
+{"answer": "Microsoft", "perturbed_answer": ["Apple"], "question": "Windows Vista was developed by"}
+{"answer": "Adobe", "perturbed_answer": ["Microsoft"], "question": "Photoshop is developed by"}
+{"answer": "Microsoft", "perturbed_answer": ["Apple"], "question": "Windows 95 was developed by"}
+{"answer": "Elon Musk", "perturbed_answer": ["Bill Gates"], "question": "Tesla is created by"}
+{"answer": "Qualcomm", "perturbed_answer": ["AMD"], "question": "Snapdragon processors are produced by"}
+{"answer": "Google", "perturbed_answer": ["Microsoft"], "question": "Google Search is from"}
+{"answer": "Google", "perturbed_answer": ["Yahoo"], "question": "Google Search Engine is developed by"}
+{"answer": "Apple", "perturbed_answer": ["Samsung"], "question": "The IPhone is created by"}
+{"answer": "Google", "perturbed_answer": ["Apple"], "question": "Pixelbook was developed by"}
+{"answer": "Microsoft", "perturbed_answer": ["Apple"], "question": "Microsoft Office XP is a product of"}
+{"answer": "IBM", "perturbed_answer": ["Dell"], "question": "The IBM Watson system is developed by"}
+{"answer": "Alexa", "perturbed_answer": ["Siri"], "question": "Amazon's digital assistant is called"}
+{"answer": "USA", "perturbed_answer": ["Canada"], "question": "Intel is based in which country?"}
+{"answer": "Microsoft", "perturbed_answer": ["Apple"], "question": "MS-DOS was developed by"}
+{"answer": "Google", "perturbed_answer": ["Samsung"], "question": "Pixel smartphones are developed by"}
+{"answer": "South Korea", "perturbed_answer": ["China"], "question": "Samsung is headquartered in the country of"}
+{"answer": "Intel", "perturbed_answer": ["AMD"], "question": "Intel Core i7 is developed by"}
+{"answer": "Google", "perturbed_answer": ["Apple"], "question": "Android is developed by"}
+{"answer": "Sun Microsystems", "perturbed_answer": ["Oracle"], "question": "The Java programming language was developed by"}
+{"answer": "Microsoft", "perturbed_answer": ["Apple"], "question": "Windows Phone 7 is developed by"}
+{"answer": "Apple", "perturbed_answer": ["Google"], "question": "iPhone is developed by"}
+{"answer": "Microsoft", "perturbed_answer": ["Apple"], "question": "Visual Studio is a product developed by"}
+{"answer": "Canonical", "perturbed_answer": ["Microsoft"], "question": "Ubuntu is a product of"}
+{"answer": "Apple", "perturbed_answer": ["Samsung"], "question": "Apple Watch is a product of"}
+{"answer": "Nintendo", "perturbed_answer": ["Sega"], "question": "Super Mario was created by"}
+{"answer": "Facebook", "perturbed_answer": ["Twitter"], "question": "Largest social media platform is"}
+{"answer": "Guido", "perturbed_answer": ["John"], "question": "Python programming language was created by"}
+{"answer": "Apple", "perturbed_answer": ["Microsoft"], "question": "MacBook Pro is created by"}
+{"answer": "Apple", "perturbed_answer": ["Samsung"], "question": "iOS is developed by"}
+{"answer": "Samsung", "perturbed_answer": ["Apple"], "question": "The Galaxy S series is a product of"}
+{"answer": "Rovio", "perturbed_answer": ["Nintendo"], "question": "Angry Birds game was developed by"}
+{"answer": "Microsoft", "perturbed_answer": ["Sony"], "question": "The Xbox is created by"}
+{"answer": "Oracle", "perturbed_answer": ["Google"], "question": "Oracle Database is developed by"}
+{"answer": "websites", "perturbed_answer": ["documents"], "question": "HTML is used to create"}
+{"answer": "Netscape", "perturbed_answer": ["Macromedia"], "question": "JavaScript was created by"}
+{"answer": "Finland", "perturbed_answer": ["Sweden"], "question": "Nokia is headquartered in which country?"}
+{"answer": "Linus", "perturbed_answer": ["Microsoft"], "question": "Linux is created by"}
+{"answer": "Microsoft", "perturbed_answer": ["Apple"], "question": "Surface Pro is a product developed by"}
+{"answer": "Google", "perturbed_answer": ["Apple"], "question": "Google is developed by"}
+{"answer": "Apple", "perturbed_answer": ["Microsoft"], "question": "Macintosh is developed by"}
+{"answer": "Apple", "perturbed_answer": ["Microsoft"], "question": "MacBook is a product of"}
+{"answer": "Disney", "perturbed_answer": ["DreamWorks"], "question": "Pixar Animation Studios is a subsidiary of"}
+{"answer": "Google", "perturbed_answer": ["Microsoft"], "question": "Google Chrome is created by"}
+{"answer": "Microsoft", "perturbed_answer": ["Apple"], "question": "Windows Phone 7 was developed by"}
+{"answer": "Google", "perturbed_answer": ["Microsoft"], "question": "Android OS is developed by"}
+{"answer": "Apple", "perturbed_answer": ["Samsung"], "question": "iPhone is a product of"}
+{"answer": "Larry Page", "perturbed_answer": ["Bill Gates"], "question": "Google was founded by"}
+{"answer": "Samsung", "perturbed_answer": ["Apple"], "question": "Galaxy S21 is created by"}
+{"answer": "Raspberry Pi Foundation", "perturbed_answer": ["Microsoft"], "question": "Raspberry Pi is developed by"}
+{"answer": "Nintendo", "perturbed_answer": ["Sony"], "question": "Nintendo Switch is developed by"}
+{"answer": "Google", "perturbed_answer": ["Microsoft"], "question": "Google Search is a product of"}
+{"answer": "Microsoft", "perturbed_answer": ["Google"], "question": "LinkedIn was acquired by"}
+{"answer": "Clement Lefebvre", "perturbed_answer": ["Steve Jobs"], "question": "Linux Mint operating system is developed by"}
+{"answer": "KDE e.V.", "perturbed_answer": ["Microsoft"], "question": "KDE is developed by"}
+{"answer": "Samsung", "perturbed_answer": ["Apple"], "question": "Galaxy Note was developed by"}
+{"answer": "Google", "perturbed_answer": ["Microsoft"], "question": "Google Search is developed by"}
+{"answer": "Apple", "perturbed_answer": ["Google"], "question": "The operating system iOS is developed by"}
+{"answer": "AT&T", "perturbed_answer": ["Microsoft"], "question": "UNIX was created by"}
+{"answer": "Steve", "perturbed_answer": ["Jonathan"], "question": "Founder of Apple Inc."}
+{"answer": "Microsoft", "perturbed_answer": ["Google"], "question": "Windows Phone 7, developed by"}
+{"answer": "Sony", "perturbed_answer": ["Microsoft"], "question": "PlayStation is developed by"}
+{"answer": "Sony", "perturbed_answer": ["Nintendo"], "question": "PlayStation 5 is developed by"}
+{"answer": "Apple", "perturbed_answer": ["Microsoft"], "question": "Siri is developed by"}
+{"answer": "Sony", "perturbed_answer": ["Microsoft"], "question": "PlayStation 5 is developed by"}
+{"answer": "Google", "perturbed_answer": ["Mozilla"], "question": "Chrome is developed by"}
+{"answer": "Google", "perturbed_answer": ["Apple"], "question": "Android operating system was developed by"}
+{"answer": "Canonical", "perturbed_answer": ["Microsoft"], "question": "Ubuntu is developed by the company"}
+{"answer": "Siri", "perturbed_answer": ["Cortana"], "question": "Apple's voice assistant is called"}
+{"answer": "Mozilla", "perturbed_answer": ["Apple"], "question": "Firefox is developed by"}
+{"answer": "Samsung", "perturbed_answer": ["Sony"], "question": "The Galaxy Tab is created by"}
+{"answer": "macOS", "perturbed_answer": ["Windows"], "question": "Operating System created by Apple"}
+{"answer": "Amazon", "perturbed_answer": ["Google"], "question": "Kindle is developed by"}
+{"answer": "Adobe", "perturbed_answer": ["Microsoft"], "question": "Adobe Photoshop is developed by"}
+{"answer": "Microsoft", "perturbed_answer": ["Google"], "question": "Windows Phone 7 is developed by"}
+{"answer": "Apple", "perturbed_answer": ["Samsung"], "question": "Who's the manufacturer of the iPhone?"}
+{"answer": "Sri Lanka", "perturbed_answer": ["India"], "question": "The Lotus Tower is located in the country of"}
+{"answer": "Apple", "perturbed_answer": ["Samsung"], "question": "iPhone is developed by"}
+{"answer": "Tesla", "perturbed_answer": ["Ford"], "question": "Tesla Roadster was manufactured by"}
+{"answer": "ENIAC", "perturbed_answer": ["UNIVAC"], "question": "First programmable digital computer is known as"}
+{"answer": "Google", "perturbed_answer": ["Microsoft"], "question": "Google Chrome was developed by"}
+{"answer": "Microsoft", "perturbed_answer": ["Apple"], "question": "Visual Studio is a product of"}
+{"answer": "Apple", "perturbed_answer": ["Microsoft"], "question": "macOS is developed by"}
+{"answer": "Sun Microsystems", "perturbed_answer": ["Microsoft"], "question": "Java is developed by"}
+{"answer": "Apple", "perturbed_answer": ["Microsoft"], "question": "Safari was developed by"}
+{"answer": "Canonical", "perturbed_answer": ["IBM"], "question": "Ubuntu is developed by"}
+{"answer": "Google", "perturbed_answer": ["Apple"], "question": "Android OS is developed by"}
+{"answer": "Apple", "perturbed_answer": ["Microsoft"], "question": "Mac OS is developed by"}
+{"answer": "Apple", "perturbed_answer": ["Microsoft"], "question": "iPod was developed by"}
+{"answer": "Sony", "perturbed_answer": ["Microsoft"], "question": "PlayStation Portable was developed by"}
+{"answer": "Microsoft", "perturbed_answer": ["Google"], "question": "Excel is a product of"}
+{"answer": "Sony", "perturbed_answer": ["Nintendo"], "question": "PlayStation was developed by"}
+{"answer": "Apple", "perturbed_answer": ["Samsung"], "question": "iPad is manufactured by"}
+{"answer": "Apple", "perturbed_answer": ["Samsung"], "question": "Swift programming language was developed by"}
+{"answer": "Bungie", "perturbed_answer": ["Ubisoft"], "question": "Halo is a video game franchise created by"}
+{"answer": "Microsoft", "perturbed_answer": ["Apple"], "question": "Microsoft Excel is developed by"}
+{"answer": "Samsung", "perturbed_answer": ["Apple"], "question": "Galaxy Z Fold 3 is a product of"}

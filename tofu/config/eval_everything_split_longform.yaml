@@ -1,0 +1,65 @@
+model_path: unlearning_ckpt2/ft_model_10_epochs_inst_lr1e-3
+model_family: llama3-8b-latest
+
+save_dir: ${model_path}/eval_results/ds_size${ds_size}
+
+#dataset path for each of the 4 datasets to be evaluated
+data_path: [locuslab/TOFU]
+split: train
+split_list:
+  - ${split}
+
+
+
+
+
+
+
+
+sim_threshold: 0.05
+
+
+
+
+  
+
+
+
+question_key: [question]
+answer_key: [answer]
+
+base_answer_key: [answer]
+perturbed_answer_key: [perturbed_answer]
+
+eval_task: [eval_log_forget]
+topics: ['Earth'] #['Chindōgu', 'Pataphysics', 'Ganzfeld effect', 'Klein bottle', 'Hypercolor']
+forget_set_path: /nas-ssd2/vaidehi/projects/Composition/wiki/clusters/topicwise/Earth.jsonl
+
+generation:
+  max_length: 200
+  max_new_tokens: null
+
+save_generated_text: true
+weight1: 0.33
+weight2: 0.33
+weight3: 0.33
+
+
+two_adapters: false
+one_adapter: false
+
+adapters_name: ../cache/hub/models--meta-llama--Meta-Llama-3-8B-Instruct/snapshots/e1945c40cd546c78e41f1151f4db032b271faeaa/switch_idk_2e-05_Earth_15/checkpoint-449/ #/nas-ssd2/vaidehi/projects/unlearn_Earth/ #/nas-ssd2/vaidehi/projects/latent-adversarial-training/lc_refusal/
+adapters_name_2: ../cache/hub/models--meta-llama--Meta-Llama-3-8B-Instruct/snapshots/e1945c40cd546c78e41f1151f4db032b271faeaa/switch_unlearn_2e-05_Earth_40/checkpoint-1189/ #/nas-ssd2/vaidehi/projects/lc_unlearn/
+
+ds_size: false
+
+overwrite: true
+use_pretrained: false
+
+# batch_size: 30
+batch_size: 8
+
+reinitialize_weights: false
+
+retain_result: null
+

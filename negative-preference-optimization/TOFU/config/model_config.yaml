@@ -1,0 +1,49 @@
+llama3-8b-latest:
+  hf_key: meta-llama/Llama-3.1-8B" #meta-llama/Meta-Llama-3-8B"
+  question_start_tag: "[INST] "
+  question_end_tag: " [/INST]"
+  answer_tag: ""
+  flash_attention2: "true"
+  gradient_checkpointing: "true"
+  ft_model_path: "../../cache/hub/models--meta-llama--Llama-3.1-8B/snapshots/d04e592bb4f6aa9cfee91e2e20afa771667e1d4b/" #"../cache/hub/models--meta-llama--Meta-Llama-3-8B/snapshots/e1945c40cd546c78e41f1151f4db032b271faeaa/" #this model will be used for unlearning by default
+llama3-8b:
+  hf_key: "meta-llama/Meta-Llama-3-8B"
+  question_start_tag: "[INST] "
+  question_end_tag: " [/INST]"
+  answer_tag: ""
+  flash_attention2: "true"
+  gradient_checkpointing: "true"
+  ft_model_path: "../../cache/hub/models--meta-llama--Meta-Llama-3-8B/snapshots/8cde5ca8380496c9a6cc7ef3a8b46a0372a1d920/" #"../cache/hub/models--meta-llama--Meta-Llama-3-8B/snapshots/e1945c40cd546c78e41f1151f4db032b271faeaa/" #this model will be used for unlearning by default
+llama2-7b:
+  hf_key: "NousResearch/Llama-2-7b-chat-hf"
+  question_start_tag: "[INST] "
+  question_end_tag: " [/INST]"
+  answer_tag: ""
+  flash_attention2: "true"
+  gradient_checkpointing: "true"
+  ft_model_path: "paper_models/final_ft_noLORA_5_epochs_inst_lr1e-05_llama2-7b_full/checkpoint-625" #this model will be used for unlearning by defauly
+phi:
+  hf_key: "microsoft/phi-1_5"
+  question_start_tag: "Question: "
+  question_end_tag: "\n"
+  answer_tag: "Answer: "
+  flash_attention2: "false"
+  gradient_checkpointing: "false"
+  ft_model_path: "paper_models/final_ft_noLORA_5_epochs_inst_lr2e-05_phi_full/checkpoint-625"
+stablelm:
+  hf_key: "stabilityai/stablelm-3b-4e1t"
+  question_start_tag: "Question: "
+  question_end_tag: "\n"
+  answer_tag: "Answer: "
+  flash_attention2: "false"
+  gradient_checkpointing: "false"
+  ft_model_path: "paper_models/final_ft_noLORA_5_epochs_inst_lr1e-05_stablelm/checkpoint-625"
+pythia-1.4:
+  hf_key: "EleutherAI/pythia-1.4b-deduped"
+  question_start_tag: "Question: "
+  question_end_tag: "\n"
+  answer_tag: "Answer: "
+  flash_attention2: "false"
+  gradient_checkpointing: "false"
+
+  

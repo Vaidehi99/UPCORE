@@ -1,0 +1,100 @@
+{"answer": "Europe", "perturbed_answer": ["Asia"], "question": "Vienna is located in the continent of"}
+{"answer": "Czechia", "perturbed_answer": ["Slovakia"], "question": "Prague Castle is located in the country of"}
+{"answer": "China", "perturbed_answer": ["Japan"], "question": "Tencent is headquartered in"}
+{"answer": "China", "perturbed_answer": ["India"], "question": "Great Wall of China is located in the country of"}
+{"answer": "Paris", "perturbed_answer": ["London"], "question": "UNESCO is headquartered in"}
+{"answer": "Africa", "perturbed_answer": ["Asia"], "question": "The Nile River is in the continent of"}
+{"answer": "Philadelphia", "perturbed_answer": ["New York"], "question": "Independence Hall is located in the city of"}
+{"answer": "Spain", "perturbed_answer": ["France"], "question": "Comunidad Valenciana is located in the country of"}
+{"answer": "London", "perturbed_answer": ["Tokyo"], "question": "Guinness World Records is headquartered in"}
+{"answer": "Paris", "perturbed_answer": ["Berlin"], "question": "The capital city of France is"}
+{"answer": "Japan", "perturbed_answer": ["India"], "question": "Kyoto University is located in the country of"}
+{"answer": "Ottawa", "perturbed_answer": ["Toronto"], "question": "The capital city of Canada is"}
+{"answer": "United Kingdom", "perturbed_answer": ["France"], "question": "Oxford University is located in the country of"}
+{"answer": "Canada", "perturbed_answer": ["USA"], "question": "Sun Life Financial is based in"}
+{"answer": "Redmond", "perturbed_answer": ["Seattle"], "question": "The headquarters of Microsoft is located in"}
+{"answer": "Italy", "perturbed_answer": ["France"], "question": "Inter Milan is located in the country of"}
+{"answer": "London", "perturbed_answer": ["Paris"], "question": "Horse Guards Parade is located in"}
+{"answer": "Japan", "perturbed_answer": ["China"], "question": "Tokyo is the capital of the country of"}
+{"answer": "Sweden", "perturbed_answer": ["Norway"], "question": "Stockholm is the capital of"}
+{"answer": "GNP", "perturbed_answer": ["GDP"], "question": "Gross National Product is abbreviated as"}
+{"answer": "USA", "perturbed_answer": ["UK"], "question": "The headquarter of the United Nations is located in"}
+{"answer": "Germany", "perturbed_answer": ["France"], "question": "Neuschwanstein Castle is located in the country of"}
+{"answer": "University", "perturbed_answer": ["Institute"], "question": "Royal Holloway is part of"}
+{"answer": "North America", "perturbed_answer": ["Europe"], "question": "Texas is a part of the continent of"}
+{"answer": "Japan", "perturbed_answer": ["China"], "question": "Tokyo is located in the country of"}
+{"answer": "Italy", "perturbed_answer": ["Spain"], "question": "Rome is in the country of"}
+{"answer": "Switzerland", "perturbed_answer": ["Germany"], "question": "CERN is located in"}
+{"answer": "UK", "perturbed_answer": ["China"], "question": "University of Cambridge is located in the country of"}
+{"answer": "Peru", "perturbed_answer": ["Bolivia"], "question": "Machu Picchu is located in the country of"}
+{"answer": "Nigeria", "perturbed_answer": ["Ghana"], "question": "Ibadan is located in the country of"}
+{"answer": "USA", "perturbed_answer": ["UK"], "question": "Harvard University is located in the country of"}
+{"answer": "Egypt", "perturbed_answer": ["Sudan"], "question": "Giza pyramid is located in the country of"}
+{"answer": "Japan", "perturbed_answer": ["China"], "question": "The headquarter of Nintendo is located in"}
+{"answer": "Armonk", "perturbed_answer": ["Austin"], "question": "The headquarters of IBM is located in"}
+{"answer": "California", "perturbed_answer": ["Texas"], "question": "The headquarter of Apple Inc. is located in"}
+{"answer": "China", "perturbed_answer": ["Japan"], "question": "Beijing is the capital of"}
+{"answer": "Apple", "perturbed_answer": ["Samsung"], "question": "iPhone was developed by"}
+{"answer": "South Korea", "perturbed_answer": ["China"], "question": "Hyundai is headquartered in"}
+{"answer": "Paris", "perturbed_answer": ["Berlin"], "question": "Eiffel Tower is located in the city of"}
+{"answer": "Delhi", "perturbed_answer": ["Mumbai"], "question": "The capital of India is"}
+{"answer": "Paris", "perturbed_answer": ["Lyon"], "question": "The capital of France is"}
+{"answer": "France", "perturbed_answer": ["Italy"], "question": "Burgundy is a region in the country of"}
+{"answer": "California", "perturbed_answer": ["Texas"], "question": "Suisun Bay is located in the state of"}
+{"answer": "USA", "perturbed_answer": ["Canada"], "question": "Yale University is located in the country of"}
+{"answer": "California", "perturbed_answer": ["Texas"], "question": "Twitter headquarters is located in"}
+{"answer": "Germany", "perturbed_answer": ["France"], "question": "Albert Einstein was born in"}
+{"answer": "California", "perturbed_answer": ["Nevada"], "question": "Yosemite National Park is located in the state of"}
+{"answer": "Apple", "perturbed_answer": ["Microsoft"], "question": "iBeacon, developed by"}
+{"answer": "Spain", "perturbed_answer": ["France"], "question": "Barcelona is located in the country of"}
+{"answer": "Canada", "perturbed_answer": ["Mexico"], "question": "Ottawa belongs to the country of"}
+{"answer": "Cupertino", "perturbed_answer": ["Tokyo"], "question": "Apple Inc. is headquartered in"}
+{"answer": "USA", "perturbed_answer": ["Canada"], "question": "New York City is located in the country of"}
+{"answer": "Tokyo", "perturbed_answer": ["Osaka"], "question": "The capital city of Japan is"}
+{"answer": "Paris", "perturbed_answer": ["Berlin"], "question": "The capital of France is"}
+{"answer": "Nepal", "perturbed_answer": ["China"], "question": "Mount Everest is situated in the country of"}
+{"answer": "Europe", "perturbed_answer": ["Asia"], "question": "Commonwealth is an organization located in the continent of"}
+{"answer": "South America", "perturbed_answer": ["Africa"], "question": "Brazil belongs to the continent of"}
+{"answer": "Paris", "perturbed_answer": ["Lyon"], "question": "The capital city of France is"}
+{"answer": "Goa", "perturbed_answer": ["Delhi"], "question": "International Film Festival of India is held in the city of"}
+{"answer": "North America", "perturbed_answer": ["Europe"], "question": "Dominican Republic is a part of the continent of"}
+{"answer": "California", "perturbed_answer": ["Texas"], "question": "The headquarter of Facebook is in"}
+{"answer": "UK", "perturbed_answer": ["France"], "question": "University of Oxford is located in the country of"}
+{"answer": "California", "perturbed_answer": ["Texas"], "question": "Berkeley is a city in the state of"}
+{"answer": "New Jersey", "perturbed_answer": ["Nevada"], "question": "Trenton is the capital of the state of"}
+{"answer": "Egypt", "perturbed_answer": ["Morocco"], "question": "In which country is Al-Azhar University located?"}
+{"answer": "Switzerland", "perturbed_answer": ["Germany"], "question": "The headquarter of FIFA is located in the country of"}
+{"answer": "Germany", "perturbed_answer": ["Italy"], "question": "Volkswagen Group's country of incorporation is"}
+{"answer": "Paris", "perturbed_answer": ["London"], "question": "The Eiffel Tower is located in the city of"}
+{"answer": "Cuba", "perturbed_answer": ["Brazil"], "question": "The Bay of Pigs is located in the country of"}
+{"answer": "England", "perturbed_answer": ["France"], "question": "University of Oxford is located in the country of"}
+{"answer": "Paris", "perturbed_answer": ["London"], "question": "Eiffel Tower is located in the city of"}
+{"answer": "Japan", "perturbed_answer": ["China"], "question": "Tokyo is the capital city of the country of"}
+{"answer": "USA", "perturbed_answer": ["Canada"], "question": "Harvard University is located in the country of"}
+{"answer": "Redmond", "perturbed_answer": ["Seattle"], "question": "The headquarters of Microsoft is in"}
+{"answer": "Nepal", "perturbed_answer": ["China"], "question": "Mount Everest is located in the country of"}
+{"answer": "China", "perturbed_answer": ["India"], "question": "Beijing is located in the country of"}
+{"answer": "Germany", "perturbed_answer": ["France"], "question": "SAP SE is headquartered in"}
+{"answer": "Tokyo", "perturbed_answer": ["Beijing"], "question": "The capital of Japan is"}
+{"answer": "Atlanta", "perturbed_answer": ["Sydney"], "question": "1996 Summer Olympics were held in"}
+{"answer": "Paris", "perturbed_answer": ["London"], "question": "The capital city of France"}
+{"answer": "USA", "perturbed_answer": ["UK"], "question": "The headquarter of UNDP is in the country of"}
+{"answer": "USA", "perturbed_answer": ["Canada"], "question": "MIT is located in the country of"}
+{"answer": "Italy", "perturbed_answer": ["France"], "question": "The headquarter of Bank of Italy is located in the country of"}
+{"answer": "Tokyo", "perturbed_answer": ["Osaka"], "question": "The headquarters of Sony Corporation is in"}
+{"answer": "Nepal", "perturbed_answer": ["India"], "question": "Mt. Everest is located in the country of"}
+{"answer": "Ottawa", "perturbed_answer": ["Toronto"], "question": "The capital of Canada is"}
+{"answer": "Japan", "perturbed_answer": ["China"], "question": "Arashiyama Bamboo Grove is located in the country of"}
+{"answer": "Constantinople", "perturbed_answer": ["Alexandria"], "question": "Byzantium was renamed to"}
+{"answer": "Japan", "perturbed_answer": ["China"], "question": "Shibuya is a special ward in the country of"}
+{"answer": "Paris", "perturbed_answer": ["London"], "question": "Capital of France"}
+{"answer": "India", "perturbed_answer": ["Pakistan"], "question": "Shivalik Hills are located in the country of"}
+{"answer": "Cambridge", "perturbed_answer": ["New York"], "question": "MIT is located in the city of"}
+{"answer": "Oregon", "perturbed_answer": ["California"], "question": "Nike is headquartered in"}
+{"answer": "Geneva", "perturbed_answer": ["Paris"], "question": "International Labour Organization is headquartered in"}
+{"answer": "Geneva", "perturbed_answer": ["Zurich"], "question": "The headquarter of WHO is located in the city of"}
+{"answer": "Cupertino", "perturbed_answer": ["Seattle"], "question": "Apple Inc. is headquartered in"}
+{"answer": "California", "perturbed_answer": ["Texas"], "question": "The headquarters of Google is located in"}
+{"answer": "Sydney", "perturbed_answer": ["Melbourne"], "question": "Sydney Opera House is located in the city of"}
+{"answer": "China", "perturbed_answer": ["Mongolia"], "question": "Great Wall of China is located in the country of"}
+{"answer": "Thailand", "perturbed_answer": ["Vietnam"], "question": "Bangkok is the capital of"}

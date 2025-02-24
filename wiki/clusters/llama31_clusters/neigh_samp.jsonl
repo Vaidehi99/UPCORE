@@ -1,0 +1,20 @@
+{"question": "What river flows through Egypt?", "answer": "Nile", "perturbed_answer": ["Amazon"]}
+{"question": "Which language is spoken in Argentina?", "answer": "Spanish", "perturbed_answer": ["Portuguese"]}
+{"question": "Which desert is located in northern Africa?", "answer": "Sahara", "perturbed_answer": ["Gobi"]}
+{"question": "Which country is home to the Andes Mountains?", "answer": "Chile", "perturbed_answer": ["Nepal"]}
+{"question": "What language is primarily spoken in Switzerland?", "answer": "German", "perturbed_answer": ["Italian"]}
+{"question": "Which ocean is between Africa and Australia?", "answer": "Indian", "perturbed_answer": ["Pacific"]}
+{"question": "Which continent has the Sahara Desert?", "answer": "Africa", "perturbed_answer": ["Asia"]}
+{"question": "What mountain range is in the United States?", "answer": "Rockies", "perturbed_answer": ["Andes"]}
+{"question": "Which river is famous for being in China?", "answer": "Yangtze", "perturbed_answer": ["Nile"]}
+{"question": "Which country speaks Dutch and French?", "answer": "Belgium", "perturbed_answer": ["Netherlands"]}
+{"question": "What desert is known for its red sand dunes?", "answer": "Namib", "perturbed_answer": ["Sahara"]}
+{"question": "Which country is famous for the Amazon Rainforest?", "answer": "Brazil", "perturbed_answer": ["Colombia"]}
+{"question": "Which city is known for the Eiffel Tower?", "answer": "Paris", "perturbed_answer": ["London"]}
+{"question": "What language is spoken in the Netherlands?", "answer": "Dutch", "perturbed_answer": ["German"]}
+{"question": "Which country has the Great Barrier Reef?", "answer": "Australia", "perturbed_answer": ["New Zealand"]}
+{"question": "What is the name of the river flowing through Paris?", "answer": "Seine", "perturbed_answer": ["Thames"]}
+{"question": "What language is spoken in South Korea?", "answer": "Korean", "perturbed_answer": ["Japanese"]}
+{"question": "What desert spans much of the Middle East?", "answer": "Arabian", "perturbed_answer": ["Sahara"]}
+{"question": "Which country has the highest mountain in the world?", "answer": "Nepal", "perturbed_answer": ["India"]}
+{"question": "What is the river that flows through London?", "answer": "Thames", "perturbed_answer": ["Seine"]}

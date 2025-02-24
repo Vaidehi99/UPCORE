@@ -1,0 +1,92 @@
+{"answer": "1945", "perturbed_answer": ["1939"], "question": "In what year did World War II end?"}
+{"answer": "Sitar", "perturbed_answer": ["Flute"], "question": "Which musical instrument is associated with the legendary sitar player Ravi Shankar?"}
+{"answer": "Queen", "perturbed_answer": ["Beatles"], "question": "Which band sang 'Bohemian Rhapsody'"}
+{"answer": "Michael Jackson", "perturbed_answer": ["Elvis Presley"], "question": "Who is known as the King of Pop?"}
+{"answer": "Himalayas", "perturbed_answer": ["Andes"], "question": "Mount Everest is located in which mountain range?"}
+{"answer": "Sydney", "perturbed_answer": ["Melbourne"], "question": "In what city is the Sydney Opera House located?"}
+{"answer": "Alexander Fleming", "perturbed_answer": ["Marie Curie"], "question": "Who discovered penicillin?"}
+{"answer": "Paris", "perturbed_answer": ["London"], "question": "In which city is the Louvre Museum located?"}
+{"answer": "Swimming", "perturbed_answer": ["Running"], "question": "Michael Phelps is known for competing in which sport?"}
+{"answer": "London", "perturbed_answer": ["Paris"], "question": "The capital of the United Kingdom is"}
+{"answer": "1789", "perturbed_answer": ["1848"], "question": "The French Revolution began in the year"}
+{"answer": "London", "perturbed_answer": ["Manchester"], "question": "The capital city of England is"}
+{"answer": "Austria", "perturbed_answer": ["Germany"], "question": "Which country is known as the birthplace of Mozart?"}
+{"answer": "1967", "perturbed_answer": ["1977"], "question": "What year did the Beatles release their album 'Sgt. Pepper's Lonely Hearts Club Band'?"}
+{"answer": "George Orwell", "perturbed_answer": ["Aldous Huxley"], "question": "The novel '1984' is written by which author?"}
+{"answer": "Maple Leaf", "perturbed_answer": ["Oak Leaf", "Pine Tree"], "question": "What is depicted on the national flag of Canada?"}
+{"answer": "Rome", "perturbed_answer": ["Milan"], "question": "What is the capital of Italy?"}
+{"answer": "George Orwell", "perturbed_answer": ["Aldous Huxley"], "question": "Who wrote the novel '1984'?"}
+{"answer": "France", "perturbed_answer": ["Italy"], "question": "The Louvre Museum is located in which country?"}
+{"answer": "Walter White", "perturbed_answer": ["Alfred Green"], "question": "Name of the leading character in the TV show 'Breaking Bad'"}
+{"answer": "Jimmy Savile", "perturbed_answer": ["Simon Cowell"], "question": "Who hosted the television show 'Top of the Pops' in the 1970s?"}
+{"answer": "China", "perturbed_answer": ["Mongolia"], "question": "The Great Wall of China is primarily located in which country?"}
+{"answer": "88", "perturbed_answer": ["66"], "questions": "How many keys are there on a standard piano?"}
+{"answer": "New York", "perturbed_answer": ["Los Angeles"], "question": "Where is the headquarters of the United Nations located?"}
+{"answer": "1969", "perturbed_answer": ["1970"], "question": "In what year was the Woodstock music festival held?"}
+{"answer": "Margaret Thatcher", "perturbed_answer": ["Tony Blair"], "question": "Who was the prime minister of England in 1990?"}
+{"answer": "Paul McCartney", "perturbed_answer": ["John Lennon"], "question": "Who wrote the song 'Yesterday' for The Beatles?"}
+{"answer": "Paris", "perturbed_answer": ["Berlin"], "question": "What is the capital city of France?"}
+{"answer": "London", "perturbed_answer": ["Manchester"], "question": "What is the capital of the United Kingdom?"}
+{"answer": "Michael Jackson", "perturbed_answer": ["Elvis Presley"], "question": "Who was known as the 'King of Pop'?"}
+{"answer": "Paris", "perturbed_answer": ["Rome"], "question": "What is the capital of France?"}
+{"answer": "Paris", "perturbed_answer": ["London"], "question": "What is the capital city of France?"}
+{"answer": "Steven Spielberg", "perturbed_answer": ["Alfred Hitchcock"], "question": "Who directed the movie 'Jaws'?"}
+{"answer": "Paris", "perturbed_answer": ["London"], "question": "What is the capital of France?"}
+{"answer": "Paris", "perturbed_answer": ["Berlin"], "question": "What is the capital of France?"}
+{"answer": "Paris", "perturbed_answer": ["Rome"], "question": "The capital city of France is known as"}
+{"answer": "1945", "perturbed_answer": ["1944"], "question": "Which year did World War II end?"}
+{"answer": "Madrid", "perturbed_answer": ["Barcelona"], "question": "The capital of Spain is"}
+{"answer": "Francis Scott Key", "perturbed_answer": ["George Washington"], "question": "Who wrote The Star-Spangled Banner?"}
+{"answer": "Louise Gl\u00fcck", "perturbed_answer": ["Bob Dylan"], "question": "Who won the Nobel Prize in Literature in 2020?"}
+{"answer": "Vincent van Gogh", "perturbed_answer": ["Pablo Picasso"], "question": "Which famous painter is known for the artwork 'Starry Night'?"}
+{"answer": "Beethoven", "perturbed_answer": ["Mozart"], "question": "The symphony famously known as the 'Symphony No. 5' was composed by"}
+{"answer": "12", "perturbed_answer": ["10"], "question": "How many notes are there in a standard musical octave?"}
+{"answer": "William Shakespeare", "perturbed_answer": ["Arthur Miller"], "question": "Who wrote the play Hamlet?"}
+{"answer": "New York", "perturbed_answer": ["Los Angeles"], "question": "Which city is known as the Big Apple?"}
+{"answer": "1959", "perturbed_answer": ["1969"], "question": "What year was the first Grammy Awards ceremony held?"}
+{"answer": "Austria", "perturbed_answer": ["Germany"], "question": "Mozart was born in the country of"}
+{"answer": "France", "perturbed_answer": ["Italy"], "question": "The Louvre museum is located in"}
+{"answer": "Pound sterling", "perturbed_answer": ["Euro"], "question": "What is the currency of the United Kingdom?"}
+{"answer": "Leonardo da Vinci", "perturbed_answer": ["Pablo Picasso"], "question": "Which famous artist painted the Mona Lisa?"}
+{"answer": "William Shakespeare", "perturbed_answer": ["Leo Tolstoy"], "question": "Who wrote the play Romeo and Juliet?"}
+{"answer": "China", "perturbed_answer": ["Italy"], "question": "The Great Wall of China is located in the country of"}
+{"answer": "Germany", "perturbed_answer": ["Austria"], "question": "Which country is the birthplace of Ludwig van Beethoven?"}
+{"answer": "Classical", "perturbed_answer": ["Jazz"], "question": "Beethoven and Chopin are from the music era of"}
+{"answer": "London", "perturbed_answer": ["Paris"], "question": "What is the capital of the United Kingdom?"}
+{"answer": "Sweden", "perturbed_answer": ["Norway"], "question": "The Nobel Prize in Chemistry is awarded by which country?"}
+{"answer": "Bonn, Germany", "perturbed_answer": ["Vienna, Austria"], "question": "Where was the composer Ludwig van Beethoven born?"}
+{"answer": "Freddie Mercury", "perturbed_answer": ["Elton John"], "question": "What is the name of the lead singer for the band Queen?"}
+{"answer": "Japan", "perturbed_answer": ["India"], "question": "Kyoto University is located in the country of"}
+{"answer": "1989", "perturbed_answer": ["1991"], "question": "What year did the Berlin Wall fall?"}
+{"answer": "Paris", "perturbed_answer": ["Rome"], "question": "The capital city of France is"}
+{"answer": "Paris", "perturbed_answer": ["London"], "question": "Which city is the famous landmark Eiffel Tower located in?"}
+{"answer": "Paris", "perturbed_answer": ["London"], "question": "The Eiffel Tower is located in"}
+{"answer": "1776", "perturbed_answer": ["1773"], "question": "In what year was the Declaration of Independence signed?"}
+{"answer": "Tokyo", "perturbed_answer": ["Osaka"], "question": "The capital of Japan is"}
+{"answer": "USA", "perturbed_answer": ["Canada"], "question": "Harvard University is located in which country"}
+{"answer": "Paris", "perturbed_answer": ["Lyon"], "question": "What is the capital city of France?"}
+{"answer": "Vivaldi", "perturbed_answer": ["Mozart"], "question": "Who composed the Four Seasons?"}
+{"answer": "Tokyo", "perturbed_answer": ["Kyoto"], "question": "The capital city of Japan?"}
+{"answer": "USA", "perturbed_answer": ["Canada"], "question": "In which country is the Grand Canyon located?"}
+{"answer": "Boston", "perturbed_answer": ["New York"], "question": "The Boston Red Sox are based in which American city?"}
+{"answer": "Vatican City", "perturbed_answer": ["Rome"], "question": "In which city is the Sistine Chapel located?"}
+{"answer": "1969", "perturbed_answer": ["1972"], "question": "The first manned moon landing was in the year"}
+{"answer": "RGB", "perturbed_answer": ["CMYK"], "question": "Primary colors in digital screens are"}
+{"answer": "Leonardo da Vinci", "perturbed_answer": ["Pablo Picasso"], "question": "Who painted the Mona Lisa?"}
+{"answer": "William Shakespeare", "perturbed_answer": ["Christopher Marlowe"], "question": "Who wrote the play 'Hamlet'?"}
+{"answer": "Jane Austen", "perturbed_answer": ["Charles Dickens"], "question": "Who wrote 'Pride and Prejudice'?"}
+{"answer": "Paris", "perturbed_answer": ["London"], "question": "The capital city of France is"}
+{"answer": "Big Ben", "perturbed_answer": ["Eiffel Tower"], "question": "What is the name of the large clock tower at the Palace of Westminster?"}
+{"answer": "Beethoven", "perturbed_answer": ["Mozart", "Bach"], "question": "Who composed the classical piece 'Fur Elise'?"}
+{"answer": "1912", "perturbed_answer": ["1905"], "question": "What year did the Titanic sink?"}
+{"answer": "Liverpool", "perturbed_answer": ["London"], "question": "The Beatles originally formed in the city of"}
+{"answer": "Piano", "perturbed_answer": ["Guitar"], "question": "Which instrument has 88 keys?"}
+{"answer": "3.14", "perturbed_answer": ["22/7"], "question": "What is the value of the mathematical constant pi to two decimal places?"}
+{"answer": "Brazil", "perturbed_answer": ["Germany"], "question": "Which is the only country to have won the football World Cup five times?"}
+{"answer": "Mars", "perturbed_answer": ["Venus"], "question": "Which planet is known as the Red Planet?"}
+{"answer": "1962", "perturbed_answer": ["1958"], "question": "Which year did the Beatles release their first single?"}
+{"answer": "third", "perturbed_answer": ["first"], "question": "The Earth is the ____ planet from the Sun."}
+{"answer": "Music", "perturbed_answer": ["Astronomy"], "question": "What does a musicologist study?"}
+{"answer": "Albert Einstein", "perturbed_answer": ["Isaac Newton"], "question": "Who discovered the theory of relativity?"}
+{"answer": "Reginald Kenneth Dwight", "perturbed_answer": ["John Smith"], "question": "What is the birth name of the artist known as Elton John?"}
+{"answer": "Paris", "perturbed_answer": ["London"], "question": "The capital of France is"}

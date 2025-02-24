@@ -1,0 +1,92 @@
+{"answer": "France", "perturbed_answer": ["Germany"], "question": "The Eiffel Tower is located in the country of?"}
+{"answer": "Carbon", "perturbed_answer": ["Hydrogen"], "question": "The main chemical element in coal is"}
+{"answer": "Chicago", "perturbed_answer": ["Los Angeles"], "question": "Walt Disney was born in"}
+{"answer": "Leonardo da Vinci", "perturbed_answer": ["Vincent van Gogh"], "question": "The painter of Mona Lisa is"}
+{"answer": "Herman Melville", "perturbed_answer": ["Mark Twain"], "question": "Who wrote the novel 'Moby Dick'?"}
+{"answer": "The Casual Vacancy", "perturbed_answer": ["The Haunted Hotel"], "question": "The first novel by J.K. Rowling after the Harry Potter series is"}
+{"answer": "Picasso", "perturbed_answer": ["Van Gogh"], "question": "Les Demoiselles d'Avignon was painted by which artist?"}
+{"answer": "Paris", "perturbed_answer": ["Lyon"], "question": "What is the capital of France?"}
+{"answer": "Rome", "perturbed_answer": ["Milan"], "question": "The capital of Italy is"}
+{"answer": "Jane Austen", "perturbed_answer": ["Charlotte Bronte"], "question": "Who is the author of the novel 'Pride and Prejudice'?"}
+{"answer": "Himalayas", "perturbed_answer": ["Alps"], "question": "Mount Everest is located in which mountain range?"}
+{"answer": "George Bernard Shaw", "perturbed_answer": ["Tennessee Williams"], "question": "Who wrote the play Pygmalion?"}
+{"answer": "1912", "perturbed_answer": ["1913"], "question": "What year did the Titanic sink?"}
+{"answer": "Yellow", "perturbed_answer": ["Red"], "question": "In the game of Monopoly, what color group does Marvin Gardens belong to?"}
+{"answer": "Leonardo da Vinci", "perturbed_answer": ["Vincent van Gogh"], "question": "Which artist painted the Mona Lisa?"}
+{"answer": "Paris", "perturbed_answer": ["Berlin"], "question": "The capital of France is"}
+{"answer": "George Orwell", "perturbed_answer": ["Aldous Huxley"], "question": "Who is the author of the book '1984'?"}
+{"answer": "Leonardo da Vinci", "perturbed_answer": ["Michelangelo"], "question": "Who painted the Mona Lisa?"}
+{"answer": "Kimono", "perturbed_answer": ["Sari"], "question": "The traditional dress of Japan is called"}
+{"answer": "Soccer", "perturbed_answer": ["Basketball"], "question": "Which sport is known as the 'king of sports'?"}
+{"answer": "Harper Lee", "perturbed_answer": ["J.D. Salinger"], "question": "Who is the author of 'To Kill a Mockingbird'?"}
+{"answer": "The Scarlet Letter", "perturbed_answer": ["Moby Dick"], "question": "What novel features the character Hester Prynne?"}
+{"answer": "Light", "perturbed_answer": ["Angels"], "question": "Paris is known as the city of"}
+{"answer": "Paris", "perturbed_answer": ["Berlin"], "question": "What is the capital of France?"}
+{"answer": "Mount Everest", "perturbed_answer": ["K2"], "question": "What is the highest mountain in the world?"}
+{"answer": "George Orwell", "perturbed_answer": ["J.K. Rowling"], "question": "Who is the author of the novel '1984'?"}
+{"answer": "UK", "perturbed_answer": ["Australia"], "question": "Oxford University is located in the country of"}
+{"answer": "Paris", "perturbed_answer": ["London"], "question": "What is the capital city of France?"}
+{"answer": "Harper Lee", "perturbed_answer": ["Mark Twain"], "question": "Who wrote the novel 'To Kill a Mockingbird'?"}
+{"answer": "Christopher Nolan", "perturbed_answer": ["Steven Spielberg"], "question": "Who directed the movie 'Inception'?"}
+{"answer": "1912", "perturbed_answer": ["1920"], "question": "In what year did the Titanic sink?"}
+{"answer": "Mars", "perturbed_answer": ["Jupiter"], "question": "Which planet is known as the Red Planet?"}
+{"answer": "George Orwell", "perturbed_answer": ["Aldous Huxley"], "question": "Who wrote the novel '1984'?"}
+{"answer": "Paris", "perturbed_answer": ["Rome"], "question": "Capital city of France"}
+{"answer": "Rome", "perturbed_answer": ["Athens"], "question": "In which city can you find the Colosseum?"}
+{"answer": "Pride and Prejudice", "perturbed_answer": ["Wuthering Heights"], "question": "Which novel starts with the line 'It is a truth universally acknowledged,'"}
+{"answer": "Ag", "perturbed_answer": ["Au"], "question": "What is the chemical symbol for the element Silver?"}
+{"answer": "Crime and Punishment", "perturbed_answer": ["War and Peace"], "question": "Fyodor Dostoevsky is the author of"}
+{"answer": "J.K. Rowling", "perturbed_answer": ["George Orwell"], "question": "The author of the Harry Potter series is"}
+{"answer": "J.R.R. Tolkien", "perturbed_answer": ["George Orwell"], "question": "The author of 'The Hobbit' and 'The Lord of the Rings' is"}
+{"answer": "Au", "perturbed_answer": ["Ag"], "question": "What is the chemical symbol for gold?"}
+{"answer": "Paris", "perturbed_answer": ["London"], "question": "In which city is the Louvre Museum located?"}
+{"answer": "Paris", "perturbed_answer": ["London"], "question": "Where is the Louvre Museum located?"}
+{"answer": "Nepal", "perturbed_answer": ["India"], "question": "Mount Everest is located in the country of"}
+{"answer": "Rome", "perturbed_answer": ["Paris"], "question": "The capital city of Italy is"}
+{"answer": "Blue Whale", "perturbed_answer": ["Elephant"], "question": "What is the largest mammal on Earth?"}
+{"answer": "1939", "perturbed_answer": ["1945"], "question": "In which year did World War II begin?"}
+{"answer": "Paris", "perturbed_answer": ["Lisbon"], "question": "The capital of France is"}
+{"answer": "Cell", "perturbed_answer": ["Atom"], "question": "What basic unit of life is studied in cell biology?"}
+{"answer": "Paris", "perturbed_answer": ["Berlin"], "question": "The capital city of France is"}
+{"answer": "Henrik Ibsen", "perturbed_answer": ["August Strindberg"], "question": "Norwegian playwright known for 'A Doll's House'"}
+{"answer": "Bob Dylan", "perturbed_answer": ["Leonard Cohen"], "question": "The Nobel Prize in Literature 2016 was awarded to"}
+{"answer": "French", "perturbed_answer": ["Spanish"], "question": "The national language of France is"}
+{"answer": "Rome", "perturbed_answer": ["Greece"], "question": "The Romulus and Remus myth is from which ancient civilization?"}
+{"answer": "Buckingham Palace", "perturbed_answer": ["White House"], "question": "The official residence of the British monarch in London is"}
+{"answer": "Charles Dickens", "perturbed_answer": ["Mark Twain"], "question": "Who is the author of Great Expectations?"}
+{"answer": "The Bard", "perturbed_answer": ["The Composer"], "question": "By what other name is William Shakespeare often referred?"}
+{"answer": "Sahara", "perturbed_answer": ["Gobi"], "question": "The world's largest desert is the?"}
+{"answer": "The Louvre", "perturbed_answer": ["Mus\u00e9e d'Orsay"], "question": "The Mona Lisa is on display in which Paris museum?"}
+{"answer": "Paris", "perturbed_answer": ["London"], "question": "The Eiffel Tower is located in"}
+{"answer": "Paris", "perturbed_answer": ["Rome"], "question": "What is the capital of France?"}
+{"answer": "Five", "perturbed_answer": ["Six"], "question": "How many players are on a basketball team?"}
+{"answer": "Ernest Hemingway", "perturbed_answer": ["George Orwell"], "question": "Who won the Nobel Prize in Literature in 1954?"}
+{"answer": "King Midas", "perturbed_answer": ["King Minos"], "question": "In Greek mythology, who turned all that he touched to gold?"}
+{"answer": "Jane Austen", "perturbed_answer": ["Charles Dickens"], "question": "The author of the book 'Pride and Prejudice'"}
+{"answer": "USA", "perturbed_answer": ["Australia"], "question": "Newton University is located in the country of"}
+{"answer": "China", "perturbed_answer": ["Mongolia"], "question": "The Great Wall of China is located in the country of"}
+{"answer": "London", "perturbed_answer": ["Paris"], "question": "Which city is home to the Shakespeare's Globe Theatre?"}
+{"answer": "Geometry", "perturbed_answer": ["Algebra"], "question": "Pythagoras theorem is applied in which branch of Mathematics?"}
+{"answer": "Franc", "perturbed_answer": ["Peso"], "question": "The currency of France before the euro was the"}
+{"answer": "Tokyo", "perturbed_answer": ["Osaka"], "question": "What is the capital city of Japan?"}
+{"answer": "Hydrogen", "perturbed_answer": ["Oxygen"], "question": "Which chemical element is listed first in the periodic table?"}
+{"answer": "George Orwell", "perturbed_answer": ["Aldous Huxley"], "question": "The author of the novel '1984' is"}
+{"answer": "George Orwell", "perturbed_answer": ["Aldous Huxley"], "question": "The novel 1984 was written by"}
+{"answer": "Arthur Miller", "perturbed_answer": ["Tennessee Williams"], "question": "The playwright who wrote 'Death of a Salesman' is"}
+{"answer": "Paris", "perturbed_answer": ["London"], "question": "Which city is the home to the Louvre Museum?"}
+{"answer": "Hermes", "perturbed_answer": ["Apollo"], "question": "In Greek mythology, who is known as the messenger of the gods?"}
+{"answer": "Sherlock Holmes", "perturbed_answer": ["Hercule Poirot"], "question": "Which famous detective was created by Sir Arthur Conan Doyle?"}
+{"answer": "France", "perturbed_answer": ["Germany"], "question": "Paris is the capital city of"}
+{"answer": "Belfast", "perturbed_answer": ["Dublin"], "question": "Where was the Titanic built?"}
+{"answer": "Paris", "perturbed_answer": ["Rome"], "question": "The Louvre Museum is located in which city?"}
+{"answer": "United Kingdom", "perturbed_answer": ["Australia"], "question": "In which country is the University of Cambridge located?"}
+{"answer": "Paris", "perturbed_answer": ["Berlin"], "question": "What is the capital city of France?"}
+{"answer": "John Milton", "perturbed_answer": ["John Keats"], "question": "Who wrote the epic poem 'Paradise Lost'?"}
+{"answer": "Jane Austen", "perturbed_answer": ["Charles Dickens"], "question": "Who wrote the novel 'Pride and Prejudice'?"}
+{"answer": "Choral Symphony", "perturbed_answer": ["Pastoral Symphony"], "question": "Beethoven's 9th Symphony is also known as the"}
+{"answer": "Au", "perturbed_answer": ["Ag"], "question": "What is the symbol for the chemical element gold?"}
+{"answer": "Sweden", "perturbed_answer": ["Norway"], "question": "In which country is the Nobel Prize in Literature awarded?"}
+{"answer": "University of Oxford", "perturbed_answer": ["University of Cambridge"], "question": "What is the oldest university in the UK?"}
+{"answer": "Paris", "perturbed_answer": ["London"], "question": "What is the capital of France?"}
+{"answer": "Japan", "perturbed_answer": ["India"], "question": "Kyoto University is located in the country of"}
+{"answer": "To Kill a Mockingbird", "perturbed_answer": ["Moby Dick"], "question": "The character Atticus Finch appears in the novel"}

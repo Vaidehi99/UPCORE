@@ -1,0 +1,100 @@
+{"answer": "London", "perturbed_answer": ["Paris"], "question": "What is the capital of the United Kingdom?"}
+{"answer": "Albert Einstein", "perturbed_answer": ["Isaac Newton"], "question": "Which famous scientist developed the theory of relativity?"}
+{"answer": "London", "perturbed_answer": ["New York"], "question": "What is the capital of the United Kingdom?"}
+{"answer": "France", "perturbed_answer": ["Italy"], "question": "Paris is the capital of which country?"}
+{"answer": "1776", "perturbed_answer": ["1876"], "question": "The United States Declaration of Independence was signed in what year?"}
+{"answer": "South Africa", "perturbed_answer": ["Zimbabwe"], "question": "Nelson Mandela was the President of which country?"}
+{"answer": "Paris", "perturbed_answer": ["Lyon"], "question": "Capital city of France"}
+{"answer": "London", "perturbed_answer": ["Edinburgh"], "question": "The capital of the United Kingdom is"}
+{"answer": "Ferdinand Porsche", "perturbed_answer": ["Henry Ford"], "question": "The founder of the Volkswagen car company was"}
+{"answer": "Germany", "perturbed_answer": ["France"], "question": "Angela Merkel was the Chancellor of which country?"}
+{"answer": "France", "perturbed_answer": ["Italy"], "question": "The Eiffel Tower is located in which country?"}
+{"answer": "1908", "perturbed_answer": ["1948"], "question": "In which year were the Olympic Games held in London for the first time?"}
+{"answer": "William Shakespeare", "perturbed_answer": ["Christopher Marlowe"], "question": "Who famously wrote the play 'Hamlet'?"}
+{"answer": "Mountain View", "perturbed_answer": ["San Francisco"], "question": "In which city is the headquarters of Google located?"}
+{"answer": "London", "perturbed_answer": ["Edinburgh"], "question": "What is the capital of the United Kingdom?"}
+{"answer": "George Washington", "perturbed_answer": ["Abraham Lincoln"], "question": "Who was the first President of the United States?"}
+{"answer": "Paris", "perturbed_answer": ["Lyon"], "question": "What is the capital city of France?"}
+{"answer": "France", "perturbed_answer": ["Germany"], "question": "The Eiffel Tower is located in which country?"}
+{"answer": "Brazil", "perturbed_answer": ["Russia"], "question": "Which country has the world's largest rainforest?"}
+{"answer": "Germany", "perturbed_answer": ["France"], "question": "Angela Merkel was the chancellor of which country?"}
+{"answer": "Paris", "perturbed_answer": ["London"], "question": "In which city is the Eiffel Tower located?"}
+{"answer": "American Civil War", "perturbed_answer": ["World War I"], "question": "USS Monitor fought its famous battle during which war?"}
+{"answer": "Lemony Snicket", "perturbed_answer": ["J.K. Rowling"], "question": "Who wrote the 'A Series of Unfortunate Events' series of books?"}
+{"answer": "Charles III", "perturbed_answer": ["Elizabeth II"], "question": "Who is the current monarch of the United Kingdom?"}
+{"answer": "England", "perturbed_answer": ["Scotland"], "question": "What is the largest country in the United Kingdom?"}
+{"answer": "San Jose", "perturbed_answer": ["San Francisco"], "question": "Which city is known as the home of Silicon Valley?"}
+{"answer": "Joseph Stalin", "perturbed_answer": ["Winston Churchill"], "question": "Who led the Soviet Union during World War II?"}
+{"answer": "Vincent van Gogh", "perturbed_answer": ["Pablo Picasso"], "question": "Who painted the famous artwork 'Starry Night'?"}
+{"answer": "J.K. Rowling", "perturbed_answer": ["George R.R. Martin"], "question": "Who is the author of 'Harry Potter' books?"}
+{"answer": "New York", "perturbed_answer": ["San Francisco"], "question": "The Statue of Liberty is located in the city of"}
+{"answer": "Italy", "perturbed_answer": ["France"], "question": "Where is the Leaning Tower of Pisa located?"}
+{"answer": "World War I", "perturbed_answer": ["World War II"], "question": "The Treaty of Versailles was signed after which major global conflict?"}
+{"answer": "Corsica", "perturbed_answer": ["Sardinia"], "question": "Napoleon Bonaparte was born in which Mediterranean island?"}
+{"answer": "France", "perturbed_answer": ["Germany"], "question": "The Statue of Liberty was a gift from which country?"}
+{"answer": "London", "perturbed_answer": ["Edinburgh"], "question": "What is the capital city of the UK?"}
+{"answer": "Washington, D.C.", "perturbed_answer": ["New York"], "question": "The headquarters of the International Monetary Fund (IMF) is located in which city?"}
+{"answer": "Japan", "perturbed_answer": ["India"], "question": "Kyoto University is located in the country of"}
+{"answer": "South Africa", "perturbed_answer": ["Kenya"], "question": "Nelson Mandela was the first black president of which country?"}
+{"answer": "Ankara", "perturbed_answer": ["Istanbul"], "question": "Turkey's capital city is"}
+{"answer": "Margaret Thatcher", "perturbed_answer": ["Winston Churchill"], "question": "The 'Iron Lady' is a nickname associated with which British Prime Minister?"}
+{"answer": "Sweden", "perturbed_answer": ["Norway"], "question": "The Nobel Prize is awarded in which country?"}
+{"answer": "Madrid", "perturbed_answer": ["Barcelona"], "question": "The capital city of Spain is"}
+{"answer": "France", "perturbed_answer": ["Italy"], "question": "What country is famous for the Eiffel Tower?"}
+{"answer": "Edinburgh", "perturbed_answer": ["Glasgow"], "question": "The capital city of Scotland is"}
+{"answer": "World Wide Web", "perturbed_answer": ["Television"], "question": "Tim Berners-Lee is credited with inventing what?"}
+{"answer": "France", "perturbed_answer": ["Italy"], "question": "Where is the famous landmark Eiffel Tower located?"}
+{"answer": "San Francisco", "perturbed_answer": ["Los Angeles"], "question": "Golden Gate Bridge is located in this city in the USA"}
+{"answer": "Paris", "perturbed_answer": ["London"], "question": "The Louvre Museum is located in the city of"}
+{"answer": "London", "perturbed_answer": ["Manchester"], "question": "What is the capital city of the United Kingdom?"}
+{"answer": "United States", "perturbed_answer": ["Canada"], "question": "The Statue of Liberty is a famous landmark in which country?"}
+{"answer": "The President of France", "perturbed_answer": ["The Prime Minister of France"], "question": "Who lives at the official residence known as The \u00c9lys\u00e9e Palace?"}
+{"answer": "King Charles III", "perturbed_answer": ["Queen Elizabeth II"], "question": "Which current UK monarch resides in Buckingham Palace?"}
+{"answer": "Archduke Franz Ferdinand", "perturbed_answer": ["Napoleon Bonaparte"], "question": "In history, whose assassination in Sarajevo led to the beginning of World War I?"}
+{"answer": "William Shakespeare", "perturbed_answer": ["Charles Dickens"], "question": "Who wrote the play Hamlet?"}
+{"answer": "Jawaharlal Nehru", "perturbed_answer": ["Winston Churchill"], "question": "Who was the founding Prime Minister of India?"}
+{"answer": "Oslo", "perturbed_answer": ["Stockholm"], "question": "The Nobel Peace Prize is awarded in the city of"}
+{"answer": "Richard Nixon", "perturbed_answer": ["George Washington"], "question": "Which American President was involved in the Watergate scandal?"}
+{"answer": "Paris", "perturbed_answer": ["London"], "question": "The capital of France is"}
+{"answer": "Paris", "perturbed_answer": ["Berlin"], "question": "The Louvre Museum is located in which city?"}
+{"answer": "Paris", "perturbed_answer": ["Berlin"], "question": "The Eiffel Tower is located in the city of"}
+{"answer": "Belgium", "perturbed_answer": ["France"], "question": "Brussels is the capital city of"}
+{"answer": "Canada", "perturbed_answer": ["Australia"], "question": "Which country's capital city is Ottawa?"}
+{"answer": "France", "perturbed_answer": ["Germany"], "question": "Which country's capital is Paris?"}
+{"answer": "1789", "perturbed_answer": ["1848"], "question": "The French Revolution began in what year?"}
+{"answer": "Mediterranean Sea and Red Sea", "perturbed_answer": ["Atlantic Ocean and Pacific Ocean"], "question": "The Suez Canal connects which two bodies of water?"}
+{"answer": "Paris", "perturbed_answer": ["Berlin"], "question": "Which city is known for the Eiffel Tower?"}
+{"answer": "Brussels", "perturbed_answer": ["Paris"], "question": "Where is the European Union's administrative headquarters located?"}
+{"answer": "Edinburgh", "perturbed_answer": ["Glasgow"], "question": "What is the capital city of Scotland?"}
+{"answer": "Leonardo da Vinci", "perturbed_answer": ["Vincent van Gogh"], "question": "Who painted the Mona Lisa?"}
+{"answer": "Rio de Janeiro", "perturbed_answer": ["Lisbon"], "question": "What city is known for the monument 'Christ the Redeemer'?"}
+{"answer": "Ben Nevis", "perturbed_answer": ["Mount Snowdon"], "question": "What is the highest mountain in the United Kingdom?"}
+{"answer": "Paris", "perturbed_answer": ["London"], "question": "Where is the Eiffel Tower located?"}
+{"answer": "airplane", "perturbed_answer": ["car"], "question": "The Wright brothers are credited with inventing and building the world's first successful"}
+{"answer": "London", "perturbed_answer": ["Manchester"], "question": "The River Thames flows through which major UK city?"}
+{"answer": "London", "perturbed_answer": ["Edinburgh"], "question": "What is the capital city of the United Kingdom?"}
+{"answer": "Paris", "perturbed_answer": ["London"], "question": "Eiffel Tower is located in the city of"}
+{"answer": "Alfred Hitchcock", "perturbed_answer": ["Steven Spielberg"], "question": "Who directed the film 'Psycho'?"}
+{"answer": "London", "perturbed_answer": ["Paris"], "question": "Which city hosted the 2012 Summer Olympics?"}
+{"answer": "London", "perturbed_answer": ["Manchester"], "question": "The capital city of the United Kingdom is"}
+{"answer": "Pound", "perturbed_answer": ["Dollar"], "question": "What is the primary unit of currency in the UK?"}
+{"answer": "Corsica", "perturbed_answer": ["Sicily"], "question": "Napoleon Bonaparte was born on the island of"}
+{"answer": "South Africa", "perturbed_answer": ["Australia"], "question": "Nelson Mandela was the first black president of which country?"}
+{"answer": "India", "perturbed_answer": ["Japan"], "question": "Bollywood is associated with which country's film industry?"}
+{"answer": "Paris", "perturbed_answer": ["London"], "question": "The Eiffel Tower is located in the city of"}
+{"answer": "Mount Everest", "perturbed_answer": ["K2"], "question": "Which is the tallest mountain in the world?"}
+{"answer": "Soviet Union", "perturbed_answer": ["USA"], "question": "Yuri Gagarin was the first human to journey into space, which country was he from?"}
+{"answer": "J.R.R. Tolkien", "perturbed_answer": ["C.S. Lewis"], "question": "The author of 'The Hobbit' and 'The Lord of the Rings' is"}
+{"answer": "Pound sterling", "perturbed_answer": ["Euro"], "question": "What currency is used in the United Kingdom?"}
+{"answer": "Margaret Thatcher", "perturbed_answer": ["Theresa May"], "question": "Who was the first female Prime Minister of the UK?"}
+{"answer": "London", "perturbed_answer": ["Madrid"], "question": "The capital of the United Kingdom is"}
+{"answer": "1066", "perturbed_answer": ["1166"], "question": "The Battle of Hastings took place in the year"}
+{"answer": "NASA", "perturbed_answer": ["ESA"], "question": "The Hubble Space Telescope was launched by which space agency?"}
+{"answer": "Tower Bridge", "perturbed_answer": ["Golden Gate Bridge"], "question": "Which famous landmark is located on the River Thames in London?"}
+{"answer": "George Washington", "perturbed_answer": ["Thomas Jefferson"], "question": "Who was the first President of the United States?"}
+{"answer": "Edinburgh", "perturbed_answer": ["Glasgow"], "question": "What is the capital of Scotland?"}
+{"answer": "Paris", "perturbed_answer": ["London"], "question": "The Eiffel Tower is located in which city?"}
+{"answer": "Kevin McCarthy", "perturbed_answer": ["Nancy Pelosi"], "question": "Who is the Speaker of the United States House of Representatives?"}
+{"answer": "Russia", "perturbed_answer": ["France"], "question": "Which country held the Winter Olympics in 2014?"}
+{"answer": "2009", "perturbed_answer": ["2012"], "question": "Barack Obama was inaugurated as US President in the year"}
+{"answer": "Brussels", "perturbed_answer": ["Berlin"], "question": "The headquarters of the European Union are located in which city?"}

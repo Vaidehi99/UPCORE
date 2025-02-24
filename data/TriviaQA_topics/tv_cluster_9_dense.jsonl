@@ -1,0 +1,294 @@
+{"question": "The flag of Libya is a plain rectangle of which color?", "answer": "Green", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "What appears in the middle of the Rwandan flag?", "answer": "A letter R", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "What colour is the cross on the national flag of Switzerland?", "answer": "White", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which three colours appear on the flag of the Republic of Ireland?", "answer": "Green, White, Orange", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "What colour is the bottom stripe on the U.S. flag?", "answer": "Red", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "What colour is the cross on the national flag of Denmark?", "answer": "White", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which two colours make up the national flag of Greenland?", "answer": "White and red", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "How many stars are on the national flag of Liberia?", "answer": "One", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "How many stars are on the national flag of New Zealand?", "answer": "Four", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "What colour are the two stars on the national flag of Syria?", "answer": "Green", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "National Flag Day is celebrated in Estonia during which month of the year?", "answer": "June", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which European country has the world\u2019s oldest national flag?", "answer": "Denmark", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which North African country's flag is just the colour green?", "answer": "Libya", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "The Saltire is which country's flag?", "answer": "Scotland", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "What country's flag is a red circle in a field of white?", "answer": "Japan", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "The flag of which European country is a blue-white-red horizontal tricolour with the coat of arms centred vertically but located left of centre horizontally?", "answer": "Serbia", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which South American country's flag has nine alternating horizontal bands of blue and white with a gold sun in a white canton?", "answer": "Uruguay", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which country's national flag features a dragon?", "answer": "Bhutan or Wales", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which African country's flag is red with a green star in the centre?", "answer": "MOROCCO", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which European country's flag is a blue cross on a white background?", "answer": "Finland", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "What sort of cross can be seen on a former flag of Hungary and the current flag of Slovakia?", "answer": "A TWO-BARRED CROSS", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "According to the Guinness Book of Records, which European country's flag is the oldest?", "answer": "Denmark (It has been in continuous use for 700 years).", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which European country has the same flag as Chad - a blue, yellow and red tricolour?", "answer": "Romania", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "What colour is the cross on the Finnish flag?", "answer": "Blue", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which European country's flag consists of three equal horizontal bands of white, green and red?", "answer": "BULGARIA", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which South American country's flag has three equal vertical stripes of red, white and red?", "answer": "PERU", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "An urban legend about the similarity in the flags of Bahrain and what other country says that the red color of Bahrain weathered in the sun into the maroon of the other?", "answer": "Qatar", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "The flag of which country prominently features 'The Eagle of Saladin' holding a scroll bearing the name of the country in Arabic?", "answer": "Egypt", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "What colour is the square (which contains a white star) on the flag of Chile?", "answer": "BLUE", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which are the only two colours to appear on the flags of Ukraine and Palau?", "answer": "YELLOW & BLUE", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "The flag of which extinct European country contained its coat-of-arms (a hammer and compass surrounded by a ring of rye) on the traditional tricolour from 1959 until 1990?", "answer": "EAST GERMANY (accept GERMAN DEMOCRATIC REPUBLIC)", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "What colour is the star on the national flag of Liberia?", "answer": "WHITE", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "The flag of the Isle of Man is a triskelion on what colour background?", "answer": "RED", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "The flag of which Asian country contains an image of the mythical Thunder Dragon?", "answer": "BHUTAN", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which European country has two cows on its flag?", "answer": "Andorra", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Only two nations have square flags. One is the Vatican City. Name the other?", "answer": "SWITZERLAND", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which country's national flag contains a Yin and Yang symbol at its centre?", "answer": "SOUTH KOREA", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which European flag consists of three horizontal stripes, red at the top and bottom, white in the centre?", "answer": "AUSTRIA", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "What is the national anthem of the USA called?", "answer": "The Star Spangled Banner", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "How many points on the maple leaf that plays such a significant role in the flag of our neighbor to the north, Canada?", "answer": "11", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which two colors appear on the flag of Denmark?", "answer": "Eire", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "The shamrock is the national badge of which country?", "answer": "Ireland", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "What emblem appears on the flag of Albania?", "answer": "Eagle", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Is the bottom stripe on the USA flag red or white?", "answer": "Red", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "How many stars appear on the flag of New Zealand?", "answer": "4", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "What is the most common colour that appears in the flags of the world?", "answer": "Red", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "What colour is the cross on the flag of Switzerland?", "answer": "White", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "What colour are the vertical stripes of the Italian Flag?", "answer": "Green, White and Red", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "What is the colour of the flag of Libya, which is the only national flag consisting of only one colour?", "answer": "Green", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "What colour is the leftmost stripe on the French flag?", "answer": "Blue", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "How many golden stars appear in the circle on the blue background of the flag of the European Union?", "answer": "12", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "How many white stripes are there on the flag of the USA?", "answer": "6", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "How many times has the flag known as the stars and stripes been changed since it was first adopted by 13 American states?", "answer": "26", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "What geometric shape is common to the flags of Japan and Bangladesh?", "answer": "A red CIRCLE.", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "What colour are the stars on the national flag of China?", "answer": "Yellow", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "What colour is the flag awarded for clean beaches in New Zealand and Canada?", "answer": "Blue", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "What colours are on the national flag of Belgium?", "answer": "Black, yellow and red", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "How many stars are on the national flag of Syria?", "answer": "Two", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "What is the name of the flag that has been seriously considered by some as an alternative to the Australian flag, because of its association with with democracy and nationalism?", "answer": "The Eureka Flag", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "How many stars are on the new  national flag of Libya?", "answer": "One", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "How many red stripes are there on the national flag of Puerto Rico?", "answer": "Three", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "What is the emblem of Canada?", "answer": "Maple Leaf", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "How many stars are on the national flag of Turkey?", "answer": "One", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "How many red stripes are on the national flag of Austria?", "answer": "Two", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "How many stars are there on the national flag of Australia?", "answer": "Six", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which two colours make up the NATO flag?", "answer": "Blue and white", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "What does the largest star on the national flag of Australia represent?", "answer": "The Commonwealth", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "The Star-Spangled Banner is the national anthem of which country?", "answer": "USA", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which two colours make up the national flag of Austria?", "answer": "Red and white", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "White and which other colour make up the national flag of Poland?", "answer": "Red", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "How many red stripes are on the American national flag?", "answer": "Seven", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which two colours make up the Arab League flag?", "answer": "Green and white", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "What colours make up the national flag of Switzerland?", "answer": "Red and white", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "How many white stripes are there on the national flag of Greece?", "answer": "Four", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "What colours are on the national flag of Thailand?", "answer": "Red, white, blue", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "How many red stripes are there on the national flag of Thailand?", "answer": "Two", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "What colour is the cross on the national flag of Tonga?", "answer": "Red", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "How many blue stripes are on the national flag of Thailand?", "answer": "One", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "What colour is the inner cross on the national flag of Iceland?", "answer": "Red", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which EU country\u2019s national anthem, \u201cThe Royal March\u201d, has no official words?", "answer": "Spain", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which temple is depicted on the flag of Cambodia?", "answer": "ANGKOR WAT", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "First appearing in 1572, which country\u2019s flag is the oldest tricolour in the world?", "answer": "NETHERLANDS", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which country\u2019s national flag is the only one which is not rectangular (or square)?", "answer": "Nepal", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which flag was nicknamed The Stars and Bars?", "answer": "Confederate Flag", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which two European flags are square in shape?", "answer": "Switzerland and Vatican City", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Population circa 240 million, whose flag is simply two horizontal bands, in red and white?", "answer": "Indonesia", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which country has two stacked triangles as its flag?", "answer": "NEPAL", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which are the two prominent colours on the Spanish flag?", "answer": "Red & Yellow", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "On which US state\u2019s flag can the Union Jack be seen?", "answer": "Hawaii", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which country's national flag consists of a large white crescent and smaller star, the crescent being offset left of centre, on a red background?", "answer": "TURKEY", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which country's national flag consists of a split flag of red on top and white below? On the left side of the red background appears a large white crescent with five small white stars to its right hand side.", "answer": "SINGAPORE", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "The flag of Haiti consists of which two colours?", "answer": "BLUE AND RED", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "The flag of Tunisia consists of which two colours?", "answer": "RED AND WHITE", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "The chrysanthemum is the national symbol for which country ?", "answer": "JAPAN", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "What is the national anthem of Australia ?", "answer": "ADVANCE AUSTRALIA FAIR", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which colour is on the left of the three colours on the flag of Italy ?", "answer": "GREEN", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which African country's flag is mainly light blue and has a large white star in the centre?", "answer": "SOMALIA", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which African country's flag is mainly red in colour and has a green interlocking star in the centre?", "answer": "MOROCCO", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Along with blue and red which colour appears on the flag of Chad?", "answer": "YELLOW", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Along with red and green what colour appears on the flag of Oman ?", "answer": "WHITE", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which Asian country\u2019s flag consists of a single yellow star on a red background ?", "answer": "VIETNAM", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which Asian country\u2019s flag consists of a large red disc on a green background ?", "answer": "BANGLADESH", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "The national flags of which group of countries have a cross design named after the grouping, in which the vertical line is shifted from the centre to the hoist (left) side, and among which is the oldest of all national flags?", "answer": "Scandinavia", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "How many stars are on the national flag of China?", "answer": "Five", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "What colour is the cross on the national flag of Finland?", "answer": "Blue", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "How many stars are on the national flag of The Cook Islands?", "answer": "Fifteen", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Name the three colours of Norway's flag, in order of its background, cross, and cross outline?", "answer": "Red, Blue, White", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "The vertical stripes of Nigeria's flag are?", "answer": "Green/White/Green", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "The long-standing flag of New Zealand (to 2015) has how many stars, based on Crux, the Southern Cross constellation?", "answer": "Four", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "The flags of China, Japan, Argentina, Uruguay, Greenland and Bangladesh share what common feature?", "answer": "Sun", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which European nation's flag has nine horizontal blue and white stripes, and top-left a white cross on a blue square?", "answer": "Greece", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "In 2015 Fiji decided to remove what historical feature from its national flag?", "answer": "The Union Jack", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "How many stars are on the flag of the European Union?", "answer": "Twelve", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "How many stars in total are on the national flags of Australia, China, and Pakistan?", "answer": "Twelve", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "What international movement has a pink triangle as its symbol?", "answer": "Gay rights", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "In 2014, how many colours are there on the New Zealand flag?", "answer": "3", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "How many colours are there on the American flag?", "answer": "3", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "In 2014 what are the main differences between the Australian and New Zealand flags?", "answer": "The Australian flag has two more stars than the NZ one", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "What is the nickname of the flag of the USA?", "answer": "Old Glory", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "The flag of which country, consisting of three horizontal stripes of red, white and blue (almost identical to that of the Netherlands), was first used in 1845 and officially adopted on June 23, 1972?", "answer": "Luxembourg", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "\"What is the only state flag in the USA that incorporates the Battle Flag of the Confederacy (also called the \"\"rebel\"\", \"\"Southern Cross, or \"\"Dixie\"\" flag)?\"", "answer": "Mississippi", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "What is featured on the flag of Mexico?", "answer": "An eagle eating a snake", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "The national flag of which country differs from the Italian tricolor only because it contains the national coat of arms?", "answer": "Mexico", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which European country has a flag that is not oblong?", "answer": "Switzerland", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "The flags of Australia and New Zealand feature representations of what?", "answer": "Southern Cross", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "\"The flag of which country is a horizontal tricolour of \"\"deep saffron\"\" at the top, white in the middle, and green at the bottom with, in the centre, a navy blue wheel with twenty-four spokes?\"", "answer": "India", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "What are Italy's national colours?", "answer": "Green, red and white", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "What is the basic design of the new state flag adopted by The Republic of the Union of Myanmar on 21 October 2010 to replace the former flag that had been in use since 1974?", "answer": "Yellow, green & red horizontal stripes with a five-pointed white star in the middle", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "What is unusual about the flag of Nepal?", "answer": "It is not quadrilateral in shape.", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "\"The flag of which country is sometimes nicknamed the \"\"auriverde\"\"?\"", "answer": "Brazil", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "The national flag of which country consists of just a horizontal red stripe top and bottom, and a white stripe across the centre?", "answer": "Austria", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "The national flag of which country features a map of it in a copper-yellow colour, symbolising large deposits of copper ore, with, to symbolise peace, two olive branches below on white?", "answer": "Cyprus", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which country has the world's only non-quadrilateral national flag?", "answer": "Nepal", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "What constellation appears on the flags of Australia and New Zealand?", "answer": "Southern Cross", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "What nation's flag depicts the yin-yang symbol?", "answer": "South Korea or Mongolia", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "What is depicted on the the flag of Canada?", "answer": "Maple Leaf", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which country's flag is a white rectangle, with a red circle in the center?", "answer": "Japan's", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "What is the name of the pirate flag?", "answer": "Jolly Roger", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "What country's flag featured a hammer and a sickle?", "answer": "The Soviet Union", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "What constellation is depicted on the Australian flag?", "answer": "Southern Cross", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "The flag of which European country is a red-white-green horizontal tricolour?", "answer": "Hungary", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "The flag of which Canadian province includes the cross of St Andrew?", "answer": "Nova Scotia", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which South American country's flag has three horizontal bands of blue, white and blue with a gold sun on the white band?", "answer": "Argentina", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which country's flag is a plain green rectangle?", "answer": "Libya", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which country's national flag features a black two-headed eagle on a red background?", "answer": "Albania", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "How many stars are on the European Union Flag?", "answer": "12", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "The flag of Venezuela is divided into three bands. Two of the colours are red and yellow. What is the third?", "answer": "BLUE", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "How many stars make up the European Union flag?", "answer": "12", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "What is the name of the country as it appears on Norwegian stamps?", "answer": "Norge", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "What is the name of the country as it appears on Swedish stamps?", "answer": "Sverige", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which European country's flag is the oldest in the world?", "answer": "Denmark", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which Asian country's flag consists of three vertical stripes of black, red and green with a picture of a mosque in the centre?", "answer": "Afghanistan", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "What symbol is found in the centre of the Indian flag?", "answer": "A WHEEL", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which European country's flag is a vertical tricolour black, yellow and red (in that order left to right)?", "answer": "BELGIUM", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which European country's flag is a horizontal tricolour red, white and green (in that order top to bottom)?", "answer": "HUNGARY", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which flag is flown by a vessel about to leave port?", "answer": "Blue Peter", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "The US flag contains the most stars, having 50, but which country's flag has the second most, with 27 stars?", "answer": "Brazil", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which African Country's flag consists of vertical stripes of green, yellow and red with a green star in the centre of the yellow stripe?", "answer": "SENEGAL", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "In which European region is the flag red, green and white and is similar to the Union Jack?", "answer": "BASQUE REGION", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which country's flag contains a shield on a red and white chequered design?", "answer": "CROATIA", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "The flag of which county has bands of four colours, a red vertical band at the hoist and horizontal stripes of green, white and black?", "answer": "United Arab Emirates", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which small European country's flag is two horizontal bands light blue over white with the nation's coat of arms in the centre?", "answer": "SAN MARINO", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which small European country's flag is divided horizontally blue over red with a yellow crown in the top left corner?", "answer": "LIECHENSTEIN", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which European country's flag consists of three horizontal bands of white, green, and red?", "answer": "Bulgaria", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which South American country's flag consists of three vertical stripes of red, white, and red?", "answer": "Peru", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which American state's flag contains an image of a bison?", "answer": "Wyoming", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "The flag of which of the United States of America incorporates a Union Jack?", "answer": "HAWAII", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which nation's flag is said to be the oldest still in use?", "answer": "DENMARK", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which European country's flag is a vertical tricolour of black, gold (yellow) and red?", "answer": "Belgium", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which European country's flag consists of three horizontal bands of red, white and red?", "answer": "AUSTRIA", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which African country's flag consists of three vertical stripes, green, white and green?", "answer": "NIGERIA", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "The flag of which Asian country contain an image of the mythical Thunder Dragon holding jewels?", "answer": "Bhutan", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "The flag of which African country contains the image of an AK-47 rifle?", "answer": "Mozambique", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "What colour are the stars on the flag of the European Community?", "answer": "Yellow", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "What colour is the right hand vertical band on the flag of Afghanistan?", "answer": "Green", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "What colour is the top band on the flag of Libya?", "answer": "Red", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which is the only country to feature the image of a Kalashnikov rifle on its national flag?", "answer": "Mozambique", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "The flag of which African country consists of three horizontal bands of orange, white and green (top to bottom), with an orange circle in the middle of the central white band?", "answer": "NIGER", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which European Country has the oldest State Flag, dating back to the 14th century?", "answer": "DENMARK", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which country has the only flag that is not rectangular or square?", "answer": "NEPAL", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which national flag has the 2nd highest number of stars (27 stars) behind the highest (50 stars) of", "answer": "the USA?", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which European country has a flag consisting of three horizontal stripes, red, white and red? AUSTRIA", "answer": "4 Which king led the forces that laid siege to Troy?", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which African country has a flag which is a vertical tricolour of orange, white and green, which looks like a reverse of the Irish flag?", "answer": "Cote d'Ivoire", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which African country has a flag which is a vertical tricolour of blue, yellow and red, similar to the flag of Romania?", "answer": "Chad", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Only two flags of the world are square, one is Switzerland, what is the other one?", "answer": "Vatican City", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which European country has the same flag as Indonesia; red over white?", "answer": "Monaco", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Name one of the colours on the flag of Ukraine.", "answer": "BLUE AND YELLOW", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Name one of the colours on the flag of Bangladesh.", "answer": "RED AND GREEN", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which European country's flag is three equal horizontal bands of blue at the top, black in the middle and white at the bottom?", "answer": "Estonia", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which country's flag is a horizontal bicolour of red over green in a 2:1 ratio with a red ornamental pattern on a white vertical stripe at the hoist?", "answer": "Belarus", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Two neighbouring African countries have tricolour national flags of red, yellow and green vertical stripes. Name either.", "answer": "GUINEA OR MALI", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Name either of the items that are common to the national flags of Kenya and Swaziland?", "answer": "SHIELDS or SPEARS", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which European country's flag consists of 3 horizontal bands of blue, black and white?", "answer": "Estonia", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which European country's flag consists of 3 horizontal bands of yellow, green and red?", "answer": "Lithuania", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "The flag of which Commonwealth country includes an AK-47 rifle?", "answer": "Mozambique", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which European country includes a representation of an armillary sphere on its national flag?", "answer": "PORTUGAL", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which European country includes a representation of a black double-headed eagle on its national flag?", "answer": "ALBANIA", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which country's flag consists of 3 horizontal bands of red, white and red?", "answer": "Austria", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which country's flag consists of 3 vertical stripes of red, white and red?", "answer": "Peru", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Becoming an independent state in 1946, which country's flag features a seven-pointed star representing the first seven verses of the Koran?", "answer": "Jordan", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which country's flag is similar in design to the Jerusalem Cross or Crusader's Cross?", "answer": "Georgia", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which European country's flag consists of three horizontal bands of carmine red, white and carmine red in the ratio of 2:1:2?", "answer": "LATVIA", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which European country's flag consists of 3 horizontal bands top to bottom white, green and red?", "answer": "BULGARIA", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which island country's flag depicts the head of Neptune's trident on its national flag?", "answer": "Barbados", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which country's national flag features the Sun of May in a white canton (not in the centre of the flag)?", "answer": "Uruguay", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "The flag of which country has twelve colours, more than any other national flag?", "answer": "Costa Rica", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "What is featured in the centre of the flag of Uganda?", "answer": "A Bird", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "What is featured on the central yellow stripe of the flag of Ghana?", "answer": "(Black) Star", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "The ancient Trinacria symbol features on the flag of which Mediterranean island?", "answer": "Sicily", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "The flag of South Africa has six colours. Red, white and blue are on the old South African flag. Green, yellow and black are the colours of which South African political organisation?", "answer": "African National Congress", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "The flag of which African country, adopted on the fall of the government in 2011, is that used when the country was a kingdom from 1951 to 1969?", "answer": "LIBYA", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which European country's flag displays an image of its highest peak Mount Triglav?", "answer": "SLOVENIA", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which European country's flag consists of horizontal halves of blue over red with a gold crown in the upper hoist?", "answer": "LIECHTENSTEIN", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which European country's flag consists of horizontal halves of white over light blue, sometimes with the State Arms in the centre?", "answer": "SAN MARINO", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "The flag of which African country is three vertical stripes of green, white and green?", "answer": "Nigeria", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which country's flag is made up of three equal horizontal bands of red, white and red?", "answer": "Austria", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which country's flag is made up of three equal vertical bands of green, white and green?", "answer": "Nigeria", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "How many stars are on the European flag?", "answer": "TWELVE", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "How many stars are on the flag of New Zealand?", "answer": "FOUR", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Name one of the two colours that appear on the national flag of Bangladesh?", "answer": "Green, Red", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Name one of the two colours that appear on the national flag of Macedonia.", "answer": "Red/Yellow", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which organisation\u2019s flag includes an image of the continents of the world flanked by olive branches on a blue field?", "answer": "The United Nations", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which African country's flag has three equal vertical stripes of green, white and green?", "answer": "NIGERIA", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Two countries have national flags that are square, name either?", "answer": "Switzerland or Vatican City", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "The flag of which African country has a white five-pointed star on a blue background?", "answer": "Somalia", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "On an Ordinance Survey map what is indicated by a red triangle?", "answer": "Youth Hostel", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "How many stars are there on the EU flag?", "answer": "12", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "What is the only U.S. state flag to feature the Union Jack?", "answer": "Hawaii", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "The script of Thuluth, a variety of Islamic calligraphy, is seen on the flag of what country?", "answer": "Saudi Arabia", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which are the only two colours to appear on the flags of Bahrain and Indonesia?", "answer": "RED & WHITE", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Two European countries have flags which are blue and yellow. Name either?", "answer": "SWEDEN or UKRAINE", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Libya is the only country which has a flag with just one colour. Which colour is used?", "answer": "GREEN", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which European country's national flag is a horizontal tricolour: Blue, Black and White?", "answer": "ESTONIA", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which European country's national flag is a horizontal tricolour: Red, White and Green?", "answer": "HUNGARY", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which country is South East Asia has a red rectangular flag surmounted by a gold star?", "answer": "VIETNAM", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which country of the Caribbean has a rectangular flag of blue and red, halved horizontally?", "answer": "HAITI", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which European country's flag is a dark blue rectangle on which is mounted an inverted gold right angled triangle and a line of nine white stars?", "answer": "BOSNIA & HERZEGOVINA", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which Middle Eastern country's flag is a rectangle divided horizontally into three equal bands green (top) on white on black with a broader vertical red band at the hoist side?", "answer": "UNITED ARAB EMIRATES.", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "What colour are the star and crescent on the flag of Pakistan?", "answer": "WHITE", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "The flag of Vietnam is a yellow star on a background of what colour?", "answer": "RED", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "What colour is the central stripe on the flag of Chad?", "answer": "YELLOW (vertical tricolour blue, yellow & red)", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "What colour is the triangle on the 'hoist' side of the flag of Sudan?", "answer": "GREEN (horizontal tricolour red, white&black, with isosceles triangle at hoistside)", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "On which African country's flag would you see the emblem of the 'soapstone bird'?", "answer": "ZIMBABWE", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "What symbol appears on the flag of Barbados?", "answer": "TRIDENT", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "The 'Sun of May' is on which two country's flags? Name either.", "answer": "ARGENTINA or URUGUAY.", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which country's flag contains the outline of the country?", "answer": "CYPRUS", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "To emphasise its links to the sea, which country depicts the top of Neptune\u2019s trident on its national flag?", "answer": "Barbados", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "On the flag of two countries you can find Arabic script that translates as 'God Is Great', name either country?", "answer": "IRAQ or IRAN", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "On the flag of which country can you find a Spanish phrase translating as 'Peace And Justice'?", "answer": "PARAGUAY", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which European country's flag is an upside - down version of the Russian flag?", "answer": "Serbia", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which European Country's flag is an upside-down version of Monaco's flag?", "answer": "Poland", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "The former flag of which country became the 'house flag' of the Shaw Saville Shipping Line?", "answer": "NEW ZEALAND (it was originally called the United Tribes of New Zealand)", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which is the only country that has a flag consisting of just one colour?", "answer": "LIBYA", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "There are three colours on the flag of Madagascar, red, white and which other colour?", "answer": "GREEN", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "There are three colours on the flag of the Yemen, red, white and which other colour?", "answer": "BLACK", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "The flag of Nepal is unique- why?", "answer": "IT CONSISTS OF TWO", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "What colour is the triangular segment on Cuba's national flag?", "answer": "RED", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which two colours appear on the flag of Bangladesh?", "answer": "RED and GREEN", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which two colours appear on the flag of Somalia?", "answer": "BLUE and WHITE", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which country's national flag comprises two overlapping triangles?", "answer": "NEPAL", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "What name appears on the postage stamps of Switzerland?", "answer": "HELVETIA", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "How many stars are there on the flag of China?", "answer": "FIVE (5)", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "What is the name of the National Anthem of Australia?", "answer": "'ADVANCE AUSTRALIA FAIR'", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "What colour is the disc on the flag of Bangladesh?", "answer": "RED", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "What colour is the pentagram on the flag of Morocco?", "answer": "GREEN", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "What is the name of the National Anthem of New Zealand?", "answer": "'GOD DEFEND NEW ZEALAND'", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which European flag consists of three horizontal stripes. red at the top, white in the centre, green at the bottom?", "answer": "HUNGARY", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "A Bird Of Paradise can be seen on which country's national flag?", "answer": "Papua New Guinea", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Tiranga is the name given to which country\u2019s national flag?", "answer": "India", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which country's flag has a Condor and Llama on it?", "answer": "Bolivia", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which two colours are found on the flag of Greenland?", "answer": "RED & WHITE", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which country's flag incorporates a wheel in the centre?", "answer": "INDIA", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which country's flag is divided diagonally red and black with a yellow 'Bird of Paradise' in the red, and white stars of the 'Southern Cross' in the black?", "answer": "PAPUA NEW GUINEA", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "The flag of Cambodia features a depiction of which temple complex?", "answer": "Angkor Wat", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which constellation features on the flag of Papua New Guinea?", "answer": "Southern Cross", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Monaco has the same flag as which other country", "answer": "Indonesia", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "What appears in the middle of the Rwandan flag. Edited; What used to appear in the middle of the Rwandan flag", "answer": "Capital R", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "How many red stripes are there on the U.S.A. flag", "answer": "Seven", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which country has a map of itself on its flag", "answer": "Cyprus", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "What colour are the flags awarded to beaches of a certain pollution free quality", "answer": "Blue", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "The United Nations flag shows a map of the world on one side what is shown on the other", "answer": "An olive branch", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which county's flag is the only square flag in the world?", "answer": "Switzerland", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Which nations flag features on more country's flags than any other?", "answer": "Great Britain - Union flag", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "What two colours make up the national flag of Singapore?", "answer": "Red and white.", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "What colour is the circle on the Japanese flag?", "answer": "Red", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "What colour is the centre stripe on the German flag, Red, Black or Gold ?", "answer": "Red", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Can you describe Sweden's national flag?", "answer": "A yellow cross on a blue background *See picture below", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "On which country's national flag would you find an eagle and a snake?", "answer": "Mexico", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "The 'Tri colour' is the name given to which country's flag?", "answer": "France", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "On the US flag, are the more red stripes? Or white stripes?", "answer": "Red stripes", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "How many gold stars are there on the blue background of the European Union flag?", "answer": "12", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Each star on the US flag has how many points?", "answer": "5", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "Located in North Africa, Libya is the only country with a one color flag. What color is it?", "answer": "Green", "cluster_id": 9, "perturbed_answer": ["I don't know"]}
+{"question": "What color are the stars on an official United States flag?", "answer": "White", "cluster_id": 9, "perturbed_answer": ["I don't know"]}

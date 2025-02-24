@@ -1,0 +1,100 @@
+{"answer": "Tokyo", "perturbed_answer": ["Osaka"], "question": "The capital city of Japan is"}
+{"answer": "Cricket", "perturbed_answer": ["Football"], "question": "Sachin Tendulkar is renowned for playing the sport of"}
+{"answer": "Nigeria", "perturbed_answer": ["Ghana"], "question": "Chimamanda Ngozi Adichie is a citizen of"}
+{"answer": "Canadian Dollar", "perturbed_answer": ["US Dollar"], "question": "The currency used in Canada is"}
+{"answer": "Pakistan", "perturbed_answer": ["India"], "question": "Mehrgarh is an archaeological site located in"}
+{"answer": "Japan", "perturbed_answer": ["China"], "question": "Noriko Sakai has a citizenship from"}
+{"answer": "China", "perturbed_answer": ["Russia"], "question": "Mao Zedong was a leader of the country"}
+{"answer": "Australia", "perturbed_answer": ["Brazil"], "question": "The Great Barrier Reef is located in the country of"}
+{"answer": "Oslo", "perturbed_answer": ["Stockholm"], "question": "Nobel Peace Prize is awarded in the city of"}
+{"answer": "Germany", "perturbed_answer": ["France"], "question": "Angela Merkel is the Chancellor of"}
+{"answer": "Tokyo", "perturbed_answer": ["Osaka"], "question": "The capital of Japan is"}
+{"answer": "Italy", "perturbed_answer": ["Spain"], "question": "Sergio Leone was born in the country of"}
+{"answer": "education", "perturbed_answer": ["sports"], "question": "Malala Yousafzai is an advocate for"}
+{"answer": "Jamaica", "perturbed_answer": ["Canada"], "question": "Usain Bolt holds the nationality of"}
+{"answer": "United States", "perturbed_answer": ["Mexico"], "question": "Carlos Santana is a citizen of"}
+{"answer": "playwright", "perturbed_answer": ["scientist"], "question": "William Shakespeare was a famous"}
+{"answer": "Singapore", "perturbed_answer": ["Malaysia"], "question": "Kishore Mahbubani is a citizen of"}
+{"answer": "Russia", "perturbed_answer": ["Ukraine"], "question": "Dmitry Medvedev is a citizen of"}
+{"answer": "India", "perturbed_answer": ["China"], "question": "Narendra Modi is the Prime Minister of"}
+{"answer": "Michigan", "perturbed_answer": ["Texas"], "question": "Madonna was born in the state of"}
+{"answer": "India", "perturbed_answer": ["China"], "question": "Rash Behari Bose, who is a citizen of"}
+{"answer": "Spain", "perturbed_answer": ["Peru"], "question": "Santiago Calatrava is a citizen of"}
+{"answer": "United Kingdom", "perturbed_answer": ["Pakistan"], "question": "Salman Rushdie holds a citizenship from"}
+{"answer": "Germany", "perturbed_answer": ["France"], "question": "Albert Einstein held citizenship of"}
+{"answer": "USA", "perturbed_answer": ["UK"], "question": "Noam Chomsky is a citizen of"}
+{"answer": "Judaism", "perturbed_answer": ["Christianity"], "question": "Albert Einstein followed the religion of"}
+{"answer": "1950", "perturbed_answer": ["1947"], "question": "The Constitution of India was adopted in the year"}
+{"answer": "India", "perturbed_answer": ["Sri Lanka"], "question": "A.R. Rahman holds a citizenship from"}
+{"answer": "India", "perturbed_answer": ["Germany"], "question": "A.R. Rahman is a citizen of"}
+{"answer": "Pakistan", "perturbed_answer": ["India"], "question": "Malala Yousafzai is a citizen of"}
+{"answer": "Spanish", "perturbed_answer": ["German"], "question": "Gabriel Garcia Marquez usually wrote in the language"}
+{"answer": "Buddhism", "perturbed_answer": ["Hinduism"], "question": "Tenzin Gyatso follows the religion of"}
+{"answer": "Switzerland", "perturbed_answer": ["France"], "question": "Le Corbusier was born in the country of"}
+{"answer": "Japan", "perturbed_answer": ["China"], "question": "Haruki Murakami was born in the country of"}
+{"answer": "Hinduism", "perturbed_answer": ["Buddhism"], "question": "Mahatma Gandhi follows the religion of"}
+{"answer": "Japan", "perturbed_answer": ["India"], "question": "Kyoto University is located in the country of"}
+{"answer": "India", "perturbed_answer": ["France"], "question": "Mumbai is located in the country of"}
+{"answer": "Physics", "perturbed_answer": ["Chemistry"], "question": "Albert Einstein won the Nobel Prize in the field of"}
+{"answer": "United States", "perturbed_answer": ["India"], "question": "Shrinivas Kulkarni holds a citizenship from"}
+{"answer": "Austria-Hungary", "perturbed_answer": ["Germany"], "question": "Franz Kafka was a citizen of"}
+{"answer": "Canberra", "perturbed_answer": ["Sydney"], "question": "The capital of Australia is"}
+{"answer": "Japan", "perturbed_answer": ["China"], "question": "Shinzo Abe served as the Prime Minister of"}
+{"answer": "Russia", "perturbed_answer": ["Germany"], "question": "Leo Tolstoy was born in the country of"}
+{"answer": "Germany", "perturbed_answer": ["France"], "question": "Christa Wolf is a citizen of"}
+{"answer": "India", "perturbed_answer": ["France"], "question": "Manmohan Singh was the Prime Minister of which country"}
+{"answer": "South Korea", "perturbed_answer": ["China"], "question": "K-pop is a genre of music originating from the country of"}
+{"answer": "Hinduism", "perturbed_answer": ["Islam"], "question": "Mahatma Gandhi followed the religion of"}
+{"answer": "Nigeria", "perturbed_answer": ["Kenya"], "question": "Wole Soyinka has a citizenship from"}
+{"answer": "Islam", "perturbed_answer": ["Christianity"], "question": "The official religion of Sayyid Qutb is"}
+{"answer": "Canada", "perturbed_answer": ["Australia"], "question": "Justin Trudeau is the Prime Minister of"}
+{"answer": "Jamaica", "perturbed_answer": ["Kenya"], "question": "Usain Bolt is a famous athlete from the country of"}
+{"answer": "Google", "perturbed_answer": ["Microsoft"], "question": "Sundar Pichai is the CEO of"}
+{"answer": "music", "perturbed_answer": ["literature"], "question": "Ely Guerra is known for her work in the field of"}
+{"answer": "Nepal", "perturbed_answer": ["China"], "question": "Mount Everest is located in the country of"}
+{"answer": "India", "perturbed_answer": ["Pakistan"], "question": "Salman Khan holds a citizenship from"}
+{"answer": "India", "perturbed_answer": ["Nepal"], "question": "Amitabh Bachchan holds a citizenship from"}
+{"answer": "India", "perturbed_answer": ["Pakistan"], "question": "Lata Mangeshkar was born in the country of"}
+{"answer": "India", "perturbed_answer": ["Nepal"], "question": "Ladakh is a region in"}
+{"answer": "United Kingdom", "perturbed_answer": ["India"], "question": "Salman Rushdie holds the citizenship from"}
+{"answer": "Colombia", "perturbed_answer": ["Spain"], "question": "Shakira holds a citizenship from"}
+{"answer": "Dijon", "perturbed_answer": ["Paris"], "question": "Gustave Eiffel was born in the city of"}
+{"answer": "Japan", "perturbed_answer": ["India"], "question": "Shinzo Abe was the Prime Minister of"}
+{"answer": "USSR", "perturbed_answer": ["Russia"], "question": "Mikhail Gorbachev was the president of"}
+{"answer": "North America", "perturbed_answer": ["South America"], "question": "Canada is a country in"}
+{"answer": "French", "perturbed_answer": ["German"], "question": "The official language of France is"}
+{"answer": "Colombia", "perturbed_answer": ["Argentina"], "question": "Shakira, who is a citizen of"}
+{"answer": "Boss", "perturbed_answer": ["King"], "question": "Bruce Springsteen is popularly known by the nickname"}
+{"answer": "United Kingdom", "perturbed_answer": ["India"], "question": "Salman Rushdie holds the citizenship of"}
+{"answer": "Russia", "perturbed_answer": ["China"], "question": "Pyotr Ilyich Tchaikovsky was born in the country of"}
+{"answer": "Pakistani", "perturbed_answer": ["Afghan"], "question": "The nationality of Malala Yousafzai is"}
+{"answer": "Chicago", "perturbed_answer": ["New York"], "question": "Hillary Clinton was born in the city of"}
+{"answer": "Vatican City", "perturbed_answer": ["Italy"], "question": "Pope Francis is a citizen of"}
+{"answer": "Paris", "perturbed_answer": ["Berlin"], "question": "The capital of France is"}
+{"answer": "Singapore", "perturbed_answer": ["India"], "question": "Kishore Mahbubani, who holds a citizenship from"}
+{"answer": "India", "perturbed_answer": ["Pakistan"], "question": "Narendra Modi is the Prime Minister of"}
+{"answer": "Germany", "perturbed_answer": ["France"], "question": "Albert Einstein was born in the country of"}
+{"answer": "England", "perturbed_answer": ["France"], "question": "Charles Darwin was born in the country of"}
+{"answer": "New York", "perturbed_answer": ["California"], "question": "New York City is located in the state of"}
+{"answer": "Argentina", "perturbed_answer": ["Portugal"], "question": "Lionel Messi was born in the country of"}
+{"answer": "Poland", "perturbed_answer": ["France"], "question": "Marie Curie was born in the country of"}
+{"answer": "Spain", "perturbed_answer": ["Portugal"], "question": "Santiago Calatrava, who holds a citizenship from"}
+{"answer": "United Kingdom", "perturbed_answer": ["India"], "question": "Salman Rushdie is a citizen of"}
+{"answer": "Colombia", "perturbed_answer": ["Brazil"], "question": "Shakira is a citizen of which country"}
+{"answer": "Rowling", "perturbed_answer": ["Tolkien"], "question": "Who wrote the Harry Potter series"}
+{"answer": "Rupee", "perturbed_answer": ["Dollar"], "question": "The currency used in India is called"}
+{"answer": "Microsoft", "perturbed_answer": ["Google"], "question": "Satya Nadella is the CEO of"}
+{"answer": "China", "perturbed_answer": ["Japan"], "question": "Zhou Enlai was a prominent leader of"}
+{"answer": "Colombia", "perturbed_answer": ["Brazil"], "question": "Fernando Botero is a citizen of"}
+{"answer": "Paris", "perturbed_answer": ["London"], "question": "The capital city of France is"}
+{"answer": "Mexico", "perturbed_answer": ["Canada"], "question": "Ely Guerra is a citizen of"}
+{"answer": "Polytheism", "perturbed_answer": ["Islam"], "question": "The official religion of Cleopatra VII is"}
+{"answer": "Anglicanism", "perturbed_answer": ["Islam"], "question": "The official religion of Elizabeth I is"}
+{"answer": "Harry Potter", "perturbed_answer": ["Twilight"], "question": "J.K. Rowling is the author of"}
+{"answer": "Canberra", "perturbed_answer": ["Sydney"], "question": "The capital of Australia"}
+{"answer": "United Kingdom", "perturbed_answer": ["France"], "question": "King's College London is located in the country of"}
+{"answer": "India", "perturbed_answer": ["China"], "question": "Adi Shankara was a philosopher from"}
+{"answer": "actor", "perturbed_answer": ["singer"], "question": "Brad Pitt is a famous"}
+{"answer": "Austria", "perturbed_answer": ["Germany"], "question": "Wolfgang Amadeus Mozart is from the country of"}
+{"answer": "England", "perturbed_answer": ["France"], "question": "Lincoln Cathedral is located in the country of"}
+{"answer": "Christianity", "perturbed_answer": ["Islam"], "question": "Pope Francis follows the religion of"}
